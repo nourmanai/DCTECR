@@ -1,0 +1,358 @@
+
+<c-nav class="flex-column flex-sm-row" role="navigation" variant="tabs" style="padding-bottom: 20px;margin-left: 30%;">
+  <a [routerLink]="'/sales'" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">Sales</a>
+  <a [routerLink]="'/campaigns'" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">Campaigns</a>
+  <a [routerLink]="'/Clients'" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">Clients</a>
+  <a [routerLink]="'/accounts'" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">Accounts</a>
+  <a [routerLink]="'/News'" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">News</a>
+
+</c-nav>
+
+
+<!-- news display  -->
+<!-- <ng-container *ngIf="slides.length > 0">
+<c-carousel >
+    <c-carousel-indicators></c-carousel-indicators>
+    <c-carousel-inner >
+      <c-carousel-item *ngFor="let slide of slides">
+        <img
+          alt="{{slide.title}}"
+          class="d-block w-100"
+          loading="lazy"
+          [src]="slide.src"
+          style="height: 450px;width: 800px;"
+         />
+        <c-carousel-caption class="d-none d-md-block">
+          <h3>{{slide.title}}</h3>
+          <p>{{slide.subtitle}}</p>
+          <p *ngIf="slide.source">Source : {{slide.source}}</p>
+          <a [href]="slide.url" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #7bd6f8;">
+            Go to Article
+          </a>
+        </c-carousel-caption>   
+      </c-carousel-item>
+    </c-carousel-inner>
+    <c-carousel-control [routerLink] caption="Previous" direction="prev"></c-carousel-control>
+    <c-carousel-control [routerLink] caption="Next" direction="next"></c-carousel-control>
+  </c-carousel>
+</ng-container> -->
+
+<!-- Widgets -->
+<c-row style="margin-top: 30px;">
+  <c-col sm="6" xl="3">
+    <c-widget-stat-a
+      class="mb-4"
+      color="primary"
+      title="Clients"
+    >
+      <ng-template cTemplateId="widgetValueTemplate" ngPreserveWhitespaces>
+        {{allClientsData.length}}
+        <span class="fs-6 fw-normal">
+          (-12.4% <svg cIcon name="cilArrowBottom"></svg>)
+        </span>
+      </ng-template>
+   
+  
+    </c-widget-stat-a>
+  </c-col>
+  <c-col sm="6" xl="3">
+    <c-widget-stat-a
+      [title]="'Average Revenue'"
+      class="mb-4"
+      color="info"
+    >
+      <ng-template cTemplateId="widgetValueTemplate" ngPreserveWhitespaces>
+        <span>{{globalService.formatNumber(averageRevenue)}}$</span>
+        <span class="fs-6 fw-normal">
+          (40.9%<svg cIcon name="cilArrowTop"></svg>)
+        </span>
+      </ng-template>
+ 
+      
+    </c-widget-stat-a>
+  </c-col>
+  <c-col sm="6" xl="3">
+    <c-widget-stat-a
+      [title]="'Conversion Rate'"
+      class="mb-4"
+      color="warning"
+    >
+      <ng-template cTemplateId="widgetValueTemplate" ngPreserveWhitespaces>
+        <span>2.49</span>
+        <span class="fs-6 fw-normal">
+          (84.7% <svg cIcon name="cilArrowTop"></svg>)
+        </span>
+      </ng-template>
+
+     
+    </c-widget-stat-a>
+  </c-col>
+  <c-col sm="6" xl="3">
+    <c-widget-stat-a
+      [title]="'Campaigns'"
+      class="mb-4"
+      color="danger"
+    >
+      <ng-template cTemplateId="widgetValueTemplate" ngPreserveWhitespaces>
+        <span>{{globalService.formatNumber( allcampaignsData.length)}}</span>
+        <span class="fs-6 fw-normal">
+          (-23.6% <svg cIcon name="cilArrowBottom"></svg>)
+        </span>
+      </ng-template>
+
+    
+    </c-widget-stat-a>
+  </c-col>
+</c-row>
+
+<!-- Sales kpis -->
+<c-row style="margin-top: 10px;">
+  <c-col xs="12" lg="12">
+    <c-card class="mb-4">
+      <c-card-header>
+        Sales 
+      </c-card-header>     
+      <c-card-body>
+        <c-row class="g-3"> <!-- Add a gap class for spacing between columns -->
+          <!-- Sales KPI Section -->
+          <c-col md="3" xl="3">
+            <div class="border-start border-start-4 border-start-secondary py-1 px-3 mb-3 text-center">
+              <img src="./assets/img/icons/return-of-investment.png" style="width: 50px; height: 50px; margin:10px auto;">
+              <div class="text-medium-emphasis large mt-2">Sales</div>
+              <div class="fs-4 fw-semibold">{{globalService.formatNumber(ROI_sales)}}</div>
+            </div>
+          </c-col>
+          
+          <!-- Campaigns KPI Section -->
+          <c-col md="3" xl="3">
+            <div class="border-start border-start-4 border-start-secondary py-1 px-3 mb-3 text-center">
+              <img src="./assets/img/icons/return-of-investment.png" style="width: 50px; height: 50px; margin:10px auto;">
+              <div class="text-medium-emphasis large mt-2">Campaigns</div>
+              <div class="fs-4 fw-semibold">{{globalService.formatNumber(ROI_campaign)}}</div>
+            </div>
+          </c-col>
+          
+          <!-- Gross Profit Margin KPI Section -->
+          <c-col md="3" xl="3">
+            <div class="border-start border-start-4 border-start-secondary py-1 px-3 mb-3 text-center">
+              <img src="./assets/img/icons/financial-profit.png" style="width: 50px; height: 50px; margin:10px auto;">
+              <div class="text-medium-emphasis large mt-2">Gross Profit Margin</div>
+              <div class="fs-4 fw-semibold">{{Gross_ProfitMargin.toFixed(2)}}%</div>
+            </div>
+          </c-col>
+          
+          <!-- Net Profit KPI Section -->
+          <c-col md="3" xl="3">
+            <div class="border-start border-start-4 border-start-secondary py-1 px-3 mb-3 text-center">
+              <img src="./assets/img/icons/net-profit.png" style="width: 50px; height: 50px; margin:10px auto;">
+              <div class="text-medium-emphasis large mt-2">Net Profit</div>
+              <div class="fs-4 fw-semibold">{{globalService.formatNumber(Net_ProfitMargin)}}$</div>
+            </div>
+          </c-col>
+        </c-row>
+        
+        <hr class="mt-4 mb-4"/>
+        
+        <c-row style="margin-left: 15%;">
+          <!-- Production Capacity KPI Section -->
+          <c-col md="3" xl="3">
+            <div class="border-start border-start-4 border-start-secondary py-1 px-3 mb-3 text-center">
+              <img src="./assets/img/icons/production.png" style="width: 50px; height: 50px; margin:10px auto;">
+              <div class="text-medium-emphasis large mt-2">Production Capacity</div>
+              <div class="fs-4 fw-semibold">{{globalService.formatNumber(productionCapacity)}}</div>
+            </div>
+          </c-col>
+           <!-- Production Capacity KPI Section -->
+           <c-col md="3" xl="3">
+            <div class="border-start border-start-4 border-start-secondary py-1 px-3 mb-3 text-center">
+              <img src="./assets/img/icons/delivered.png" style="width: 50px; height: 50px; margin:10px auto;">
+              <div class="text-medium-emphasis large mt-2">Fulfilled Orders</div>
+              <div class="fs-4 fw-semibold">{{globalService.formatNumber(nbr_Fulfilled_Orders)}}</div>
+            </div>
+          </c-col>
+           <!-- Production Capacity KPI Section -->
+           <c-col md="3" xl="3">
+            <div class="border-start border-start-4 border-start-secondary py-1 px-3 mb-3 text-center">
+              <img src="./assets/img/icons/returned.png" style="width: 50px; height: 50px; margin:10px auto;">
+              <div class="text-medium-emphasis large mt-2">Returned Orders</div>
+              <div class="fs-4 fw-semibold">{{globalService.formatNumber(nbr_Returned_Orders)}}</div>
+            </div>
+          </c-col>
+        </c-row>
+      </c-card-body>
+    </c-card>
+  </c-col>
+  
+</c-row>
+
+ <!-- Campaigns  Kpis  -->
+ <c-row style="margin-top: 10px;">
+  <c-col xs="12" lg="6">
+  <c-card class="mb-4">
+    <c-card-header>
+      Campaigns 
+    </c-card-header>
+    
+    <c-card-body>
+      <c-row>
+        <!-- First KPI Section -->
+        <c-col md="4" xl="4">
+          <div class="border-start border-start-4 border-start-warning py-1 px-3 mb-3">    
+            <div class="text-medium-emphasis large">
+              <img src="./assets/img/icons/eye.png" style="width: 50px; height: 50px; margin:0 5%;">
+               Views
+            </div>
+            <div class="fs-6 fw-semibold" style="margin-left: 30%;">{{globalService.formatNumber (nbr_views) }}M</div>
+          </div>
+        </c-col>
+      
+        <!-- Second KPI Section -->
+        <c-col md="4" xl="4">
+          <div class="border-start border-start-4 border-start-info py-1 px-3 mb-3">
+            <div class="text-medium-emphasis large">
+              <img src="./assets/img/icons/discuss.png" style="width: 50px; height: 50px; margin:0 5%;">
+               Reviews
+            </div>
+            <div class="fs-6 fw-semibold" style="margin-left: 50%;">{{globalService.formatNumber(nbr_reviews)}}</div>
+          </div>
+        </c-col>
+          <!-- Second KPI Section -->
+          <c-col md="4" xl="4">
+            <div class="border-start border-start-4 border-start-secondary py-1 px-3 mb-3">
+              <div class="text-medium-emphasis large">
+                <img src="./assets/img/icons/thumbs-up.png" style="width: 50px; height: 50px; margin:0 5%;">
+                 Likes
+              </div>
+              <div class="fs-6 fw-semibold" style="margin-left: 30%;">{{globalService.formatNumber(nbr_likes)}}</div>
+            </div>
+          </c-col>
+      </c-row>
+      <hr class="mt-0" style="margin-top:6% ; margin-bottom: 6%;"/>
+      <c-row>
+        <!-- First KPI Section -->
+        <c-col md="4" xl="4">
+          <div class="border-start border-start-4 border-start-success py-1 px-3 mb-3">    
+            <div class="text-medium-emphasis large">
+              <img src="./assets/img/icons/gross-margin.png" style="width: 80px; height: 80px; margin:10% 5%;">
+            </div>
+            <div class="fs-6 fw-semibold" style="margin-left: 15%;">{{globalService.formatNumber(totalProfitCampaigns) }}$</div>
+          </div>
+        </c-col>
+      
+        <!-- Second KPI Section -->
+        <c-col md="4" xl="4">
+          <div class="border-start border-start-4 border-start-primary py-1 px-3 mb-3">
+            <div class="text-medium-emphasis large" style="margin-left: 15%;">
+              <img src="./assets/img/icons/bad-review.png" style="width: 50px; height: 50px; margin:0 15%;">
+               Unsatisfied clients
+            </div>
+            <div class="fs-6 fw-semibold" style="margin-left: 30%;">{{globalService.formatNumber(nbr_unsatisfied_clients)}}</div>
+          </div>
+        </c-col>
+          <!-- Second KPI Section -->
+          <c-col md="4" xl="4">
+            <div class="border-start border-start-4 border-start-danger py-1 px-3 mb-3">
+              <div class="text-medium-emphasis large" style="margin-left: 15%;">
+                <img src="./assets/img/icons/no-handshake.png" style="width: 50px; height: 50px; margin:0 15%;">
+                Unsatisfied resellers
+              </div>
+              <div class="fs-6 fw-semibold" style="margin-left: 30%;">{{globalService.formatNumber(nbr_unsatisfied_resellers)}}</div>
+            </div>
+          </c-col>
+      </c-row>
+      
+    </c-card-body>
+
+  </c-card>
+</c-col>
+<c-col xs="12" lg="6">
+  <c-card class="mb-4">  
+    <c-card-header>
+      Global Active Clients and Availability Distribution Map (Shipment)
+    </c-card-header>
+    <c-card-body>
+      <div id="mapdiv" style="width: 100%; height: 300px; position: relative;"></div>
+    </c-card-body>
+  </c-card>
+  </c-col>
+</c-row>
+
+
+<!-- client kpis -->
+<c-row style="margin-top: 10px;">
+  <c-col>
+  <c-card class="mb-4">
+    <c-card-header>
+      Clients 
+    </c-card-header>
+    
+    <c-card-body>
+      <c-row>
+        <!-- First KPI -->
+        <c-col md="4" xl="4" >
+          <div class="border-start border-start-4 border-start-danger py-1 px-3 mb-3">    
+            <div class="text-medium-emphasis large">
+              <img  src="./assets/img/icons/user-engagement.png" style="width: 50px; height: 50px; margin:0 5%;" >
+              Total Qualified Leads
+            </div>
+            <div class="fs-4 fw-semibold" style="margin-left: 50%;">{{ totalQualifiedLeads }}</div>
+          </div>
+        </c-col>
+
+        <!-- Second KPI -->
+        <c-col md="4" xl="4">
+          <div class="border-start border-start-4 border-start-warning py-1 px-3 mb-3">
+            <div class="text-medium-emphasis large">
+              <img  src="./assets/img/icons/leads.png" style="width: 50px; height: 50px; margin:0 5%;" >
+              Repeat Purchase Rate
+            </div>
+            <div class="fs-4 fw-semibold" style="margin-left: 50%;">{{RepeatPurchaseRate}}</div>
+          </div>
+        </c-col>
+
+   
+        <!-- Third KPI -->
+        <c-col md="4" xl="4" >
+          <div class="border-start border-start-4 border-start-success py-1 px-3 mb-3">
+            <div class="text-medium-emphasis large">
+              <img  src="./assets/img/icons/new.png" style="width: 50px; height: 50px; margin:0 5%;" >
+
+              nbr New Resellers
+            </div>
+            <div class="fs-4 fw-semibold" style="margin-left: 25%;">{{nbr_New_Resellers}}</div>
+          </div>
+        </c-col>
+    </c-row>
+        <hr class="mt-0" />
+
+          <!--   Fourth KPI -->
+    <c-row>
+        <c-col md="4" xl="4"  style="margin-left: 15%;">
+          <div class="border-start border-start-4 border-start-info py-1 px-3 mb-3">
+            <div class="text-medium-emphasis large">
+              <img  src="./assets/img/icons/CLV.png" style="width: 50px; height: 50px; margin:0 5%;" >
+              CLV
+            </div>
+            <div class="fs-5 fw-semibold" style="margin-left: 20%;">{{globalService.formatNumber(CLV)}}$</div>
+          </div>
+        </c-col>
+
+          <!--   Fifth KPI -->
+          <c-col md="4" xl="4" >
+            <div class="border-start border-start-4 border-start-info py-1 px-3 mb-3" >
+         
+              <div class="text-medium-emphasis large">
+                <img  src="./assets/img/icons/mrr.png" style="width: 50px; height: 50px; margin:0 5%;" >
+                MRR
+              </div>
+              <div class="fs-5 fw-semibold" style="margin-left: 20%;">{{globalService.formatNumber(MRR*10)}}$</div>
+            </div>
+          </c-col>
+  
+      </c-row>
+    </c-card-body>
+
+  </c-card>
+</c-col>
+</c-row>
+

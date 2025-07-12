@@ -1,0 +1,94 @@
+<!-- news display  -->
+<!-- <div class="search-container">
+    <input type="text" placeholder="Search ..."  [(ngModel)]="filterCriteria" (input)="getfilteredSlides()"/>
+</div>
+<ng-container *ngIf="slides.length > 0">
+    <c-carousel >
+        <c-carousel-indicators> </c-carousel-indicators>
+        <c-carousel-inner >
+          <c-carousel-item *ngFor="let slide of slides">
+            <img
+              alt="{{slide.title}}"
+              class="d-block w-100"
+              loading="lazy"
+              [src]="slide.src"
+              style="height: 450px;width: 800px;"
+             />
+            <c-carousel-caption class="d-none d-md-block">
+              <h3>{{slide.title}}</h3>
+              <p>{{slide.subtitle}}</p>
+              <p *ngIf="slide.source">Source : {{slide.source}}</p>
+              <a [href]="slide.url" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #7bd6f8;">
+                Go to Article
+              </a>
+            </c-carousel-caption>   
+          </c-carousel-item>
+        </c-carousel-inner>
+        <c-carousel-control [routerLink] caption="Previous" direction="prev"></c-carousel-control>
+        <c-carousel-control [routerLink] caption="Next" direction="next"></c-carousel-control>
+      </c-carousel>
+    </ng-container>
+     -->
+
+   <!-- Search Input -->
+<div class="search-container">
+    <input type="text" placeholder="Search ..." [(ngModel)]="filterCriteria" (input)="getfilteredSlides()"/>
+  </div>
+  
+  <!-- News Display -->
+  <ng-container *ngIf="slides.length > 0 && filterCriteria ==''">
+    <c-carousel>
+      <c-carousel-indicators></c-carousel-indicators>
+      <c-carousel-inner>
+       <c-carousel-item *ngFor="let slide of slides">
+          <img
+            alt="{{slide.title}}"
+            class="d-block w-100"
+            loading="lazy"
+            [src]="slide.src"
+            style="height: 450px; width: 800px;"
+          />
+          <c-carousel-caption class="d-none d-md-block">
+            <h3>{{slide.title}}</h3>
+            <p>{{slide.subtitle}}</p>
+            <p *ngIf="slide.source">Source: {{slide.source}}</p>
+            <a [href]="slide.url" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #7bd6f8;">
+              Go to Article
+            </a>
+          </c-carousel-caption>
+        </c-carousel-item>
+      </c-carousel-inner>
+      <c-carousel-control [routerLink] caption="Previous" direction="prev"></c-carousel-control>
+      <c-carousel-control [routerLink] caption="Next" direction="next"></c-carousel-control>
+    </c-carousel>
+  </ng-container>
+  
+    <!-- News Display when filter-->
+    <ng-container *ngIf="filteredSlides.length > 0 && filterCriteria !=='' ">
+        <c-carousel>
+          <c-carousel-indicators></c-carousel-indicators>
+          <c-carousel-inner>
+           <c-carousel-item *ngFor="let slide of filteredSlides">
+              <img
+                alt="{{slide.title}}"
+                class="d-block w-100"
+                loading="lazy"
+                [src]="slide.src"
+                style="height: 450px; width: 800px;"
+              />
+              <c-carousel-caption class="d-none d-md-block">
+                <h3>{{slide.title}}</h3>
+                <p>{{slide.subtitle}}</p>
+                <p *ngIf="slide.source">Source: {{slide.source}}</p>
+                <a [href]="slide.url" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #7bd6f8;">
+                  Go to Article
+                </a>
+              </c-carousel-caption>
+            </c-carousel-item>
+          </c-carousel-inner>
+          <c-carousel-control [routerLink] caption="Previous" direction="prev"></c-carousel-control>
+          <c-carousel-control [routerLink] caption="Next" direction="next"></c-carousel-control>
+        </c-carousel>
+      </ng-container>
+      
+      
