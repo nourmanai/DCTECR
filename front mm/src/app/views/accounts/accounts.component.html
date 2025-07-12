@@ -1,0 +1,309 @@
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+<c-nav class="flex-column flex-sm-row" role="navigation" variant="tabs" style="padding-bottom: 20px;">
+<a class="button" (click)="showAccountDetails(MyAccount)" >My Account</a>
+</c-nav>
+<app-widgetsample [data]="allaccountsData" ></app-widgetsample>
+
+ 
+  <c-row> 
+
+    <c-col xs="12" lg="6">
+      <c-card class="mb-4">
+        <c-card-header>
+          <c-dropdown alignment="start" variant="btn-group" style="margin-right: 5px;">
+            <button [caret]="false" cButton cDropdownToggle class="p-1" color="transparent">
+              <svg cIcon name="cilOptions"></svg>
+            </button>
+            <ul cDropdownMenu >
+              <li>
+                <a cDropdownItem [value]="'likes'" (click)="RateKey = 'likes'; updateChart()" >Likes</a>
+              </li>
+              <li>
+                <a cDropdownItem [value]="'comments'" (click)="RateKey = 'comments'; updateChart()" >Comments</a>
+              </li>
+            </ul>
+          </c-dropdown>
+          Rate of {{ RateKey }} by Location
+        </c-card-header>
+        
+        <c-card-body>
+          <c-chart type="bar" [data]="chartBarData" ></c-chart>
+        </c-card-body>
+      </c-card>
+    </c-col>
+    <c-col xs="12" lg="6">
+      <c-card class="mb-4">
+        <c-card-header>
+          Comments and posts count by Location (country) 
+        </c-card-header>
+        <c-card-body>
+          <c-chart type="line" [data]="chartLineData" [options]="chartLineOptions"></c-chart>
+        </c-card-body>
+      </c-card>
+    </c-col>
+  </c-row>
+
+
+  <c-row> 
+    <c-col xs="12" lg="6">
+      <c-card class="mb-4">
+        <c-card-header>
+          Likes , Followers by location (country)  
+        </c-card-header>
+        <c-card-body>
+          <c-chart type="bar" [data]="chartLineData2" [options]="chartBarOptions2"></c-chart>
+        </c-card-body>
+      </c-card>
+    </c-col>
+    <c-col xs="12" lg="6">
+      <c-card class="mb-4">
+        <c-card-header>
+          
+          <div class="filter-container">
+            <div class="filterPanel"  >
+               <!-- Map Filter -->
+               <div class="filterItem" style="margin-right:  200px; font-size: large;"  >  Map </div>
+
+              <div class="filterItem"  >
+                
+                <mat-select class="mat-select" [(ngModel)]="selectedMapFilter"  (ngModelChange)="applyMapFilters($event)" >
+                  <mat-option class="mat-option-text" value=""> Count of : </mat-option>
+                  <mat-option class="mat-option-text" value="likes_count">Likes</mat-option>
+                  <mat-option class="mat-option-text" value="comments_count">Comments</mat-option>
+                  <mat-option class="mat-option-text" value="followers_count">Followers</mat-option>
+                </mat-select>
+              </div>
+            </div>
+          </div>
+        </c-card-header>
+        <c-card-body >
+        <!-- <div leaflet [leafletOptions]="options" (leafletMapReady)="onMapReadyWithFilter($event,'likes_count')" style="height: 265px; position: relative; outline-style: none;"></div> -->
+
+        <div *ngIf="selectedMapFilter === 'likes_count' || selectedMapFilter === 'comments_count' || selectedMapFilter === 'followers_count'; else noFilter">
+          <!-- When a filter value is selected -->
+          <div leaflet [leafletOptions]="options" (leafletMapReady)="onMapReadyWithFilter($event, selectedMapFilter)" style="height: 265px; position: relative; outline-style: none;"></div>
+        </div >
+        <ng-template #noFilter>
+          <!-- When no filter value is selected -->
+          <div leaflet [leafletOptions]="options" (leafletMapReady)="onMapReadyNoFilter($event)" style="height: 265px; position: relative; outline-style: none;"></div>
+        </ng-template>
+        </c-card-body>
+      </c-card>
+    </c-col>
+    
+  </c-row>
+
+
+    <!-- Accounts Table -->
+
+  <c-row>  
+   <c-col xs>
+            <c-card class="mb-4">
+              <c-card-header style="font-size: large;">   
+                
+                <div class="search-container">
+
+                  <button  mat-button class="FilterButton" (click)="toggleFilters()" > 
+                    <svg cIcon  name="cilOptions" size="l" fill="black"></svg> 
+                  </button> 
+                  Acounts
+
+                  <input type="text" placeholder="Search username .." [(ngModel)]="searchText" (input)="applyFilters()" />
+
+                </div>
+                  <!-- Toggleable panel for filters -->
+                  <div class="filter-container">
+                  <div class="filterPanel" *ngIf="showFilters">
+                    <!-- Country Filter -->
+                    <div class="filterItem">
+                      <!-- <label for="countryFilter">Country Filter:</label> -->
+                      <mat-select class="mat-select" id="countryFilter"  [(ngModel)]="countryFilter" (selectionChange)="applyFilters()">
+                        <mat-option class="mat-option-text"  value="">All Countries</mat-option>
+                        <mat-option class="mat-option-text"  *ngFor="let country of uniqueLocations" [value]="country">
+                          <span>
+                            <svg cIcon [name]="getFlagIcon(loadCountries(country))" size="xl"></svg>
+                          </span>
+                          <span>{{ country }}</span>
+                        </mat-option>
+                      </mat-select>
+                    </div>
+                
+                    <!-- Engagement Filter -->
+                    <div class="filterItem">
+                      <!-- <label>Engagement Filter:</label> -->
+                      <mat-select class="mat-select" [(ngModel)]="selectedEngagement" (change)="applyFilters()">
+                        <mat-option class="mat-option-text" value=""> Engagement </mat-option>
+                        <mat-option class="mat-option-text" value="likes">Likes</mat-option>
+                        <mat-option class="mat-option-text" value="comments">Comments</mat-option>
+                      </mat-select>
+                    </div>
+                
+                    <!-- Platform Filter -->
+                    <div class="filterItem">
+                      <!-- <label for="platformFilter">Platform Filter:</label> -->
+                      <mat-select class="mat-select" id="platformFilter" [(ngModel)]="platformFilter" (selectionChange)="applyFilters()">
+                        <mat-option class="mat-option-text" value="">All Platforms</mat-option>
+                        <mat-option class="mat-option-text" *ngFor="let platform of platformOptions" [value]="platform.value">
+                          <svg cIcon name="{{platform.icon}}" size="l"></svg>
+                          {{ platform.name }}
+                        </mat-option>
+                      </mat-select>
+                    </div>
+                
+                    <!-- Competitor Filter -->
+                    <div class="filterItem">
+                      <!-- <label for="competitorFilter">Competitor Filter:</label> -->
+                      <mat-select class="mat-select" id="competitorFilter" [(ngModel)]="competitorFilter" (selectionChange)="applyFilters()">
+                        <mat-option class="mat-option-text" value="">All Users</mat-option>
+                        <mat-option class="mat-option-text" value="competitor">
+                          <svg cIcon name="cilWarning" size="l"></svg> Competitor
+                        </mat-option>
+                        <mat-option class="mat-option-text" value="regular">
+                          <svg cIcon name="cilUser" size="l"></svg> Regular User
+                        </mat-option>
+                      </mat-select>
+                    </div>
+                
+                    <!-- Category Filter -->
+                    <div class="filterItem">
+                      <!-- <label for="categoryFilter">Category Filter:</label> -->
+                      <mat-select class="mat-select" id="categoryFilter"  [(ngModel)]="categoryFilter" (selectionChange)="applyFilters()">
+                        <mat-option class="mat-option-text" value="">All Categories</mat-option>
+                        <mat-option class="mat-option-text" *ngFor="let category of categoryOptions" [value]="category">
+                          {{ category }}
+                        </mat-option>
+                      </mat-select>
+                    </div>
+                
+                    <!-- Verified Filter -->
+                    <div class="verified-filter">
+                      <!-- <label for="verifiedFilter">Verified Filter:</label> -->
+                      <mat-checkbox  [(ngModel)]="showVerified" (change)="onCheckboxChange('verified')" color="primary" style="margin: 0 100px;">Show Verified Users</mat-checkbox>
+                      <mat-checkbox  [(ngModel)]="showNotVerified" (change)="onCheckboxChange('notVerified')" color="primary" style="margin: 0 100px;">Show Not Verified Users</mat-checkbox>
+                    
+                    </div>
+                
+                    <!-- Not Verified Filter -->
+                    <!-- <div class="filterItem">
+                      <label for="notVerifiedFilter">Not Verified Filter:</label>
+                      <mat-checkbox [(ngModel)]="showNotVerified" (change)="onCheckboxChange('notVerified')">Show Not Verified Users</mat-checkbox>
+                    </div> -->
+                  </div>
+                </div>
+              
+              </c-card-header>
+
+              <c-card-body>
+                              
+                <table
+                  [hover]="true"
+                  [responsive]="true"
+                  [striped]="true"
+                  align="middle"
+                  cTable
+                  class="mb-0 border">
+                  <thead cTableColor="light">
+                    <tr>
+                      <th class="text-center">
+                        <svg cIcon name="cilPeople"></svg>
+                      </th>
+                      <th>Account</th>
+                       <th class="text-center">Country</th>
+                      <th>Engagement</th>
+                      <th> Platform</th>
+                      <th class="text-center">Description</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr *ngFor="let user of allaccountsData.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage); index as i " (click)="showAccountDetails(user)" >
+                      <td class="text-center">                   
+                        <app-customavatar [user]="user"> </app-customavatar>
+                      </td>
+                      <td>
+                        <div>
+                          <ng-container *ngIf="getInfo('competitor', user)">
+                            {{  getInfo("username", user) }} | 
+                            <svg cIcon name="cilWarning" size="l" title="Warning Icon" fill="red" [ngClass]="'text-danger'"></svg> 
+                            <span class="text-danger" style="font-size: 0.5px;"> Competitor </span>
+
+                          </ng-container>
+                          <ng-container *ngIf="!getInfo('competitor', user)">
+                            {{  getInfo("username", user) }} | 
+                            <svg cIcon name="cilUser" size="l" title="User Icon" fill="blue" [ngClass]="'text-info'"></svg>
+
+                            <span class="text-info" style="font-size: 0.5px;" >  Regular User </span>
+                          </ng-container>
+                        </div>
+                        <div class="small text-medium-emphasis text-nowrap">
+                          <span>
+                            {{ getInfo("name", user) }} | Registered: {{ getInfo("creation_date", user) }}
+                          </span>
+                        </div>
+                      </td>
+                      <td class="text-center">
+                        <div class="small text-medium-emphasis">{{getInfo('location', user)}}</div>
+
+                       <svg cIcon [name]="getFlagIcon(loadCountries(getInfo('location', user)))" size="xl"></svg>
+                     
+                      </td>
+                      <td>
+                        <div class="d-flex justify-content-between">
+                          <div class="float-start">
+                            <strong>{{ (((getInfo(EngagementFilter(), user) / getInfo("followers_count", user) )*100 )).toFixed(0)}}%</strong>
+                          </div>
+                          <div class="float-end ms-1 text-nowrap">
+                            <small class="text-medium-emphasis">
+                              {{ formatNumber(getInfo("followers_count", user))   }}  
+                            </small>
+                          </div>
+                        </div>
+                        <c-progress thin>
+                          <c-progress-bar
+                          [value]="((getInfo(EngagementFilter(), user) / getInfo('followers_count', user) * 100 ).toFixed(0))"
+                          ></c-progress-bar>
+                        </c-progress>
+                      </td>
+
+                      <td >
+                        <div class="fw-semibold text-nowrap">{{getInfo('platform', user)}} </div>
+                        <div class="small text-medium-emphasis">{{getInfo('category', user)}}</div>
+                        <div style="margin: 0 20px ;"> <svg cIcon [name]="getPlatformIcon(getInfo('platform', user))" size="xl" ></svg> </div> 
+                      </td>
+      
+                      <td class="text-center">
+                        <div class="description-container">
+                          <!-- Show first line of description -->
+                          <div class="description-summary">{{ getInfo('description', user) | slice: 0:100 }}...</div>
+                      
+                          <!-- Toggle button for showing/hiding full description -->
+                          <button class="toggle-button" (click)="toggleDetails($event, user)">
+                            {{ isDetailsVisible(user) ? 'Hide Details' : 'Show Details' }} 
+                          </button>
+                      
+                          <!-- Show full description if expanded (for the specific row) -->
+                          <div   *ngIf="isDetailsVisible(user)">
+                            {{ getInfo('description', user) }}
+                          </div>
+                        </div>
+                      </td>                                           
+                    </tr>
+
+                    <tr *ngIf="allaccountsData.length === 0">
+                      <td  class="noResults">No matching results found.</td>
+                    </tr>
+                  </tbody>
+
+                </table>   
+                <div class="d-flex justify-content-center">
+                    <ngb-pagination [collectionSize]="allaccountsData.length" [(page)]="currentPage" [pageSize]="itemsPerPage" [size]="'sm'" [boundaryLinks]="true" [rotate]="true" [ellipsis]="false" [maxSize]="5" style="margin: 10px; "></ngb-pagination>
+                </div>
+              </c-card-body>         
+            </c-card>
+   </c-col>      
+   
+   
+
+  </c-row>
+

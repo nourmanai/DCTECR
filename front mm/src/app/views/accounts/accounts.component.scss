@@ -1,0 +1,208 @@
+.page-item {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .page-link {
+    padding: 0;
+  }
+  
+  .page-item.active .page-link {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .page-item.disabled .page-link {
+    color: #6c757d;
+    background-color: #fff;
+    border-color: #dee2e6;
+  }
+  
+  .page-link:hover {
+    background-color: #f8f9fa;
+    border-color: #dee2e6;
+  }
+  
+  .ngb-pagination .page-item.active .page-link {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+  }
+  
+  .ngb-pagination .page-item.active .page-link:focus {
+    box-shadow: none;
+  }
+  
+  .ngb-pagination .page-item .page-link {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+  }
+  
+  .ngb-pagination .page-item:not(:last-child) .page-link {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  
+  .ngb-pagination .page-item:not(:first-child) .page-link {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  
+  .ngb-pagination .page-item:first-child .page-link {
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+  }
+  
+  .ngb-pagination .page-item:last-child .page-link {
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+  }
+
+
+
+
+.description-container {
+  position: relative;
+}
+
+.description-summary {
+  max-height: 50px; 
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.toggle-button {
+  background-color: transparent; 
+  border: none; 
+  cursor: pointer; 
+  padding: 0; 
+  margin-right: 5px; 
+  font-size: 5px;
+  color: #87a7ca; 
+}
+
+// Filter
+
+.FilterButton{
+  background-color: transparent; 
+  border: none; 
+  cursor: pointer; 
+}
+
+.filter-container{
+
+  top: calc(100% + 10px);
+  right: 0;
+  min-width: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  font-size: small;
+}
+
+.filterPanel{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.filterItem{
+   flex: 1; 
+  margin-right: 10px;
+}
+
+.verified-filter {
+  display: flex;
+  margin-top: 10px;
+  align-items: center;
+}
+.mat-select {
+  min-width: 200px; 
+  width: auto !important; 
+  max-width: 100%;
+}
+.mat-option-text {
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+}
+
+.search-container {
+  position: relative;
+  width: 100%; /* Set a specific width for the container */
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  position: absolute;
+  right: 0;
+  width: 250px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  border-color: #2b24aa; /* Change border color on focus */
+}
+
+.noResults {
+  text-align: center;
+  font-style: italic;
+  color:  #fb0000;
+  background-color: white;
+}
+
+.legend {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.legend-item {
+  padding: 5px 10px;
+  margin: 2px 0;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.default-color {
+  background-color: #FFEDA0; /* Set the background color for the default legend item */
+}
+
+
+a.button {
+  padding: 10px;
+  text-decoration: none; 
+
+
+  color:#007bff;
+  transition: color 0.3s ease-in-out;
+
+
+
+    &:hover {
+      background-color: #007bff;
+      color: #ffffff;
+      border: 1px solid #007bff;
+      border-radius: 5px;
+      padding: 5px 10px;
+      text-decoration: none; 
+      cursor: pointer;
+      transition: background-color 0.3s ease, color 0.3s ease; 
+  }
+  
+}
+
+
+
+  
+
+
