@@ -1,0 +1,90 @@
+
+<c-card class="mb-3" [ngStyle]="{'max-width.px': 540}">
+    <c-row class="g-0">
+      <c-col [md]="4" style="display: flex; justify-content: center;">
+        <img [cCardImg] [src]="Url" class="smooth-image">
+
+      </c-col>
+      <c-card-body cCol [md]="8">
+        <h5 cCardTitle> 
+          <div >
+            <ng-container *ngIf="getInfo('competitor', user)">
+              {{  getInfo("username", user) }} | 
+              <svg cIcon name="cilWarning" size="l" title="Warning Icon" fill="red"></svg> 
+              <span class="text-danger" style="font-size: 0.2px;"> Competitor </span>
+            </ng-container>
+            <ng-container *ngIf="!getInfo('competitor', user)">
+              {{  getInfo("username", user) }} | 
+              <svg cIcon name="cilUser" size="l" title="User Icon" fill="blue"></svg>              
+              <span class="text-info" style="font-size: 0.2px;" >  Regular User </span>
+            </ng-container>
+          </div>
+          <div class="small text-medium-emphasis text-nowrap" style="font-size: 0.2px;">
+            <ng-container *ngIf="getInfo('verified', user)">
+              <svg cIcon name="cilCheckCircle" size="m" title="Check Icon" ></svg> 
+              <span>
+                {{ getInfo("category", user) }} | {{getInfo("platform", user) }}
+              </span>
+            </ng-container>
+            <ng-container *ngIf="!getInfo('verified', user)">
+              <span>
+                {{ getInfo("category", user) }} | {{getInfo("platform", user) }}
+              </span>
+            </ng-container>
+          </div>  
+        </h5>
+        <p cCardText>
+          {{getInfo('description', user)}}
+        </p>
+        <p cCardText style="display: flex; justify-content: center;">       
+          <small class="text-medium-emphasis" style=" margin: 0px 10px;">
+            <svg cIcon name="cilLocationPin" size="l"></svg>   
+            Based in : {{getInfo('location', user)}}
+          </small>
+          <svg cIcon [name]="getFlagIcon(loadCountries(getInfo('location', user)))" size="xl"></svg>
+        </p>
+       
+        <div style="display: flex; justify-content: space-between">
+        <c-col sm="6">
+          <div class="border-start border-start-4 border-start-success py-1 px-1 mb-1">
+            <div class="text-medium-emphasis small">
+              <svg cIcon name="cilGroup" size="l" title="Followers Icon" ></svg> 
+              Followers
+            </div>
+            <div class="fs-7 fw-semibold" >{{ formatNumber(getInfo('followers_count', user))}}</div>
+          </div>
+        </c-col>
+        <c-col sm="6">
+          <div class="border-start border-start-4 border-start-warning py-1 px-1 mb-1">
+            <div class="text-medium-emphasis small">
+              <svg cIcon name="cilNotes" size="l" title="Posts Icon" ></svg> 
+              Posts
+            </div>
+            <div class="fs-7 fw-semibold">{{ formatNumber(getInfo('posts_count', user))}}</div>
+          </div>
+        </c-col>
+      </div>
+      <div style="display: flex; justify-content: space-between">
+        <c-col sm="6">
+          <div class="border-start border-start-4 border-start-danger py-1 px-1 mb-1">
+            <div class="text-medium-emphasis small">
+              <svg cIcon name="cilHeart" size="l" title="Likes Icon" ></svg> 
+              Likes
+            </div>
+            <div class="fs-7 fw-semibold">{{formatNumber(getInfo('likes_count', user))}}</div>
+          </div>
+        </c-col>
+        <c-col sm="6">
+          <div class="border-start border-start-4 border-start-primary py-1 px-1 mb-1">
+            <div class="text-medium-emphasis small"> 
+              <svg cIcon name="cilChatBubble" size="l" title="Comments Icon" ></svg> 
+              Comments
+            </div>
+            <div class="fs-7 fw-semibold">{{formatNumber(getInfo('comments_count', user))}}</div>
+          </div>
+        </c-col>
+      </div>
+      </c-card-body>
+    </c-row>
+  </c-card>
+
