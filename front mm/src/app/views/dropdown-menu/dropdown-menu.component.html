@@ -1,0 +1,39 @@
+
+  <!-- <ul cDropdownMenu>
+    <div class="dropdown-item"  *ngFor="let category of categories">
+    <li  (click)="$event.stopPropagation()"> {{category.fields.name}} 
+      <mat-select class="mat-select" id="countselection" [(ngModel)]="selectedCategoryOption" (click)="$event.stopPropagation()">
+        <mat-option class="mat-option-text" *ngFor="let category of getCategoryChildren(category)" [value]="category"> {{category.fields.name}} 
+        <ng-container *ngIf="selectedCategoryOption">
+         <app-dropdown-menu [categories]="getCategoryChildren(selectedCategoryOption)"></app-dropdown-menu>
+        </ng-container>
+    </mat-option>
+    </mat-select>
+    </li>
+   </div>
+  </ul> -->
+  <ul cDropdownMenu>
+    <li *ngFor="let category of categories" class="dropdown-item"  (mouseenter)="onMouseEnter(category)" (mouseleave)="onMouseLeave()">
+      
+      <div class="category-label">
+        <mat-label>{{ category.fields.name }}</mat-label>
+        <mat-select
+          class="mat-select"
+          [(ngModel)]="selectedCategoryOption"
+          (selectionChange)="onCategorySelect($event, category)"
+          >
+          <mat-option
+            *ngFor="let childCategory of getCategoryChildren(category)"
+            [value]="childCategory"
+          >
+            {{ childCategory.fields.name }}
+          </mat-option>
+        </mat-select>
+      </div>
+      <ng-container *ngIf="hoveredCategory === category && getCategoryChildren(category).length > 0">
+        <app-dropdown-menu
+          [categories]="getCategoryChildren(category)"
+        ></app-dropdown-menu>
+      </ng-container>
+    </li>
+  </ul>

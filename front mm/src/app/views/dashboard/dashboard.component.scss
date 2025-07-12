@@ -1,0 +1,33 @@
+:host {
+  .legend {
+    small {
+      font-size: x-small;
+    }
+  }
+  a {
+    padding: 10px;
+    text-decoration: none; 
+
+
+    color:#007bff;
+    transition: color 0.3s ease-in-out;
+
+  
+
+      &:hover {
+        background-color: #007bff;
+        color: #ffffff;
+        border: 1px solid #007bff;
+        border-radius: 5px;
+        padding: 5px 10px;
+        text-decoration: none; 
+        cursor: pointer;
+        transition: background-color 0.3s ease, color 0.3s ease; 
+    }
+    
+  }
+
+
+  
+}
+

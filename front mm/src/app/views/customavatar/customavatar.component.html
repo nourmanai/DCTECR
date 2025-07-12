@@ -1,0 +1,6 @@
+<c-avatar 
+    size="md"
+    [src]="avatarUrl "
+     (error)="handleAvatarError($event)"
+       status="{{ getInfo('verified', user) ? 'primary' : '' }}"
+ ></c-avatar>

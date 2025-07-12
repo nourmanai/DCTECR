@@ -1,0 +1,349 @@
+
+
+
+   <!--  charts      -->
+   <c-row>
+       <!-- Segment pie chart      -->
+       <c-col xs="8" lg="4">
+        <c-card class="mb-4">
+          <c-card-header>
+            Segment Distribution of Clients
+          </c-card-header>
+          <c-card-body>
+            <c-chart type="pie" [data]="SegmentchartPieData" [options]="chartPieOptions"></c-chart>
+          </c-card-body>
+  
+        </c-card>
+      </c-col>
+      
+    
+      <!-- Reseler pie chart      -->
+     <c-col xs="8" lg="4">
+              <c-card class="mb-4">
+                <c-card-header>
+                  Reseller Distribution of Clients
+                </c-card-header>
+                <c-card-body>
+                  <c-chart type="pie" [data]="ReselerchartPieData" [options]="chartPieOptions"></c-chart>
+                </c-card-body>
+        
+              </c-card>
+     </c-col>
+  
+       <!-- gender pie chart      -->
+    <c-col xs="8" lg="4">
+      <c-card class="mb-4">
+        <c-card-header>
+          Gender Distribution of Clients
+        </c-card-header>
+        <c-card-body>
+          <c-chart type="pie" [data]="GenderchartPieData" [options]="chartPieOptions"></c-chart>
+        </c-card-body>
+
+      </c-card>
+    </c-col>
+      <!--  Number of purchases bar chart      -->
+      <c-col xs="12" lg="6">
+        <c-card class="mb-4">
+          <c-card-header>
+            Number of clients by  number of purchases 
+          </c-card-header>
+          <c-card-body>
+            <c-chart type="bar" [data]="nbr_purchase_Monthly_chartBarData" [options]="chartBarOptions"></c-chart>
+            <!-- <c-chart type="line" [data]="chartLinenbr_purchase_Monthly_Data"></c-chart> -->
+          </c-card-body>
+  
+        </c-card>
+      </c-col>
+      <c-col  xs="8" lg="6">
+        <c-card class="mb-4">   
+          <c-card-header>
+           Client's satisfaction Rate 
+          </c-card-header> 
+          <c-card-body style="display: flex; align-items:center ;" >       
+            <div #teamMemberGaugeChartDiv id="satisfactionchartdiv" style="width: 60%; height: 294px; position: relative;">
+                <svg cIcon [name]="Smile" size="xxl" [ngClass]="{
+                  'text-success': Smile === 'cilHappy',
+                  'text-danger': Smile === 'cilFrown',
+                  'text-warning':Smile === 'cilMeh'
+                }" style="position: relative; top: 15%;left: 36%; margin-bottom: 5px;" ></svg> 
+              <strong class="text-medium-emphasis small centered-text" style=" position: relative;left: 25%; top: 55%">{{satisfiedgaugeValue.toFixed(2)}}% </strong>             
+            </div>
+            <div>
+            <div class="progress-group"  style=" margin-bottom: 30px;">
+              <div class="progress-group-header">
+                <svg cIcon  class="icon icon-lg me-2" name="cilHappy" size="m" [ngClass]="'text-success'"></svg> 
+                <span class="ms-auto font-semibold small">Satisfied</span>
+                <span class="ms-auto font-semibold ">
+                 {{countClientsByField('satisfied')['satisfied']}} <span class="text-medium-emphasis small">({{satisfiedgaugeValue.toFixed(2)}}%)</span>
+                </span>
+              </div>
+              <div class="progress-group-bars">
+                <c-progress thin>
+                  <c-progress-bar color="success" [value]='satisfiedgaugeValue.toFixed(2)'></c-progress-bar>
+                </c-progress>
+              </div>
+            </div>
+            <div class="progress-group">
+              <div class="progress-group-header">
+                <svg cIcon  class="icon icon-lg me-2" name="cilFrown" size="m" [ngClass]="'text-danger'"></svg> 
+                <small class="ms-auto font-semibold small" style="margin-right:7px ;">Unsatisfied</small>
+                <span class="ms-auto font-semibold">
+                  {{countClientsByField('satisfied')['not satisfied']}} <span class="text-medium-emphasis small">({{unsatisfiedgaugeValue.toFixed(2)}}%)</span>
+                </span>
+              </div>
+              <div class="progress-group-bars">
+                <c-progress thin>
+                  <c-progress-bar color="danger" [value]='unsatisfiedgaugeValue.toFixed(2)'></c-progress-bar>
+                </c-progress>
+              </div>
+            </div>
+          </div>
+          </c-card-body>   
+        </c-card>
+      </c-col>
+  
+   </c-row>  
+
+   <c-row>
+    <!-- Annual Salary vs. Financial Metrics (Credit Card Debt & Net Worth) in (k)$  -->
+    <c-col xs="16"  lg="5">
+      <c-card class="mb-4">
+        <c-card-header>   
+          Annual Salary vs. Financial Metrics (Credit Card Debt & Net Worth) in (k)$ 
+               </c-card-header>
+        <c-card-body>   
+   <!-- <c-chart type="scatter" [datasets]="scatterChartData" [options]="scatterChartOptions"></c-chart> -->
+   <div id="Scatterchartdiv" style="width: 80%; height: 597px;"></div>
+
+        </c-card-body> 
+    </c-card>
+  </c-col>  
+
+  <c-col xs lg="7">
+  <!-- Client Distribution and Purchases by Age Segment -->
+    <c-card class="mb-4">
+      <c-card-header>   
+        Client Distribution and Purchases by Age Segment
+       </c-card-header>
+      <c-card-body>   
+         <c-chart type="bar" [data]="ageSegmentationData" [options]="ageSegmentationOptions"></c-chart>
+      </c-card-body> 
+  </c-card>
+  <c-col xs="12" lg="12" style="display: flex; gap: 0.3rem;">
+    <!-- Nbr of Purchases by Gender -->
+    <c-card class="mb-3" style="flex: 1; min-width: 0;">
+      <c-card-header>   
+        Nbr of Purchases by Gender
+       </c-card-header>
+      <c-card-body>
+        <c-chart type="pie" [data]="genderpurchaseschartPieData" [options]="chartPieOptions"></c-chart>
+      </c-card-body>
+    </c-card>
+    <!-- Nbr of Purchases by Segment -->
+    <c-card class="mb-3" style="flex: 1; min-width: 0;">
+      <c-card-header>   
+       Nbr of Purchases by Segment
+       </c-card-header>
+      <c-card-body>
+        <c-chart type="pie" [data]="segmentpurchaseschartPieData" [options]="chartPieOptions"></c-chart>
+      </c-card-body>
+    </c-card>
+  </c-col>
+  
+</c-col>  
+
+   </c-row>
+    <!-- Clients Table  -->
+    <c-row>
+        <c-col xs>
+        <c-card class="mb-4">
+          <c-card-header>                    
+            <button  mat-button class="FilterButton" (click)="toggleClientFilters()" > 
+              <svg cIcon  name="cilOptions" size="l" fill="black"></svg> 
+            </button> 
+            Clients
+            <input type="text" placeholder=" Search name / e-mail .." [(ngModel)]="searchText" (input)="applyClientFilters()" style="margin-right: 10px;" />
+
+            <div class="filter-container">
+              <div class="filterPanel" *ngIf="showClientFilters">
+                 <!-- gender Filter -->
+                   <div class="filterItem">
+                    <mat-select class="mat-select" [(ngModel)]="genderFilter" (selectionChange)="applyClientFilters()">
+                     <mat-option class="mat-option-text"  value="">All genders</mat-option>
+                     <mat-option class="mat-option-text"  value="male"><img  src="./assets/img/icons/male.png" style="width: 30px; height: 30px; " > Male  </mat-option>
+                     <mat-option class="mat-option-text"  value="female"><img  src="./assets/img/icons/femenine.png" style="width: 30px; height: 30px; " > Female  </mat-option>
+                    </mat-select>
+                 </div> 
+
+                   <!-- segment Filter -->
+                   <div class="filterItem">
+                    <mat-select class="mat-select" [(ngModel)]="segmentFilter" (selectionChange)="applyClientFilters()">
+                     <mat-option class="mat-option-text"  value="">All segments</mat-option>
+                     <mat-option class="mat-option-text"  value="High Value"> 
+                       <img   src="./assets/img/icons/profit.png" style="width: 30px; height: 30px;">  High value
+                     </mat-option>
+                     <mat-option class="mat-option-text"  value="Medium Value">  
+                      <img  src="./assets/img/icons/value-chain.png" style="width: 30px; height: 30px; ">  Medium Value 
+                    </mat-option>
+                     <mat-option class="mat-option-text"  value="Low Value"> 
+                      <img  src="./assets/img/icons/dollar-value.png" style="width: 30px; height: 30px;">  Low Value 
+                    </mat-option>
+                    </mat-select>
+                 </div> 
+
+                    <!-- Satisfaction Filter -->
+                  <div class="filterItem" >
+                    <div class="satisfaction-filter">
+                   <p style="margin-top: 25px;">  Satisfaction : </p>
+                    <button mat-button class="FilterButton" (click)="toggleSatisfactionOption(true)"> 
+                    <svg  cIcon [name]="'cilHappy'" [ngClass]="'text-success'"  size="xl"  ></svg> 
+                  </button>  
+
+                    <button  mat-button class="FilterButton"  (click)="toggleSatisfactionOption(false)" > 
+                    <svg    cIcon [name]="'cilFrown'" [ngClass]="'text-danger'" size="xl"  ></svg>
+                  </button>  
+
+                    <button  mat-button class="FilterButton" (click)="toggleSatisfactionOption(null)" > 
+                      <svg cIcon  name="cilFilterX" size="l" ></svg> 
+                    </button>  
+                  </div>
+                   </div> 
+    
+                   <!-- Resseller Filter -->
+                   <div class="filterItem" >
+                    <div class="satisfaction-filter">
+                   <p style="margin-top: 25px;">  Resseller : </p>
+                    <button mat-button class="FilterButton" (click)="toggleressellerOption(true)"> 
+                      <img  src="./assets/img/icons/check-mark.png" style="width: 30px; height: 30px;">
+                    </button>  
+                    <button  mat-button class="FilterButton"  (click)="toggleressellerOption(false)"> 
+                      <img  src="./assets/img/icons/cancel.png" style="width: 30px; height: 30px; " >
+                    </button>  
+                    <button  mat-button class="FilterButton" (click)="toggleressellerOption(null)"> 
+                      <svg cIcon  name="cilFilterX" size="l" ></svg> 
+                    </button>  
+                  </div>
+                   </div>               
+
+              </div>            
+                </div> 
+            </c-card-header>
+          <c-card-body>   
+            <table
+            [hover]="true"
+            [responsive]="true"
+            [striped]="true"
+            align="middle"
+            cTable
+            class="mb-0 border">
+            <thead cTableColor="light">                  
+              <tr>
+                <th><img  src="./assets/img/icons/rating.png" style="width: 45px; height: 45px; margin-right: 5%;" ></th>
+                <th class="text-center"> Name</th>
+                <th class="text-center"> Segment</th>  
+                 <th class="text-center">Location</th> 
+                 <th class="text-center">Annual Salary</th>      
+                 <th class="text-center">credit card debt</th>               
+                 <th class="text-center">Net worth   </th>               
+                 <th class="text-center">nbr purchases Monthly</th>               
+                 <th class="text-center"> satisfaction</th>               
+                 <th class="text-center"> reseller</th>                                                     
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let client of allClientsData.slice((currentPageTeam - 1) * itemsPerPageTeam, currentPageTeam * itemsPerPageTeam); index as i" (click)=" clickedClient=client;">  
+                  <td class="text-center">
+                    <strong>{{ (currentPageTeam - 1) * itemsPerPageTeam + i + 1 }}</strong>   
+                  </td>
+                  <td class="text-center">
+                    <div class="small text-medium-emphasis">
+                        <img *ngIf="client.fields.gender==='male'"  src="./assets/img/icons/male.png" style="width: 30px; height: 30px; " > 
+                        <img *ngIf="client.fields.gender==='female'"  src="./assets/img/icons/femenine.png" style="width: 30px; height: 30px; " > 
+                        <strong> {{client.fields['customer name']}}</strong>  <br> 
+                        <div class="description-container">                                              
+                          <!-- Show full description if expanded (for the specific row) -->
+                          <div   *ngIf="isDetailsVisible(client)">
+                            {{globalService.Floornumber(client.fields.age)}} years old <br>
+                            {{client.fields['customer e-mail'] }}
+                          </div>
+                               <!-- Toggle button for showing/hiding full description -->
+                               <button class="toggle-button" (click)="toggleDetails($event, client)">
+                                {{ isDetailsVisible(client) ? 'Hide Details' : 'Show Details' }} 
+                              </button>
+                        </div>
+                    </div>                   
+                  </td>   
+                  <td class="text-center">
+                    <div class="small text-medium-emphasis"  >
+                      <img  *ngIf="client.fields['Segment']=='High Value'" src="./assets/img/icons/profit.png" style="width: 35px; height: 35px; margin-right: 5%;">
+                      <img *ngIf="client.fields['Segment']=='Medium Value'"  src="./assets/img/icons/value-chain.png" style="width: 35px; height: 35px; margin-right: 5%;">
+                      <img *ngIf="client.fields['Segment']=='Low Value'"  src="./assets/img/icons/dollar-value.png" style="width: 35px; height: 35px; margin-right: 5%;">
+                    </div>              
+                  </td>               
+      
+                <td class="text-center">
+                  <div class="small text-medium-emphasis"  >
+                    {{client.fields['country']}}  
+                    <!-- <svg cIcon [name]="globalService.getFlagIcon(globalService.loadCountries(globalService.getInfo('country', client)))" size="xl"></svg> -->
+
+                  </div>
+                </td>
+       
+                <td class="text-center">
+                    <div class="small text-medium-emphasis"  >
+                      {{globalService.formatNumber( client.fields['annual Salary']) }}$
+                    </div>              
+                  </td>   
+                  <td class="text-center">
+                    <div class="small text-medium-emphasis"  >
+                      {{globalService.formatNumber(client.fields['credit card debt'])}}$
+                    </div>              
+                  </td>   
+                  <td class="text-center">
+                    <div class="small text-medium-emphasis"  >
+                      {{globalService.formatNumber(client.fields['net worth'])}}$
+                    </div>              
+                  </td>   
+               
+                  <td class="text-center">
+                    <div class="small text-medium-emphasis"  >
+                      {{client.fields['nbr_purchase_Monthly']}}
+                    </div>              
+                  </td>  
+               
+                  <td class="text-center">
+                    <div class="small text-medium-emphasis"  >
+                      <svg  *ngIf="client.fields['satisfied']==true" cIcon [name]="'cilHappy'" [ngClass]="'text-success'"  size="xl"  style="position: relative; top: 25%;left: -20%; margin-bottom: 10px;" ></svg> 
+                      <svg *ngIf="client.fields['satisfied']==false"  cIcon [name]="'cilFrown'" [ngClass]="'text-danger'" size="xl" style="position: relative; top: 25%;left: -20%; margin-bottom: 10px;" ></svg> 
+                    </div>              
+                  </td>   
+                  <td class="text-center">
+                    <div class="small text-medium-emphasis"  >
+                        <img *ngIf="client.fields['reseller']==true" src="./assets/img/icons/check-mark.png" style="width: 35px; height: 35px; margin-right: 5%;" >
+                        <img *ngIf="client.fields['reseller']==false" src="./assets/img/icons/cancel.png" style="width: 35px; height: 35px; margin-right: 5%;" >
+                      <!-- {{client.fields['reseller']}} -->
+                    </div>              
+                  </td>   
+                
+                <!-- <td class="text-center">
+                  <div class="small text-medium-emphasis">
+                    <a class="detailsLink" (click)="showClientDetails(client, i)" [class.active]="activeLinkIndex === i" class="detailsLink">Client details</a>
+                  </div>              
+                </td>                                        -->
+              </tr>
+           
+           </tbody>
+      
+          </table> 
+          <div class="d-flex justify-content-center">
+            <ngb-pagination [collectionSize]="allClientsData.length" [(page)]="currentPageTeam" [pageSize]="itemsPerPageTeam" [size]="'sm'" [boundaryLinks]="true" [rotate]="true" [ellipsis]="false" [maxSize]="5" style="margin: 10px; "></ngb-pagination>
+          </div>      
+          </c-card-body>
+       </c-card>
+      </c-col>
+
+        </c-row>
+   
+        
+ 

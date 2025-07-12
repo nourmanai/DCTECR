@@ -1,0 +1,89 @@
+.mat-select {
+    min-width: 250px; 
+    width: auto !important; 
+    max-width: 100%;
+  }
+  
+  .mat-option-text {
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    font-size: small;
+  }
+
+  .FilterButton{
+    background-color: transparent; 
+    border: none; 
+    cursor: pointer; 
+  }
+  
+  .filter-container{
+  
+    top: calc(100% + 10px);
+    right: 0;
+    min-width: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    font-size: small;
+  }
+  
+  .filterPanel{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .filterItem{
+     flex: 1; 
+     margin-right: 10px;
+     margin-bottom: 20px;
+  }
+  input[type="text"] {
+    position: absolute;
+    right: 0;
+    width: 250px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  input[type="text"]:focus {
+    outline: none;
+    border-color: #2b24aa; /* Change border color on focus */
+  }
+  
+  .noResults {
+    text-align: center;
+    font-style: italic;
+    color:  #fb0000;
+    background-color: white;
+  }
+  .search-container {
+    position: relative;
+    width: 100%; /* Set a specific width for the container */
+    margin-bottom: 10px;
+  }
+  .satisfaction-filter{
+    display: flex;
+    justify-content:center;
+  }
+  .text-pink {
+    color: pink;
+  }
+  .description-container {
+    position: relative;
+  }
+  .toggle-button {
+    background-color: transparent; 
+    border: none; 
+    cursor: pointer; 
+    padding: 0; 
+    margin-left: 25px; 
+    margin-top: 7px; 
+
+    font-size: 5px;
+    color: #9ca8b4; 
+  }

@@ -1,0 +1,625 @@
+
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<link href="https://unpkg.com/ngx-bootstrap/datepicker/bs-datepicker.css" rel="stylesheet" >
+
+
+
+
+<!-- Widgets -->
+<c-row style="display: flex; justify-content: center;">
+    <c-col sm="6" xl="3">   
+        <c-widget-stat-a class="mb-4" color="info" title="" style="display: flex; justify-content: center;">
+          <ng-template cTemplateId="widgetValueTemplate" ngPreserveWhitespaces>
+            <svg cIcon name="cilMonitor" size="xl" style="margin: 0 40px"></svg>       
+                         {{globalService.formatNumber(allcampaignsData.length)}}
+            <span class="fs-6 fw-normal" style="font-size: small;"> <br> </span>
+            <span class="fs-6 fw-normal" style="font-size: small;" style="margin: 0 60px"> Campaigns </span>
+          </ng-template> 
+        </c-widget-stat-a>
+    </c-col>
+
+    <c-col sm="6" xl="3">
+        <c-widget-stat-a
+          title="{{displayingKey('status',selectedStatusOption, null).DisplayedStatusKey}}"
+          class="mb-4"
+          color="warning">
+          <ng-template cTemplateId="widgetValueTemplate" ngPreserveWhitespaces>
+            <span>{{globalService.formatNumber(countCampaignsByKey(allcampaignsData, 'status', selectedStatusOption, null))}}</span>
+            <span class="fs-6 fw-normal">
+              ( <svg cIcon name="cilChartPie"></svg>{{((countCampaignsByKey(allcampaignsData, 'status', selectedStatusOption, null)*100)/allcampaignsData.length).toFixed(0)}}% ) Campaigns
+            </span>
+          </ng-template>
+          <ng-template cTemplateId="widgetActionTemplate">
+            <c-dropdown alignment="end" variant="btn-group">
+              <button [caret]="false" cButton cDropdownToggle class="p-0" color="transparent">
+                <svg cIcon class="text-high-emphasis-inverse" name="cilOptions"></svg>
+              </button>
+              <ul cDropdownMenu>
+                <li>
+                <a cDropdownItem [value]="" (click)="selectedStatusOption = ''"> All </a>
+              </li>
+                <li *ngFor="let status of StatusOptions">
+                  <a cDropdownItem [value]="status" (click)="selectedStatusOption = status">{{status}}</a>
+                </li>
+              </ul>
+            </c-dropdown>
+          </ng-template>
+        </c-widget-stat-a>
+      </c-col>
+
+      <c-col sm="6" xl="3">
+        <c-widget-stat-a
+          title="{{displayingKey(selectedMarketingKey,selectedMarketingOption, null ).DisplayedMarketingKey}}"
+          class="mb-4"
+          color="success">
+          <ng-template cTemplateId="widgetValueTemplate" ngPreserveWhitespaces>
+            <span>{{globalService.formatNumber(countCampaignsByKey(allcampaignsData, selectedMarketingKey, selectedMarketingOption, null))}}</span>
+            <span class="fs-6 fw-normal">
+              ( <svg cIcon name="cilChartPie"></svg>{{((countCampaignsByKey(allcampaignsData, selectedMarketingKey, selectedMarketingOption, null)*100)/allcampaignsData.length).toFixed(0)}}% ) Campaigns
+            </span>
+          </ng-template>
+          <ng-template cTemplateId="widgetActionTemplate">
+            <c-dropdown alignment="end" variant="btn-group">
+              <button [caret]="false" cButton cDropdownToggle class="p-0" color="transparent">
+                <svg cIcon class="text-high-emphasis-inverse" name="cilOptions"></svg>
+              </button>
+              <ul cDropdownMenu>
+                <li> Campaigns count by : 
+                   <mat-checkbox class="dropdown-item" [(ngModel)]="ConceptCount" color="primary" (click)="onCheckboxChange('marketing_concept', $event)"> Marketing Concept</mat-checkbox>
+                   <mat-checkbox class="dropdown-item" [(ngModel)]="GoalCount" color="primary" (click)="onCheckboxChange('marketing_goal', $event)"> Marketing Goal </mat-checkbox>
+                </li>
+                <li><hr class="dropdown-divider"></li>
+                <li *ngIf="ConceptCount || GoalCount " (click)="$event.stopPropagation()">
+                  <div class="dropdown-item">
+                    <div class="range-slider">
+                      <mat-select class="mat-select" id="countselection"  [(ngModel)]="selectedMarketingOption" >
+                        <mat-option class="mat-option-text"  *ngFor="let marketing of MarketingOptions" [value]="marketing"> {{marketing}} </mat-option>
+                      </mat-select>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </c-dropdown>
+          </ng-template>
+        </c-widget-stat-a>
+      </c-col>
+</c-row>
+
+<c-row>  
+  <!-- Campaigns Table -->
+ <c-col xs>
+          <c-card class="mb-4">
+            <c-card-header style="font-size: large;">   
+              
+              <div class="search-container">
+
+                <button  mat-button class="FilterButton" (click)="toggleFilters()" > 
+                  <svg cIcon  name="cilOptions" size="l" fill="black"></svg> 
+                </button> 
+                Campaigns
+
+                <input type="text" placeholder="Search title .." [(ngModel)]="searchText" (input)="applyFilters()" />
+
+              </div> 
+                <!-- Toggleable panel for filters -->
+                 <div class="filter-container">
+                <div class="filterPanel" *ngIf="showFilters">
+                  <!-- Buy Model Filter -->
+                  <div class="filterItem"> 
+                    <!-- <label for="countryFilter">Buy Model Filter:</label>  -->
+                     <mat-select class="mat-select" id="countryFilter"  [(ngModel)]="buy_modelFilter" (selectionChange)="applyFilters()">
+                      <mat-option class="mat-option-text"  value="">All Buy Models</mat-option>
+                      <mat-option class="mat-option-text"  *ngFor="let model of BuymodelOptions" [value]="model">
+                        <span>{{ model }}</span>
+                      </mat-option>
+                    </mat-select>
+                  </div> 
+              
+                  <!-- Marketing Concepts Filter -->
+                   <div class="filterItem">
+                     <!-- <label>Marketing Concepts Filter:</label>  -->
+                     <mat-select class="mat-select" [(ngModel)]="marketing_conceptFilter" (selectionChange)="applyFilters()">
+                      <mat-option class="mat-option-text"  value="">All Marketing Concepts</mat-option>
+                      <mat-option class="mat-option-text"  *ngFor="let concept of marketingConceptOptions" [value]="concept">
+                        <span>{{ concept}}</span>  
+                       </mat-option>
+                     </mat-select>
+                  </div> 
+              
+                  <div class="filterItem">  
+                    <input type="text"
+                       placeholder="Date range"
+                       bsDaterangepicker
+                       [(ngModel)]="bsRangeValue"
+                       [value]="bsRangeValue"
+                       (ngModelChange)="applyFilters()"
+                       [bsConfig]="{ isAnimated: true, ranges: customRanges }" 
+                       style="width: 205px;   position: relative;"
+                       >
+                       <br>
+                       <a class="reset-link" (click)="reset()">Reset</a>
+              </div>  
+
+                  <!-- Marketing Goals Filter -->
+                   <div class="filterItem"> 
+                    <!-- <label for="platformFilter">Marketing Goals Filter:</label> -->
+                   <mat-select class="mat-select" id="marketing_goalFilter" [(ngModel)]="marketing_goalFilter" (selectionChange)="applyFilters()">
+                      <mat-option class="mat-option-text" value="">All Marketing Goals </mat-option>
+                      <mat-option class="mat-option-text" *ngFor="let goal of marketingGoalOptions" [value]="goal">
+                        {{ goal }}
+                      </mat-option>
+                    </mat-select>
+                  </div> 
+
+                 <!-- Status Filter -->
+                  <div class="status-filter">
+                    <label for="statusFilter">Status: </label>
+                    <mat-checkbox *ngFor="let status of StatusOptions" [(ngModel)]="statusFilters[status]" [value]="status" (change)="applyFilters()" color="primary" style="margin: 0 100px;">
+                      {{ status }}
+                    </mat-checkbox>                    
+                  </div>
+              </div>             
+              </div>        
+            </c-card-header>
+           
+            <c-card-body>                 
+              <table
+                [hover]="true"
+                [responsive]="true"
+                [striped]="true"
+                align="middle"
+                cTable
+                class="mb-0 border">
+                <thead cTableColor="light">                  
+                  <tr>
+                    <th class="text-center">
+                      <svg cIcon name="cilPeople"></svg>
+                    </th>
+                    <th>Campaign</th>
+                    <th>Title</th>
+                    <th class="text-center">Buy Model</th>
+                     <th class="text-center">Duration Days</th>
+                    <th>Marketing Concept</th>
+                    <th> Marketing Goal</th>
+                    <th class="text-center">Budget</th>
+                    <th class="text-center">Spent</th>
+                    <th class="text-center">Revenue</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let campaign of allcampaignsData.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage); index as i" (click)="CampaignDetails(campaign); clickedcampaign=campaign;">
+                    <td class="text-center">                   
+                    </td>
+                    <td>
+                      <div>
+                        <ng-container *ngIf="globalService.getInfo('status', campaign) == 'Completed'">
+                          {{ globalService.getInfo('Campaign_Id',campaign ) }} | 
+                          <svg cIcon name="cilCheckCircle" size="l" title="CheckCircle Icon" [ngClass]="'text-success'"></svg> 
+                          <span class="text-success" style="font-size: 0.5px;"> {{ globalService.getInfo('status',campaign ) }} </span>
+                        </ng-container>
+                        <ng-container *ngIf="globalService.getInfo('status', campaign) =='Archived'">
+                          {{ globalService.getInfo('Campaign_Id',campaign ) }} |
+                          <svg cIcon name="cilFolderOpen" size="l" title="FolderOpen Icon" [ngClass]="'text-info'"></svg>
+                          <span class="text-info" style="font-size: 0.5px;" >  {{ globalService.getInfo('status',campaign ) }} </span>
+                        </ng-container>
+                        <ng-container *ngIf="globalService.getInfo('status', campaign)!== 'Completed' && globalService.getInfo('status', campaign)!== 'Archived'">
+                          {{ globalService.getInfo('Campaign_Id',campaign ) }}  |
+                          <svg cIcon name="cilReload" size="l" title="Reload Icon" [ngClass]="'text-warning'" ></svg>
+                          <span class="text-warning" style="font-size: 0.5px;" >  {{ globalService.getInfo('status',campaign ) }} </span>
+                        </ng-container>                                   
+                      </div>             
+                    </td>
+                    <td class="text-center">
+                      <div class="small text-medium-emphasis">
+                        {{globalService.getInfo('title', campaign)}}
+                      </div>                   
+                    </td>
+                    <td class="text-center"> 
+                     
+                      <div class="small text-medium-emphasis">
+                        {{globalService.getInfo('buy_model', campaign)}}
+                      </div>
+                    </td>
+
+                    <td >
+                      <div class="fw-semibold text-nowrap">
+                        {{globalService.getInfo('duration_days', campaign)}} Days
+                      </div>
+                      <div class="small text-medium-emphasis"  >
+                         {{globalService.formatDate(globalService.getInfo('start_date', campaign), 'date')}} 
+                         <svg cIcon name="cilArrowBottom" size="xs" title="ArrowBottom Icon"  style="margin-left: 30px;"></svg>
+                          {{globalService.formatDate(globalService.getInfo('end_date', campaign), 'date')}}
+                      </div>
+                       
+                    </td>
+    
+                    <td class="text-center">
+                    
+                        <div class="small text-medium-emphasis">
+                          {{globalService.getInfo('marketing_concept', campaign)}}
+                        </div>
+                    </td> 
+                    <td class="text-center">                     
+                      <div class="small text-medium-emphasis">
+                        {{globalService.getInfo('marketing_goal', campaign)}}
+                      </div>
+                    </td> 
+                    <td class="text-center">                     
+                      <div class="small text-medium-emphasis">
+                        {{globalService.formatNumber(globalService.getInfo('total_budget', campaign))}}M
+                    
+                      </div>
+                    </td>  
+                    <td class="text-center">                     
+                      <div class="small text-medium-emphasis">
+                        {{globalService.formatNumber(globalService.getInfo('total_spent', campaign))}}M
+                      </div>
+                    </td>       
+                    <td class="text-center">                     
+                      <div class="small text-medium-emphasis">
+                        {{globalService.formatNumber(globalService.getInfo('total_revenue', campaign))}}
+                      </div>
+                    </td>       
+                                                  
+                  </tr>
+                  <tr *ngIf="allcampaignsData.length === 0">
+                    <td  class="noResults">No matching results found.</td>
+                  </tr>
+                  <tr>
+                  </tr>
+                </tbody>
+
+              </table>   
+              <div class="d-flex justify-content-center">
+                  <ngb-pagination [collectionSize]="allcampaignsData.length" [(page)]="currentPage" [pageSize]="itemsPerPage" [size]="'sm'" [boundaryLinks]="true" [rotate]="true" [ellipsis]="false" [maxSize]="5" style="margin: 10px; "></ngb-pagination>
+              </div>
+            </c-card-body>         
+          </c-card>
+ </c-col>      
+ <ng-container *ngIf="clickedcampaign !== null">
+
+  <!-- total_budget total_revenue total_spent daily_budget interest Total_Conversion Impression Clicks -->
+
+ <!-- Numbers Kpis ++  Year Filter   -->
+ <c-row style="margin-top: 10px;">
+
+   <!-- Year Filter  -->
+   <c-col class="d-none d-md-block" sm="7" style="margin-bottom: 30px;">    
+    <form [formGroup]="trafficRadioGroup">
+      <c-button-group class="float-end me-3" role="group" *ngFor="let year of AdYears">
+        <input
+          class="btn-check"
+          formControlName="trafficRadio"
+          type="radio"
+          [value]="year"
+        />
+        <label
+          (click)="setAdTrafficPeriod(year); clickedteam=null; clickedMember=null;"
+          cButton
+          cFormCheckLabel
+          color="info"
+          variant="outline"
+        >{{year}}</label>          
+      </c-button-group>
+    </form>
+  </c-col>
+
+  <!-- Numbers Kpis  -->
+  <c-col md="6" xl="6" xs="12">
+    <c-row>
+      <c-col sm="6">
+        <div class="border-start border-start-4 border-start-success py-1 px-3 mb-3" >
+       
+          <div class="text-medium-emphasis large">   <c-icon name="cilWallet" [ngClass]=" 'text-success'" size="xl" ></c-icon> Total Budget</div>
+          <div class="fs-4 fw-semibold" style="margin-left: 15%;">  {{ globalService.formatNumber(clickedcampaign.fields.total_budget*1000000000) }} $</div>
+        </div>
+      </c-col>
+      <c-col sm="6">
+        <div
+          class="border-start border-start-4 border-start-warning py-1 px-3 mb-3">
+          <div class="text-medium-emphasis large"> <c-icon name="cilSearch" [ngClass]=" 'text-warning'" size="xl" ></c-icon> Total interest</div>
+          <div class="fs-4 fw-semibold" style="margin-left: 25%;">{{totalInterest}}</div>
+        </div>
+      </c-col>
+    </c-row>
+
+    <hr class="mt-0" />
+  </c-col>
+
+  <c-col md="6" xl="6" xs="12">
+    <c-row>
+      <c-col sm="6">
+        <div class="border-start border-start-4 border-start-danger py-1 px-3 mb-3">
+          <div class="text-medium-emphasis large"> <c-icon name="cilHeart" [ngClass]=" 'text-danger'" size="xl" ></c-icon> Total Impressions</div>
+          <div class="fs-4 fw-semibold" style="margin-left: 25%;">{{totalImpressions}}</div>
+        </div>
+      </c-col>
+      <c-col sm="6">
+        <div class="border-start border-start-4 border-start-info py-1 px-3 mb-3">
+          <div class="text-medium-emphasis large"> <c-icon name="cilHandshake" [ngClass]="'text-info' "  size="xl" ></c-icon> Total Conversions</div>
+          <div class="fs-4 fw-semibold" style="margin-left: 30%;">{{totalConversions}}</div>
+        </div>
+      </c-col>
+    </c-row>
+
+    <hr class="mt-0" />
+  </c-col>
+
+ 
+</c-row>
+ 
+    <!-- BudgetGaugechartdiv and ConversionGaugechartdiv -->
+  <c-row>
+    <c-col xs>
+      <c-card class="mb-4">    
+        <c-card-body style="display: flex; justify-content:space-between;">       
+          <div id="BudgetGaugechartdiv" style="width: 100%; height: 300px; position: relative;">
+            <strong class="text-medium-emphasis small " style="position: relative; top: 10%;left: 15%;" > Daily Budget Vs Total Budget </strong>
+            <strong class="text-medium-emphasis small centered-text">{{(clickedcampaign.fields.daily_budget * 100 / clickedcampaign.fields.total_budget).toFixed(2)}} %</strong>
+          </div>
+          <div id="ConversionGaugechartdiv"  style="width: 100%; height: 300px; position: relative; ">
+            <strong class="text-medium-emphasis small " style="position: relative; top: 10%;left: 5%;"> Total Conversions Vs Nbr of Interested </strong>
+            <strong class="text-medium-emphasis small centered-text">{{(totalConversions * 100 /totalInterest).toFixed(2)}} %</strong>
+          </div>
+          <div id="ClicksGaugechartdiv"  style="width: 100%; height: 300px; position: relative; ">
+            <strong class="text-medium-emphasis small " style="position: relative; top: 10%;left: 15%;"> Total Clicks Vs Impressions</strong>
+            <strong class="text-medium-emphasis small centered-text">{{(totalClicks * 100 / totalImpressions).toFixed(2)}} %</strong>
+          </div>
+        </c-card-body>   
+      </c-card>
+    </c-col>
+  
+  </c-row>
+
+
+<!-- <div id="chartdiv" style="width: 100%; height: 500px;"></div> -->
+
+<c-row>
+  <!-- Creative Team and it's members -->
+  <c-col xs="12" lg="6">
+    <c-card class="mb-4">
+      <c-card-header>Creative Team </c-card-header>
+      <c-card-body>   
+        <table
+        [hover]="true"
+        [responsive]="true"
+        [striped]="true"
+        align="middle"
+        cTable
+        class="mb-0 border">
+        <thead cTableColor="light">                  
+          <tr>
+            <th class="text-center">
+              <svg cIcon name="cilCalendar"></svg>
+            </th>
+            <th>Name</th>
+            <th class="text-center">Execution Period</th>
+             <th class="text-center">Performance Rate</th>        
+          </tr>
+        </thead>
+        <tbody>
+          <ng-container *ngFor="let ad of finalAds ">
+            <tr *ngFor="let team of ad.team"  (click)="TeamDetails(team); clickedteam=team;" >  
+  
+              <td class="text-center">
+                <div class="small text-medium-emphasis">
+                  {{ad.fields.year}}
+                </div>                   
+              </td>                 
+            <td class="text-center">
+              <div class="small text-medium-emphasis">
+                {{team.fields.Name}}
+              </div>                   
+            </td>
+            <td class="text-center">            
+              <div class="small text-medium-emphasis">
+                {{team.fields.Execution_Period}}
+              </div>
+            </td>
+  
+            <td class="text-center">
+              <div class="small text-medium-emphasis"  >
+                <ngb-rating [(rate)]="team.fields.Performance_Rate" [readonly]="readonlyRate" class="stars" [max]="5" style="color: rgb(234, 199, 0);  transition: color 0.2s; font-size: 24px;"></ngb-rating>
+              </div>
+               
+            </td>
+                                          
+          </tr>
+       
+        </ng-container> 
+       </tbody>
+  
+      </table> 
+      <ng-container *ngIf="clickedteam !== null">
+  
+        <svg cIcon name="cilArrowThickBottom" size="20rem" style="margin: 20px 45%;" [ngClass]="'text-warning'"></svg>
+        
+        <strong class="text-medium-emphasis large" style="margin: 20px 35%;"> 
+          <c-dropdown alignment="start" variant="btn-group">
+            <button [caret]="false" cButton cDropdownToggle class="p-0" color="transparent">
+              <svg cIcon  name="cilOptions" size="l" ></svg>
+            </button>
+            <ul cDropdownMenu>
+              <li>
+              <a cDropdownItem [value]="'Top5'" (click)="selectedTeamMemberOption_Top5 = 'Top5'; TeamMemberFilter();"> Top 5 Performers </a>
+            </li>
+            <li>
+              <a cDropdownItem [value]="'Execution_Period'" (click)="selectedTeamMemberOption_Execution_Period = 'Execution_Period'; TeamMemberFilter();"> Order by Execution Period </a>
+            </li>
+            <li>
+              <a cDropdownItem [value]="'Performance_Rate'" (click)="selectedTeamMemberOption_PerformanceRate = 'Performance_Rate'; TeamMemberFilter();"> Order by Performance Rate </a>
+            </li>
+            <li>
+              <mat-select class="mat-select"   [(ngModel)]="roleOption" (selectionChange)="TeamMemberFilter()">
+                <mat-option class="mat-option-text"   value=""> All Roles </mat-option>
+                <mat-option class="mat-option-text"  *ngFor="let role of roleOptions" [value]="role"> {{role}} </mat-option>
+              </mat-select>
+            </li>
+            <li>
+              <a cDropdownItem  (click)="ResetTeamMemberFilter();" style="background-color: lightgrey; "> Reset </a>
+            </li>
+            </ul>
+          </c-dropdown>
+          Team Members
+         </strong>
+        
+              <table
+              [hover]="true"
+              [responsive]="true"
+              [striped]="true"
+              align="middle"
+              cTable
+              class="mb-0 border">
+              <thead cTableColor="light">                  
+                <tr>
+                 
+                  <th>Name</th>
+                  <th>Role</th>
+                  <th class="text-center">Execution Period</th>
+                   <th class="text-center">Performance Rate</th>        
+                </tr>
+              </thead>
+              <tbody>
+                <ng-container *ngFor="let team of finalTeamsArray.slice((currentPageTeam - 1) * itemsPerPageTeam, currentPageTeam * itemsPerPageTeam); index as i" >
+                  <tr *ngFor="let member of team.teamMember" (click)="onMemberClick(member)"  >  
+      
+                    <td class="text-center">
+                      <div class="small text-medium-emphasis">
+                        {{member.fields.Name}}
+                      </div>                   
+                    </td>                 
+                  <td class="text-center">
+                    <div class="small text-medium-emphasis">
+                      {{member.fields.Role}}
+                    </div>                   
+                  </td>
+                  <td class="text-center">            
+                    <div class="small text-medium-emphasis">
+                      {{member.fields.Execution_Period}}
+                    </div>
+                  </td>
+      
+                  <td class="text-center">
+                    <div class="small text-medium-emphasis"  >
+                      <ngb-rating [(rate)]="member.fields.Performance_Rate" [readonly]="readonlyRate" class="stars" [max]="5" style="color: rgb(234, 199, 0);  transition: color 0.2s; font-size: 24px;"></ngb-rating>
+                    </div>
+                     
+                  </td>                                                
+                </tr>
+              </ng-container>
+             </tbody>
+      
+            </table> 
+            <div class="d-flex justify-content-center">
+              <ngb-pagination [collectionSize]="finalTeamsArray.length" [(page)]="currentPageTeam" [pageSize]="itemsPerPageTeam" [size]="'sm'" [boundaryLinks]="true" [rotate]="true" [ellipsis]="false" [maxSize]="5" style="margin: 10px; "></ngb-pagination>
+          </div>
+            
+           
+      
+      </ng-container>
+  
+      </c-card-body>
+   </c-card>
+  </c-col>
+  <!-- Revenue VS Spent Chart  -->
+  <c-col xs="12" lg="6">
+    <c-card class="mb-4">
+      <c-card-header>
+        Revenue VS Spent 
+      </c-card-header>
+      <c-card-body>
+        <div *ngFor="let ad of finalAds ; let i = index">
+          <div class="progress-group-prepend">
+            <strong class="text-medium-emphasis small">{{SliceTitle(ad.fields.title)}}</strong>
+            <strong>   </strong>
+        </div>
+        <div class="progress-group mb-4">
+          <div class="progress-group-prepend">
+            <span class="text-medium-emphasis small">{{ ad.fields.year}}
+              <small class="text-medium-emphasis">
+                <c-icon [name]="getIconName(revenueComparisons[i])" [ngClass]="{
+                  'text-success': revenueComparisons[i] === 'greater',
+                  'text-danger': revenueComparisons[i] === 'less',
+                  'text-warning': revenueComparisons[i] === 'equal',
+                  'text-light': revenueComparisons[i] === 'N/A'
+
+                }"></c-icon>
+                 {{globalService.formatNumber(ad.fields.Revenu-(ad.fields.Spent*1000000000))}}
+              </small>   
+            </span>
+          </div>
+          
+          <div class="progress-group-bars">         
+            <div class="d-flex justify-content-between">
+              <div class="float-start">
+                <strong>{{globalService.formatNumber(ad.fields.Revenu)}}</strong>
+              </div>
+              <div class="float-end ms-1 text-nowrap">
+                <small class="text-medium-emphasis">
+                  Total Revenue :  {{ globalService.formatNumber((clickedcampaign.fields.total_revenue))}}  
+                </small>
+              </div>
+            </div>
+            <c-progress thin>
+              <c-progress-bar color="info" [value]="(ad.fields.Revenu * 100 )/ clickedcampaign.fields.total_revenue"></c-progress-bar>
+            </c-progress>
+          
+            <div class="d-flex justify-content-between">
+              <div class="float-start">
+                <strong>{{globalService.formatNumber((ad.fields.Spent))}}B</strong>
+              </div>
+              <div class="float-end ms-1 text-nowrap">
+                <small class="text-medium-emphasis">
+                  Total Spent :  {{ globalService.formatNumber((clickedcampaign.fields.total_spent))}}B  
+                </small>
+              </div>
+            </div>
+            <c-progress thin>
+              <c-progress-bar color="warning" [value]="(ad.fields.Spent * 100 )/ clickedcampaign.fields.total_spent"></c-progress-bar>
+            </c-progress>          
+          </div>
+        </div>
+      </div>
+
+      <div class="legend text-center" ngPreserveWhitespaces>
+        <small>
+          <sup>
+            <span class="badge badge-pill badge-sm bg-info">&nbsp;</span>
+          </sup>
+          <span>Revenue</span>
+          &nbsp;&nbsp;
+          <sup>
+            <span class="badge badge-pill badge-sm bg-warning">&nbsp;</span>
+          </sup>
+          <span>Spent</span>
+        </small>
+      </div>
+        </c-card-body>
+    </c-card>
+    <ng-container *ngIf="clickedMember!==null" >
+      <c-col  lg="8">
+        <c-card class="mb-4">    
+          <c-card-body >       
+            <div #teamMemberGaugeChartDiv id="TeamMemberGaugechartdiv" style="width: 100%; height: 300px; position: relative;">
+              <strong class="text-medium-emphasis small " style="position: relative; top: 10%;left: 15%;" > {{clickedMember.fields.Name}} Performance </strong>
+                <svg cIcon [name]="Smile" size="xl" [ngClass]="{
+                  'text-success': Smile === 'cilHappy',
+                  'text-danger': Smile === 'cilFrown',
+                  'text-warning':Smile === 'cilMeh'
+                }" style="position: relative; top: 25%;left: -20%; margin-bottom: 10px;" ></svg> 
+              <strong class="text-medium-emphasis small centered-text" style=" left: 45%;">{{clickedMember.fields.Performance_Rate *10}}% </strong>             
+            </div>
+          </c-card-body>   
+        </c-card>
+      </c-col>
+    
+    
+    </ng-container>
+  </c-col>
+
+</c-row>
+
+</ng-container>
+
+ 
+</c-row>
