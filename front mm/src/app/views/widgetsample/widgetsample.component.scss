@@ -1,0 +1,23 @@
+
+.mat-select {
+  min-width: 155px; 
+  width: auto !important; 
+  max-width: 100%;
+}
+
+.mat-option-text {
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  font-size: small;
+}
+  
+  .dropdown-divider {
+    margin: 5px 0;
+    border-top: 1px solid #ccc;
+  }
+  
+  .dropdown-item {
+    cursor: default;
+  }
+  

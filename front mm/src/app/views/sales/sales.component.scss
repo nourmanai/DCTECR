@@ -1,0 +1,411 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.product-container {
+    display: flex;
+    gap: 20px;
+    perspective: 1000px;
+}
+
+.product-card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+    transform-style: preserve-3d;
+    width: 100%;
+}
+
+.product-card:hover {
+    transform: rotateY(10deg) scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+// .product-card img {
+//     width: 100%;
+//     border-radius: 10px;
+// }
+.product-card img {
+    max-width: 150px; 
+    max-height: 150px; 
+    border-radius: 10px;
+}
+.product-card h2 {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+
+.product-card p {
+    font-size: 1em;
+    color: #888;
+}
+
+/* styles.css */
+.carousel-container {
+    position: relative;
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.carousel {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.product-card {
+    flex: 0 0 25%;
+    max-width: 20%;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.product-card img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.carousel-button.left {
+    left: 10px;
+}
+
+.carousel-button.right {
+    right: 10px;
+}
+
+.carousel-button:focus {
+    outline: none;
+}
+.carousel-title{
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #606060;
+  right: 50%;
+}
+
+.original-price {
+    text-decoration: line-through;
+    color: #999;
+    margin: 10px 10px;
+
+  }
+  
+  .discount {
+    background-color: #eb8407;
+    padding: 2px 10px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    margin: 10px 10px;
+  }
+  .discount-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eb8407;
+    padding: 2px 10px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 10px;
+    margin: 10px 10px;
+  }
+  
+  .discount-tag {
+    margin-right: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .discount-amount {
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .new-price {
+    font-weight: bold;
+    color: #333;
+    margin: 10px 10px;
+
+  }
+
+
+  
+
+.c-dropdown-menu{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+
+}
+.scrollable {
+  max-height: 400px; /* Set a max height for the dropdown */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+/* Styling for each dropdown item */
+.dropdown-item {
+  position: relative;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for dropdown items */
+.dropdown-item:hover {
+  background-color: #f0f0f0;
+}
+
+/* Flexbox layout for the category label and select */
+.category-label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Styling for the material select */
+.mat-select {
+  min-width: 150px;
+}
+
+/* Styling for material options */
+.mat-option {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Nested dropdown menu */
+.c-dropdown-menu .c-dropdown-menu {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  margin-left: 10px;
+  padding: 0;
+  border: 1px solid #ddd;
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: none;
+}
+
+/* Display nested dropdown on parent hover */
+.dropdown-item:hover > .c-dropdown-menu {
+  display: block;
+}
+
+/* Additional styling for dropdown items */
+.dropdown-item > .category-label {
+  font-weight: 500;
+  color: #333;
+}
+
+/* Ensure nested dropdowns are not too wide */
+.mat-select {
+  max-width: 200px;
+}
+
+
+/* app-progress-bar.component.css */
+.high-discount {
+  background-color: rgb(2, 152, 2);
+}
+
+.medium-discount {
+  background-color: orange;
+}
+
+.low-discount {
+  background-color: red;
+}
+
+
+.FilterButton{
+  background-color: transparent; 
+  border: none; 
+  cursor: pointer; 
+}
+
+.filter-container{
+
+  top: calc(100% + 10px);
+  right: 0;
+  min-width: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  font-size: small;
+}
+
+.filterPanel{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.filterItem{
+   flex: 1; 
+   margin-right: 10px;
+   margin-bottom: 20px;
+}
+
+
+
+
+.mat-option-input{
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 1;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+
+}
+
+
+input[type="text"] {
+  position: absolute;
+  right: 0;
+  width: 250px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  border-color: #2b24aa; /* Change border color on focus */
+}
+
+.noResults {
+  text-align: center;
+  font-style: italic;
+  color:  #fb0000;
+  background-color: white;
+}
+.search-container {
+  position: relative;
+  width: 100%; /* Set a specific width for the container */
+  margin-bottom: 10px;
+}
+
+.product-comparison {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+
+}
+
+.product {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  width: 250px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.product h2 {
+  font-size: 18px;
+  color: #333;
+}
+
+.product-name {
+  font-size: 16px;
+  color: #555;
+}
+
+.product-price {
+  font-size: 24px;
+  font-weight: bold;
+  color: #e74c3c;
+}
+
+.cheapest-product {
+  border-color: #2ecc71;
+}
+
+.most-expensive-product {
+  border-color: #e74c3c;
+}
+
+.detailsLink {
+  color: rgb(77, 77, 77);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.detailsLink.active {
+  color: #eb8407;
+  font-weight: normal;
+}
+
+.shipment-detail {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.shipment-detail p {
+  margin: 0;
+}
+
+.shipment-detail strong {
+  font-weight: 600;
+}
+
+.map-container {
+  height: 100%; /* Ensures the map takes up the full height of the parent container */
+  width: 100%;  /* Ensures the map takes up the full width of the parent container */
+  position: relative; /* Ensures the map is positioned correctly within the card */
+  outline: none;    /* Remove any default outline styling */
+}
+
+
+.supplier-filter {
+  display: flex;
+  align-items: center;
+  gap: -20px; /* Adjust this value to control the spacing between elements */
+}
+
+.supplier-filter label {
+  margin-right: 5px; /* Space between the label and the first checkbox */
+}
+
+.supplier-filter mat-checkbox,
+.supplier-filter .FilterButton {
+  margin: 0; /* Remove default margin */
+}
