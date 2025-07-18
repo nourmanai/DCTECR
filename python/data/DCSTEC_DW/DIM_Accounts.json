@@ -1,0 +1,5581 @@
+[{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89548"
+  },
+  "id": 947957610,
+  "name": "Jorge Montano",
+  "username": "BossJMontano",
+  "description": "Soy el rey del mame ~ Marketing digital ~ Compongo, produzco, dirijo, hago estrategia, soy lider de opinión, soy Mexicano y solo me falta un oscar.",
+  "location": "México",
+  "followers_count": 1306013,
+  "posts_count": 2787,
+  "creation_date": "2012/11/14 03:33:53",
+  "lang": "Spanish, Mayan, Nahuatl",
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 4286,
+  "comments_count": 1180,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/908525376468586496/8nZ0j8r6_normal.jpg",
+  "following_count": 1549,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "MXN",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89549"
+  },
+  "id": 17467699,
+  "name": "@nonprofitorgs / Nonprofit Tech for Good",
+  "username": "nonprofitorgs",
+  "description": "Promotes nonprofits doing great work in the world and shares useful digital marketing and fundraising resources. We follow NPOs, NGOs, charities and activists.",
+  "location": "Worldwide",
+  "followers_count": 777363,
+  "posts_count": 32685,
+  "creation_date": "2008/11/18 06:35:40",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.nptechforgood.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 42150,
+  "comments_count": 9746,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1404770214009470979/qLqMoojv_normal.png",
+  "following_count": 367237,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8954a"
+  },
+  "id": 6176772,
+  "name": "Ammar Mohammed",
+  "username": "ammr",
+  "description": "مستشار ومدرب الاعلام الرقمي، ماجستير علاقات عامة وإعلام  Digital Marketing Guru & trainer للإعلانات على الأيميل\nFor PR and Ads:\nammar@qommunication.co",
+  "location": "Qatar",
+  "followers_count": 614504,
+  "posts_count": 96342,
+  "creation_date": "2007/05/20 11:52:24",
+  "lang": "Arabic, English",
+  "url": "http://ammartalk.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 37173,
+  "comments_count": 2287,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1170786147125137411/x78ovuNh_normal.jpg",
+  "following_count": 421766,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "QAR",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8954b"
+  },
+  "id": 991460466407944200,
+  "name": "MONITORING_SPIRIT",
+  "username": "Sonjoe_Kutuh",
+  "description": "Lawyer | Poet | Digital Marketing expert | #KnowYourRight | kutuhsonjoe@gmail.com",
+  "location": "Nigeria",
+  "followers_count": 536188,
+  "posts_count": 101390,
+  "creation_date": "2018/05/01 11:32:50",
+  "lang": "French, Hausa, Djerma",
+  "url": "http://instagram.com/monitoring_spiritt/",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 67227,
+  "comments_count": 275,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1513244907233816579/rmUS6Jb3_normal.jpg",
+  "following_count": 15191,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "XOF",
+  "platform": "Instagram",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8954c"
+  },
+  "id": 15081182,
+  "name": "Warren Whitlock",
+  "username": "WarrenWhitlock",
+  "description": "Founder/CEO Stirling, publishing, influencer, Emerging Tech, NFT, DAO Digital Marketing, Blockchain, AI, Futurist, Advisor, Author, friend",
+  "location": "United States",
+  "followers_count": 487849,
+  "posts_count": 255492,
+  "creation_date": "2008/06/11 03:51:13",
+  "lang": "English, Spanish",
+  "url": "http://WarrenWhitlock.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 24223,
+  "comments_count": 11155,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1473400998357995521/lJCdWuEF_normal.jpg",
+  "following_count": 375271,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8954d"
+  },
+  "id": 8071902,
+  "name": "Reg Saddler",
+  "username": "zaibatsu",
+  "description": "Sharing stuff I find interesting! I❤️#Art #SocialMedia #Science #Tech #AI #DigitalMarketing & #CyberSecurity #Vaccinated #WakandaForever",
+  "location": "United States",
+  "followers_count": 475647,
+  "posts_count": 230199,
+  "creation_date": "2007/08/09 05:27:22",
+  "lang": "English, Spanish",
+  "url": "http://differencetheory.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 14432,
+  "comments_count": 10935,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1765976458/1111_normal.jpg",
+  "following_count": 203867,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8954e"
+  },
+  "id": 14313180,
+  "name": "PuroMarketing.com",
+  "username": "PuroMarketing",
+  "description": "Diario digital Líder de Marketing y publicidad en Español. Marketing online, Social Media, Marketing viral, Branding, Anuncios, inversión publicitaria",
+  "location": "España",
+  "followers_count": 442718,
+  "posts_count": 67592,
+  "creation_date": "2008/04/06 12:04:55",
+  "lang": "Spanish, Catalan, Galician, Basque",
+  "url": "http://www.puromarketing.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 172,
+  "comments_count": 13151,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/983417602583212035/AjCGy0rz_normal.jpg",
+  "following_count": 33426,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "EUR",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8954f"
+  },
+  "id": 139160485,
+  "name": "Martin Souto",
+  "username": "MartinSouto",
+  "description": "Periodismo. Marketing digital. @espnargentina @bigmanagerapp",
+  "location": "unknown",
+  "followers_count": 422497,
+  "posts_count": 19432,
+  "creation_date": "2010/05/01 06:51:53",
+  "lang": "Spanish, English, Italian, German, French",
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 21345,
+  "comments_count": 1503,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1530701703707693056/TDS9IcUp_normal.jpg",
+  "following_count": 520,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "ARS",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89550"
+  },
+  "id": 387637479,
+  "name": "Adam Mayer",
+  "username": "_Adammayer",
+  "description": "Digital investor // Car Fanatic 🏎 // Send me DM for promo & Marketing 📊// #NFTpromoter #NFTs #DYOR #BTC #BNB #SOL #ETH",
+  "location": "unknown",
+  "followers_count": 387551,
+  "posts_count": 32464,
+  "creation_date": "2011/10/09 12:12:06",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://t.me/Adamayer",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 973,
+  "comments_count": 108,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1492546930748104708/_LziLTxv_normal.jpg",
+  "following_count": 348,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89551"
+  },
+  "id": 155629354,
+  "name": "John Squire 🇺🇸",
+  "username": "JuanfraEscudero",
+  "description": "Chief Executive Officer @Gigitalktome The largest digital marketing company in the United States. S&P 500. Influencer. Cryptos. Partner of @Xspectar of #Bitcoin",
+  "location": "United States",
+  "followers_count": 386733,
+  "posts_count": 159101,
+  "creation_date": "2010/06/14 05:27:43",
+  "lang": "English, Spanish",
+  "url": "",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 155942,
+  "comments_count": 1935,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1536275019063562242/6QRi1eu5_normal.jpg",
+  "following_count": 128651,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89552"
+  },
+  "id": 259713560,
+  "name": "Juan Carlos Mejía Llano",
+  "username": "JuanCMejiaLlano",
+  "description": "Consultor, escritor, blogger y speaker. Marketing Digital, Social Media y Transformación Digital. Cuéntame tu necesidad: JCMejiaLlano@gmail.com",
+  "location": "unknown",
+  "followers_count": 367530,
+  "posts_count": 28143,
+  "creation_date": "2011/03/02 12:59:48",
+  "lang": "Spanish",
+  "url": "https://www.juancmejia.com/",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 5537,
+  "comments_count": 9276,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1075778994199498753/rq6YJNqd_normal.jpg",
+  "following_count": 83785,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "COP",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89553"
+  },
+  "id": 15040988,
+  "name": "Geoff De Weaver 🇺🇸🦅",
+  "username": "geoff_deweaver",
+  "description": "Geoff De Weaver is a Proud American | Marketing Expert | Super Strategist | Keynote Speaker | Author | CEO | Digital | #Entrepreneur #Leadership #Crypto #NFT",
+  "location": "United States",
+  "followers_count": 365906,
+  "posts_count": 542368,
+  "creation_date": "2008/06/07 07:49:19",
+  "lang": "English, Spanish",
+  "url": "https://www.linkedin.com/in/geoffdeweaver/",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 239705,
+  "comments_count": 3592,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/914267110787780608/yuNmUgtN_normal.jpg",
+  "following_count": 83323,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "LinkedIn",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89554"
+  },
+  "id": 365101425,
+  "name": "Leandri Janse van Vuuren",
+  "username": "Lean3JvV",
+  "description": "Digital & Social Media Marketing | Managing Director @Social101SA | Business, Technology, Education & Sport | Twitter Top 200 Influential African Women 🇿🇦🌍",
+  "location": "unknown",
+  "followers_count": 364884,
+  "posts_count": 8273,
+  "creation_date": "2011/08/30 09:25:46",
+  "lang": "IsiZulu, IsiXhosa, Afrikaans, Sepedi, English, Setswana, Sesotho, Xitsonga",
+  "url": "https://www.socialmedia101.co.za",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 149198,
+  "comments_count": 750,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1321000211905421313/LYJw--1o_normal.jpg",
+  "following_count": 218349,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "ZAR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89555"
+  },
+  "id": 24538648,
+  "name": "Bizzleosikoya.eth",
+  "username": "bizzleosikoya",
+  "description": "Artist Helper | Talent Developer | A&R | Music & Entertainment Consultant | Digital Marketing. The Plug #ProudToBeMuslim Founder @plugng ♌️🦁",
+  "location": "unknown",
+  "followers_count": 358929,
+  "posts_count": 368730,
+  "creation_date": "2009/03/15 03:39:03",
+  "lang": "French, Hausa, Djerma",
+  "url": "",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 251946,
+  "comments_count": 341,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1488638459610902532/rrXc_SX5_normal.jpg",
+  "following_count": 14464,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "XOF",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89556"
+  },
+  "id": 969622165,
+  "name": "Cinemapatti",
+  "username": "cinemapatti",
+  "description": "@cinemapatti is the Leading Digital Media Marketing Channel in South Indian Cinema\n📳 \n8248265306 / cinemapatti3@gmail.com",
+  "location": "unknown",
+  "followers_count": 352563,
+  "posts_count": 53752,
+  "creation_date": "2012/11/25 07:54:44",
+  "lang": "Hindi, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi, dialects",
+  "url": "https://youtube.com/c/Cinemapatti3",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 220,
+  "comments_count": 76,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1168153355790667778/ObPx6J1I_normal.jpg",
+  "following_count": 191,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "INR",
+  "platform": "YouTube",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89557"
+  },
+  "id": 35704105,
+  "name": "Louis-Serge Real del Sarte",
+  "username": "LouisSerge",
+  "description": "Director of Marketing & Communication @SFA_enviro. CEO @YLFLY_France & @easyBourse founder. #DigitalMarketing #Author #WasteWater #SFAenvironnement",
+  "location": "France",
+  "followers_count": 319206,
+  "posts_count": 64453,
+  "creation_date": "2009/04/27 08:58:14",
+  "lang": "French",
+  "url": "https://www.ylfly.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 22566,
+  "comments_count": 1810,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1435938108600631297/O79IQrEh_normal.jpg",
+  "following_count": 101305,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "EUR",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89558"
+  },
+  "id": 1338919003712942000,
+  "name": "draco",
+  "username": "dracotu",
+  "description": "22 | Digital Marketing Agent 📈 DM For Promotion 📥",
+  "location": "unknown",
+  "followers_count": 304574,
+  "posts_count": 6824,
+  "creation_date": "2020/12/15 06:49:10",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 5783,
+  "comments_count": 7,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1514519793662980097/TfSgiPGx_normal.jpg",
+  "following_count": 7319,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89559"
+  },
+  "id": 124971652,
+  "name": "AURACOOL",
+  "username": "TWEETORACLE",
+  "description": "Award Winning Influencer |Verified Thought Leader | Digital Marketing Veteran | Founder & CEO, AURACOOL DIGITAL MEDIA LTD",
+  "location": "unknown",
+  "followers_count": 303520,
+  "posts_count": 6522,
+  "creation_date": "2010/03/21 06:38:15",
+  "lang": "French, Hausa, Djerma",
+  "url": "http://auracooldigital.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 33978,
+  "comments_count": 653,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1528759557006274561/9hpA9wHc_normal.jpg",
+  "following_count": 41442,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "XOF",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8955a"
+  },
+  "id": 760180064793333800,
+  "name": "SP Agency",
+  "username": "Sensual_Posts",
+  "description": "Social Media Services \nWe are experts in digital marketing, and we will help you grow your business 😊\nDM For Promo\n\nFind the best content here :)",
+  "location": "unknown",
+  "followers_count": 300725,
+  "posts_count": 1322003,
+  "creation_date": "2016/08/01 06:27:05",
+  "lang": "Brasilian,Portuguese, Spanish",
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 7597,
+  "comments_count": 1385,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1540317130029244416/jWQ0jXKI_normal.jpg",
+  "following_count": 589,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "BRL",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8955b"
+  },
+  "id": 84199959,
+  "name": "Pedro Guadalupe",
+  "username": "GuadalupeMagico",
+  "description": "Mágico e profissional de marketing digital. Diretor do Portal Bhaz. Futuro Cineasta de Filmes de Terror.",
+  "location": "unknown",
+  "followers_count": 282919,
+  "posts_count": 48298,
+  "creation_date": "2009/10/22 12:34:44",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://t.co/IAGQ8fayGL",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 1700,
+  "comments_count": 2669,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/526880932087623680/bJRVUm0I_normal.jpeg",
+  "following_count": 784,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8955c"
+  },
+  "id": 1700426708,
+  "name": "Jody Barrett #ShowoffByDesign",
+  "username": "ShowoffByDesign",
+  "description": "Digital Marketing Expert, Chief Digital Officer. Guest Speaker. Featured:HuffPo, Haute Living,NY Resident,Page Six,Health Digest #NYC #LongIsland",
+  "location": "United States",
+  "followers_count": 267272,
+  "posts_count": 72515,
+  "creation_date": "2013/08/25 11:28:26",
+  "lang": "English, Spanish",
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 104310,
+  "comments_count": 2282,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1221213060372647937/KBdyfPLj_normal.jpg",
+  "following_count": 242268,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8955d"
+  },
+  "id": 262842638,
+  "name": "roastbrief",
+  "username": "roastbrief",
+  "description": "Roastbrief es un medio creador de conocimiento original sobre publicidad, marketing, digital e innovación.",
+  "location": "unknown",
+  "followers_count": 263269,
+  "posts_count": 70361,
+  "creation_date": "2011/03/08 09:42:20",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.roastbrief.com.mx",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 36272,
+  "comments_count": 4111,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1268990733618343936/O5QMO1af_normal.jpg",
+  "following_count": 176211,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8955e"
+  },
+  "id": 7087112,
+  "name": "CampaignTechUK",
+  "username": "CampaignTechUK",
+  "description": "@Campaignmag's handle for tech, social and digital news for the ad, marketing and media industries.",
+  "location": "United Kingdom",
+  "followers_count": 256927,
+  "posts_count": 54633,
+  "creation_date": "2007/06/26 10:23:49",
+  "lang": "English, Welsh, Scots Gaelic, Irish, Ulster Scots, Cornish",
+  "url": "http://www.campaignlive.co.uk/",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 8895,
+  "comments_count": 8812,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/866675970996129793/WsYgUcTQ_normal.jpg",
+  "following_count": 21519,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "GBP",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8955f"
+  },
+  "id": 346222084,
+  "name": "Anthonia Orji",
+  "username": "AnthoniaOrji",
+  "description": "Digital & Social Media Marketing | Community Management | RT ≠ Endorsement.",
+  "location": "Nigeria",
+  "followers_count": 256826,
+  "posts_count": 116187,
+  "creation_date": "2011/07/31 10:52:46",
+  "lang": "French, Hausa, Djerma",
+  "url": "",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 15330,
+  "comments_count": 510,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1537486225900199936/XjtB0OQX_normal.jpg",
+  "following_count": 103033,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "XOF",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89560"
+  },
+  "id": 17982756,
+  "name": "Wandia ツ",
+  "username": "Wandiasinfo",
+  "description": "Digital marketing swiss army knife helping brands engage efficiently for higher profits & publicity @Reactionpower. Can't spell awesome without me:)",
+  "location": "unknown",
+  "followers_count": 252251,
+  "posts_count": 9018,
+  "creation_date": "2008/12/09 03:34:03",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.wandia.info",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 38591,
+  "comments_count": 483,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1452776227882733569/7tITj_-p_normal.jpg",
+  "following_count": 50978,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89561"
+  },
+  "id": 16419153,
+  "name": "WordStream by LOCALiQ",
+  "username": "WordStream",
+  "description": "Your go-to resource for digital marketing tips and strategies to help you learn, grow, and succeed.",
+  "location": "United States",
+  "followers_count": 239455,
+  "posts_count": 39016,
+  "creation_date": "2008/09/23 01:53:25",
+  "lang": "English, Spanish",
+  "url": "http://wordstream.com/",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 28007,
+  "comments_count": 4949,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1470838322901749763/a9fa4ckF_normal.jpg",
+  "following_count": 30867,
+  "category": "brand",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89562"
+  },
+  "id": 725022830581190700,
+  "name": "Jagrit.eth",
+  "username": "bigger",
+  "description": "⚡Founder @SuperApesClub. A serial entrepreneur with over a decade of experience in Digital Marketing. #NFTs and Good Vibes. NOT financial advise & DYOR.",
+  "location": "unknown",
+  "followers_count": 239018,
+  "posts_count": 2641,
+  "creation_date": "2016/04/26 06:04:47",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://Jagrit.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 668930,
+  "comments_count": 198,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1527745924071624705/Iq7Bv-W2_normal.jpg",
+  "following_count": 61942,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89563"
+  },
+  "id": 69080516,
+  "name": "Abel Premnath V",
+  "username": "SouthINDGoogly",
+  "description": "Captivating Posts☕️\nNature Lover🏞️\n\n|| Personal Finance💜 Branding💜 Digital Marketing ||\n\nPerseverant | Multitasker | Ambidextrous | Omnivert | Philanthropist",
+  "location": "India",
+  "followers_count": 230498,
+  "posts_count": 13326,
+  "creation_date": "2009/08/26 08:06:35",
+  "lang": "Hindi, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi, dialects",
+  "url": "https://www.linkedin.com/in/southindgoogly/",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 84188,
+  "comments_count": 1355,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1481651999787876352/F5aB9SP8_normal.jpg",
+  "following_count": 227236,
+  "category": "celebrities",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "INR",
+  "platform": "LinkedIn",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89564"
+  },
+  "id": 16392208,
+  "name": "Martin Jones",
+  "username": "martinjonesaz",
+  "description": "Leading content #marketing, #social media, and #contentmarketing digital strategist. Writer, author & nationally recognized keynote speaker.",
+  "location": "unknown",
+  "followers_count": 228719,
+  "posts_count": 49212,
+  "creation_date": "2008/09/21 04:19:53",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 17839,
+  "comments_count": 5799,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/933143867456499712/qaZmAvQM_normal.jpg",
+  "following_count": 81251,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89565"
+  },
+  "id": 160896375,
+  "name": "TemanCEO",
+  "username": "Teman_CEO",
+  "description": "☁️Custom Software 🎨Creative Design 🌐Digital Marketing 😎Recruitment 🖼Social Media Management 👩‍💻Virtual Assistant\nhttp://www.teman.ceo",
+  "location": "unknown",
+  "followers_count": 226494,
+  "posts_count": 18302,
+  "creation_date": "2010/06/29 12:06:30",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.teman.ceo",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 1090,
+  "comments_count": 190,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1369185642232438785/A5qlinPe_normal.jpg",
+  "following_count": 2,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89566"
+  },
+  "id": 16438898,
+  "name": "🇺🇦 Neal Schaffer | ニール・シェーファー｜#StandWithUkraine",
+  "username": "NealSchaffer",
+  "description": "Author, The Age of Influence #influencermarketing | Digital Social Media Marketing Speaker, Consultant, Coach & Educator | New interest in #NFTs #crypto #web3",
+  "location": "unknown",
+  "followers_count": 225027,
+  "posts_count": 237105,
+  "creation_date": "2008/09/24 07:13:56",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://nealschaffer.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 72672,
+  "comments_count": 11695,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/622580869652328448/yYdwuOKs_normal.jpg",
+  "following_count": 70833,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89567"
+  },
+  "id": 11833202,
+  "name": "Econsultancy",
+  "username": "Econsultancy",
+  "description": "We help you and your business achieve excellence in digital marketing and ecommerce.",
+  "location": "United States",
+  "followers_count": 220628,
+  "posts_count": 62119,
+  "creation_date": "2008/01/04 09:40:55",
+  "lang": "English, Spanish",
+  "url": "http://Econsultancy.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 17692,
+  "comments_count": 11133,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1210527147674214400/w88myctW_normal.jpg",
+  "following_count": 1214,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89568"
+  },
+  "id": 43475901,
+  "name": "Virendra Verma",
+  "username": "VirendraSEO",
+  "description": "#DigitalMarketing and #DigitalAnalytics Consultant. #SocialInfluencer #Blogger #SocialMedia Evangelist. Passionate about people, processes, and strategy.",
+  "location": "unknown",
+  "followers_count": 216255,
+  "posts_count": 107,
+  "creation_date": "2009/05/30 03:55:46",
+  "lang": "Hindi, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi, dialects",
+  "url": "https://www.instagram.com/virendraseo/",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 166,
+  "comments_count": 1747,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1027155110940434433/GR7xarBE_normal.jpg",
+  "following_count": 217089,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "INR",
+  "platform": "Instagram",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89569"
+  },
+  "id": 739396010,
+  "name": "Ty The Creator",
+  "username": "TyIsDigital",
+  "description": "26 • Digital Marketing | Crypto | @BamTheDb 🤍🕊 @304Elite",
+  "location": "unknown",
+  "followers_count": 215504,
+  "posts_count": 14282,
+  "creation_date": "2012/08/05 10:59:24",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://instagram.com/TyIsDigital",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 21359,
+  "comments_count": 149,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1524598078652755969/0aRH0LN8_normal.jpg",
+  "following_count": 179980,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Instagram",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8956a"
+  },
+  "id": 3041305312,
+  "name": "THÉ Àlláñ Cöüñtý 🇺🇬",
+  "username": "AllanSseky",
+  "description": "The most funny Manchester United Chemical Engineer who doesn't give an F about any criticism and I love Scooby-Doo cartoons.😂 Digital Marketing Guru 💯",
+  "location": "Uganda",
+  "followers_count": 211763,
+  "posts_count": 130729,
+  "creation_date": "2015/02/16 07:16:11",
+  "lang": "English, Swahili, Ganda, Nyankole, Kiga, Luo, Lusoga, Ateso, Acholi",
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 165937,
+  "comments_count": 90,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1503269242887618561/qd6VqCDm_normal.jpg",
+  "following_count": 36309,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "UGX",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8956b"
+  },
+  "id": 47030292,
+  "name": "Mike Schiemer",
+  "username": "MikeSchiemer",
+  "description": "SEO & Digital Marketing Consultant | Blogger Outreach | Backlinks Builder | Frugal Entrepreneur | Business Owner | Bootstrapped Founder | https://t.co/jPXWS7wosi",
+  "location": "unknown",
+  "followers_count": 210443,
+  "posts_count": 150404,
+  "creation_date": "2009/06/14 04:11:34",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.MyFrugalBusiness.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 95091,
+  "comments_count": 6989,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1057079097443012608/aGIfP75w_normal.jpg",
+  "following_count": 141112,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8956c"
+  },
+  "id": 1501003507687690200,
+  "name": "Ace 🪬",
+  "username": "AcePromotes",
+  "description": "Digital Marketing Expert 🤓 • Specializing in all things #Crypto the future of Web3 🌐 || Dm for promo 💌",
+  "location": "unknown",
+  "followers_count": 205213,
+  "posts_count": 1417,
+  "creation_date": "2022/03/08 01:15:07",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 4449,
+  "comments_count": 6,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1535133036886507520/st3AVzdy_normal.jpg",
+  "following_count": 1410,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8956d"
+  },
+  "id": 377590058,
+  "name": "Xoli",
+  "username": "Undlunkulu_Xoli",
+  "description": "MBA candidate | Digital Lead | 2x @ukzn Graduate | @meta Certified Digital Marketing Associate | BCom Hon. in Marketing | Golden Key | Own Views | Check Likes",
+  "location": "unknown",
+  "followers_count": 205133,
+  "posts_count": 78906,
+  "creation_date": "2011/09/21 08:23:24",
+  "lang": "IsiZulu, IsiXhosa, Afrikaans, Sepedi, English, Setswana, Sesotho, Xitsonga",
+  "url": "https://www.linkedin.com/in/xolisilembhele/",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 12691,
+  "comments_count": 50,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1537378105014333440/ArDFz8Gj_normal.jpg",
+  "following_count": 88441,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "ZAR",
+  "platform": "LinkedIn",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8956e"
+  },
+  "id": 130523618,
+  "name": "Nestor Orjuela",
+  "username": "nestororjuela",
+  "description": "System Engineer | Technology Management Specialists | Webmaster | Developer | Innovation | Technology | SocialMedia | CommunityManager | Digital Marketing | MBA",
+  "location": "unknown",
+  "followers_count": 204954,
+  "posts_count": 22742,
+  "creation_date": "2010/04/07 02:53:11",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.nestororjuela.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 5942,
+  "comments_count": 175,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1006734510287998976/RiI0kJYl_normal.jpg",
+  "following_count": 319,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8956f"
+  },
+  "id": 63176175,
+  "name": "SalvatoreCrypto",
+  "username": "sDanieleGalipo",
+  "description": "Marketing Digital🔥 | Send DM for marketing campaigns 🚀 | #ETH #BSC #SOL | Love Travel 🌍🛩",
+  "location": "unknown",
+  "followers_count": 204090,
+  "posts_count": 23111,
+  "creation_date": "2009/08/05 04:18:08",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 3619,
+  "comments_count": 6994,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1479137764033638406/pQbVC_Ip_normal.jpg",
+  "following_count": 1343,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89570"
+  },
+  "id": 134700704,
+  "name": "Sai Krishna D",
+  "username": "sainaresh81",
+  "description": "Digital Marketing Consultant",
+  "location": "unknown",
+  "followers_count": 202913,
+  "posts_count": 32697,
+  "creation_date": "2010/04/19 05:55:20",
+  "lang": "Hindi, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi, dialects",
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 13805,
+  "comments_count": 1359,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/652482162512424960/KdzfsMLp_normal.jpg",
+  "following_count": 222611,
+  "category": "celebrities",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "INR",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89571"
+  },
+  "id": 819250398,
+  "name": "GfxTown",
+  "username": "GfxTown",
+  "description": "‏‏‏GFX \n\nتساعدك للوصول إلى عملائك بشكل قوي وفاعل\n#GFXTOWN #motiongraphics #marketing #digitalmarketing #infograghic",
+  "location": "unknown",
+  "followers_count": 195201,
+  "posts_count": 56198,
+  "creation_date": "2012/09/12 10:05:27",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 240,
+  "comments_count": 237,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1308009516429180935/4E5mqQTu_normal.jpg",
+  "following_count": 116,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89572"
+  },
+  "id": 141758206,
+  "name": "Marketing Hoy",
+  "username": "MarketingHoy",
+  "description": "Portal Digital especializado en #Marketing, #Publicidad y #Social Media. Fundador Gonzalo Ladeira @gladeira28\n\n#Chile #Perú",
+  "location": "unknown",
+  "followers_count": 191216,
+  "posts_count": 3866,
+  "creation_date": "2010/05/08 11:56:58",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.marketinghoy.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 261,
+  "comments_count": 3669,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1252278702160908289/nW_Unu0n_normal.jpg",
+  "following_count": 10,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89573"
+  },
+  "id": 20640328,
+  "name": "Digiday",
+  "username": "Digiday",
+  "description": "Authority, insight, and honesty on digital media and marketing.",
+  "location": "United States",
+  "followers_count": 189869,
+  "posts_count": 89735,
+  "creation_date": "2009/02/11 11:40:05",
+  "lang": "English, Spanish",
+  "url": "http://www.digiday.com/",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 6602,
+  "comments_count": 6777,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1500855665111277577/lvfTJgCl_normal.jpg",
+  "following_count": 4322,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89574"
+  },
+  "id": 15662446,
+  "name": "Avinash Kaushik",
+  "username": "avinash",
+  "description": "Author, Web Analytics 2.0 & Web Analytics: An Hour A Day | Digital Marketing Evangelist, Google | Newsletter: http://zqi.me/signuptmai",
+  "location": "unknown",
+  "followers_count": 186584,
+  "posts_count": 23068,
+  "creation_date": "2008/07/30 04:40:56",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://kaushik.net/avinash",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 12,
+  "comments_count": 10848,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1410216110/avinash_kaushik_by_simon_birkenhead_normal.jpg",
+  "following_count": 88,
+  "category": "celebrities",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89575"
+  },
+  "id": 1246813410479628300,
+  "name": "Elf | Marketing Agent",
+  "username": "elfshiller",
+  "description": "CRYPTO PROMOTER 🚀 DIGITAL MARKETING MANAGER 🧝 DM FOR PROMO 📥 EARLY INVESTOR ON #SOLANA 💵",
+  "location": "United States",
+  "followers_count": 184874,
+  "posts_count": 8847,
+  "creation_date": "2020/04/05 02:54:37",
+  "lang": "English, Spanish",
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 26178,
+  "comments_count": 362,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1494403066820448257/eo5sN2fE_normal.jpg",
+  "following_count": 970,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89576"
+  },
+  "id": 720854836418228200,
+  "name": "NFT King™",
+  "username": "NFTking_ethsol",
+  "description": "Digital Marketing & Web 3 Specialist🕷️Selling\nout projects via Organic engagement📈 DM for\nsuccess🚀",
+  "location": "unknown",
+  "followers_count": 181056,
+  "posts_count": 39,
+  "creation_date": "2016/04/15 06:02:40",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 216,
+  "comments_count": 186,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1542991838281633793/BgZqm1kx_normal.jpg",
+  "following_count": 23936,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89577"
+  },
+  "id": 715797742036062200,
+  "name": "Growth Hackers 🚀",
+  "username": "StartGrowthHack",
+  "description": "Grow your business with https://t.co/QkP1YMqmN5\nAward-Winning Growth Hacking Agency | Lead Generation | User Acquisition | Digital Marketing | Sales | Branding...",
+  "location": "unknown",
+  "followers_count": 178142,
+  "posts_count": 91368,
+  "creation_date": "2016/04/01 07:07:35",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.growth-hackers.net/contact",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 65719,
+  "comments_count": 2629,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1303560724988395520/FT9pk2Om_normal.jpg",
+  "following_count": 116603,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89578"
+  },
+  "id": 28405767,
+  "name": "John Lincoln",
+  "username": "johnelincoln",
+  "description": "MBA, Investor, 2x Author, Expert Digital Marketing Consultant, CEO @ignitev one of the top performance based marketing agencies in USA and 5x Inc. 5000 company",
+  "location": "unknown",
+  "followers_count": 172127,
+  "posts_count": 27780,
+  "creation_date": "2009/04/02 07:53:54",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://ignitevisibility.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 5070,
+  "comments_count": 1793,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/823967681673969664/qYODn6Pq_normal.jpg",
+  "following_count": 71526,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89579"
+  },
+  "id": 145305040,
+  "name": "Marji J. Sherman",
+  "username": "MarjiJSherman",
+  "description": "Christian | VP, #DigitalMarketing #SocialMedia @CognitoMedia | #Metaverse + #NFT Expert | Influencer of the Year | Wife to J | Mama to Chewi + Vivi",
+  "location": "United States",
+  "followers_count": 168460,
+  "posts_count": 70855,
+  "creation_date": "2010/05/18 04:48:19",
+  "lang": "English, Spanish",
+  "url": "http://marjijsherman.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 20408,
+  "comments_count": 3359,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1537554707853484034/Yh1bz1ho_normal.jpg",
+  "following_count": 114800,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8957a"
+  },
+  "id": 367456494,
+  "name": "Ryann McEnany",
+  "username": "RyannMcEnany",
+  "description": "Ecclesiastes 3:11 | Digital Marketing & Brand Communications Strategist | Former @GatorsTF Athlete",
+  "location": "unknown",
+  "followers_count": 168269,
+  "posts_count": 7438,
+  "creation_date": "2011/09/04 12:42:28",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://americafirstpolicy.com",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 8971,
+  "comments_count": 245,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1413365544208773121/TyDOl9ph_normal.jpg",
+  "following_count": 1033,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8957b"
+  },
+  "id": 1335312702,
+  "name": "Martin Meister G.",
+  "username": "MartinMeisterG",
+  "description": "Director Clase Ejecutiva UC Universidad Católica de Chile. MSc Marketing de Boston University. Libro Marketing Digital en acción http://amazon.com/dp/B09P458XZY",
+  "location": "Chile",
+  "followers_count": 165812,
+  "posts_count": 27439,
+  "creation_date": "2013/04/07 11:37:22",
+  "lang": "Spanish",
+  "url": "https://www.martinmeister.cl",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 86,
+  "comments_count": 878,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1118322741675986944/5UoZ0D3c_normal.jpg",
+  "following_count": 118824,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "CLP",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8957c"
+  },
+  "id": 3351790911,
+  "name": "Janet Machuka",
+  "username": "janetmachuka_",
+  "description": "I'll help you with digital marketing. Co-founder @AfricaTweetChat @Sparks_Corp. Top Content Mkg Influencer. Featured @Talkwalker, @Semrush & loves documentaries",
+  "location": "unknown",
+  "followers_count": 162467,
+  "posts_count": 120653,
+  "creation_date": "2015/06/30 02:15:08",
+  "lang": "English, Swahili, African languages",
+  "url": "http://janetmachuka.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 74060,
+  "comments_count": 569,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1524797123228848130/Njr-uK9Z_normal.jpg",
+  "following_count": 9791,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "KES",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8957d"
+  },
+  "id": 26941928,
+  "name": "Stan Fossum",
+  "username": "stanfossum",
+  "description": "Digital Identity Marketing Specialist, Cost-Effective Social Media Manager, Local & National Brand Builder, #GhostKitchen Advocate, Award-Winning Restaurateur",
+  "location": "United States",
+  "followers_count": 161272,
+  "posts_count": 8770,
+  "creation_date": "2009/03/27 03:43:24",
+  "lang": "English, Spanish",
+  "url": "https://t.co/JSZvBE7Z2S",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 43,
+  "comments_count": 1276,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1337556341615816705/emRmOy1x_normal.jpg",
+  "following_count": 178617,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8957e"
+  },
+  "id": 245731917,
+  "name": "Virendra Verma",
+  "username": "VirendraSMO",
+  "description": "#DigitalMarketing Consultant & #SocialMediaInfluencer. Helping business grow organically !",
+  "location": "unknown",
+  "followers_count": 159895,
+  "posts_count": 753,
+  "creation_date": "2011/02/01 10:31:51",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://bit.ly/3cgZCah",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 195,
+  "comments_count": 870,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/3348235900/df775068deaf05ccabc4d60d1b481679_normal.jpeg",
+  "following_count": 161179,
+  "category": "celebrities",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8957f"
+  },
+  "id": 1147969726376816600,
+  "name": "Kidudu Mtu JŔ ",
+  "username": "anuskills3",
+  "description": "||social networker||Marketer|| Fan of ||@yangasc1935||@Manutd||@FCBarcelona||Creative||Digital marketing||",
+  "location": "unknown",
+  "followers_count": 157740,
+  "posts_count": 145253,
+  "creation_date": "2019/07/07 08:44:45",
+  "lang": "Swahili, English, Arabic, indigenous languages",
+  "url": "https://twitter.com/anuskills3/status/1493615344631652366?s=21",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 279677,
+  "comments_count": 14,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1474345336202276867/BLd0GLig_normal.jpg",
+  "following_count": 1400,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "TZS",
+  "platform": "Twitter",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89580"
+  },
+  "id": 1096089985,
+  "name": "Master Gee 👑",
+  "username": "Gomolemo_17",
+  "description": "IG: Gomolemo_17 | UFS Marketing graduate🎓| Digital Marketer | DJ | DM for promos | Food | Motivational | Funny | God is Great |",
+  "location": "South Africa",
+  "followers_count": 155352,
+  "posts_count": 247160,
+  "creation_date": "2013/01/16 07:11:33",
+  "lang": "IsiZulu, IsiXhosa, Afrikaans, Sepedi, English, Setswana, Sesotho, Xitsonga",
+  "url": "https://m.youtube.com/c/gomolemoseitlhamo",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 271343,
+  "comments_count": 47,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1302126024810016772/f3JRcXDN_normal.jpg",
+  "following_count": 30441,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "ZAR",
+  "platform": "YouTube",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89581"
+  },
+  "id": 235102332,
+  "name": "Brian Mawdsley",
+  "username": "brianmawdsley",
+  "description": "I am a Digital Marketing Specialist, ran a digital agency for 8 years,  I am looking for new opportunities in an established business.",
+  "location": "unknown",
+  "followers_count": 154934,
+  "posts_count": 104511,
+  "creation_date": "2011/01/07 10:46:16",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.linkedin.com/in/brianmawdsley/",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 4958,
+  "comments_count": 1156,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1538993500972269576/CcQGb17E_normal.png",
+  "following_count": 41324,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "LinkedIn",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89582"
+  },
+  "id": 16934205,
+  "name": "Amy Porterfield",
+  "username": "AmyPorterfield",
+  "description": "Online Marketing Educator | Helping entrepreneurs build engaged email lists, digital courses, and profitable webinars. ✨ Check it out! 👉 https://t.co/X6ZiVr9QVA",
+  "location": "United States",
+  "followers_count": 151462,
+  "posts_count": 7607,
+  "creation_date": "2008/10/23 07:53:42",
+  "lang": "English, Spanish",
+  "url": "https://www.amyporterfield.com/podcast",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 1005,
+  "comments_count": 7267,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1306741028469141509/hXK64Zmi_normal.jpg",
+  "following_count": 45653,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89583"
+  },
+  "id": 851392239389605900,
+  "name": "THE NFTs EMPIRE",
+  "username": "TheNftsEmpire",
+  "description": "Nfts and Crypto project promoter & investor with over a decade of experience in digital marketing 🕊️Artist of week-@polkacity @loopworms Dm for inquiries📩",
+  "location": "unknown",
+  "followers_count": 147312,
+  "posts_count": 380,
+  "creation_date": "2017/04/10 11:11:42",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 2932,
+  "comments_count": 30,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1530158578400497665/8b023zSP_normal.jpg",
+  "following_count": 17,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89584"
+  },
+  "id": 1564878702,
+  "name": "Alfonso Caro",
+  "username": "AlfonsocaroVe",
+  "description": "-Experto en Marketing Político y Marketing Digital -Condecorado con la Orden Honor Al Merito del Buen Ciudadano -exiliado",
+  "location": "unknown",
+  "followers_count": 146533,
+  "posts_count": 148755,
+  "creation_date": "2013/07/03 05:06:09",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.instagram.com/Alfonsocarove/?hl=es-la",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 9238,
+  "comments_count": 12,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1491334664405016576/F9KRqxWb_normal.jpg",
+  "following_count": 16545,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Instagram",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89585"
+  },
+  "id": 1005719437,
+  "name": "Alejandra Soriano 🧜‍♀️",
+  "username": "sirena_magica",
+  "description": "Marketing Digital y Diseño gráfico.",
+  "location": "unknown",
+  "followers_count": 145570,
+  "posts_count": 22315,
+  "creation_date": "2012/12/12 06:17:15",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 85424,
+  "comments_count": 277,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1291778896933859328/SO8nJkxq_normal.jpg",
+  "following_count": 476,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89586"
+  },
+  "id": 21184213,
+  "name": "Mad As A March Hare",
+  "username": "twowitwowoo",
+  "description": "A jolly good digital marketing company with a heart and a sense of humour.",
+  "location": "unknown",
+  "followers_count": 145469,
+  "posts_count": 53686,
+  "creation_date": "2009/02/18 10:18:18",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.madasamarchhare.com/",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 6984,
+  "comments_count": 1738,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1146869564812267520/K2PN4BKL_normal.png",
+  "following_count": 64655,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89587"
+  },
+  "id": 248135834,
+  "name": "Prodigia .:. Marketing Digital",
+  "username": "Prodigia",
+  "description": "Consultora de #Marketing Digital desde el año 2000. #Drupal & Business Analytics. Equipo de MBAs, ingenieros, publicistas, creativos y marketinianos. ISO 9001",
+  "location": "unknown",
+  "followers_count": 143595,
+  "posts_count": 30264,
+  "creation_date": "2011/02/06 09:56:22",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.prodigia.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 99,
+  "comments_count": 2559,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/774183372566384640/HoGXfeHU_normal.jpg",
+  "following_count": 80450,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89588"
+  },
+  "id": 10457232,
+  "name": "Nadia Molina",
+  "username": "nadia_molina",
+  "description": "Content - Digital - Marketing. @KTBOAgency Podcast en Spotify: http://sptfy.com/nadia_molina Pronombres: ella/she",
+  "location": "unknown",
+  "followers_count": 141788,
+  "posts_count": 29827,
+  "creation_date": "2007/11/22 02:17:07",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://sptfy.com/nadia_molina",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 8805,
+  "comments_count": 2331,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1407779497118781442/xMcXJB-M_normal.jpg",
+  "following_count": 6479,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89589"
+  },
+  "id": 106513394,
+  "name": "Suresh Nakhua (सुरेश नाखुआ) 🇮🇳",
+  "username": "SureshNakhua",
+  "description": "Official Spokesperson, @BJP4Mumbai | \nDigital Marketing Consultant | \nViews Personal | RT, Like ≠ Endorsement |\nLinkedIn : http://linkedin.com/in/sureshnakhua",
+  "location": "India",
+  "followers_count": 140215,
+  "posts_count": 395903,
+  "creation_date": "2010/01/19 08:23:27",
+  "lang": "Hindi, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi, dialects",
+  "url": "http://bjp.org",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 31045,
+  "comments_count": 373,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1540991386639405059/QXSUyxzS_normal.jpg",
+  "following_count": 7629,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "INR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8958a"
+  },
+  "id": 1952076517,
+  "name": "Phil Glutting",
+  "username": "PhilGlutting",
+  "description": "Owner of #SMMarketing company. Specialize in LinkedIn, Twitter Growth, Lead Generation. Growth Hacker.  #Christ Is My Foundation. #digitalmarketing",
+  "location": "unknown",
+  "followers_count": 137903,
+  "posts_count": 166006,
+  "creation_date": "2013/10/10 03:58:45",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://t.co/qkhceue89V",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 50924,
+  "comments_count": 1745,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/561223833974104065/URHIBNDZ_normal.jpeg",
+  "following_count": 144083,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8958b"
+  },
+  "id": 191346389,
+  "name": "Florence Naluyimba BLONDEL",
+  "username": "Floramujaasi",
+  "description": "Journo|MSc #Pop Dev't @LSEnews #God #DementiaFriend #SRHR #MenstruationMatters #Environment #Digitalmarketing #Arsenal #PWJK💚No BS🙅🏾‍♀️ SB's🌼 @inourworldafj",
+  "location": "unknown",
+  "followers_count": 137553,
+  "posts_count": 12417,
+  "creation_date": "2010/09/16 06:30:33",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://florenceblondel.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 22739,
+  "comments_count": 74,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1447579400824836099/QlS1g8zQ_normal.jpg",
+  "following_count": 78324,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8958c"
+  },
+  "id": 46191548,
+  "name": "Rafael C 👑",
+  "username": "rafots",
+  "description": "#cryptocurrency enthusiast #bitcoin  📷 Photo fan 📸  #CruzAzul ⚽️ Digital Marketer - MBA #Marketing🏅 - Echando a perder se Emprende 👊🏼 #IT #Tech",
+  "location": "unknown",
+  "followers_count": 137535,
+  "posts_count": 69444,
+  "creation_date": "2009/06/10 06:50:12",
+  "lang": "Spanish, Mayan, Nahuatl",
+  "url": "http://yanotengo.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 87692,
+  "comments_count": 418,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1010735634925981696/gByhQwwO_normal.jpg",
+  "following_count": 3959,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "MXN",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8958d"
+  },
+  "id": 1022870651391094800,
+  "name": "Amr Ghaly",
+  "username": "Amr_Ghaly",
+  "description": "Digital Marketing Manager at \n@UnitedDevGroup\n\nDigital Marketing Manager at bee interactive(@PyramidsFC) \nSocial Media Coordinator at @ONTimeSports - @dmctv",
+  "location": "unknown",
+  "followers_count": 137468,
+  "posts_count": 99,
+  "creation_date": "2018/07/27 03:45:42",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 1,
+  "comments_count": 100,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1532305758112690176/pZCeh_iI_normal.jpg",
+  "following_count": 74,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8958e"
+  },
+  "id": 49960597,
+  "name": "@zambamarketing",
+  "username": "zambamarketing",
+  "description": "Zamba Marketing Digital\nSkype: zambamarketing\nWhatsApp +55 17 99676 0122",
+  "location": "Brasil",
+  "followers_count": 136512,
+  "posts_count": 16758,
+  "creation_date": "2009/06/23 12:23:29",
+  "lang": "Brasilian,Portuguese, Spanish",
+  "url": "https://t.co/qw6A8mzrtN",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 35,
+  "comments_count": 68,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1246620974252003330/efrEyk65_normal.jpg",
+  "following_count": 12111,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "BRL",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8958f"
+  },
+  "id": 214536193,
+  "name": "ALFREDO BARULLI 💎",
+  "username": "AlfredBarulli",
+  "description": "Full-time Traveler Influencer🌴 Crypto Addicted💥 CEO of Digital Marketing Agency📮for personalised your needs bringing to the next level📈 #bnb #btc #eth #nfts",
+  "location": "unknown",
+  "followers_count": 136249,
+  "posts_count": 14596,
+  "creation_date": "2010/11/11 04:48:41",
+  "lang": "Arabic, English",
+  "url": "http://www.10xexperts.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 1265,
+  "comments_count": 586,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1533851974470447105/Q_4s0NCD_normal.jpg",
+  "following_count": 44,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "AED",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89590"
+  },
+  "id": 26735842,
+  "name": "Remi Vee 🛡️",
+  "username": "Remi_Vladuceanu",
+  "description": "#Blogger | #SocialMedia | #DigitalMarketing | #Cryptocurrency | #Blockchain | #Bitcoin | #investing",
+  "location": "unknown",
+  "followers_count": 135062,
+  "posts_count": 386019,
+  "creation_date": "2009/03/26 12:16:52",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://tribetica.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 17127,
+  "comments_count": 2350,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/612512786183254016/Qay-CbmU_normal.jpg",
+  "following_count": 18,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89591"
+  },
+  "id": 47543198,
+  "name": "Alejandra Del Rio🇲🇽",
+  "username": "Alejandra05",
+  "description": "Publirelacionista, Marketing, Comunicación Política,Medios y Estrategia Digital  #arte y #gastronomía 🎨@CatarteMex 🌶#TravelBlogger 🧳",
+  "location": "unknown",
+  "followers_count": 134969,
+  "posts_count": 27110,
+  "creation_date": "2009/06/16 04:34:30",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.facebook.com/aledelrio1111/",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 16376,
+  "comments_count": 251,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1095585990482251776/vP_I75bC_normal.jpg",
+  "following_count": 130531,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Facebook",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89592"
+  },
+  "id": 18330451,
+  "name": "Ahmad AbouAmmo",
+  "username": "ahmadaa",
+  "description": "#Coffee drinker☕️, #indierock lover🤘🏽, #SocialMedia preacher🗣, & #Digital believer🙌🏽! #startup, @amazon marketing, @twitter media",
+  "location": "unknown",
+  "followers_count": 133826,
+  "posts_count": 14612,
+  "creation_date": "2008/12/23 09:51:27",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 11267,
+  "comments_count": 87,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1187516769553924096/zRfmrBe8_normal.jpg",
+  "following_count": 715,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89593"
+  },
+  "id": 320762743,
+  "name": "WMB Marketing Digital",
+  "username": "_wmbmarketing",
+  "description": "A WMB é uma Agência de Marketing Digital que ajuda empresas a conquistarem mais resultados através do maior meio de comunicação do mundo, a Internet.",
+  "location": "unknown",
+  "followers_count": 132935,
+  "posts_count": 10993,
+  "creation_date": "2011/06/20 01:51:18",
+  "lang": "Brasilian,Portuguese, Spanish",
+  "url": "https://www.wmbmarketingdigital.com.br/",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 859,
+  "comments_count": 15,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1519005304876318721/OM0PJYYp_normal.jpg",
+  "following_count": 17,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "BRL",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89594"
+  },
+  "id": 954775174024482800,
+  "name": "Ibanda's Finest🤙🇺🇬",
+  "username": "brintonmarcus",
+  "description": "Legal Scholar. Digital Marketing Expert.\n\nInstagram https://www.instagram.com/brinton_marcus/",
+  "location": "Uganda",
+  "followers_count": 132410,
+  "posts_count": 148156,
+  "creation_date": "2018/01/20 05:58:35",
+  "lang": "English, Swahili, Ganda, Nyankole, Kiga, Luo, Lusoga, Ateso, Acholi",
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 138380,
+  "comments_count": 82,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1471236428147433478/ra4OqCA8_normal.jpg",
+  "following_count": 7187,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "UGX",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89595"
+  },
+  "id": 1452231072658428000,
+  "name": "NFTs PLANET🌍",
+  "username": "NftsPlanett",
+  "description": "Nft and Crypto project promoter with over a decade of experience in digital marketing 🕊  @Polkacity @performaspire @jpunksnft\n\nDm for inquiries",
+  "location": "United States",
+  "followers_count": 128956,
+  "posts_count": 1225,
+  "creation_date": "2021/10/24 11:11:45",
+  "lang": "English, Spanish",
+  "url": "https://nftsplanet.org/",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 584,
+  "comments_count": 174,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1501227055282679810/6f_14Sjh_normal.jpg",
+  "following_count": 7,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89596"
+  },
+  "id": 240077856,
+  "name": "Antonella Attorre 💎",
+  "username": "AntoAttorre",
+  "description": "Full-time Traveler Influencer🌙Crypto Enthusiastic💎📈CEO of Digital Marketing Agency 📩 for personalised your needs bringing to the next level🔥#btc #bnb #NFTs",
+  "location": "unknown",
+  "followers_count": 128549,
+  "posts_count": 20160,
+  "creation_date": "2011/01/19 03:11:55",
+  "lang": "Arabic, English",
+  "url": "https://instagram.com/antonellaattorre",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 4721,
+  "comments_count": 266,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1542828643864530944/5ehfTY8t_normal.jpg",
+  "following_count": 181,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "AED",
+  "platform": "Instagram",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89597"
+  },
+  "id": 77308668,
+  "name": "T★mmylandz ツ ➐",
+  "username": "tommylandz",
+  "description": "Eat, sleep, create! #DigitalMarketing, #SEO, #SMM. I love: 🍕💻⚾🏒🎶🐶 - Founder of http://seolevelup.com",
+  "location": "unknown",
+  "followers_count": 127567,
+  "posts_count": 29217,
+  "creation_date": "2009/09/25 08:54:56",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.flowcode.com/page/tommylandz",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 13908,
+  "comments_count": 364,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1493263697384517632/V1xGM6zw_normal.jpg",
+  "following_count": 1454,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89598"
+  },
+  "id": 259387703,
+  "name": "Anthony Miyazaki",
+  "username": "sensiblefolk",
+  "description": "I build brands, people brands. Digital & Social Media, Marketing Strategy, Personal Branding, SENSIBILITY. Creator of YouTube's \"Marketing Minute.\" #AskMiyazaki",
+  "location": "unknown",
+  "followers_count": 126244,
+  "posts_count": 2165,
+  "creation_date": "2011/03/01 08:29:11",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://YouTube.com/AnthonyMiyazaki",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 22905,
+  "comments_count": 1465,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/724108480689270784/MT0ZHrAO_normal.jpg",
+  "following_count": 55,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89599"
+  },
+  "id": 26554000,
+  "name": "Rebekah Radice",
+  "username": "RebekahRadice",
+  "description": "Performance Marketing + Growth | Cause-Based Marketer | CMO Co-Founder #WomanOwned Agency | Digital Storyteller. Relentless Optimist. Fluent in Kindness.",
+  "location": "United States",
+  "followers_count": 125943,
+  "posts_count": 117703,
+  "creation_date": "2009/03/25 06:15:11",
+  "lang": "English, Spanish",
+  "url": "http://rebekahradice.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 44268,
+  "comments_count": 6968,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1497999534055563268/Jx3HyBYv_normal.jpg",
+  "following_count": 41728,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8959a"
+  },
+  "id": 584004949,
+  "name": "Lawrence Kitema",
+  "username": "lawrencekitema",
+  "description": "Communication & Public Relations Strategist|•Media Specialist|•Journalist|•Social Media Specialist|•Digital Marketing|•#Inspiration|•#Motivation|•#GodFirst",
+  "location": "Kenya",
+  "followers_count": 125915,
+  "posts_count": 54301,
+  "creation_date": "2012/05/18 05:29:42",
+  "lang": "English, Swahili, African languages",
+  "url": "https://www.kfcb.go.ke",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 163082,
+  "comments_count": 55,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1425016603138314256/IVI5s12m_normal.jpg",
+  "following_count": 56459,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "KES",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8959b"
+  },
+  "id": 315421768,
+  "name": "Rifat Jawaid",
+  "username": "RifatJawaid",
+  "description": "Founder @JantaKaReporter, Ex BBC editor (12 yrs with BBC), ex TV Today Managing Editor. TEDx. Digital marketing/brand building expert, Chelsea fan! Bihari Bong!",
+  "location": "United Kingdom",
+  "followers_count": 124958,
+  "posts_count": 56864,
+  "creation_date": "2011/06/11 08:59:41",
+  "lang": "English, Welsh, Scots Gaelic, Irish, Ulster Scots, Cornish",
+  "url": "http://Instagram.com/rifatjawaidjkr",
+  "verified": true,
+  "default_profile": true,
+  "likes_count": 20299,
+  "comments_count": 316,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1396521781729533952/3vtArsc__normal.jpg",
+  "following_count": 754,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "GBP",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8959c"
+  },
+  "id": 1390082392467984400,
+  "name": "Moxx",
+  "username": "MoxxNFT",
+  "description": "Digital Marketing •Web 3 Specialist• NFT&Crypto Giveaway 🕷️Selling\nout projects via Organic engagement📈 DM for\nsuccess🚀",
+  "location": "unknown",
+  "followers_count": 124902,
+  "posts_count": 47484,
+  "creation_date": "2021/05/05 11:14:18",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 398,
+  "comments_count": 264,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1543728510304342016/bCqfx6xg_normal.jpg",
+  "following_count": 791,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8959d"
+  },
+  "id": 705539763349164000,
+  "name": "ipfconline",
+  "username": "ipfconline1",
+  "description": "Digital Transformation Consulting \n#AI #MachineLearning #DeepLearning \n#DataScience #AIEthics\n#EdgeComputing #Fintech\n#DigitalMarketing",
+  "location": "unknown",
+  "followers_count": 124684,
+  "posts_count": 212954,
+  "creation_date": "2016/03/03 11:46:02",
+  "lang": "French",
+  "url": "http://ipfconline.fr/contacts-eng.html",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 160941,
+  "comments_count": 7745,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/729065804004769793/St2_Pum9_normal.jpg",
+  "following_count": 111717,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "EUR",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8959e"
+  },
+  "id": 20582624,
+  "name": "Cyril Coste #SiemensAccelerate 🚀",
+  "username": "CyrilCoste",
+  "description": "Digital Transformation thoughts about AI | Fintech | Thought Leadership | eCommerce | B2B Influencer Marketing | Blockchain - Chief Digital Officer",
+  "location": "United Kingdom",
+  "followers_count": 124094,
+  "posts_count": 32112,
+  "creation_date": "2009/02/11 10:37:17",
+  "lang": "English, Welsh, Scots Gaelic, Irish, Ulster Scots, Cornish",
+  "url": "https://cyrilcoste.com",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 11191,
+  "comments_count": 1452,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1102856993067462656/4m6hxwF3_normal.jpg",
+  "following_count": 63409,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "GBP",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8959f"
+  },
+  "id": 103199901,
+  "name": "ANDRES FRANCO",
+  "username": "AndresFranco_1",
+  "description": "Digital Marketing 📲 | International Relations @UNAM_Mx | Swimming and gym | 🇲🇽 Mexican living in Canada 🇨🇦",
+  "location": "unknown",
+  "followers_count": 122745,
+  "posts_count": 31448,
+  "creation_date": "2010/01/09 06:25:10",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://instagram.com/andresfranco_1",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 440,
+  "comments_count": 142,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1072164433064050688/oOFaiGgK_normal.jpg",
+  "following_count": 113601,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Instagram",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895a0"
+  },
+  "id": 486215892,
+  "name": "Bux",
+  "username": "BuxPromos",
+  "description": "NFT & Crypto Enthusiast 📊• Web3 Specialist • @UCBerkeley Digital Marketing Graduate 🎓• DM for Promotions / Project Management 📩",
+  "location": "unknown",
+  "followers_count": 122628,
+  "posts_count": 19217,
+  "creation_date": "2012/02/08 01:56:17",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 5928,
+  "comments_count": 2,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1527849231712755714/R7KdRTDm_normal.jpg",
+  "following_count": 2291,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895a1"
+  },
+  "id": 1501586678330310700,
+  "name": "Polar ❄️",
+  "username": "PolarPromos",
+  "description": "Digital Marketing & Web 3 Specialist 👾 • Selling out projects via Organic engagement 📈 • DM for success 📩",
+  "location": "unknown",
+  "followers_count": 121256,
+  "posts_count": 1081,
+  "creation_date": "2022/03/09 03:52:27",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 303,
+  "comments_count": 4,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1506347597363089412/Tr6BfzI9_normal.jpg",
+  "following_count": 366,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895a2"
+  },
+  "id": 786570170,
+  "name": "StealthAgency ",
+  "username": "StealthAgentETH",
+  "description": "💰Digital Marketing Agency💰 \nPartnered With @TacoTuesdayNFTs\nJoin Discord Server https://dsc.gg/tacotuesdaynft",
+  "location": "unknown",
+  "followers_count": 120395,
+  "posts_count": 124,
+  "creation_date": "2012/08/28 08:57:33",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://tacotuesdaynft.io/",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 364,
+  "comments_count": 1,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1512496208643821588/Zl2WYdFN_normal.jpg",
+  "following_count": 356,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895a3"
+  },
+  "id": 1642287356,
+  "name": "Dexter",
+  "username": "DexPromos",
+  "description": "#NFT Web3 Expert ✍️ • Multiple Sold Out Projects 📊 • @UNC Digital Marketing Graduate 👨‍🎓📖 • DM for Promotion 📩",
+  "location": "unknown",
+  "followers_count": 119771,
+  "posts_count": 5298,
+  "creation_date": "2013/08/03 07:21:35",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 2292,
+  "comments_count": 1,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1534691645194575872/U7C5-RsM_normal.jpg",
+  "following_count": 902,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895a4"
+  },
+  "id": 930825211418525700,
+  "name": "ɛཞıƈ ơცıɛཞơ",
+  "username": "eric_obiero",
+  "description": "|•| Born Again Christian|•| Educator|•|Digital Marketing || Content Producer |•|",
+  "location": "Kenya",
+  "followers_count": 117786,
+  "posts_count": 52981,
+  "creation_date": "2017/11/15 03:49:59",
+  "lang": "English, Swahili, African languages",
+  "url": "http://www.repentandpreparetheway.org",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 147581,
+  "comments_count": 5,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1233844681986973696/8dWh3_cd_normal.jpg",
+  "following_count": 128907,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "KES",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895a5"
+  },
+  "id": 111111173,
+  "name": "RDM Media",
+  "username": "RdmMedia",
+  "description": "Award Winning Premier Marketing Agency | Pioneer Digital Marketing UK IN CA | Founder @rajdeepmayer Enquiries (+44)2031296096 (+1)6475143368 (+91) 7087438633",
+  "location": "Worldwide",
+  "followers_count": 117044,
+  "posts_count": 905,
+  "creation_date": "2010/02/03 09:12:37",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.itsrdm.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 268,
+  "comments_count": 30,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/776505904581660673/dUy9huI-_normal.jpg",
+  "following_count": 57,
+  "category": "brand",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895a6"
+  },
+  "id": 16388972,
+  "name": "Sharon Hayes",
+  "username": "SharonHayes",
+  "description": "#Investor #Advisor #Entrepreneur #RemoteEntrepreneur #DigitalMarketing #Domains #Bitcoin",
+  "location": "United States",
+  "followers_count": 115668,
+  "posts_count": 94718,
+  "creation_date": "2008/09/21 08:57:45",
+  "lang": "English, Spanish",
+  "url": "http://Zentha.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 14127,
+  "comments_count": 4406,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1507322862327287815/jAsf8h6V_normal.jpg",
+  "following_count": 77223,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895a7"
+  },
+  "id": 2907681578,
+  "name": "NFT TENDER",
+  "username": "NftTender",
+  "description": "NFT and crypto project promoter & investor with over a decade of experience in digital marketing 🕊️\nArtist of the week.",
+  "location": "United States",
+  "followers_count": 115529,
+  "posts_count": 13654,
+  "creation_date": "2014/11/23 02:50:37",
+  "lang": "English, Spanish",
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 29,
+  "comments_count": 98,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1503228742776225795/Gx2OIWI8_normal.jpg",
+  "following_count": 442,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895a8"
+  },
+  "id": 469019879,
+  "name": "Andrew Wall ♊️",
+  "username": "AwallCrypto",
+  "description": "Head of Marketing @Illuviumio | Illuvium Landowner ♊️ | Digital Consulting @AwallDigital | Not Financial Advice",
+  "location": "unknown",
+  "followers_count": 114429,
+  "posts_count": 52454,
+  "creation_date": "2012/01/20 04:31:49",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.linkedin.com/in/awalldigital",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 1642,
+  "comments_count": 556,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1457790104613756928/etQ_Fo1m_normal.jpg",
+  "following_count": 157,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "LinkedIn",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895a9"
+  },
+  "id": 204965171,
+  "name": "MARKETING DIGITAL Y DE SALUD",
+  "username": "infomedisalud",
+  "description": "Servicios Social Media para Cirujanos Plásticos, Bariátricos, Médicos, Odontólogos y más. Asesorías y Estrategias Profesionales. +584248166127",
+  "location": "unknown",
+  "followers_count": 113865,
+  "posts_count": 381753,
+  "creation_date": "2010/10/19 09:31:01",
+  "lang": "Spanish",
+  "url": "https://t.co/ioVo5bthwl",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 31179,
+  "comments_count": 569,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1221152624281604099/9WLVLZ_K_normal.jpg",
+  "following_count": 100162,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "VES",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895aa"
+  },
+  "id": 4765012662,
+  "name": "koko butter",
+  "username": "kofoww",
+  "description": "😇...I work on the internet, formerly plantheus 🇳🇬, angleaudio 🇨🇭 and iCure 🇨🇭• Digital Marketing, Brand/Product Management and Tech • #30BG • Chelsea",
+  "location": "unknown",
+  "followers_count": 113864,
+  "posts_count": 159209,
+  "creation_date": "2016/01/15 10:54:30",
+  "lang": "French, Hausa, Djerma",
+  "url": "http://Instagram.com/kofoww",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 444331,
+  "comments_count": 84,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1522345105314787328/VcKhHt69_normal.jpg",
+  "following_count": 30275,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "XOF",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ab"
+  },
+  "id": 980805962,
+  "name": "Digital Marketing",
+  "username": "LookSocialMedia",
+  "description": "Sharing digital marketing industry news to keep you up to date. Follow along to stay informed.",
+  "location": "unknown",
+  "followers_count": 113717,
+  "posts_count": 21993,
+  "creation_date": "2012/11/30 04:39:42",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 0,
+  "comments_count": 2703,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/2915320665/8699d520e82d79b4af148b6e84295449_normal.jpeg",
+  "following_count": 173,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ac"
+  },
+  "id": 35695228,
+  "name": "Filmfare",
+  "username": "filmfare",
+  "description": "India's no.1 lifestyle and entertainment magazine and your daily dose of films and fashion.",
+  "location": "India",
+  "followers_count": 6149922,
+  "posts_count": 163905,
+  "creation_date": "2009/04/27 07:29:41",
+  "lang": "Hindi, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi, dialects",
+  "url": "https://mirchi.onelink.me/NETn/mounbsl0",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 2013,
+  "comments_count": 2714,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1539236004523134979/2cTfVeYD_normal.jpg",
+  "following_count": 297,
+  "category": "media",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "INR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ad"
+  },
+  "id": 113292385,
+  "name": "AirAsia Indonesia",
+  "username": "airasia_indo",
+  "description": "Selamat datang di akun airasia Super App! Follow kami untuk inspirasi travel dan lifestyle-mu! #airasiaUntukKita Bantuan: DM IG @airasiasuperapp.id",
+  "location": "Indonesia",
+  "followers_count": 4070417,
+  "posts_count": 55754,
+  "creation_date": "2010/02/11 08:56:18",
+  "lang": "Bahasa Indonesia, English, Dutch, Javanese",
+  "url": "http://www.airasia.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 2861,
+  "comments_count": 1626,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1385146209321422849/UsO2IMu0_normal.jpg",
+  "following_count": 2,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "IDR",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ae"
+  },
+  "id": 237845487,
+  "name": "George Takei",
+  "username": "GeorgeTakei",
+  "description": "I am an abnormal lifestyle choice.",
+  "location": "United States",
+  "followers_count": 3416056,
+  "posts_count": 92279,
+  "creation_date": "2011/01/13 07:33:56",
+  "lang": "English, Spanish",
+  "url": "https://linktr.ee/georgetakei",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 23548,
+  "comments_count": 21350,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1395773050881196032/yCpIyKBt_normal.jpg",
+  "following_count": 1059,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895af"
+  },
+  "id": 55753842,
+  "name": "Ruffa Gutierrez",
+  "username": "iloveruffag",
+  "description": "Actress | TV Host | Advocate | Beauty | Lifestyle | Travel | Mom to Lorin & Venice 👑 Follow me on FB | IG | Kumu | Lyka | TikTok @iloveruffag ✨",
+  "location": "unknown",
+  "followers_count": 3042112,
+  "posts_count": 50341,
+  "creation_date": "2009/07/11 04:08:35",
+  "lang": "Filipino, English",
+  "url": "http://www.instagram.com/iloveruffag",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 4793,
+  "comments_count": 3549,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1524954266657443840/YCuUx3-r_normal.jpg",
+  "following_count": 150,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "PHP",
+  "platform": "Instagram",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895b0"
+  },
+  "id": 34097876,
+  "name": "Lauren Conrad",
+  "username": "LaurenConrad",
+  "description": "Lifestyle at @laurenconradco, Designer of @lclaurenconrad and Co-founder of @thelittlemarket",
+  "location": "United States",
+  "followers_count": 2878875,
+  "posts_count": 7169,
+  "creation_date": "2009/04/21 11:54:03",
+  "lang": "English, Spanish",
+  "url": "https://linktr.ee/laurenconrad",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 6819,
+  "comments_count": 14006,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/986651662151397376/gzzvim9G_normal.jpg",
+  "following_count": 90,
+  "category": "celebrities",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895b1"
+  },
+  "id": 16983244,
+  "name": "MissMalini",
+  "username": "MissMalini",
+  "description": "A Good Creator Co. | Your digital BFF for all things Bollywood, Fashion, Beauty, Lifestyle + Malini's Girl Tribe delivered with hope and heart 💖 @maliniagarwal",
+  "location": "unknown",
+  "followers_count": 2661608,
+  "posts_count": 155341,
+  "creation_date": "2008/10/26 05:55:46",
+  "lang": "Hindi, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi, dialects",
+  "url": "https://bit.ly/3pUjJ7p",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 16654,
+  "comments_count": 1391,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1532596759830331392/sYUPLzNn_normal.jpg",
+  "following_count": 4436,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "INR",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895b2"
+  },
+  "id": 57320024,
+  "name": "The Guardian Nigeria",
+  "username": "GuardianNigeria",
+  "description": "Independent journalism since 1983.\n\nTelegram - http://t.me/theguardiannig…\n\nFollow our lifestyle page @GuardianLifeNG and our film studio @GDNStudiosNG",
+  "location": "Nigeria",
+  "followers_count": 2456870,
+  "posts_count": 272485,
+  "creation_date": "2009/07/16 12:24:36",
+  "lang": "French, Hausa, Djerma",
+  "url": "http://www.guardian.ng",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 2925,
+  "comments_count": 2029,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1543830481615163392/uTHe8tJs_normal.jpg",
+  "following_count": 489,
+  "category": "media",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "XOF",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895b3"
+  },
+  "id": 621543,
+  "name": "BBC Health News",
+  "username": "bbchealth",
+  "description": "Health & Lifestyle news and features from the BBC, via an automated feed of website headlines.",
+  "location": "United Kingdom",
+  "followers_count": 2368053,
+  "posts_count": 38605,
+  "creation_date": "2007/01/10 12:35:42",
+  "lang": "English, Welsh, Scots Gaelic, Irish, Ulster Scots, Cornish",
+  "url": "http://www.bbc.co.uk/news/health/",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 0,
+  "comments_count": 10544,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1271451625094287361/cM8IJMad_normal.jpg",
+  "following_count": 8,
+  "category": "media",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "GBP",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895b4"
+  },
+  "id": 166399621,
+  "name": "Chiquinquira Delgado",
+  "username": "chiqui_delgado",
+  "description": "Tv Host | Actress | Founder of Kira Lifestyle 🇺🇸jennifer@niemangroup.com 🇪🇸🇮🇹edith@epamm.com Digital: chiqui@the-talent-lab.com Miami / LA / Madrid",
+  "location": "unknown",
+  "followers_count": 2226780,
+  "posts_count": 9249,
+  "creation_date": "2010/07/14 01:56:05",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.kiralifeofficial.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 873,
+  "comments_count": 4240,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1397939764993613840/rXlpTWTS_normal.jpg",
+  "following_count": 512,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895b5"
+  },
+  "id": 31355801,
+  "name": "kapanlagicom",
+  "username": "KapanLagicom",
+  "description": "The Official Account of Indonesia's Biggest Entertainment Site | Celebrities, gossip, lifestyle, movies, music, and all about entertainment!",
+  "location": "Indonesia",
+  "followers_count": 2078835,
+  "posts_count": 461071,
+  "creation_date": "2009/04/15 06:21:06",
+  "lang": "Bahasa Indonesia, English, Dutch, Javanese",
+  "url": "http://www.kapanlagi.com/",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 222,
+  "comments_count": 2075,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1524629196538277889/9qW3a4VH_normal.jpg",
+  "following_count": 2245,
+  "category": "media",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "IDR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895b6"
+  },
+  "id": 110090910,
+  "name": "Faktanya Adalah",
+  "username": "FaktanyaAdalah",
+  "description": "Informative and lifestyle tweets. Source: always our following. Please inform us if certain information are incorrect. Contact us via adalahfaktanya@gmail.com",
+  "location": "unknown",
+  "followers_count": 1979082,
+  "posts_count": 10578,
+  "creation_date": "2010/01/31 09:00:21",
+  "lang": "Bahasa Indonesia, English, Dutch, Javanese",
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 344,
+  "comments_count": 1545,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/506783180100079616/4qW4Z2qE_normal.png",
+  "following_count": 42,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "IDR",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895b7"
+  },
+  "id": 514283233,
+  "name": "RAAI LAXMI",
+  "username": "iamlakshmirai",
+  "description": "Actor n proud to be part of indian cinema! Hard work is my lifestyle n cinema is in my blood! Follow me on:-www.facebook.com/iamlakshmirai ,Insta:- iamraailaxmi",
+  "location": "unknown",
+  "followers_count": 1943112,
+  "posts_count": 32521,
+  "creation_date": "2012/03/04 12:24:29",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 32605,
+  "comments_count": 549,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1366687993822519304/8DB-XtPx_normal.jpg",
+  "following_count": 216,
+  "category": "celebrities",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895b8"
+  },
+  "id": 108908254,
+  "name": "Cosmopolitan España",
+  "username": "Cosmopolitan_es",
+  "description": "Cosmopolitan: moda, belleza, salud, amor y sexo, lifestyle.",
+  "location": "unknown",
+  "followers_count": 1844916,
+  "posts_count": 117542,
+  "creation_date": "2010/01/27 11:21:35",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.cosmopolitan.com/es/",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 1809,
+  "comments_count": 4290,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1410486467479183361/EwCr-xa2_normal.jpg",
+  "following_count": 409,
+  "category": "media",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895b9"
+  },
+  "id": 92731878,
+  "name": "Capital FM Kenya",
+  "username": "CapitalFMKenya",
+  "description": "The best mix of music/news/sports/lifestyle. #EverSince96",
+  "location": "unknown",
+  "followers_count": 1635287,
+  "posts_count": 489962,
+  "creation_date": "2009/11/26 10:59:27",
+  "lang": "English, Swahili, African languages",
+  "url": "http://radio.capitalfm.co.ke/",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 5598,
+  "comments_count": 1303,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1424425056877305867/uSas7DxK_normal.jpg",
+  "following_count": 750,
+  "category": "media",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "KES",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ba"
+  },
+  "id": 368779416,
+  "name": "FoodFood",
+  "username": "FoodFood",
+  "description": "FOODFOOD is an Indian TV channel, solely dedicated to food, food culture & food lifestyle.",
+  "location": "India",
+  "followers_count": 1528944,
+  "posts_count": 14175,
+  "creation_date": "2011/09/06 06:36:05",
+  "lang": "Hindi, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi, dialects",
+  "url": "http://www.foodfood.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 7952,
+  "comments_count": 855,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/857121109543714816/QF8VmTgA_normal.jpg",
+  "following_count": 34,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "INR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895bb"
+  },
+  "id": 272985460,
+  "name": "James",
+  "username": "CaucasianJames",
+  "description": "lifestyle blogger",
+  "location": "unknown",
+  "followers_count": 1524662,
+  "posts_count": 17765,
+  "creation_date": "2011/03/27 03:50:36",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 16667,
+  "comments_count": 783,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/933947605104685056/mumGVsyS_normal.jpg",
+  "following_count": 743,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895bc"
+  },
+  "id": 27955127,
+  "name": "Ameyaw Debrah",
+  "username": "AmeyawDebrah",
+  "description": "I am entertainment & lifestyle! #blogger #Socialmedia #influencer  Funny Guy. #Traveller Creator: @ameyawtv For bookings contact ads@ameyawdebrah.com #ameyawtv",
+  "location": "Ghana",
+  "followers_count": 1511507,
+  "posts_count": 296436,
+  "creation_date": "2009/03/31 08:29:23",
+  "lang": "English, African languages",
+  "url": "http://www.ameyawdebrah.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 174530,
+  "comments_count": 555,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1528734924706021382/rh1Of4l3_normal.jpg",
+  "following_count": 14571,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "GHS",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895bd"
+  },
+  "id": 121226571,
+  "name": "Sledgehammer Games",
+  "username": "SHGames",
+  "description": "Team behind Call of Duty #Vanguard, #CODWWII, #AdvancedWarfare & #MW3. Follow our lifestyle account @LifeAtSHG!",
+  "location": "unknown",
+  "followers_count": 1432910,
+  "posts_count": 10764,
+  "creation_date": "2010/03/08 09:02:45",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://trello.com/b/vROy19qt/vanguard",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 8176,
+  "comments_count": 2040,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1540021394003693568/kgMcoARv_normal.jpg",
+  "following_count": 745,
+  "category": "brand",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895be"
+  },
+  "id": 497823734,
+  "name": "Azfar Heri 🇲🇾",
+  "username": "Azfarheri",
+  "description": "Lifestyle Content Creator & Youtuber, owner @nyalahq Scented Candle 🕯",
+  "location": "Malaysia",
+  "followers_count": 1367096,
+  "posts_count": 57108,
+  "creation_date": "2012/02/20 11:58:52",
+  "lang": "Bahasa Melayu, English, Chinese dialects, Tamil, Telugu, Malayalam, Panjabi, Thai",
+  "url": "https://www.youtube.com/channel/UCisnEagEeDGSsqEENLaNFJQ",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 29394,
+  "comments_count": 145,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1523979583917232128/zkagDzJP_normal.jpg",
+  "following_count": 2468,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "MYR",
+  "platform": "YouTube",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895bf"
+  },
+  "id": 789995979567169500,
+  "name": "Sarah Andrade",
+  "username": "ssarahandrade",
+  "description": "🕵🏼‍♀️ 🔎 Fashion • Lifestyle • Travel • Marketing Founder: @ouseopya ✉️ contato@sarahandrade.com.br 📬 Caixa Postal 21016 CEP 04602970",
+  "location": "unknown",
+  "followers_count": 1342976,
+  "posts_count": 11472,
+  "creation_date": "2016/10/23 01:04:54",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://opya.com.br/",
+  "verified": true,
+  "default_profile": true,
+  "likes_count": 3489,
+  "comments_count": 506,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1530509296672378880/2l_JrDV7_normal.jpg",
+  "following_count": 2962,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895c0"
+  },
+  "id": 202338684,
+  "name": "Vogue Brasil",
+  "username": "voguebrasil",
+  "description": "Antes de estar na moda, está na Vogue: seu guia de tendências, beleza, cultura e lifestyle desde 1975.",
+  "location": "unknown",
+  "followers_count": 1262579,
+  "posts_count": 37019,
+  "creation_date": "2010/10/13 08:45:06",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://vogue.globo.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 979,
+  "comments_count": 937,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1411332468398034946/Ev9To5EM_normal.jpg",
+  "following_count": 624,
+  "category": "media",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895c1"
+  },
+  "id": 754393222563102700,
+  "name": "Instablog9ja",
+  "username": "instablog9ja",
+  "description": "24/7 News. Fashion. Lifestyle. Entertainment",
+  "location": "unknown",
+  "followers_count": 1206963,
+  "posts_count": 57597,
+  "creation_date": "2016/07/16 07:12:15",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.instablog9ja.com",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 3988,
+  "comments_count": 395,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1514080173859258377/WRnGPcs2_normal.jpg",
+  "following_count": 11,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895c2"
+  },
+  "id": 18776017,
+  "name": "ASTRO Gaming",
+  "username": "ASTROGaming",
+  "description": "The ASTRO crew shares our favorite news about gaming products, lifestyle, and esports. // @thecollective // @ASTROTR // #ASTROFamily",
+  "location": "unknown",
+  "followers_count": 1143746,
+  "posts_count": 51264,
+  "creation_date": "2009/01/08 07:43:29",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://astrogaming.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 74316,
+  "comments_count": 1772,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1513599712401707014/K2Ihivog_normal.png",
+  "following_count": 1973,
+  "category": "brand",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895c3"
+  },
+  "id": 20583993,
+  "name": "The National",
+  "username": "TheNationalNews",
+  "description": "The world has borders. Our stories don't. • Global, MENA and UAE news • Middle East explained • Business • Sport • Arts and lifestyle • Opinion",
+  "location": "unknown",
+  "followers_count": 1118111,
+  "posts_count": 219109,
+  "creation_date": "2009/02/11 11:34:06",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.thenationalnews.com/",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 3552,
+  "comments_count": 2764,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1526390338553790464/ZvloJ016_normal.jpg",
+  "following_count": 218,
+  "category": "media",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895c4"
+  },
+  "id": 111166747,
+  "name": "Power of Positivity ✨",
+  "username": "LIVEpositivity",
+  "description": "The official page. We celebrate the lifestyle of positive thinking & attitude. Every day is a day to shine. Shine On! Connect with the founder: @positivekristen",
+  "location": "unknown",
+  "followers_count": 1102592,
+  "posts_count": 97146,
+  "creation_date": "2010/02/04 12:53:29",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.powerofpositivity.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 5768,
+  "comments_count": 1714,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1299075298517016577/HF3-9mvk_normal.jpg",
+  "following_count": 4279,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895c5"
+  },
+  "id": 109660695,
+  "name": "Kristin Cavallari",
+  "username": "KristinCav",
+  "description": "Wife, mother, founder of lifestyle brand Uncommon James, NY Times best selling author.\nInstagram: kristincavallari",
+  "location": "unknown",
+  "followers_count": 1089571,
+  "posts_count": 5337,
+  "creation_date": "2010/01/29 08:46:58",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 28,
+  "comments_count": 4360,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/979735013838196737/rpelav6p_normal.jpg",
+  "following_count": 37,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895c6"
+  },
+  "id": 26259480,
+  "name": "Men's Journal + Fitness",
+  "username": "mjfit",
+  "description": "The best in men's #training #fitness #nutrition #health #lifestyle and much more. Everything you need to live a healthy and adventurous life from @mensjournal.",
+  "location": "United States",
+  "followers_count": 1000627,
+  "posts_count": 77625,
+  "creation_date": "2009/03/24 03:41:31",
+  "lang": "English, Spanish",
+  "url": "http://www.mensjournal.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 2720,
+  "comments_count": 4889,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/980828196152123392/8DMfnnhb_normal.jpg",
+  "following_count": 456,
+  "category": "media",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895c7"
+  },
+  "id": 33225652,
+  "name": "Ava Addams",
+  "username": "AvaAddams",
+  "description": "𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 🎥 Lifestyle, fitness, food, & fashion. Official sites and socials ↙️",
+  "location": "unknown",
+  "followers_count": 993051,
+  "posts_count": 47506,
+  "creation_date": "2009/04/19 03:30:32",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://MyAvaAddams.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 6195,
+  "comments_count": 2823,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1542289214406000640/-08HXmvJ_normal.jpg",
+  "following_count": 178,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895c8"
+  },
+  "id": 23612453,
+  "name": "Phaedra Parks, Esq.",
+  "username": "PhaedraParks",
+  "description": "Super Sassy But Always Classy Attorney to the Stars-Southern belle, mommy, mortician, lifestyle guru, Wilhelmina Model & author bookphaedra@gmail.com",
+  "location": "Worldwide",
+  "followers_count": 974544,
+  "posts_count": 33164,
+  "creation_date": "2009/03/10 04:30:40",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.cameo.com/phaedraparks",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 157,
+  "comments_count": 2097,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1219860681933148161/QAzNsCb5_normal.jpg",
+  "following_count": 540,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895c9"
+  },
+  "id": 213573898,
+  "name": "Movies Now",
+  "username": "moviesnowtv",
+  "description": "Welcome to your GATEWAY TO HOLLYWOOD! Everything from movies, stars, their lifestyle & more.",
+  "location": "India",
+  "followers_count": 950660,
+  "posts_count": 44372,
+  "creation_date": "2010/11/09 07:54:44",
+  "lang": "Hindi, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi, dialects",
+  "url": "",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 89324,
+  "comments_count": 360,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1455040181753442315/el48-KeN_normal.jpg",
+  "following_count": 54,
+  "category": "media",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "INR",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ca"
+  },
+  "id": 165476646,
+  "name": "Andres Zurita",
+  "username": "andymtzurita",
+  "description": "Menswear, Travel & Lifestyle. Business inquiries : andyzurita@wearedw.com Snapchat, Tik Tok & Instagram: andymtzurita",
+  "location": "unknown",
+  "followers_count": 884369,
+  "posts_count": 6588,
+  "creation_date": "2010/07/11 05:44:57",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.fabricadeoxigeno.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 26617,
+  "comments_count": 92,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1372354835488636928/4NhpSvDW_normal.jpg",
+  "following_count": 421,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895cb"
+  },
+  "id": 278067201,
+  "name": "Jay",
+  "username": "JayGardner",
+  "description": "🏋🏽‍♂️Online Coach\n💪Helping men & women achieve their fitness goals whilst improving their lifestyle\n🌱Plant based \n🎥👉nicky@jaw-mgmt.com ↘️Online Coaching⬇️",
+  "location": "unknown",
+  "followers_count": 818802,
+  "posts_count": 14335,
+  "creation_date": "2011/04/06 02:57:51",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://jaygfitness.com/",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 5,
+  "comments_count": 387,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1511801469082742787/44Anapm__normal.jpg",
+  "following_count": 5450,
+  "category": "celebrities",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895cc"
+  },
+  "id": 105165137,
+  "name": "Booska-P",
+  "username": "booska_p",
+  "description": "Pop culture · Music · Lifestyle · Cinéma · Sport",
+  "location": "France",
+  "followers_count": 773714,
+  "posts_count": 72859,
+  "creation_date": "2010/01/15 03:08:38",
+  "lang": "French",
+  "url": "http://www.booska-p.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 1925,
+  "comments_count": 600,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1495012438965686275/ghWpTxw0_normal.jpg",
+  "following_count": 198,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "EUR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895cd"
+  },
+  "id": 16630362,
+  "name": "The Source Magazine",
+  "username": "TheSource",
+  "description": "Music. Culture. News. Sports. Fashion. Lifestyle. #MoreThanAMagazine. #TheSOURCE IG: @thesource Check Our Sister @HERSource.",
+  "location": "unknown",
+  "followers_count": 757590,
+  "posts_count": 349242,
+  "creation_date": "2008/10/07 02:32:49",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://THESOURCE.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 8446,
+  "comments_count": 3231,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/928336520951599104/z2S3XZSz_normal.jpg",
+  "following_count": 3690,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ce"
+  },
+  "id": 2360799988,
+  "name": "ོ رمز المـפـبۿ",
+  "username": "__kh_1m",
+  "description": "Change the world by being yourself. 🤍 🤍Fashion • beauty • lifestyle • travel. 734k 🕊🇺🇸 لإعلاناتكم راسلوني ع الخاص !!!",
+  "location": "United States",
+  "followers_count": 727122,
+  "posts_count": 177352,
+  "creation_date": "2014/02/23 01:01:37",
+  "lang": "English, Spanish",
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 7603,
+  "comments_count": 304,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1512515545869930504/wahFtk4J_normal.jpg",
+  "following_count": 654439,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895cf"
+  },
+  "id": 35279836,
+  "name": "SOUNDCITY AFRICA!",
+  "username": "SOUNDCITYtv",
+  "description": "No.1 Music & Lifestyle TV + Radio Network: AVAILABLE EVERYWHERE! TV, RADIO x DIGITAL. Watch on DStv Ch. 327, GoTV Ch. 75 x APP",
+  "location": "unknown",
+  "followers_count": 716908,
+  "posts_count": 54187,
+  "creation_date": "2009/04/25 06:48:12",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.soundcity.tv",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 3632,
+  "comments_count": 514,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/804154299337019392/CkjFGh98_normal.jpg",
+  "following_count": 23,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895d0"
+  },
+  "id": 70689475,
+  "name": "Michelle Madrigal",
+  "username": "Mitch_Madrigal",
+  "description": "Former Filipino Actor\nLifestyle Influencer \nOnline Coach\nInstagram: http://instagram.com/mitch_madrigal/",
+  "location": "unknown",
+  "followers_count": 703178,
+  "posts_count": 8954,
+  "creation_date": "2009/09/01 02:17:12",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.mitchwoolfolk.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 2,
+  "comments_count": 1185,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/378800000141002652/ffe44d76e4733045f1338912de4737fa_normal.jpeg",
+  "following_count": 312,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895d1"
+  },
+  "id": 1214675938161631200,
+  "name": "Gui Napolitano 🍨",
+  "username": "guinapolitano",
+  "description": "BBB20 e No Limite | Influencer, Lifestyle, Traveler | Modelo e Jornalista | Publicidade: guinapolitano@grupogatti.com.br",
+  "location": "unknown",
+  "followers_count": 703113,
+  "posts_count": 11062,
+  "creation_date": "2020/01/07 10:32:07",
+  "lang": "Brasilian,Portuguese, Spanish",
+  "url": "http://instagram.com/guinapolitano",
+  "verified": true,
+  "default_profile": true,
+  "likes_count": 10886,
+  "comments_count": 160,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1437829820822564874/QrMwprTN_normal.jpg",
+  "following_count": 1097,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "BRL",
+  "platform": "Instagram",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895d2"
+  },
+  "id": 3099486241,
+  "name": "BombayTimes",
+  "username": "bombaytimes",
+  "description": "Get your daily dose of the hottest Bollywood gossip, Glamour, Fashion & Lifestyle. Follow us on https://m.facebook.com/bombaytimes/",
+  "location": "unknown",
+  "followers_count": 701991,
+  "posts_count": 86716,
+  "creation_date": "2015/03/20 11:05:14",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.bombaytimes.com",
+  "verified": true,
+  "default_profile": true,
+  "likes_count": 997,
+  "comments_count": 259,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1130337273583509504/pEyhQsmT_normal.png",
+  "following_count": 249,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895d3"
+  },
+  "id": 1439068275040653300,
+  "name": "STEPN | Public Beta Phase IV",
+  "username": "Stepnofficial",
+  "description": "STEPN is a web3 lifestyle app with social & game elements. Community: https://t.co/laI8qGpoMv Download: https://t.co/xS2EadDUyr. Strava Ambassador: https://t.co/PwR4UHap8f",
+  "location": "unknown",
+  "followers_count": 642150,
+  "posts_count": 1169,
+  "creation_date": "2021/09/18 03:26:43",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.stepn.com",
+  "verified": true,
+  "default_profile": true,
+  "likes_count": 1010,
+  "comments_count": 1901,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1454807122210816000/aGorBtwv_normal.jpg",
+  "following_count": 334,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895d4"
+  },
+  "id": 574847712,
+  "name": "Victoria Lomba",
+  "username": "VictorialombaTV",
+  "description": "Modelo Fitness & Healthy lifestyle",
+  "location": "España",
+  "followers_count": 637105,
+  "posts_count": 22522,
+  "creation_date": "2012/05/08 08:25:56",
+  "lang": "Spanish, Catalan, Galician, Basque",
+  "url": "https://www.onlyfans.com/victorialombatv",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 18006,
+  "comments_count": 1134,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1529512622642569218/7YJ9-3Hy_normal.jpg",
+  "following_count": 24,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "EUR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895d5"
+  },
+  "id": 769228033299472400,
+  "name": "rapmais",
+  "username": "RapMais",
+  "description": "Revista eletrônica sobre a cultura hip-hop com informações do rap, funk, lifestyle, esportes, sociedade e MAIS 🔥 contato@rapmais.com",
+  "location": "unknown",
+  "followers_count": 625319,
+  "posts_count": 74146,
+  "creation_date": "2016/08/26 05:40:29",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://portalrapmais.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 22392,
+  "comments_count": 220,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1397340905150025728/_Bn-liJ__normal.jpg",
+  "following_count": 1533,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895d6"
+  },
+  "id": 169424852,
+  "name": "Nosotras.com",
+  "username": "Nosotras_com",
+  "description": "Revista digital de moda, belleza, tendencias y lifestyle ⚡️\n\nEncuéntranos en 👉http://www.nosotras.com",
+  "location": "unknown",
+  "followers_count": 597350,
+  "posts_count": 28870,
+  "creation_date": "2010/07/22 09:04:51",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.nosotras.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 9861,
+  "comments_count": 1506,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/613304549919559680/gINJjWun_normal.jpg",
+  "following_count": 754,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895d7"
+  },
+  "id": 136266226,
+  "name": "STOP ALBINISM KILLINGS",
+  "username": "kuliroberts",
+  "description": "Tina from Angeliena on Netflix \nLifestyle Editor on Weekly Mail\nFabulous",
+  "location": "unknown",
+  "followers_count": 583935,
+  "posts_count": 478441,
+  "creation_date": "2010/04/23 01:09:12",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://youtu.be/q_ep_CTAN0I",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 15547,
+  "comments_count": 589,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1489235049526571013/uGiOM3Ac_normal.jpg",
+  "following_count": 14320,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895d8"
+  },
+  "id": 1260068198604435500,
+  "name": "❥︎ ᴘ ɪ ɢ ᴋ ᴀ ᴘ ʟ ᴏ ʏ",
+  "username": "pigkaploy",
+  "description": "✨ https://onlyfans.com/pigkaploy_ 🏆 T O P 0. 67 % 🏆 ✨แอคล็อค รายเดือน 350 บ. ถาวร 1,288 บ.สนใจทักแชท ✨backup @pigkaploy26 lifestyle👉🏻@chermarn88",
+  "location": "unknown",
+  "followers_count": 574895,
+  "posts_count": 12659,
+  "creation_date": "2020/05/12 04:44:15",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://instagram.com/pigkaploy888",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 31357,
+  "comments_count": 384,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1455588244511346688/ch-ekBl1_normal.jpg",
+  "following_count": 729,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Instagram",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895d9"
+  },
+  "id": 999389822857957400,
+  "name": "lupê",
+  "username": "luizaparente4",
+  "description": "fashion • beauty • lifestyle luiza@changodigital.com | @changotuitou",
+  "location": "unknown",
+  "followers_count": 568017,
+  "posts_count": 4432,
+  "creation_date": "2018/05/23 08:41:16",
+  "lang": "Brasilian,Portuguese, Spanish",
+  "url": "https://www.instagram.com/luizaparente",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 4160,
+  "comments_count": 50,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1483635400514154502/9fU2-n5S_normal.jpg",
+  "following_count": 343,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "BRL",
+  "platform": "Instagram",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895da"
+  },
+  "id": 15673317,
+  "name": "Marie Claire",
+  "username": "marieclaire_es",
+  "description": "Únete ahora para compartir tu punto de vista sobre temas de moda, belleza, lifestyle... 📍https://www.facebook.com/MarieClaire.es/",
+  "location": "unknown",
+  "followers_count": 563479,
+  "posts_count": 118718,
+  "creation_date": "2008/07/31 11:16:30",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.marie-claire.es",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 2427,
+  "comments_count": 2290,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1148135253875286016/gPgySmyV_normal.png",
+  "following_count": 679,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895db"
+  },
+  "id": 97209255,
+  "name": "Elle Russia",
+  "username": "Elle_ru",
+  "description": "ELLE Самый популярный журнал о моде, красоте и стиле жизни The most popular magazine about fashion, beauty and lifestyle",
+  "location": "unknown",
+  "followers_count": 552707,
+  "posts_count": 99061,
+  "creation_date": "2009/12/16 01:33:32",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.elle.ru",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 105,
+  "comments_count": 933,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1448247887318691844/_fDL-Toi_normal.jpg",
+  "following_count": 205,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895dc"
+  },
+  "id": 282436718,
+  "name": "MrLEV12´s Life",
+  "username": "MrLEV12",
+  "description": "Youtuber LifeStyle (Sport, Vlog, Gaming) 💪🏻🌎Mail Pro : teamtntcontact@gmail.com ✉️📞 -10% sur Prozis, code \"MrLEV12\" http://prozis.com/1mzk",
+  "location": "unknown",
+  "followers_count": 544494,
+  "posts_count": 33973,
+  "creation_date": "2011/04/15 06:21:27",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.youtube.com/user/MrLEV12",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 7431,
+  "comments_count": 647,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/995469117980323840/W0fYgeUg_normal.jpg",
+  "following_count": 171,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "YouTube",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895dd"
+  },
+  "id": 123173156,
+  "name": "หมอหมี Wellness Society",
+  "username": "Dr_coachbear",
+  "description": "wellness doctor ติดตามเรื่องราวสุขภาพ healthy lifestyle วิตามิน ลดน้ำหนัก ได้ที่ FB: หมอหมี wellness society https://www.facebook.com/doctorbearwellnesssociety",
+  "location": "unknown",
+  "followers_count": 540014,
+  "posts_count": 173932,
+  "creation_date": "2010/03/15 07:00:50",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.facebook.com/doctorbearwellnesssociety",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 659,
+  "comments_count": 313,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1535801753651662849/xIJNFaPn_normal.jpg",
+  "following_count": 420,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Facebook",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895de"
+  },
+  "id": 1314667124846100500,
+  "name": "Cruising For Men (523K)",
+  "username": "cruisingformen",
+  "description": "Cruising is a lifestyle. If you know the signals & the spots you’ll never be bored 🤫",
+  "location": "unknown",
+  "followers_count": 531147,
+  "posts_count": 1294,
+  "creation_date": "2020/10/09 08:40:55",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 1400,
+  "comments_count": 1634,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1349425955438268422/JmfLeojS_normal.jpg",
+  "following_count": 0,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895df"
+  },
+  "id": 34235414,
+  "name": "ELLE",
+  "username": "ELLEfrance",
+  "description": "#Mode #beauté #lifestyle #societe retrouvez ici l'esprit du magazine ELLE 📸 Abonnez-vous à partir de 1€ 👉http://bit.ly/3sbXbNq",
+  "location": "unknown",
+  "followers_count": 512446,
+  "posts_count": 131340,
+  "creation_date": "2009/04/22 10:16:59",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.elle.fr",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 4527,
+  "comments_count": 2218,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/755325259772026880/r2Pv1-nL_normal.jpg",
+  "following_count": 292,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895e0"
+  },
+  "id": 223383707,
+  "name": "Zee Zest",
+  "username": "ZeeZest_",
+  "description": "Food. Travel. Fashion. Lifestyle. Culture. All on one page. Welcome to Zee Zest - your destination to Unlimit Life 🥳",
+  "location": "unknown",
+  "followers_count": 510291,
+  "posts_count": 4272,
+  "creation_date": "2010/12/06 06:59:08",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.zeezest.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 4853,
+  "comments_count": 135,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1310098325970939905/y4j7TJa__normal.jpg",
+  "following_count": 301,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895e1"
+  },
+  "id": 110775637,
+  "name": "Sonja Morgan",
+  "username": "SonjatMorgan",
+  "description": "#RHONY #Realhousewives 🏠#NYC #FunnyGirl 😝#Fashion #Lifestyle 💃#Philanthropist📞 press@sonjaproductions.com🎥 http://www.bookcameo.com/sonjatmorgan #bravotv",
+  "location": "United States",
+  "followers_count": 505827,
+  "posts_count": 34003,
+  "creation_date": "2010/02/02 06:51:37",
+  "lang": "English, Spanish",
+  "url": "https://linktr.ee/sonjatmorgan",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 34266,
+  "comments_count": 2087,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1344496026019880961/Kf2QHV7a_normal.jpg",
+  "following_count": 1586,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895e2"
+  },
+  "id": 56070301,
+  "name": "Jennifer Bachdim",
+  "username": "JenniferBachdim",
+  "description": "HEALTH | FITNESS | LIFESTYLE Mommy of two adorable little kids, loving wife & YouTube creator ! jennifer.bachdim@web.de || YouTube: Jennifer Bachdim",
+  "location": "unknown",
+  "followers_count": 503394,
+  "posts_count": 12586,
+  "creation_date": "2009/07/12 11:07:50",
+  "lang": "Bahasa Indonesia, English, Dutch, Javanese",
+  "url": "https://t.co/We6ptmmxO8",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 598,
+  "comments_count": 629,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/837275854459691013/zMddB3as_normal.jpg",
+  "following_count": 247,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "IDR",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895e3"
+  },
+  "id": 13712792,
+  "name": "Alipay",
+  "username": "Alipay",
+  "description": "Leading payment & digital lifestyle platform. We serve over 1.3 billion users globally with our partners. For app support, call +86 571 2688 6000.",
+  "location": "unknown",
+  "followers_count": 502890,
+  "posts_count": 2261,
+  "creation_date": "2008/02/20 09:20:46",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.antgroup.com/en",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 733,
+  "comments_count": 647,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1247427821703577600/wHU2ygZS_normal.jpg",
+  "following_count": 188,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895e4"
+  },
+  "id": 18921618,
+  "name": "The Nation Thailand",
+  "username": "Thenationth",
+  "description": "Breaking news alerts from Thailand and ASEAN, plus political, business, travel and lifestyle for 24 hours.",
+  "location": "unknown",
+  "followers_count": 499722,
+  "posts_count": 146798,
+  "creation_date": "2009/01/13 12:19:06",
+  "lang": "Thai, English, regional languages",
+  "url": "http://www.nationthailand.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 13,
+  "comments_count": 2563,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1542795002199560192/vyg6c0Mi_normal.jpg",
+  "following_count": 78,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "THB",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895e5"
+  },
+  "id": 19738459,
+  "name": "Blair Fowler",
+  "username": "BlairFowler",
+  "description": "Beauty & lifestyle vlogger JuicyStar07 Instagram: missblairfowler",
+  "location": "United States",
+  "followers_count": 498566,
+  "posts_count": 16527,
+  "creation_date": "2009/01/29 10:17:09",
+  "lang": "English, Spanish",
+  "url": "http://www.youtube.com/user/juicystar07",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 1083,
+  "comments_count": 2579,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/690863429528121344/zKJJ5dxs_normal.jpg",
+  "following_count": 2348,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "YouTube",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895e6"
+  },
+  "id": 165875135,
+  "name": "Nicole Guerriero",
+  "username": "nguerriero19",
+  "description": "Beauty & Lifestyle Vlogger. M E O W. http://Instagram.com/nicoleguerriero",
+  "location": "unknown",
+  "followers_count": 476544,
+  "posts_count": 10871,
+  "creation_date": "2010/07/12 07:28:31",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://youtube.com/nguerriero19",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 2685,
+  "comments_count": 691,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1082322913796206595/xyqgSGiF_normal.jpg",
+  "following_count": 1553,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "YouTube",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895e7"
+  },
+  "id": 48668434,
+  "name": "MJ Felipe",
+  "username": "mjfelipe",
+  "description": "Entertainment/Lifestyle Journalist for @ABSCBNNews || Travel || Fitness || Lamb 🐑",
+  "location": "unknown",
+  "followers_count": 474024,
+  "posts_count": 48708,
+  "creation_date": "2009/06/19 10:21:23",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.youtube.com/mjfelipe",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 1167,
+  "comments_count": 217,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1520304516691677184/oH_oLuhw_normal.jpg",
+  "following_count": 789,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "YouTube",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895e8"
+  },
+  "id": 14389132,
+  "name": "Nansen Malin",
+  "username": "nansen",
+  "description": "Garden • Floral • Home. Studio florals and topiary. Oysters. Gin. Salmon. Lifestyle author. Located in Victorian beach village of Seaview, WA.",
+  "location": "United States",
+  "followers_count": 467903,
+  "posts_count": 43786,
+  "creation_date": "2008/04/14 07:10:52",
+  "lang": "English, Spanish",
+  "url": "http://NansenFlorals.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 565,
+  "comments_count": 3198,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1495069956928466945/Z2xx1vaT_normal.jpg",
+  "following_count": 383382,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895e9"
+  },
+  "id": 360501472,
+  "name": "Neo Mobor Akpofure🧨",
+  "username": "NeoAkpofure",
+  "description": "Fashion | Entertainment | Lifestyle • Future Billionaire 📩enquiriesneoakpofure@gmail.com",
+  "location": "Nigeria",
+  "followers_count": 463229,
+  "posts_count": 29581,
+  "creation_date": "2011/08/23 09:25:51",
+  "lang": "French, Hausa, Djerma",
+  "url": "https://linktr.ee/neo_akpofure",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 6133,
+  "comments_count": 93,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1418914417853583363/DvfNnNVx_normal.jpg",
+  "following_count": 478,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "XOF",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ea"
+  },
+  "id": 24124842,
+  "name": "BCBGMAXAZRIA",
+  "username": "BCBGMAXAZRIA",
+  "description": "Official Twitter for #BCBGMAXAZRIA. Always on the forefront of fashion, #BCBG is a premier lifestyle collection for the modern woman.",
+  "location": "United States",
+  "followers_count": 462576,
+  "posts_count": 13572,
+  "creation_date": "2009/03/13 04:09:21",
+  "lang": "English, Spanish",
+  "url": "http://www.bcbg.com",
+  "verified": true,
+  "default_profile": true,
+  "likes_count": 4417,
+  "comments_count": 3341,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/880572400294907904/jMO-LOqj_normal.jpg",
+  "following_count": 556,
+  "category": "brand",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895eb"
+  },
+  "id": 34252697,
+  "name": "Sitta Karina",
+  "username": "sittakarina",
+  "description": "Writer of #Hanafiah series & Lifestyle Blogger | Books published by @Gramedia & @LiteratiBooks",
+  "location": "unknown",
+  "followers_count": 450944,
+  "posts_count": 54674,
+  "creation_date": "2009/04/22 12:10:02",
+  "lang": "Bahasa Indonesia, English, Dutch, Javanese",
+  "url": "https://instagram.com/sittakarina",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 2560,
+  "comments_count": 325,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1300566165664665600/FRLvlBDo_normal.jpg",
+  "following_count": 1170,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "IDR",
+  "platform": "Instagram",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ec"
+  },
+  "id": 28716779,
+  "name": "Dina Cantin",
+  "username": "dinamanzo",
+  "description": "Lifestyle, Design, Wellness, Rescue 🐾 Magic ✨...oh & that TV thing. Check out http://Etsy.com/shop/livvingbydina",
+  "location": "unknown",
+  "followers_count": 436092,
+  "posts_count": 29782,
+  "creation_date": "2009/04/04 02:15:04",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 3099,
+  "comments_count": 2501,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/3457074093/f82ffc4a4a49cef8bf1bc6742928f68b_normal.jpeg",
+  "following_count": 529,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ed"
+  },
+  "id": 1022190109154783200,
+  "name": "DREYLO🔺$",
+  "username": "RealDreylo",
+  "description": "CRYPTO • MUSIC • LIFESTYLE INFLUENCER • Degen of All Trades • $ETH $SOL $NEAR $AVAX @DreyloCrypto dreylobookings@gmail.com",
+  "location": "unknown",
+  "followers_count": 434863,
+  "posts_count": 61721,
+  "creation_date": "2018/07/25 06:41:28",
+  "lang": "French, Hausa, Djerma",
+  "url": "http://africori.to/mixedfeelings",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 61843,
+  "comments_count": 284,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1543001070699515906/snDNnvin_normal.jpg",
+  "following_count": 12984,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "XOF",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ee"
+  },
+  "id": 85814753,
+  "name": "Sandesh",
+  "username": "sandeshnews",
+  "description": "Sandesh is a Gujarat's No.1 News Network. For Latest news, Business, sport, entertainment, lifestyle and culture from http://Sandesh.com,  http://sandeshnews.tv",
+  "location": "unknown",
+  "followers_count": 428940,
+  "posts_count": 198286,
+  "creation_date": "2009/10/28 01:15:52",
+  "lang": "Hindi, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi, dialects",
+  "url": "http://www.sandesh.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 965,
+  "comments_count": 315,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1432617858693992448/SIJBgi5I_normal.jpg",
+  "following_count": 14,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "INR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ef"
+  },
+  "id": 159425389,
+  "name": "Access More",
+  "username": "access_more",
+  "description": "This is the official Retail profile of Access Bank Plc. We offer you a wide variety of banking & lifestyle solutions. For enquiries, tweet @accessbank_help",
+  "location": "Nigeria",
+  "followers_count": 428588,
+  "posts_count": 30272,
+  "creation_date": "2010/06/25 10:00:05",
+  "lang": "French, Hausa, Djerma",
+  "url": "http://www.accessbankplc.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 1735,
+  "comments_count": 265,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1112490359462993920/VSuXJG3b_normal.png",
+  "following_count": 861,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "XOF",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895f0"
+  },
+  "id": 804015436979277800,
+  "name": "Crooked Uncultured",
+  "username": "UnculturedByCm",
+  "description": "Conversations that take a smarter look at pop culture news, cultural discourse, and lifestyle trends. Powered by @crookedmedia",
+  "location": "United States",
+  "followers_count": 426429,
+  "posts_count": 10555,
+  "creation_date": "2016/11/30 05:33:12",
+  "lang": "English, Spanish",
+  "url": "http://crooked.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 1245,
+  "comments_count": 3235,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1503265702760701953/YT4cFAL4_normal.jpg",
+  "following_count": 19,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895f1"
+  },
+  "id": 41780491,
+  "name": "If you love Joburg, 947 loves you❤️",
+  "username": "947",
+  "description": "📻 Radio Station | Frequency 94.7 | Download the 947 App (iOS & Android) | DStv Audio Channel 879 | #947Joburg | Music, news, entertainment, & lifestyle!",
+  "location": "unknown",
+  "followers_count": 425571,
+  "posts_count": 155214,
+  "creation_date": "2009/05/22 08:59:50",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://linktr.ee/947joburg",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 9478,
+  "comments_count": 771,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1346025359611981824/PWGOuhnN_normal.jpg",
+  "following_count": 2731,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895f2"
+  },
+  "id": 1318047367329927200,
+  "name": "Foganoli",
+  "username": "foganoli",
+  "description": "🌩 fashion • gastronomy • lifestyle foganoli@changodigital.com.br",
+  "location": "unknown",
+  "followers_count": 423077,
+  "posts_count": 5193,
+  "creation_date": "2020/10/19 04:32:45",
+  "lang": "Brasilian,Portuguese, Spanish",
+  "url": "https://instagram.com/foganoli?igshid=hwi6500677lf",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 6186,
+  "comments_count": 61,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1541149370510360576/q8s-tGqo_normal.jpg",
+  "following_count": 336,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "BRL",
+  "platform": "Instagram",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895f3"
+  },
+  "id": 21286325,
+  "name": "GQ France",
+  "username": "GQ_France",
+  "description": "Mode. Lifestyle. Culture. Sport. Tech. Design. #GQFrance Les conversations qui animent les hommes d’aujourd’hui et de demain.",
+  "location": "unknown",
+  "followers_count": 422770,
+  "posts_count": 101325,
+  "creation_date": "2009/02/19 09:41:30",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://www.gqmagazine.fr",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 749,
+  "comments_count": 1321,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1291635003286323201/u52xqGni_normal.jpg",
+  "following_count": 487,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895f4"
+  },
+  "id": 19409508,
+  "name": "Bobby 🇺🇦",
+  "username": "bobbyberk",
+  "description": "Television Host, Entrepreneur & Designer. For lifestyle, fashion, design tips, and QE #BTS click the link below ⤵️ He/Him",
+  "location": "United States",
+  "followers_count": 417119,
+  "posts_count": 24290,
+  "creation_date": "2009/01/23 07:42:38",
+  "lang": "English, Spanish",
+  "url": "http://bobbyberk.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 58749,
+  "comments_count": 794,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1347753671786786816/HeqpzLP9_normal.jpg",
+  "following_count": 775,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895f5"
+  },
+  "id": 185344640,
+  "name": "Revista Inspiras",
+  "username": "Inspiras_",
+  "description": "Revista de Lifestyle que resalta lo positivo. Todo es posible. Editado por @rafasansores",
+  "location": "United States",
+  "followers_count": 414798,
+  "posts_count": 19755,
+  "creation_date": "2010/08/31 07:32:37",
+  "lang": "English, Spanish",
+  "url": "http://revistainspiras.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 13642,
+  "comments_count": 1037,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1298088070902960129/0S7Romj2_normal.jpg",
+  "following_count": 7652,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895f6"
+  },
+  "id": 847285262,
+  "name": "AUNTY ADA",
+  "username": "Auntyadaa",
+  "description": "Brand ambassador | Digital marketer | Lifestyle | 🤍 makeup | Roman’s 8: 18 | An embodiment of the grace of God🤍✨| Auntyadaa@gmail.com",
+  "location": "unknown",
+  "followers_count": 397248,
+  "posts_count": 259837,
+  "creation_date": "2012/09/26 12:07:26",
+  "lang": [
+    "unknown"
+  ],
+  "url": "",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 5096,
+  "comments_count": 282,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1543346077180612613/ER0UEJmp_normal.jpg",
+  "following_count": 4309,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895f7"
+  },
+  "id": 64698539,
+  "name": "PahiloPost",
+  "username": "PahiloPost",
+  "description": "PahiloPost is a news portal from Nepal covering politics, culture, social affairs, sports, technology, lifestyle, entertainment and more. news@pahilopost.com",
+  "location": "unknown",
+  "followers_count": 388977,
+  "posts_count": 101222,
+  "creation_date": "2009/08/11 12:22:15",
+  "lang": "Nepali, Maithali, Bhojpuri, Tharu, Tamang, others",
+  "url": "http://pahilopost.com",
+  "verified": true,
+  "default_profile": true,
+  "likes_count": 237,
+  "comments_count": 486,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1484914383247781892/l-OBjYC-_normal.png",
+  "following_count": 13,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "NPR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895f8"
+  },
+  "id": 58525147,
+  "name": "insider-page.com",
+  "username": "insider_page",
+  "description": "Innovation, Lifestyle, Marketing, News, SEO, Socialmedia, https://t.co/OxIvTboIOV",
+  "location": "unknown",
+  "followers_count": 383147,
+  "posts_count": 4078,
+  "creation_date": "2009/07/20 05:01:14",
+  "lang": "German",
+  "url": "https://t.co/WIDlRLCyW7",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 165,
+  "comments_count": 3379,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/885387197297434626/O-nC9lZQ_normal.jpg",
+  "following_count": 176278,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "EUR",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895f9"
+  },
+  "id": 18183592,
+  "name": "Peter Olsen",
+  "username": "PeteOlsen",
+  "description": "Global Internet Entrepreneur Living the Laptop Lifestyle! #1 Money Earner & Network Marketing Coach http://youtube.com/livingthelaptoplifestyle",
+  "location": "unknown",
+  "followers_count": 382189,
+  "posts_count": 284702,
+  "creation_date": "2008/12/17 05:58:48",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://instagram.com/montana_laptop_lifestyle",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 515,
+  "comments_count": 3236,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1509179403279818755/bKCLdGcd_normal.jpg",
+  "following_count": 165566,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Instagram",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895fa"
+  },
+  "id": 4918623494,
+  "name": "VIXEN",
+  "username": "VIXEN",
+  "description": "the official twitter of global entertainment & lifestyle brand VIXEN®. 💎 shop http://vixenbrand.com",
+  "location": "United States",
+  "followers_count": 378967,
+  "posts_count": 9318,
+  "creation_date": "2016/02/17 12:41:15",
+  "lang": "English, Spanish",
+  "url": "http://www.vixen.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 7615,
+  "comments_count": 1077,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1001559841624604676/4mVvs0sV_normal.jpg",
+  "following_count": 197,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895fb"
+  },
+  "id": 1448745376324915200,
+  "name": "Shola",
+  "username": "jayythedope",
+  "description": "THE LIFESTYLE OF A KING | President 🇳🇬 | FOUNDER @the_alphamedia | 📧 jayystarted@gmail.com",
+  "location": "unknown",
+  "followers_count": 375475,
+  "posts_count": 12879,
+  "creation_date": "2021/10/14 08:20:10",
+  "lang": "French, Hausa, Djerma",
+  "url": "http://sholatalks.com",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 808,
+  "comments_count": 269,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1527850254602731521/r78wNHwO_normal.jpg",
+  "following_count": 244,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "XOF",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895fc"
+  },
+  "id": 2366019087,
+  "name": "LONGUE VIE À TOUS MENNÉS ❤️",
+  "username": "CaminoTV",
+  "description": "Lifestyle Media n°1 référence des bons plans, actus streetwear et sneakers en France 🙏http://youtube.com/caminotv",
+  "location": "France",
+  "followers_count": 363618,
+  "posts_count": 143592,
+  "creation_date": "2014/02/26 01:09:06",
+  "lang": "French",
+  "url": "https://www.caminotv.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 52093,
+  "comments_count": 664,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1392123984397938688/Ha-W23m-_normal.jpg",
+  "following_count": 415,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "EUR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895fd"
+  },
+  "id": 374527877,
+  "name": "DANNY WALTER👑",
+  "username": "Danny_Walterr",
+  "description": "We/Us/When • Shoes & Lifestyle • @shopfeets_• Alter Ego of @DannyCrypt • @moonrepublicng",
+  "location": "unknown",
+  "followers_count": 355955,
+  "posts_count": 131461,
+  "creation_date": "2011/09/16 01:38:25",
+  "lang": "English, French",
+  "url": "https://Instagram.com/dannywalta",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 36374,
+  "comments_count": 210,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1365558159696400384/Umt_0NME_normal.jpg",
+  "following_count": 15585,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "CAD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895fe"
+  },
+  "id": 1199774562,
+  "name": "CDQ",
+  "username": "cdqolowo",
+  "description": "contacts: motbensonz17@gmail.com  +2349094580255 (Vibes and Lifestyle Album Link here)",
+  "location": "unknown",
+  "followers_count": 350265,
+  "posts_count": 81071,
+  "creation_date": "2013/02/20 06:44:59",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://cdq.ffm.to/vibesandlifestyle",
+  "verified": true,
+  "default_profile": true,
+  "likes_count": 28796,
+  "comments_count": 130,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1273479054000259074/0UW3-d8E_normal.jpg",
+  "following_count": 673,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd895ff"
+  },
+  "id": 20639369,
+  "name": "Rocco DiSpirito",
+  "username": "roccodispirito",
+  "description": "Chef & Healthy Lifestyle Crusader, Author of •Rocco's Keto Comfort Food Diet, NYT best sellers: \"The Negative Calorie Diet\", \"The Pound A Day Diet\".",
+  "location": "United States",
+  "followers_count": 344552,
+  "posts_count": 27230,
+  "creation_date": "2009/02/11 11:23:58",
+  "lang": "English, Spanish",
+  "url": "http://www.rocco.shop",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 12682,
+  "comments_count": 3805,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1506684631566929930/vZdQmDTk_normal.jpg",
+  "following_count": 11120,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89600"
+  },
+  "id": 892153969,
+  "name": "GistReel.Com",
+  "username": "GistReel",
+  "description": "News. Entertainment. Lifestyle. Metro. Contact: admin@gistreel.com",
+  "location": "unknown",
+  "followers_count": 343610,
+  "posts_count": 70756,
+  "creation_date": "2012/10/20 12:43:50",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.youtube.com/c/gistreeltv?sub_confirmation=1",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 39,
+  "comments_count": 446,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1334038029871312896/4HWclg7O_normal.jpg",
+  "following_count": 136,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "YouTube",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89601"
+  },
+  "id": 244873413,
+  "name": "วอลเล่ย์ พีพีเค ツ",
+  "username": "volleyppk",
+  "description": "Love Sick/ Hope/ Entertainment/ Clip/ Lifestyle/ Fashion/ Beauty/ Food/ Etc. Review | DM® For Work And Line: volleyppk (Work only) 24 hr ⏳",
+  "location": "unknown",
+  "followers_count": 341730,
+  "posts_count": 58029,
+  "creation_date": "2011/01/30 09:58:08",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://www.facebook.com/volleyphimphaka",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 22448,
+  "comments_count": 65,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1532052207398334464/i0cmcEFK_normal.jpg",
+  "following_count": 1601,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Facebook",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89602"
+  },
+  "id": 148386845,
+  "name": "London On The Inside",
+  "username": "LondONtheinside",
+  "description": "London's Biggest Independent Lifestyle Publication.",
+  "location": "United Kingdom",
+  "followers_count": 337513,
+  "posts_count": 67718,
+  "creation_date": "2010/05/26 03:28:26",
+  "lang": "English, Welsh, Scots Gaelic, Irish, Ulster Scots, Cornish",
+  "url": "http://londontheinside.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 20778,
+  "comments_count": 1591,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1531950728092299267/rIKy5G1l_normal.jpg",
+  "following_count": 2281,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "GBP",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89603"
+  },
+  "id": 40954616,
+  "name": "Jamaica Gleaner",
+  "username": "JamaicaGleaner",
+  "description": "Jamaica's most trusted news source for 187 years. Where life unfolds. Follow for news, sports, business, lifestyle, entertainment and commentary.",
+  "location": "Jamaica",
+  "followers_count": 334475,
+  "posts_count": 182703,
+  "creation_date": "2009/05/18 08:04:59",
+  "lang": "English, Jamaican Creole",
+  "url": "http://www.jamaica-gleaner.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 276,
+  "comments_count": 1397,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1492170186597744647/IgmREYCy_normal.jpg",
+  "following_count": 690,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "JMD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89604"
+  },
+  "id": 762649255563649000,
+  "name": "Maghlarnaque",
+  "username": "Maghla",
+  "description": "Petit rayon de soleil 🌞 Lifestyle 🌱 Fitness 🏅 Gaming ~ Ambassadrice @LogitechGFrance  ~ contact@maghla.fr",
+  "location": "unknown",
+  "followers_count": 324106,
+  "posts_count": 13777,
+  "creation_date": "2016/08/08 01:58:46",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://linktr.ee/Maghla",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 19563,
+  "comments_count": 262,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1525114432300453888/ZZlQNrW4_normal.jpg",
+  "following_count": 550,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89605"
+  },
+  "id": 473364457,
+  "name": "Glamour Brasil 🧜🏽‍♀️",
+  "username": "GlamourBR",
+  "description": "Conteúdo engajado e bem-humorado pra quem ama moda, beleza e lifestyle! Instagram: @glamourbrasil",
+  "location": "unknown",
+  "followers_count": 317187,
+  "posts_count": 24833,
+  "creation_date": "2012/01/24 10:15:43",
+  "lang": "Brasilian,Portuguese, Spanish",
+  "url": "https://glamour.globo.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 1530,
+  "comments_count": 187,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1532419558530764800/Vg7RLd2i_normal.jpg",
+  "following_count": 577,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "BRL",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89606"
+  },
+  "id": 1321915389417267200,
+  "name": "Gistlovers.blog1",
+  "username": "Gistloversblog1",
+  "description": "News And Media! GOSSIP BLOG!! Entertainment!!! Lifestyle and Event!!!! Sports!!!!! VAWULENCE HEADQUARTERS.",
+  "location": "unknown",
+  "followers_count": 304493,
+  "posts_count": 18956,
+  "creation_date": "2020/10/29 08:43:22",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://t.me/Glb24",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 483,
+  "comments_count": 111,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1519331068586999808/GcjwW5iX_normal.jpg",
+  "following_count": 15,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89607"
+  },
+  "id": 62748430,
+  "name": "87.6 Hard Rock FM",
+  "username": "hardrockfm",
+  "description": "Your lifestyle and entertainment station! Download our mobile app. Now available for iPhone and Android . http://facebook.com/876hardrockfm.",
+  "location": "unknown",
+  "followers_count": 301520,
+  "posts_count": 175167,
+  "creation_date": "2009/08/04 07:29:26",
+  "lang": "Bahasa Indonesia, English, Dutch, Javanese",
+  "url": "http://bit.ly/HardrockfmStreaming",
+  "verified": true,
+  "default_profile": true,
+  "likes_count": 2435,
+  "comments_count": 905,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/940030575766781952/nCTj3Rj1_normal.jpg",
+  "following_count": 2103,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": "IDR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89608"
+  },
+  "id": 1047218585289072600,
+  "name": "Tife 🌚🇬🇧",
+  "username": "Tife_fabunmi",
+  "description": "Lifestyle. Crypto Enthusiast▫️#NFT collector 🧰 open to collabo | Mail- Tifefabunmi@gmail.com |                              The Tribes Community⛩",
+  "location": "unknown",
+  "followers_count": 301264,
+  "posts_count": 207256,
+  "creation_date": "2018/10/02 08:15:41",
+  "lang": [
+    "unknown"
+  ],
+  "url": "http://instagram.com/tife_fabunmi",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 87612,
+  "comments_count": 264,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1497153435719905307/Y1zKSwyL_normal.jpg",
+  "following_count": 23615,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": true,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Instagram",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd89609"
+  },
+  "id": 216387646,
+  "name": "'47",
+  "username": "47",
+  "description": "’47 is a sports lifestyle brand established in 1947. Proud partner of the NFL, MLB, NBA, NHL, MLL, USSF, and 900+ colleges.",
+  "location": "United States",
+  "followers_count": 297799,
+  "posts_count": 7788,
+  "creation_date": "2010/11/16 03:49:34",
+  "lang": "English, Spanish",
+  "url": "https://www.47brand.com/",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 4322,
+  "comments_count": 314,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/908068408272539648/YG2xQEQj_normal.jpg",
+  "following_count": 1338,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8960a"
+  },
+  "id": 2345396449,
+  "name": "VAR Deportivo",
+  "username": "vardeportivocom",
+  "description": "Somos un medio deportivo que combina contenido de valor, lifestyle, tecnología y entretenimiento como sus premisas principales.",
+  "location": "México",
+  "followers_count": 297025,
+  "posts_count": 4406,
+  "creation_date": "2014/02/15 04:31:27",
+  "lang": "Spanish, Mayan, Nahuatl",
+  "url": "http://www.vardeportivo.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 1602,
+  "comments_count": 56,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1498778912775671810/TCpFWM5p_normal.jpg",
+  "following_count": 182,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "MXN",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8960b"
+  },
+  "id": 2943969341,
+  "name": "Kate Moss",
+  "username": "KateMossOk",
+  "description": "They portray me as all these crazy things and I‘m not like that. I don‘t have entourages, I‘m as normal as you can get in this lifestyle. ( Kate Moss Fan Page )",
+  "location": "United States",
+  "followers_count": 294178,
+  "posts_count": 527,
+  "creation_date": "2014/12/27 03:48:06",
+  "lang": "English, Spanish",
+  "url": "",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 642,
+  "comments_count": 16,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/548868502090559489/k9Y0QAWE_normal.jpeg",
+  "following_count": 91,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8960c"
+  },
+  "id": 93759830,
+  "name": "The Chew",
+  "username": "thechew",
+  "description": "Celebrating & exploring life through food, ABC’s “The Chew” is an innovative daytime show co-hosted by fun, relatable experts in food, lifestyle & entertaining.",
+  "location": "unknown",
+  "followers_count": 292311,
+  "posts_count": 18854,
+  "creation_date": "2009/12/01 01:33:38",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://t.co/wrzrIdBfSX",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 4777,
+  "comments_count": 1413,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/899758868452052994/NrSVirvM_normal.jpg",
+  "following_count": 919,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8960d"
+  },
+  "id": 1266101663120515000,
+  "name": "Shua Reyes",
+  "username": "shuareyes31",
+  "description": "Fitness / Lifestyle / Fb Page Shua Reyes / Lyka: joshlopez / IG:shuareyes31 100k Followers /Official Account Only Account",
+  "location": "unknown",
+  "followers_count": 291367,
+  "posts_count": 207,
+  "creation_date": "2020/05/28 08:19:28",
+  "lang": [
+    "unknown"
+  ],
+  "url": "https://youtu.be/_Ix7Cnq7yUQ",
+  "verified": false,
+  "default_profile": true,
+  "likes_count": 209,
+  "comments_count": 40,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1543648415384367104/cSEiaaLJ_normal.jpg",
+  "following_count": 0,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": [
+    "unknown"
+  ],
+  "platform": "Other",
+  "competitor": false
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8960e"
+  },
+  "id": 27404490,
+  "name": "Malay Mail",
+  "username": "malaymail",
+  "description": "Since 1896. Giving Malaysians the news of the day as it happens, whether in the field of politics or lifestyle.",
+  "location": "Malaysia",
+  "followers_count": 286321,
+  "posts_count": 280112,
+  "creation_date": "2009/03/29 09:42:07",
+  "lang": "Bahasa Melayu, English, Chinese dialects, Tamil, Telugu, Malayalam, Panjabi, Thai",
+  "url": "https://www.malaymail.com",
+  "verified": false,
+  "default_profile": false,
+  "likes_count": 2,
+  "comments_count": 956,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1525003522013417472/z1O2fDF7_normal.jpg",
+  "following_count": 15,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "MYR",
+  "platform": "Other",
+  "competitor": true
+},{
+  "_id": {
+    "$oid": "652e917e88bdd3091bd8960f"
+  },
+  "id": 16730355,
+  "name": "Kin",
+  "username": "kincommunity",
+  "description": "Putting life into lifestyle content by empowering, entertaining and connecting women around the world. Welcome to YOUR community. We’re Kin.",
+  "location": "United States",
+  "followers_count": 285635,
+  "posts_count": 13251,
+  "creation_date": "2008/10/14 12:09:12",
+  "lang": "English, Spanish",
+  "url": "http://kincommunity.com",
+  "verified": true,
+  "default_profile": false,
+  "likes_count": 3005,
+  "comments_count": 810,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1270085779893547009/6XABj5OR_normal.jpg",
+  "following_count": 4033,
+  "category": "general",
+  "protected": false,
+  "geo_enabled": false,
+  "currency": "USD",
+  "platform": "Other",
+  "competitor": true
+}]

@@ -1,0 +1,2704 @@
+[{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a12e"
+  },
+  "id": 1,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Electronics"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a12f"
+  },
+  "id": 2,
+  "parent_id": 1,
+  "name": "Laptops & Computers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a130"
+  },
+  "id": 3,
+  "parent_id": 1,
+  "name": "Mobile Phones"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a131"
+  },
+  "id": 4,
+  "parent_id": 1,
+  "name": "Tablets"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a132"
+  },
+  "id": 5,
+  "parent_id": 1,
+  "name": "Cameras & Photography"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a133"
+  },
+  "id": 6,
+  "parent_id": 1,
+  "name": "Headphones & Speakers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a134"
+  },
+  "id": 7,
+  "parent_id": 1,
+  "name": "Wearable Technology"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a135"
+  },
+  "id": 8,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Fashion"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a136"
+  },
+  "id": 9,
+  "parent_id": 8,
+  "name": "Men's Clothing"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a137"
+  },
+  "id": 10,
+  "parent_id": 8,
+  "name": "Women's Clothing"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a138"
+  },
+  "id": 11,
+  "parent_id": 8,
+  "name": "Kids' Clothing"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a139"
+  },
+  "id": 12,
+  "parent_id": 8,
+  "name": "Shoes"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a13a"
+  },
+  "id": 13,
+  "parent_id": 8,
+  "name": "Watches"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a13b"
+  },
+  "id": 14,
+  "parent_id": 8,
+  "name": "Jewelry"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a13c"
+  },
+  "id": 15,
+  "parent_id": 8,
+  "name": "Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a13d"
+  },
+  "id": 16,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Home & Kitchen"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a13e"
+  },
+  "id": 17,
+  "parent_id": 16,
+  "name": "Furniture"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a13f"
+  },
+  "id": 18,
+  "parent_id": 16,
+  "name": "Bedding & Linens"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a140"
+  },
+  "id": 19,
+  "parent_id": 16,
+  "name": "Home Decor"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a141"
+  },
+  "id": 20,
+  "parent_id": 16,
+  "name": "Kitchen Appliances"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a142"
+  },
+  "id": 21,
+  "parent_id": 16,
+  "name": "Cookware & Bakeware"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a143"
+  },
+  "id": 22,
+  "parent_id": 16,
+  "name": "Home Improvement & Tools"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a144"
+  },
+  "id": 23,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Health & Beauty"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a145"
+  },
+  "id": 24,
+  "parent_id": 23,
+  "name": "Personal Care"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a146"
+  },
+  "id": 25,
+  "parent_id": 23,
+  "name": "Makeup & Cosmetics"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a147"
+  },
+  "id": 26,
+  "parent_id": 23,
+  "name": "Fragrances"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a148"
+  },
+  "id": 27,
+  "parent_id": 23,
+  "name": "Hair Care"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a149"
+  },
+  "id": 28,
+  "parent_id": 23,
+  "name": "Skin Care"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a14a"
+  },
+  "id": 29,
+  "parent_id": 23,
+  "name": "Health & Wellness"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a14b"
+  },
+  "id": 30,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Grocery"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a14c"
+  },
+  "id": 31,
+  "parent_id": 30,
+  "name": "Fresh Produce"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a14d"
+  },
+  "id": 32,
+  "parent_id": 30,
+  "name": "Snacks & Beverages"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a14e"
+  },
+  "id": 33,
+  "parent_id": 30,
+  "name": "Pantry Staples"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a14f"
+  },
+  "id": 34,
+  "parent_id": 30,
+  "name": "Dairy & Eggs"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a150"
+  },
+  "id": 35,
+  "parent_id": 30,
+  "name": "Meat & Seafood"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a151"
+  },
+  "id": 36,
+  "parent_id": 30,
+  "name": "Baking & Cooking Ingredients"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a152"
+  },
+  "id": 37,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Toys & Games"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a153"
+  },
+  "id": 38,
+  "parent_id": 37,
+  "name": "Board Games"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a154"
+  },
+  "id": 39,
+  "parent_id": 37,
+  "name": "Action Figures"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a155"
+  },
+  "id": 40,
+  "parent_id": 37,
+  "name": "Dolls & Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a156"
+  },
+  "id": 41,
+  "parent_id": 37,
+  "name": "Educational Toys"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a157"
+  },
+  "id": 42,
+  "parent_id": 37,
+  "name": "Puzzles"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a158"
+  },
+  "id": 43,
+  "parent_id": 37,
+  "name": "Video Games"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a159"
+  },
+  "id": 44,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Sports & Outdoors"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a15a"
+  },
+  "id": 45,
+  "parent_id": 44,
+  "name": "Fitness Equipment"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a15b"
+  },
+  "id": 46,
+  "parent_id": 44,
+  "name": "Outdoor Recreation"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a15c"
+  },
+  "id": 47,
+  "parent_id": 44,
+  "name": "Team Sports"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a15d"
+  },
+  "id": 48,
+  "parent_id": 44,
+  "name": "Camping & Hiking"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a15e"
+  },
+  "id": 49,
+  "parent_id": 44,
+  "name": "Cycling"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a15f"
+  },
+  "id": 50,
+  "parent_id": 44,
+  "name": "Water Sports"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a160"
+  },
+  "id": 51,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Automotive"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a161"
+  },
+  "id": 52,
+  "parent_id": 51,
+  "name": "Car Electronics & Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a162"
+  },
+  "id": 53,
+  "parent_id": 51,
+  "name": "Tires & Wheels"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a163"
+  },
+  "id": 54,
+  "parent_id": 51,
+  "name": "Replacement Parts"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a164"
+  },
+  "id": 55,
+  "parent_id": 51,
+  "name": "Car Care"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a165"
+  },
+  "id": 56,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Books & Stationery"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a166"
+  },
+  "id": 57,
+  "parent_id": 56,
+  "name": "Fiction Books"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a167"
+  },
+  "id": 58,
+  "parent_id": 56,
+  "name": "Non-Fiction Books"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a168"
+  },
+  "id": 59,
+  "parent_id": 56,
+  "name": "Children's Books"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a169"
+  },
+  "id": 60,
+  "parent_id": 56,
+  "name": "Academic & Textbooks"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a16a"
+  },
+  "id": 61,
+  "parent_id": 56,
+  "name": "Office Supplies"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a16b"
+  },
+  "id": 62,
+  "parent_id": 56,
+  "name": "Art & Craft Supplies"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a16c"
+  },
+  "id": 63,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Movies, Music & Video Games"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a16d"
+  },
+  "id": 64,
+  "parent_id": 63,
+  "name": "DVDs & Blu-rays"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a16e"
+  },
+  "id": 65,
+  "parent_id": 63,
+  "name": "CDs & Vinyl"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a16f"
+  },
+  "id": 66,
+  "parent_id": 63,
+  "name": "Musical Instruments"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a170"
+  },
+  "id": 67,
+  "parent_id": 63,
+  "name": "Video Game Consoles & Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a171"
+  },
+  "id": 68,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Computers&Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a172"
+  },
+  "id": 69,
+  "parent_id": 68,
+  "name": "Accessories&Peripherals"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a173"
+  },
+  "id": 70,
+  "parent_id": 69,
+  "name": "Cables&Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a174"
+  },
+  "id": 71,
+  "parent_id": 70,
+  "name": "Cables"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a175"
+  },
+  "id": 72,
+  "parent_id": 71,
+  "name": "USBCables"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a176"
+  },
+  "id": 73,
+  "parent_id": 72,
+  "name": "NetworkingDevices"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a177"
+  },
+  "id": 74,
+  "parent_id": 73,
+  "name": "NetworkAdapters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a178"
+  },
+  "id": 75,
+  "parent_id": 74,
+  "name": "WirelessUSBAdapters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a179"
+  },
+  "id": 76,
+  "parent_id": 75,
+  "name": "HomeTheater,TV&Video"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a17a"
+  },
+  "id": 77,
+  "parent_id": 76,
+  "name": "HDMICables"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a17b"
+  },
+  "id": 78,
+  "parent_id": 77,
+  "name": "Televisions"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a17c"
+  },
+  "id": 79,
+  "parent_id": 78,
+  "name": "SmartTelevisions"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a17d"
+  },
+  "id": 80,
+  "parent_id": 79,
+  "name": "RemoteControls"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a17e"
+  },
+  "id": 81,
+  "parent_id": 80,
+  "name": "StandardTelevisions"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a17f"
+  },
+  "id": 82,
+  "parent_id": 81,
+  "name": "TVMounts,Stands&Turntables"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a180"
+  },
+  "id": 83,
+  "parent_id": 82,
+  "name": "TVWall&CeilingMounts"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a181"
+  },
+  "id": 84,
+  "parent_id": 83,
+  "name": "RCACables"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a182"
+  },
+  "id": 85,
+  "parent_id": 84,
+  "name": "HomeAudio"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a183"
+  },
+  "id": 86,
+  "parent_id": 85,
+  "name": "SpeakerAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a184"
+  },
+  "id": 87,
+  "parent_id": 86,
+  "name": "Mounts"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a185"
+  },
+  "id": 88,
+  "parent_id": 87,
+  "name": "OpticalCables"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a186"
+  },
+  "id": 89,
+  "parent_id": 88,
+  "name": "Projectors"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a187"
+  },
+  "id": 90,
+  "parent_id": 89,
+  "name": "Adapters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a188"
+  },
+  "id": 91,
+  "parent_id": 90,
+  "name": "SatelliteEquipment"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a189"
+  },
+  "id": 92,
+  "parent_id": 91,
+  "name": "SatelliteReceivers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a18a"
+  },
+  "id": 93,
+  "parent_id": 92,
+  "name": "DVICables"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a18b"
+  },
+  "id": 94,
+  "parent_id": 93,
+  "name": "SpeakerCables"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a18c"
+  },
+  "id": 95,
+  "parent_id": 94,
+  "name": "MediaStreamingDevices"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a18d"
+  },
+  "id": 96,
+  "parent_id": 95,
+  "name": "StreamingClients"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a18e"
+  },
+  "id": 97,
+  "parent_id": 96,
+  "name": "AVReceivers&Amplifiers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a18f"
+  },
+  "id": 98,
+  "parent_id": 97,
+  "name": "Speakers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a190"
+  },
+  "id": 99,
+  "parent_id": 98,
+  "name": "TowerSpeakers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a191"
+  },
+  "id": 100,
+  "parent_id": 99,
+  "name": "3DGlasses"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a192"
+  },
+  "id": 101,
+  "parent_id": 100,
+  "name": "WearableTechnology"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a193"
+  },
+  "id": 102,
+  "parent_id": 101,
+  "name": "SmartWatches"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a194"
+  },
+  "id": 103,
+  "parent_id": 102,
+  "name": "Mobiles&Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a195"
+  },
+  "id": 104,
+  "parent_id": 103,
+  "name": "MobileAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a196"
+  },
+  "id": 105,
+  "parent_id": 104,
+  "name": "Chargers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a197"
+  },
+  "id": 106,
+  "parent_id": 105,
+  "name": "PowerBanks"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a198"
+  },
+  "id": 107,
+  "parent_id": 106,
+  "name": "Smartphones&BasicMobiles"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a199"
+  },
+  "id": 108,
+  "parent_id": 107,
+  "name": "Smartphones"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a19a"
+  },
+  "id": 109,
+  "parent_id": 108,
+  "name": "MemoryCards"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a19b"
+  },
+  "id": 110,
+  "parent_id": 109,
+  "name": "MicroSD"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a19c"
+  },
+  "id": 111,
+  "parent_id": 110,
+  "name": "BasicMobiles"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a19d"
+  },
+  "id": 112,
+  "parent_id": 111,
+  "name": "Headphones,Earbuds&Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a19e"
+  },
+  "id": 113,
+  "parent_id": 112,
+  "name": "Headphones"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a19f"
+  },
+  "id": 114,
+  "parent_id": 113,
+  "name": "In-Ear"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1a0"
+  },
+  "id": 115,
+  "parent_id": 114,
+  "name": "AutomobileChargers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1a1"
+  },
+  "id": 116,
+  "parent_id": 115,
+  "name": "AutomobileAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1a2"
+  },
+  "id": 117,
+  "parent_id": 116,
+  "name": "Cradles"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1a3"
+  },
+  "id": 118,
+  "parent_id": 117,
+  "name": "WallChargers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1a4"
+  },
+  "id": 119,
+  "parent_id": 118,
+  "name": "Cables&Adapters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1a5"
+  },
+  "id": 120,
+  "parent_id": 119,
+  "name": "OTGAdapters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1a6"
+  },
+  "id": 121,
+  "parent_id": 120,
+  "name": "Photo&VideoAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1a7"
+  },
+  "id": 122,
+  "parent_id": 121,
+  "name": "Tripods"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1a8"
+  },
+  "id": 123,
+  "parent_id": 122,
+  "name": "SelfieSticks"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1a9"
+  },
+  "id": 124,
+  "parent_id": 123,
+  "name": "Stands"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1aa"
+  },
+  "id": 125,
+  "parent_id": 124,
+  "name": "CableConnectionProtectors"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ab"
+  },
+  "id": 126,
+  "parent_id": 125,
+  "name": "Décor"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ac"
+  },
+  "id": 127,
+  "parent_id": 126,
+  "name": "Maintenance,Upkeep&Repairs"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ad"
+  },
+  "id": 128,
+  "parent_id": 127,
+  "name": "ScreenProtectors"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ae"
+  },
+  "id": 129,
+  "parent_id": 128,
+  "name": "StylusPens"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1af"
+  },
+  "id": 130,
+  "parent_id": 129,
+  "name": "Bedstand&DeskMounts"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1b0"
+  },
+  "id": 131,
+  "parent_id": 130,
+  "name": "Cases&Covers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1b1"
+  },
+  "id": 132,
+  "parent_id": 131,
+  "name": "BasicCases"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1b2"
+  },
+  "id": 133,
+  "parent_id": 132,
+  "name": "HandlebarMounts"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1b3"
+  },
+  "id": 134,
+  "parent_id": 133,
+  "name": "On-Ear"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1b4"
+  },
+  "id": 135,
+  "parent_id": 134,
+  "name": "LaptopAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1b5"
+  },
+  "id": 136,
+  "parent_id": 135,
+  "name": "CameraPrivacyCovers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1b6"
+  },
+  "id": 137,
+  "parent_id": 136,
+  "name": "PhoneCharms"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1b7"
+  },
+  "id": 138,
+  "parent_id": 137,
+  "name": "Shower&WallMounts"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1b8"
+  },
+  "id": 139,
+  "parent_id": 138,
+  "name": "ExternalDevices&DataStorage"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1b9"
+  },
+  "id": 140,
+  "parent_id": 139,
+  "name": "PenDrives"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ba"
+  },
+  "id": 141,
+  "parent_id": 140,
+  "name": "Keyboards,Mice&InputDevices"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1bb"
+  },
+  "id": 142,
+  "parent_id": 141,
+  "name": "Mice"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1bc"
+  },
+  "id": 143,
+  "parent_id": 142,
+  "name": "GraphicTablets"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1bd"
+  },
+  "id": 144,
+  "parent_id": 143,
+  "name": "Lapdesks"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1be"
+  },
+  "id": 145,
+  "parent_id": 144,
+  "name": "NotebookComputerStands"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1bf"
+  },
+  "id": 146,
+  "parent_id": 145,
+  "name": "Keyboards"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1c0"
+  },
+  "id": 147,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "MusicalInstruments"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1c1"
+  },
+  "id": 148,
+  "parent_id": 147,
+  "name": "Microphones"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1c2"
+  },
+  "id": 149,
+  "parent_id": 148,
+  "name": "Condenser"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1c3"
+  },
+  "id": 150,
+  "parent_id": 149,
+  "name": "GeneralPurposeBatteries&BatteryChargers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1c4"
+  },
+  "id": 151,
+  "parent_id": 150,
+  "name": "DisposableBatteries"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1c5"
+  },
+  "id": 152,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "OfficeProducts"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1c6"
+  },
+  "id": 153,
+  "parent_id": 152,
+  "name": "OfficePaperProducts"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1c7"
+  },
+  "id": 154,
+  "parent_id": 153,
+  "name": "Paper"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1c8"
+  },
+  "id": 155,
+  "parent_id": 154,
+  "name": "Stationery"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1c9"
+  },
+  "id": 156,
+  "parent_id": 155,
+  "name": "Pens,Pencils&WritingSupplies"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ca"
+  },
+  "id": 157,
+  "parent_id": 156,
+  "name": "Pens&Refills"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1cb"
+  },
+  "id": 158,
+  "parent_id": 157,
+  "name": "GelInkRollerballPens"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1cc"
+  },
+  "id": 159,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Home&Kitchen"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1cd"
+  },
+  "id": 160,
+  "parent_id": 159,
+  "name": "CraftMaterials"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ce"
+  },
+  "id": 161,
+  "parent_id": 160,
+  "name": "Scrapbooking"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1cf"
+  },
+  "id": 162,
+  "parent_id": 161,
+  "name": "Tape"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1d0"
+  },
+  "id": 163,
+  "parent_id": 162,
+  "name": "Keyboard&MouseSets"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1d1"
+  },
+  "id": 164,
+  "parent_id": 163,
+  "name": "ExternalHardDisks"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1d2"
+  },
+  "id": 165,
+  "parent_id": 164,
+  "name": "Cameras&Photography"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1d3"
+  },
+  "id": 166,
+  "parent_id": 165,
+  "name": "VideoCameras"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1d4"
+  },
+  "id": 167,
+  "parent_id": 166,
+  "name": "Tripods&Monopods"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1d5"
+  },
+  "id": 168,
+  "parent_id": 167,
+  "name": "Tabletop&TravelTripods"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1d6"
+  },
+  "id": 169,
+  "parent_id": 168,
+  "name": "OfficeElectronics"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1d7"
+  },
+  "id": 170,
+  "parent_id": 169,
+  "name": "Calculators"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1d8"
+  },
+  "id": 171,
+  "parent_id": 170,
+  "name": "Scientific"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1d9"
+  },
+  "id": 172,
+  "parent_id": 171,
+  "name": "Repeaters&Extenders"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1da"
+  },
+  "id": 173,
+  "parent_id": 172,
+  "name": "TripodLegs"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1db"
+  },
+  "id": 174,
+  "parent_id": 173,
+  "name": "Printers,Inks&Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1dc"
+  },
+  "id": 175,
+  "parent_id": 174,
+  "name": "Inks,Toners&Cartridges"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1dd"
+  },
+  "id": 176,
+  "parent_id": 175,
+  "name": "InkjetInkCartridges"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1de"
+  },
+  "id": 177,
+  "parent_id": 176,
+  "name": "Keyboard&MiceAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1df"
+  },
+  "id": 178,
+  "parent_id": 177,
+  "name": "DustCovers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1e0"
+  },
+  "id": 179,
+  "parent_id": 178,
+  "name": "PCGamingPeripherals"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1e1"
+  },
+  "id": 180,
+  "parent_id": 179,
+  "name": "GamingMice"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1e2"
+  },
+  "id": 181,
+  "parent_id": 180,
+  "name": "PaintingMaterials"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1e3"
+  },
+  "id": 182,
+  "parent_id": 181,
+  "name": "Paints"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1e4"
+  },
+  "id": 183,
+  "parent_id": 182,
+  "name": "MousePads"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1e5"
+  },
+  "id": 184,
+  "parent_id": 183,
+  "name": "HardDiskBags"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1e6"
+  },
+  "id": 185,
+  "parent_id": 184,
+  "name": "Flashes"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1e7"
+  },
+  "id": 186,
+  "parent_id": 185,
+  "name": "Macro&RinglightFlashes"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1e8"
+  },
+  "id": 187,
+  "parent_id": 186,
+  "name": "Routers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1e9"
+  },
+  "id": 188,
+  "parent_id": 187,
+  "name": "Over-Ear"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ea"
+  },
+  "id": 189,
+  "parent_id": 188,
+  "name": "BluetoothSpeakers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1eb"
+  },
+  "id": 190,
+  "parent_id": 189,
+  "name": "Notebooks,WritingPads&Diaries"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ec"
+  },
+  "id": 191,
+  "parent_id": 190,
+  "name": "WireboundNotebooks"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ed"
+  },
+  "id": 192,
+  "parent_id": 191,
+  "name": "RechargeableBatteries"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ee"
+  },
+  "id": 193,
+  "parent_id": 192,
+  "name": "BluetoothAdapters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ef"
+  },
+  "id": 194,
+  "parent_id": 193,
+  "name": "USBtoUSBAdapters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1f0"
+  },
+  "id": 195,
+  "parent_id": 194,
+  "name": "CompleteTripodUnits"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1f1"
+  },
+  "id": 196,
+  "parent_id": 195,
+  "name": "Notepads&MemoBooks"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1f2"
+  },
+  "id": 197,
+  "parent_id": 196,
+  "name": "Film"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1f3"
+  },
+  "id": 198,
+  "parent_id": 197,
+  "name": "Monitors"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1f4"
+  },
+  "id": 199,
+  "parent_id": 198,
+  "name": "USBGadgets"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1f5"
+  },
+  "id": 200,
+  "parent_id": 199,
+  "name": "Lamps"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1f6"
+  },
+  "id": 201,
+  "parent_id": 200,
+  "name": "Cleaners"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1f7"
+  },
+  "id": 202,
+  "parent_id": 201,
+  "name": "CleaningKits"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1f8"
+  },
+  "id": 203,
+  "parent_id": 202,
+  "name": "SecurityCameras"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1f9"
+  },
+  "id": 204,
+  "parent_id": 203,
+  "name": "DomeCameras"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1fa"
+  },
+  "id": 205,
+  "parent_id": 204,
+  "name": "TabletAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1fb"
+  },
+  "id": 206,
+  "parent_id": 205,
+  "name": "Gamepads"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1fc"
+  },
+  "id": 207,
+  "parent_id": 206,
+  "name": "Basic"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1fd"
+  },
+  "id": 208,
+  "parent_id": 207,
+  "name": "USBHubs"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1fe"
+  },
+  "id": 209,
+  "parent_id": 208,
+  "name": "Audio&VideoAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a1ff"
+  },
+  "id": 210,
+  "parent_id": 209,
+  "name": "PCMicrophones"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a200"
+  },
+  "id": 211,
+  "parent_id": 210,
+  "name": "OutdoorSpeakers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a201"
+  },
+  "id": 212,
+  "parent_id": 211,
+  "name": "Bags&Sleeves"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a202"
+  },
+  "id": 213,
+  "parent_id": 212,
+  "name": "LaptopSleeves&Slipcases"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a203"
+  },
+  "id": 214,
+  "parent_id": 213,
+  "name": "ExternalMemoryCardReaders"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a204"
+  },
+  "id": 215,
+  "parent_id": 214,
+  "name": "BottledInk"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a205"
+  },
+  "id": 216,
+  "parent_id": 215,
+  "name": "CompositionNotebooks"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a206"
+  },
+  "id": 217,
+  "parent_id": 216,
+  "name": "RetractableBallpointPens"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a207"
+  },
+  "id": 218,
+  "parent_id": 217,
+  "name": "EthernetCables"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a208"
+  },
+  "id": 219,
+  "parent_id": 218,
+  "name": "Components"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a209"
+  },
+  "id": 220,
+  "parent_id": 219,
+  "name": "Memory"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a20a"
+  },
+  "id": 221,
+  "parent_id": 220,
+  "name": "UninterruptedPowerSupplies"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a20b"
+  },
+  "id": 222,
+  "parent_id": 221,
+  "name": "Cases"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a20c"
+  },
+  "id": 223,
+  "parent_id": 222,
+  "name": "SecureDigitalCards"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a20d"
+  },
+  "id": 224,
+  "parent_id": 223,
+  "name": "Flashes&SelfieLights"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a20e"
+  },
+  "id": 225,
+  "parent_id": 224,
+  "name": "SelfieLights"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a20f"
+  },
+  "id": 226,
+  "parent_id": 225,
+  "name": "Webcams&VoIPEquipment"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a210"
+  },
+  "id": 227,
+  "parent_id": 226,
+  "name": "Webcams"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a211"
+  },
+  "id": 228,
+  "parent_id": 227,
+  "name": "CoolingPads"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a212"
+  },
+  "id": 229,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "HomeImprovement"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a213"
+  },
+  "id": 230,
+  "parent_id": 229,
+  "name": "Electrical"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a214"
+  },
+  "id": 231,
+  "parent_id": 230,
+  "name": "Adapters&Multi-Outlets"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a215"
+  },
+  "id": 232,
+  "parent_id": 231,
+  "name": "Copy&PrintingPaper"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a216"
+  },
+  "id": 233,
+  "parent_id": 232,
+  "name": "ColouredPaper"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a217"
+  },
+  "id": 234,
+  "parent_id": 233,
+  "name": "InternalSolidStateDrives"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a218"
+  },
+  "id": 235,
+  "parent_id": 234,
+  "name": "MultimediaSpeakerSystems"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a219"
+  },
+  "id": 236,
+  "parent_id": 235,
+  "name": "DataCards&Dongles"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a21a"
+  },
+  "id": 237,
+  "parent_id": 236,
+  "name": "LaptopChargers&PowerSupplies"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a21b"
+  },
+  "id": 238,
+  "parent_id": 237,
+  "name": "PCSpeakers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a21c"
+  },
+  "id": 239,
+  "parent_id": 238,
+  "name": "Batteries&Chargers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a21d"
+  },
+  "id": 240,
+  "parent_id": 239,
+  "name": "BatteryChargers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a21e"
+  },
+  "id": 241,
+  "parent_id": 240,
+  "name": "Bags,Cases&Sleeves"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a21f"
+  },
+  "id": 242,
+  "parent_id": 241,
+  "name": "StickBallpointPens"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a220"
+  },
+  "id": 243,
+  "parent_id": 242,
+  "name": "DrawingMaterials"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a221"
+  },
+  "id": 244,
+  "parent_id": 243,
+  "name": "DrawingMedia"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a222"
+  },
+  "id": 245,
+  "parent_id": 244,
+  "name": "Pencils"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a223"
+  },
+  "id": 246,
+  "parent_id": 245,
+  "name": "WoodenPencils"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a224"
+  },
+  "id": 247,
+  "parent_id": 246,
+  "name": "InternalHardDrives"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a225"
+  },
+  "id": 248,
+  "parent_id": 247,
+  "name": "Printers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a226"
+  },
+  "id": 249,
+  "parent_id": 248,
+  "name": "Pens"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a227"
+  },
+  "id": 250,
+  "parent_id": 249,
+  "name": "SATACables"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a228"
+  },
+  "id": 251,
+  "parent_id": 250,
+  "name": "PCHeadsets"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a229"
+  },
+  "id": 252,
+  "parent_id": 251,
+  "name": "GamingKeyboards"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a22a"
+  },
+  "id": 253,
+  "parent_id": 252,
+  "name": "SoundbarSpeakers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a22b"
+  },
+  "id": 254,
+  "parent_id": 253,
+  "name": "Earpads"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a22c"
+  },
+  "id": 255,
+  "parent_id": 254,
+  "name": "InkjetPrinters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a22d"
+  },
+  "id": 256,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Toys&Games"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a22e"
+  },
+  "id": 257,
+  "parent_id": 256,
+  "name": "Arts&Crafts"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a22f"
+  },
+  "id": 258,
+  "parent_id": 257,
+  "name": "Drawing&PaintingSupplies"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a230"
+  },
+  "id": 259,
+  "parent_id": 258,
+  "name": "ColouringPens&Markers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a231"
+  },
+  "id": 260,
+  "parent_id": 259,
+  "name": "Headsets"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a232"
+  },
+  "id": 261,
+  "parent_id": 260,
+  "name": "ExternalSolidStateDrives"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a233"
+  },
+  "id": 262,
+  "parent_id": 261,
+  "name": "PowerLANAdapters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a234"
+  },
+  "id": 263,
+  "parent_id": 262,
+  "name": "InkjetInkRefills&Kits"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a235"
+  },
+  "id": 264,
+  "parent_id": 263,
+  "name": "PhotoStudio&Lighting"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a236"
+  },
+  "id": 265,
+  "parent_id": 264,
+  "name": "PhotoBackgroundAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a237"
+  },
+  "id": 266,
+  "parent_id": 265,
+  "name": "BackgroundSupports"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a238"
+  },
+  "id": 267,
+  "parent_id": 266,
+  "name": "Financial&Business"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a239"
+  },
+  "id": 268,
+  "parent_id": 267,
+  "name": "PowerAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a23a"
+  },
+  "id": 269,
+  "parent_id": 268,
+  "name": "SurgeProtectors"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a23b"
+  },
+  "id": 270,
+  "parent_id": 269,
+  "name": "CordManagement"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a23c"
+  },
+  "id": 271,
+  "parent_id": 270,
+  "name": "TonerCartridges"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a23d"
+  },
+  "id": 272,
+  "parent_id": 271,
+  "name": "LiquidInkRollerballPens"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a23e"
+  },
+  "id": 273,
+  "parent_id": 272,
+  "name": "FountainPens"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a23f"
+  },
+  "id": 274,
+  "parent_id": 273,
+  "name": "HardDriveAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a240"
+  },
+  "id": 275,
+  "parent_id": 274,
+  "name": "Caddies"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a241"
+  },
+  "id": 276,
+  "parent_id": 275,
+  "name": "Laptops"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a242"
+  },
+  "id": 277,
+  "parent_id": 276,
+  "name": "TraditionalLaptops"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a243"
+  },
+  "id": 278,
+  "parent_id": 277,
+  "name": "Kitchen&HomeAppliances"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a244"
+  },
+  "id": 279,
+  "parent_id": 278,
+  "name": "SmallKitchenAppliances"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a245"
+  },
+  "id": 280,
+  "parent_id": 279,
+  "name": "Kettles&HotWaterDispensers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a246"
+  },
+  "id": 281,
+  "parent_id": 280,
+  "name": "ElectricKettles"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a247"
+  },
+  "id": 282,
+  "parent_id": 281,
+  "name": "Heating,Cooling&AirQuality"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a248"
+  },
+  "id": 283,
+  "parent_id": 282,
+  "name": "RoomHeaters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a249"
+  },
+  "id": 284,
+  "parent_id": 283,
+  "name": "ElectricHeaters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a24a"
+  },
+  "id": 285,
+  "parent_id": 284,
+  "name": "FanHeaters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a24b"
+  },
+  "id": 286,
+  "parent_id": 285,
+  "name": "Vacuum,Cleaning&Ironing"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a24c"
+  },
+  "id": 287,
+  "parent_id": 286,
+  "name": "Irons,Steamers&Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a24d"
+  },
+  "id": 288,
+  "parent_id": 287,
+  "name": "LintShavers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a24e"
+  },
+  "id": 289,
+  "parent_id": 288,
+  "name": "DigitalKitchenScales"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a24f"
+  },
+  "id": 290,
+  "parent_id": 289,
+  "name": "Kitchen&Dining"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a250"
+  },
+  "id": 291,
+  "parent_id": 290,
+  "name": "KitchenTools"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a251"
+  },
+  "id": 292,
+  "parent_id": 291,
+  "name": "ManualChoppers&Chippers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a252"
+  },
+  "id": 293,
+  "parent_id": 292,
+  "name": "Choppers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a253"
+  },
+  "id": 294,
+  "parent_id": 293,
+  "name": "InductionCooktop"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a254"
+  },
+  "id": 295,
+  "parent_id": 294,
+  "name": "HandBlenders"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a255"
+  },
+  "id": 296,
+  "parent_id": 295,
+  "name": "Irons"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a256"
+  },
+  "id": 297,
+  "parent_id": 296,
+  "name": "DryIrons"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a257"
+  },
+  "id": 298,
+  "parent_id": 297,
+  "name": "MixerGrinders"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a258"
+  },
+  "id": 299,
+  "parent_id": 298,
+  "name": "WaterHeaters&Geysers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a259"
+  },
+  "id": 300,
+  "parent_id": 299,
+  "name": "InstantWaterHeaters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a25a"
+  },
+  "id": 301,
+  "parent_id": 300,
+  "name": "Kettle&ToasterSets"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a25b"
+  },
+  "id": 302,
+  "parent_id": 301,
+  "name": "StorageWaterHeaters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a25c"
+  },
+  "id": 303,
+  "parent_id": 302,
+  "name": "ImmersionRods"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a25d"
+  },
+  "id": 304,
+  "parent_id": 303,
+  "name": "DeepFatFryers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a25e"
+  },
+  "id": 305,
+  "parent_id": 304,
+  "name": "AirFryers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a25f"
+  },
+  "id": 306,
+  "parent_id": 305,
+  "name": "HomeStorage&Organization"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a260"
+  },
+  "id": 307,
+  "parent_id": 306,
+  "name": "LaundryOrganization"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a261"
+  },
+  "id": 308,
+  "parent_id": 307,
+  "name": "LaundryBaskets"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a262"
+  },
+  "id": 309,
+  "parent_id": 308,
+  "name": "SteamIrons"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a263"
+  },
+  "id": 310,
+  "parent_id": 309,
+  "name": "JuicerMixerGrinders"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a264"
+  },
+  "id": 311,
+  "parent_id": 310,
+  "name": "Vacuums&FloorCare"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a265"
+  },
+  "id": 312,
+  "parent_id": 311,
+  "name": "Vacuums"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a266"
+  },
+  "id": 313,
+  "parent_id": 312,
+  "name": "HandheldVacuums"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a267"
+  },
+  "id": 314,
+  "parent_id": 313,
+  "name": "EggBoilers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a268"
+  },
+  "id": 315,
+  "parent_id": 314,
+  "name": "SandwichMakers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a269"
+  },
+  "id": 316,
+  "parent_id": 315,
+  "name": "MiniFoodProcessors&Choppers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a26a"
+  },
+  "id": 317,
+  "parent_id": 316,
+  "name": "DigitalScales"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a26b"
+  },
+  "id": 318,
+  "parent_id": 317,
+  "name": "VacuumSealers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a26c"
+  },
+  "id": 319,
+  "parent_id": 318,
+  "name": "Fans"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a26d"
+  },
+  "id": 320,
+  "parent_id": 319,
+  "name": "CeilingFans"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a26e"
+  },
+  "id": 321,
+  "parent_id": 320,
+  "name": "CanisterVacuums"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a26f"
+  },
+  "id": 322,
+  "parent_id": 321,
+  "name": "PressureWashers,Steam&WindowCleaners"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a270"
+  },
+  "id": 323,
+  "parent_id": 322,
+  "name": "HalogenHeaters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a271"
+  },
+  "id": 324,
+  "parent_id": 323,
+  "name": "Pop-upToasters"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a272"
+  },
+  "id": 325,
+  "parent_id": 324,
+  "name": "HeatConvectors"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a273"
+  },
+  "id": 326,
+  "parent_id": 325,
+  "name": "Coffee,Tea&Espresso"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a274"
+  },
+  "id": 327,
+  "parent_id": 326,
+  "name": "CoffeeGrinders"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a275"
+  },
+  "id": 328,
+  "parent_id": 327,
+  "name": "ElectricGrinders"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a276"
+  },
+  "id": 329,
+  "parent_id": 328,
+  "name": "ExhaustFans"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a277"
+  },
+  "id": 330,
+  "parent_id": 329,
+  "name": "DripCoffeeMachines"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a278"
+  },
+  "id": 331,
+  "parent_id": 330,
+  "name": "WaterPurifiers&Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a279"
+  },
+  "id": 332,
+  "parent_id": 331,
+  "name": "WaterPurifierAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a27a"
+  },
+  "id": 333,
+  "parent_id": 332,
+  "name": "WaterCartridges"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a27b"
+  },
+  "id": 334,
+  "parent_id": 333,
+  "name": "Rice&PastaCookers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a27c"
+  },
+  "id": 335,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Car&Motorbike"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a27d"
+  },
+  "id": 336,
+  "parent_id": 335,
+  "name": "CarAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a27e"
+  },
+  "id": 337,
+  "parent_id": 336,
+  "name": "InteriorAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a27f"
+  },
+  "id": 338,
+  "parent_id": 337,
+  "name": "AirPurifiers&Ionizers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a280"
+  },
+  "id": 339,
+  "parent_id": 338,
+  "name": "Wet-DryVacuums"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a281"
+  },
+  "id": 340,
+  "parent_id": 339,
+  "name": "AirPurifiers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a282"
+  },
+  "id": 341,
+  "parent_id": 340,
+  "name": "HEPAAirPurifiers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a283"
+  },
+  "id": 342,
+  "parent_id": 341,
+  "name": "WaterFilters&Purifiers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a284"
+  },
+  "id": 343,
+  "parent_id": 342,
+  "name": "LaundryBags"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a285"
+  },
+  "id": 344,
+  "parent_id": 343,
+  "name": "SewingMachines&Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a286"
+  },
+  "id": 345,
+  "parent_id": 344,
+  "name": "Sewing&EmbroideryMachines"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a287"
+  },
+  "id": 346,
+  "parent_id": 345,
+  "name": "IroningAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a288"
+  },
+  "id": 347,
+  "parent_id": 346,
+  "name": "SprayBottles"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a289"
+  },
+  "id": 348,
+  "parent_id": 347,
+  "name": "HandMixers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a28a"
+  },
+  "id": 349,
+  "parent_id": 348,
+  "name": "Mills&Grinders"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a28b"
+  },
+  "id": 350,
+  "parent_id": 349,
+  "name": "WetGrinders"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a28c"
+  },
+  "id": 351,
+  "parent_id": 350,
+  "name": "OvenToasterGrills"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a28d"
+  },
+  "id": 352,
+  "parent_id": 351,
+  "name": "Juicers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a28e"
+  },
+  "id": 353,
+  "parent_id": {
+    "$numberDouble": "NaN"
+  },
+  "name": "Health&PersonalCare"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a28f"
+  },
+  "id": 354,
+  "parent_id": 353,
+  "name": "HomeMedicalSupplies&Equipment"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a290"
+  },
+  "id": 355,
+  "parent_id": 354,
+  "name": "HealthMonitors"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a291"
+  },
+  "id": 356,
+  "parent_id": 355,
+  "name": "WeighingScales"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a292"
+  },
+  "id": 357,
+  "parent_id": 356,
+  "name": "DigitalBathroomScales"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a293"
+  },
+  "id": 358,
+  "parent_id": 357,
+  "name": "EspressoMachines"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a294"
+  },
+  "id": 359,
+  "parent_id": 358,
+  "name": "TableFans"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a295"
+  },
+  "id": 360,
+  "parent_id": 359,
+  "name": "MilkFrothers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a296"
+  },
+  "id": 361,
+  "parent_id": 360,
+  "name": "Humidifiers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a297"
+  },
+  "id": 362,
+  "parent_id": 361,
+  "name": "SmallApplianceParts&Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a298"
+  },
+  "id": 363,
+  "parent_id": 362,
+  "name": "StandMixerAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a299"
+  },
+  "id": 364,
+  "parent_id": 363,
+  "name": "RoboticVacuums"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a29a"
+  },
+  "id": 365,
+  "parent_id": 364,
+  "name": "YogurtMakers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a29b"
+  },
+  "id": 366,
+  "parent_id": 365,
+  "name": "ColdPressJuicers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a29c"
+  },
+  "id": 367,
+  "parent_id": 366,
+  "name": "AirConditioners"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a29d"
+  },
+  "id": 368,
+  "parent_id": 367,
+  "name": "Split-SystemAirConditioners"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a29e"
+  },
+  "id": 369,
+  "parent_id": 368,
+  "name": "WaffleMakers&Irons"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a29f"
+  },
+  "id": 370,
+  "parent_id": 369,
+  "name": "StovetopEspressoPots"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a2a0"
+  },
+  "id": 371,
+  "parent_id": 370,
+  "name": "CoffeeMakerAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a2a1"
+  },
+  "id": 372,
+  "parent_id": 371,
+  "name": "MeasuringSpoons"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a2a2"
+  },
+  "id": 373,
+  "parent_id": 372,
+  "name": "CoffeePresses"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a2a3"
+  },
+  "id": 374,
+  "parent_id": 373,
+  "name": "RotiMakers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a2a4"
+  },
+  "id": 375,
+  "parent_id": 374,
+  "name": "Parts&Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a2a5"
+  },
+  "id": 376,
+  "parent_id": 375,
+  "name": "FanParts&Accessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a2a6"
+  },
+  "id": 377,
+  "parent_id": 376,
+  "name": "StandMixers"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a2a7"
+  },
+  "id": 378,
+  "parent_id": 377,
+  "name": "PedestalFans"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a2a8"
+  },
+  "id": 379,
+  "parent_id": 378,
+  "name": "VacuumAccessories"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a2a9"
+  },
+  "id": 380,
+  "parent_id": 379,
+  "name": "VacuumBags"
+},{
+  "_id": {
+    "$oid": "65325d8d88bdd3091bd8a2aa"
+  },
+  "id": 381,
+  "parent_id": 380,
+  "name": "HandheldBags"
+}]

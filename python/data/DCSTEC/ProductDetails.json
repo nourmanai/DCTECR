@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "64d39b2dfa21f9d98d563c29"
+  },
+  "reviews_sample": [
+    {
+      "review_id": "596472698230412700",
+      "review_title": null,
+      "review_author": "Colton W.",
+      "review_source": "stockx.com",
+      "review_source_url": "https://stockx.com/air-jordan-1-retro-high-white-university-blue-black",
+      "review_text": "My first pair of Jordan 1 Highs! These are very high-quality sneakers. My only real complaint is that the price is very steep. Otherwise, great sneakers that arrived in a timely manner and in pristine condition! The premium(?) leather is very crease-resistant. I don’t really mind creasing - I think of it as a badge of honor because it shows you wear your shoes - but I say that because I’ve worn them six times now and they still look fresh out the box! Plus, the suede is very easy to clean. (I got a drip of salsa on my drip, but a slightly damp paper towel followed up with a dry one cleared it right up and it looks like it never happened!) Definitely my favorite pair of sneakers. 10/10 highly recommend, especially for sneakerheads in training like me. :)",
+      "rating": 5,
+      "review_datetime_utc": "2023-05-10T00:00:00.000Z",
+      "review_language": "en",
+      "photos": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT2WXdOqWwpW2uvvOPgAQ7l9PsXGP3D4i-7RRNEWWW9_p03tVQ&usqp=CAY",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSW1JE8CMAB2hNj4vfILXhlWe9ivYeT0aW3THz1B-8Gk2dRuG33&usqp=CAY",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpYDnlJm0QEM_9uHfDgLn0Bq63FO7IWVaPmU_purqpVPgPIWo&usqp=CAY"
+      ]
+    }
+  ],
+  "product_highlights": []
+}]

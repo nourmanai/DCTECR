@@ -1,0 +1,6001 @@
+[{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff94"
+  },
+  "customer name": "Martina Avila",
+  "customer e-mail": "cubilia.Curae.Phasellus@quisaccumsanconvallis.edu",
+  "country": "Bulgaria",
+  "gender": "female",
+  "age": 41.8517198,
+  "annual Salary": 62812.09301,
+  "credit card debt": 11609.38091,
+  "net worth": 238961.2505
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff95"
+  },
+  "customer name": "Harlan Barnes",
+  "customer e-mail": "eu.dolor@diam.co.uk",
+  "country": "Belize",
+  "gender": "female",
+  "age": 40.87062335,
+  "annual Salary": 66646.89292,
+  "credit card debt": 9572.957136,
+  "net worth": 530973.9078
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff96"
+  },
+  "customer name": "Naomi Rodriquez",
+  "customer e-mail": "vulputate.mauris.sagittis@ametconsectetueradipiscing.co.uk",
+  "country": "Algeria",
+  "gender": "male",
+  "age": 43.15289747,
+  "annual Salary": 53798.55112,
+  "credit card debt": 11160.35506,
+  "net worth": 638467.1773
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff97"
+  },
+  "customer name": "Jade Cunningham",
+  "customer e-mail": "malesuada@dignissim.com",
+  "country": "Cook Islands",
+  "gender": "male",
+  "age": 58.27136945,
+  "annual Salary": 79370.03798,
+  "credit card debt": 14426.16485,
+  "net worth": 548599.0524
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff98"
+  },
+  "customer name": "Cedric Leach",
+  "customer e-mail": "felis.ullamcorper.viverra@egetmollislectus.net",
+  "country": "Brazil",
+  "gender": "male",
+  "age": 57.31374945,
+  "annual Salary": 59729.1513,
+  "credit card debt": 5358.712177,
+  "net worth": 560304.0671
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff99"
+  },
+  "customer name": "Carla Hester",
+  "customer e-mail": "mi@Aliquamerat.edu",
+  "country": "Liberia",
+  "gender": "male",
+  "age": 56.82489312,
+  "annual Salary": 68499.85162,
+  "credit card debt": 14179.47244,
+  "net worth": 428485.3604
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff9a"
+  },
+  "customer name": "Griffin Rivera",
+  "customer e-mail": "vehicula@at.co.uk",
+  "country": "Syria",
+  "gender": "male",
+  "age": 46.60731485,
+  "annual Salary": 39814.522,
+  "credit card debt": 5958.460188,
+  "net worth": 326373.1812
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff9b"
+  },
+  "customer name": "Orli Casey",
+  "customer e-mail": "nunc.est.mollis@Suspendissetristiqueneque.co.uk",
+  "country": "Czech Republic",
+  "gender": "male",
+  "age": 50.19301623,
+  "annual Salary": 51752.23445,
+  "credit card debt": 10985.69656,
+  "net worth": 629312.4041
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff9c"
+  },
+  "customer name": "Marny Obrien",
+  "customer e-mail": "Phasellus@sedsemegestas.org",
+  "country": "Armenia",
+  "gender": "female",
+  "age": 46.58474463,
+  "annual Salary": 58139.2591,
+  "credit card debt": 3440.823799,
+  "net worth": 630059.0274
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff9d"
+  },
+  "customer name": "Rhonda Chavez",
+  "customer e-mail": "nec@nuncest.com",
+  "country": "Somalia",
+  "gender": "male",
+  "age": 43.32378156,
+  "annual Salary": 53457.10132,
+  "credit card debt": 12884.07868,
+  "net worth": 476643.3544
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff9e"
+  },
+  "customer name": "Jerome Rowe",
+  "customer e-mail": "ipsum.cursus@dui.org",
+  "country": "Sint Maarten",
+  "gender": "male",
+  "age": 50.12992275,
+  "annual Salary": 73348.70745,
+  "credit card debt": 8270.707359,
+  "net worth": 612738.6171
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ff9f"
+  },
+  "customer name": "Akeem Gibson",
+  "customer e-mail": "turpis.egestas.Fusce@purus.edu",
+  "country": "Greenland",
+  "gender": "male",
+  "age": 53.18015845,
+  "annual Salary": 55421.65733,
+  "credit card debt": 10014.96929,
+  "net worth": 293862.5123
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffa0"
+  },
+  "customer name": "Quin Smith",
+  "customer e-mail": "nulla@ipsum.edu",
+  "country": "Nicaragua",
+  "gender": "female",
+  "age": 44.3964937,
+  "annual Salary": 37336.3383,
+  "credit card debt": 10218.32092,
+  "net worth": 430907.1673
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffa1"
+  },
+  "customer name": "Tatum Moon",
+  "customer e-mail": "Cras.sed.leo@Seddiamlorem.ca",
+  "country": "Palestine, State of",
+  "gender": "female",
+  "age": 48.49651504,
+  "annual Salary": 68304.47298,
+  "credit card debt": 9466.995128,
+  "net worth": 420322.0702
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffa2"
+  },
+  "customer name": "Sharon Sharpe",
+  "customer e-mail": "eget.metus@aaliquetvel.co.uk",
+  "country": "United Arab Emirates",
+  "gender": "female",
+  "age": 55.24486604,
+  "annual Salary": 72776.00382,
+  "credit card debt": 10597.63814,
+  "net worth": 146344.8965
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffa3"
+  },
+  "customer name": "Thomas Williams",
+  "customer e-mail": "aliquet.molestie@ut.org",
+  "country": "Gabon",
+  "gender": "male",
+  "age": 53.28976788,
+  "annual Salary": 64662.30061,
+  "credit card debt": 11326.03434,
+  "net worth": 481433.4324
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffa4"
+  },
+  "customer name": "Blaine Bender",
+  "customer e-mail": "ultrices.posuere.cubilia@pedenonummyut.net",
+  "country": "Tokelau",
+  "gender": "female",
+  "age": 44.74219952,
+  "annual Salary": 63259.87837,
+  "credit card debt": 11495.54999,
+  "net worth": 370356.2223
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffa5"
+  },
+  "customer name": "Stephen Lindsey",
+  "customer e-mail": "erat.eget.ipsum@tinciduntpede.org",
+  "country": "Portugal",
+  "gender": "male",
+  "age": 48.12708462,
+  "annual Salary": 52682.06401,
+  "credit card debt": 12514.52029,
+  "net worth": 549443.5886
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffa6"
+  },
+  "customer name": "Sloane Mann",
+  "customer e-mail": "at.augue@augue.net",
+  "country": "Chad",
+  "gender": "male",
+  "age": 51.85347374,
+  "annual Salary": 54503.14423,
+  "credit card debt": 7377.820914,
+  "net worth": 431098.9998
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffa7"
+  },
+  "customer name": "Athena Wolf",
+  "customer e-mail": "volutpat.Nulla.facilisis@primis.ca",
+  "country": "Iraq",
+  "gender": "female",
+  "age": 58.74184223,
+  "annual Salary": 55368.23716,
+  "credit card debt": 13272.94647,
+  "net worth": 566022.1306
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffa8"
+  },
+  "customer name": "Blythe Romero",
+  "customer e-mail": "Sed.eu@risusNuncac.co.uk",
+  "country": "Sudan",
+  "gender": "male",
+  "age": 51.90047138,
+  "annual Salary": 63435.86304,
+  "credit card debt": 11878.03779,
+  "net worth": 480588.2345
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffa9"
+  },
+  "customer name": "Zelenia Byers",
+  "customer e-mail": "auctor.non@sapien.co.uk",
+  "country": "Angola",
+  "gender": "female",
+  "age": 48.08111958,
+  "annual Salary": 64347.34531,
+  "credit card debt": 10905.36628,
+  "net worth": 307226.0977
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffaa"
+  },
+  "customer name": "Nola Wiggins",
+  "customer e-mail": "Aliquam@augue.edu",
+  "country": "Nigeria",
+  "gender": "male",
+  "age": 45.53184183,
+  "annual Salary": 65176.69055,
+  "credit card debt": 7698.552234,
+  "net worth": 497526.4566
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffab"
+  },
+  "customer name": "Micah Wheeler",
+  "customer e-mail": "arcu.eu@tincidunt.org",
+  "country": "Madagascar",
+  "gender": "male",
+  "age": 47.02228427,
+  "annual Salary": 52027.63837,
+  "credit card debt": 11960.85377,
+  "net worth": 688466.0503
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffac"
+  },
+  "customer name": "Caryn Hendrix",
+  "customer e-mail": "condimentum.Donec@duiCum.com",
+  "country": "Macedonia",
+  "gender": "female",
+  "age": 39.94299532,
+  "annual Salary": 69612.0123,
+  "credit card debt": 8125.598993,
+  "net worth": 499086.3442
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffad"
+  },
+  "customer name": "Hedda Miranda",
+  "customer e-mail": "scelerisque@magnased.com",
+  "country": "Oman",
+  "gender": "female",
+  "age": 52.57744084,
+  "annual Salary": 53065.57175,
+  "credit card debt": 17805.57607,
+  "net worth": 429440.3297
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffae"
+  },
+  "customer name": "Ulric Lynn",
+  "customer e-mail": "sociis@vulputateveliteu.com",
+  "country": "Colombia",
+  "gender": "female",
+  "age": 28.0096755,
+  "annual Salary": 82842.53385,
+  "credit card debt": 13102.15805,
+  "net worth": 315775.3207
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffaf"
+  },
+  "customer name": "Alma Pope",
+  "customer e-mail": "Nunc.mauris.Morbi@turpis.org",
+  "country": "Namibia",
+  "gender": "female",
+  "age": 55.63031699,
+  "annual Salary": 61388.62709,
+  "credit card debt": 14270.00731,
+  "net worth": 341691.9337
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffb0"
+  },
+  "customer name": "Gemma Hendrix",
+  "customer e-mail": "lobortis@non.co.uk",
+  "country": "Denmark",
+  "gender": "male",
+  "age": 46.12403587,
+  "annual Salary": 100000,
+  "credit card debt": 17452.92179,
+  "net worth": 188032.0778
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffb1"
+  },
+  "customer name": "Castor Wood",
+  "customer e-mail": "velit.Pellentesque@Nulla.net",
+  "country": "Dominican Republic",
+  "gender": "male",
+  "age": 40.24532734,
+  "annual Salary": 62891.86556,
+  "credit card debt": 12522.94052,
+  "net worth": 583230.976
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffb2"
+  },
+  "customer name": "Herman Stevenson",
+  "customer e-mail": "sociosqu.ad.litora@erat.com",
+  "country": "Costa Rica",
+  "gender": "male",
+  "age": 33.48313022,
+  "annual Salary": 39627.1248,
+  "credit card debt": 9371.511071,
+  "net worth": 319837.6593
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffb3"
+  },
+  "customer name": "Adrienne Bolton",
+  "customer e-mail": "dictum@magnaPraesent.ca",
+  "country": "Botswana",
+  "gender": "male",
+  "age": 40.38546326,
+  "annual Salary": 68859.56489,
+  "credit card debt": 13417.02027,
+  "net worth": 486069.073
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffb4"
+  },
+  "customer name": "Dahlia Cleveland",
+  "customer e-mail": "tincidunt.tempus@idsapien.co.uk",
+  "country": "Saint Pierre and Miquelon",
+  "gender": "male",
+  "age": 51.31671367,
+  "annual Salary": 82358.22683,
+  "credit card debt": 8092.475103,
+  "net worth": 655934.4666
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffb5"
+  },
+  "customer name": "Keane Browning",
+  "customer e-mail": "Curabitur@acipsumPhasellus.co.uk",
+  "country": "France",
+  "gender": "female",
+  "age": 51.4805088,
+  "annual Salary": 67904.39895,
+  "credit card debt": 11417.30952,
+  "net worth": 487435.964
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffb6"
+  },
+  "customer name": "Quon Hull",
+  "customer e-mail": "nascetur.ridiculus.mus@dignissim.co.uk",
+  "country": "Senegal",
+  "gender": "female",
+  "age": 46.31841716,
+  "annual Salary": 65311.68225,
+  "credit card debt": 7988.753685,
+  "net worth": 215673.5384
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffb7"
+  },
+  "customer name": "Coby Charles",
+  "customer e-mail": "nec@dolornonummyac.com",
+  "country": "Cambodia",
+  "gender": "female",
+  "age": 50.50341115,
+  "annual Salary": 59593.2624,
+  "credit card debt": 12252.73058,
+  "net worth": 612242.7755
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffb8"
+  },
+  "customer name": "Amery Cortez",
+  "customer e-mail": "semper.et.lacinia@Morbiquisurna.ca",
+  "country": "Suriname",
+  "gender": "male",
+  "age": 49.85387098,
+  "annual Salary": 47460.54809,
+  "credit card debt": 7405.534271,
+  "net worth": 430624.8142
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffb9"
+  },
+  "customer name": "Uriel Bradshaw",
+  "customer e-mail": "ultrices@Integersemelit.com",
+  "country": "Turkey",
+  "gender": "male",
+  "age": 22.00038672,
+  "annual Salary": 43131.78411,
+  "credit card debt": 10917.14094,
+  "net worth": 326742.7352
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffba"
+  },
+  "customer name": "Fredericka Sanders",
+  "customer e-mail": "Curabitur@Infaucibus.ca",
+  "country": "Ethiopia",
+  "gender": "female",
+  "age": 50.51602163,
+  "annual Salary": 52263.69806,
+  "credit card debt": 8838.759509,
+  "net worth": 213040.9606
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffbb"
+  },
+  "customer name": "Christopher Stevens",
+  "customer e-mail": "blandit.enim@lacusvariuset.org",
+  "country": "French Guiana",
+  "gender": "male",
+  "age": 48.04729589,
+  "annual Salary": 80959.5331,
+  "credit card debt": 4499.921096,
+  "net worth": 379749.9152
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffbc"
+  },
+  "customer name": "Rachel Ashley",
+  "customer e-mail": "tincidunt.tempus.risus@posuerecubiliaCurae.co.uk",
+  "country": "Turkey",
+  "gender": "female",
+  "age": 42.44978638,
+  "annual Salary": 66417.66597,
+  "credit card debt": 9183.327621,
+  "net worth": 513340.0097
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffbd"
+  },
+  "customer name": "Lael Wright",
+  "customer e-mail": "a@consequatpurusMaecenas.com",
+  "country": "Bhutan",
+  "gender": "male",
+  "age": 46.26908486,
+  "annual Salary": 58457.41492,
+  "credit card debt": 12491.01273,
+  "net worth": 410655.9947
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffbe"
+  },
+  "customer name": "Ryder Shaffer",
+  "customer e-mail": "Phasellus.dapibus.quam@inhendrerit.ca",
+  "country": "Georgia",
+  "gender": "female",
+  "age": 37.58459582,
+  "annual Salary": 50571.45969,
+  "credit card debt": 13338.32852,
+  "net worth": 348833.8403
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffbf"
+  },
+  "customer name": "Eric Noel",
+  "customer e-mail": "lacinia.at.iaculis@Fuscefermentumfermentum.edu",
+  "country": "Mozambique",
+  "gender": "male",
+  "age": 38.7730024,
+  "annual Salary": 50943.16256,
+  "credit card debt": 10816.8855,
+  "net worth": 299734.1278
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffc0"
+  },
+  "customer name": "Tamara Guy",
+  "customer e-mail": "nec.eleifend@orci.org",
+  "country": "Nauru",
+  "gender": "male",
+  "age": 61.22413159,
+  "annual Salary": 79792.13096,
+  "credit card debt": 14245.53319,
+  "net worth": 497950.2933
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffc1"
+  },
+  "customer name": "Quincy Bell",
+  "customer e-mail": "in@Duisgravida.co.uk",
+  "country": "Timor-Leste",
+  "gender": "female",
+  "age": 55.27514264,
+  "annual Salary": 70787.27764,
+  "credit card debt": 10155.34095,
+  "net worth": 853913.8532
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffc2"
+  },
+  "customer name": "Lee Taylor",
+  "customer e-mail": "Vivamus.nisi.Mauris@miAliquam.co.uk",
+  "country": "Djibouti",
+  "gender": "male",
+  "age": 42.22589031,
+  "annual Salary": 56098.50773,
+  "credit card debt": 11675.28496,
+  "net worth": 320228.6451
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffc3"
+  },
+  "customer name": "Kenneth Pope",
+  "customer e-mail": "vitae.sodales.at@molestiearcuSed.org",
+  "country": "Argentina",
+  "gender": "female",
+  "age": 51.16813904,
+  "annual Salary": 57478.37922,
+  "credit card debt": 2230.096344,
+  "net worth": 158979.7102
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffc4"
+  },
+  "customer name": "Reese Vance",
+  "customer e-mail": "egestas@malesuadavelvenenatis.com",
+  "country": "Taiwan",
+  "gender": "male",
+  "age": 41.44430677,
+  "annual Salary": 60181.40633,
+  "credit card debt": 7094.896557,
+  "net worth": 390312.1715
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffc5"
+  },
+  "customer name": "Quon Carroll",
+  "customer e-mail": "sodales@pharetra.com",
+  "country": "Åland Islands",
+  "gender": "female",
+  "age": 40.08331711,
+  "annual Salary": 74445.08168,
+  "credit card debt": 7915.758178,
+  "net worth": 527420.7269
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffc6"
+  },
+  "customer name": "Magee Davidson",
+  "customer e-mail": "Quisque@tempor.net",
+  "country": "Turks and Caicos Islands",
+  "gender": "male",
+  "age": 41.1638484,
+  "annual Salary": 38406.7789,
+  "credit card debt": 11023.00268,
+  "net worth": 451846.1995
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffc7"
+  },
+  "customer name": "Leilani Gross",
+  "customer e-mail": "dignissim@mollisDuissit.org",
+  "country": "Samoa",
+  "gender": "female",
+  "age": 55.78242299,
+  "annual Salary": 64616.6881,
+  "credit card debt": 12378.54089,
+  "net worth": 779925.7892
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffc8"
+  },
+  "customer name": "Morgan William",
+  "customer e-mail": "sociis.natoque.penatibus@uterat.ca",
+  "country": "Vanuatu",
+  "gender": "female",
+  "age": 46.23366001,
+  "annual Salary": 68107.93144,
+  "credit card debt": 7813.602657,
+  "net worth": 455609.1429
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffc9"
+  },
+  "customer name": "Francesca Cervantes",
+  "customer e-mail": "leo@sitametdapibus.edu",
+  "country": "Mongolia",
+  "gender": "male",
+  "age": 36.67318264,
+  "annual Salary": 72471.81532,
+  "credit card debt": 11216.88676,
+  "net worth": 583523.0762
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffca"
+  },
+  "customer name": "Rafael Peterson",
+  "customer e-mail": "lectus.a.sollicitudin@tortorat.net",
+  "country": "Sri Lanka",
+  "gender": "male",
+  "age": 52.46564908,
+  "annual Salary": 35069.41886,
+  "credit card debt": 1851.979839,
+  "net worth": 353757.5057
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffcb"
+  },
+  "customer name": "Roanna Knox",
+  "customer e-mail": "dolor.nonummy@metusurnaconvallis.net",
+  "country": "Guinea-Bissau",
+  "gender": "female",
+  "age": 57.12191756,
+  "annual Salary": 52422.94691,
+  "credit card debt": 6998.46562,
+  "net worth": 438067.7506
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffcc"
+  },
+  "customer name": "Marny Vargas",
+  "customer e-mail": "nonummy.Fusce.fermentum@ligula.org",
+  "country": "Egypt",
+  "gender": "male",
+  "age": 33.81629802,
+  "annual Salary": 84467.78988,
+  "credit card debt": 7772.444847,
+  "net worth": 468238.7915
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffcd"
+  },
+  "customer name": "Charlotte Waller",
+  "customer e-mail": "odio@Nuncac.org",
+  "country": "Slovenia",
+  "gender": "male",
+  "age": 43.03088068,
+  "annual Salary": 51419.50777,
+  "credit card debt": 11331.20447,
+  "net worth": 636407.1148
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffce"
+  },
+  "customer name": "Dorian Hernandez",
+  "customer e-mail": "conubia.nostra.per@diam.co.uk",
+  "country": "Benin",
+  "gender": "male",
+  "age": 50.16597776,
+  "annual Salary": 46609.51626,
+  "credit card debt": 7592.019748,
+  "net worth": 409419.5797
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffcf"
+  },
+  "customer name": "Armando Hensley",
+  "customer e-mail": "Class.aptent@torquentper.com",
+  "country": "Cape Verde",
+  "gender": "male",
+  "age": 42.24181684,
+  "annual Salary": 55207.45679,
+  "credit card debt": 9976.434857,
+  "net worth": 286062.5162
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffd0"
+  },
+  "customer name": "Rowan Kidd",
+  "customer e-mail": "sapien.Aenean.massa@adipiscing.ca",
+  "country": "Paraguay",
+  "gender": "male",
+  "age": 42.05808927,
+  "annual Salary": 46689.4159,
+  "credit card debt": 7829.565502,
+  "net worth": 615765.9289
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffd1"
+  },
+  "customer name": "Gwendolyn Rice",
+  "customer e-mail": "Duis@metusIn.com",
+  "country": "Laos",
+  "gender": "female",
+  "age": 42.09853578,
+  "annual Salary": 71847.2544,
+  "credit card debt": 4225.328117,
+  "net worth": 476088.3996
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffd2"
+  },
+  "customer name": "Gareth Morris",
+  "customer e-mail": "est.Nunc.laoreet@nullavulputatedui.edu",
+  "country": "Iceland",
+  "gender": "female",
+  "age": 54.55868922,
+  "annual Salary": 69236.68608,
+  "credit card debt": 9842.842611,
+  "net worth": 242495.9886
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffd3"
+  },
+  "customer name": "Sawyer Carney",
+  "customer e-mail": "erat.Sed@Phasellus.ca",
+  "country": "Iceland",
+  "gender": "female",
+  "age": 53.15575545,
+  "annual Salary": 54006.77851,
+  "credit card debt": 15189.08845,
+  "net worth": 246321.8916
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffd4"
+  },
+  "customer name": "Raya Shields",
+  "customer e-mail": "tincidunt.aliquam@orciluctuset.com",
+  "country": "Viet Nam",
+  "gender": "female",
+  "age": 53.05769018,
+  "annual Salary": 47228.35999,
+  "credit card debt": 9046.182396,
+  "net worth": 456634.2073
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffd5"
+  },
+  "customer name": "Olga Serrano",
+  "customer e-mail": "risus@urnasuscipitnonummy.edu",
+  "country": "Marshall Islands",
+  "gender": "female",
+  "age": 43.29935025,
+  "annual Salary": 70187.50328,
+  "credit card debt": 6841.540577,
+  "net worth": 662176.4851
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffd6"
+  },
+  "customer name": "Yuli Craig",
+  "customer e-mail": "lobortis.quis.pede@Seddiam.com",
+  "country": "Germany",
+  "gender": "female",
+  "age": 55.27030631,
+  "annual Salary": 62262.94845,
+  "credit card debt": 11785.87919,
+  "net worth": 301026.2206
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffd7"
+  },
+  "customer name": "Lev Kramer",
+  "customer e-mail": "eu.odio@tristique.org",
+  "country": "Kyrgyzstan",
+  "gender": "male",
+  "age": 42.69528911,
+  "annual Salary": 59195.82899,
+  "credit card debt": 8634.376791,
+  "net worth": 573054.3808
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffd8"
+  },
+  "customer name": "Nissim Acosta",
+  "customer e-mail": "enim@at.net",
+  "country": "Mauritius",
+  "gender": "male",
+  "age": 57.34721558,
+  "annual Salary": 48716.67271,
+  "credit card debt": 10886.91711,
+  "net worth": 662382.6623
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffd9"
+  },
+  "customer name": "Miranda Berry",
+  "customer e-mail": "lorem@necmauris.ca",
+  "country": "Gambia",
+  "gender": "male",
+  "age": 52.07227701,
+  "annual Salary": 66478.00967,
+  "credit card debt": 13685.88702,
+  "net worth": 356553.3996
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffda"
+  },
+  "customer name": "Owen Jacobson",
+  "customer e-mail": "ac.orci@Etiamimperdietdictum.edu",
+  "country": "Palestine, State of",
+  "gender": "male",
+  "age": 45.18543793,
+  "annual Salary": 50280.0045,
+  "credit card debt": 11350.49408,
+  "net worth": 230728.3008
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffdb"
+  },
+  "customer name": "Marvin Becker",
+  "customer e-mail": "congue.elit@vestibulumneceuismod.ca",
+  "country": "Reunion",
+  "gender": "female",
+  "age": 56.2157522,
+  "annual Salary": 57393.82872,
+  "credit card debt": 5627.803654,
+  "net worth": 411831.0371
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffdc"
+  },
+  "customer name": "Davis Scott",
+  "customer e-mail": "neque@variusultricesmauris.edu",
+  "country": "Jordan",
+  "gender": "female",
+  "age": 40.91485207,
+  "annual Salary": 63429.93141,
+  "credit card debt": 10676.21884,
+  "net worth": 481335.3582
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffdd"
+  },
+  "customer name": "Matthew Colon",
+  "customer e-mail": "facilisis@Nullainterdum.edu",
+  "country": "Slovakia",
+  "gender": "male",
+  "age": 47.78972925,
+  "annual Salary": 59139.2108,
+  "credit card debt": 4630.544424,
+  "net worth": 473845.8546
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffde"
+  },
+  "customer name": "Quinlan Harris",
+  "customer e-mail": "libero.nec@adipiscing.org",
+  "country": "Kiribati",
+  "gender": "male",
+  "age": 56.04151533,
+  "annual Salary": 67015.19372,
+  "credit card debt": 13000.41369,
+  "net worth": 355157.6417
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffdf"
+  },
+  "customer name": "Hedley Greene",
+  "customer e-mail": "eleifend@felis.org",
+  "country": "United States Minor Outlying Islands",
+  "gender": "female",
+  "age": 46.96078061,
+  "annual Salary": 69157.4521,
+  "credit card debt": 15791.61176,
+  "net worth": 506986.9824
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffe0"
+  },
+  "customer name": "Orson Kirby",
+  "customer e-mail": "cursus@nectellus.co.uk",
+  "country": "Puerto Rico",
+  "gender": "male",
+  "age": 53.3541878,
+  "annual Salary": 50867.94007,
+  "credit card debt": 16732.30638,
+  "net worth": 344916.1768
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffe1"
+  },
+  "customer name": "Adria Mathis",
+  "customer e-mail": "Aliquam.rutrum.lorem@Donec.net",
+  "country": "Guinea",
+  "gender": "male",
+  "age": 56.51952929,
+  "annual Salary": 53450.90036,
+  "credit card debt": 8740.723093,
+  "net worth": 309113.0627
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffe2"
+  },
+  "customer name": "Peter Stout",
+  "customer e-mail": "dictum.mi.ac@semperrutrumFusce.com",
+  "country": "Guam",
+  "gender": "female",
+  "age": 39.1476732,
+  "annual Salary": 70463.99084,
+  "credit card debt": 10059.55406,
+  "net worth": 278799.6958
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffe3"
+  },
+  "customer name": "Cleo Moore",
+  "customer e-mail": "pede.et@Sedeu.com",
+  "country": "China",
+  "gender": "female",
+  "age": 45.22565147,
+  "annual Salary": 52697.15192,
+  "credit card debt": 861.8166529,
+  "net worth": 540805.494
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffe4"
+  },
+  "customer name": "Cally Montoya",
+  "customer e-mail": "sit@pedeCum.ca",
+  "country": "Sierra Leone",
+  "gender": "male",
+  "age": 33.02638894,
+  "annual Salary": 71055.41924,
+  "credit card debt": 6147.918843,
+  "net worth": 441527.0144
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffe5"
+  },
+  "customer name": "Ila Farrell",
+  "customer e-mail": "lacus@velit.edu",
+  "country": "Sint Maarten",
+  "gender": "male",
+  "age": 44.30297784,
+  "annual Salary": 55406.46215,
+  "credit card debt": 9522.576495,
+  "net worth": 523251.2663
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffe6"
+  },
+  "customer name": "Abel Stanton",
+  "customer e-mail": "eu.lacus.Quisque@congue.edu",
+  "country": "Ecuador",
+  "gender": "male",
+  "age": 39.71715527,
+  "annual Salary": 48567.07462,
+  "credit card debt": 9724.031647,
+  "net worth": 407401.3776
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffe7"
+  },
+  "customer name": "Reed Roman",
+  "customer e-mail": "laoreet.libero@laoreetlectus.com",
+  "country": "Anguilla",
+  "gender": "female",
+  "age": 39.90467755,
+  "annual Salary": 69506.62127,
+  "credit card debt": 5449.471997,
+  "net worth": 409293.2658
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffe8"
+  },
+  "customer name": "September Puckett",
+  "customer e-mail": "tincidunt@consequatpurusMaecenas.net",
+  "country": "Kazakhstan",
+  "gender": "male",
+  "age": 36.72080894,
+  "annual Salary": 69453.71659,
+  "credit card debt": 9565.830875,
+  "net worth": 386128.1333
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffe9"
+  },
+  "customer name": "Teegan Barr",
+  "customer e-mail": "non.lorem.vitae@eratVivamus.org",
+  "country": "Jersey",
+  "gender": "male",
+  "age": 40.17883971,
+  "annual Salary": 36929.35124,
+  "credit card debt": 9719.192898,
+  "net worth": 245664.3652
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffea"
+  },
+  "customer name": "Alexander York",
+  "customer e-mail": "eu.odio.Phasellus@ipsumporta.edu",
+  "country": "Ecuador",
+  "gender": "male",
+  "age": 44.48691527,
+  "annual Salary": 63087.95261,
+  "credit card debt": 11024.02643,
+  "net worth": 496856.4912
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffeb"
+  },
+  "customer name": "Jared Green",
+  "customer e-mail": "laoreet@sagittis.edu",
+  "country": "Macao",
+  "gender": "female",
+  "age": 43.42751716,
+  "annual Salary": 50889.34054,
+  "credit card debt": 11041.17891,
+  "net worth": 448601.9484
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffec"
+  },
+  "customer name": "Eagan Woodward",
+  "customer e-mail": "varius.et@Maecenas.edu",
+  "country": "Indonesia",
+  "gender": "male",
+  "age": 58.42573253,
+  "annual Salary": 58065.25694,
+  "credit card debt": 4204.920492,
+  "net worth": 388498.5102
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffed"
+  },
+  "customer name": "Ferdinand Weber",
+  "customer e-mail": "metus.Vivamus@vitaeposuere.org",
+  "country": "Suriname",
+  "gender": "male",
+  "age": 32.09408141,
+  "annual Salary": 20000,
+  "credit card debt": 14261.80773,
+  "net worth": 579181.6552
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffee"
+  },
+  "customer name": "Kitra Kerr",
+  "customer e-mail": "scelerisque@Vivamusnon.co.uk",
+  "country": "Palau",
+  "gender": "male",
+  "age": 49.95601436,
+  "annual Salary": 60536.20406,
+  "credit card debt": 8244.470226,
+  "net worth": 173079.1798
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffef"
+  },
+  "customer name": "Desirae Stone",
+  "customer e-mail": "Morbi.sit@Aliquamfringilla.ca",
+  "country": "Ghana",
+  "gender": "male",
+  "age": 58.61073311,
+  "annual Salary": 50667.69759,
+  "credit card debt": 9871.403591,
+  "net worth": 536665.0464
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fff0"
+  },
+  "customer name": "Len Phillips",
+  "customer e-mail": "libero.lacus@Suspendisseseddolor.net",
+  "country": "Cameroon",
+  "gender": "male",
+  "age": 42.37110355,
+  "annual Salary": 44376.62221,
+  "credit card debt": 13865.09055,
+  "net worth": 259049.2824
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fff1"
+  },
+  "customer name": "Yen Santana",
+  "customer e-mail": "ornare.facilisis@ornarelibero.ca",
+  "country": "Myanmar",
+  "gender": "female",
+  "age": 49.53216133,
+  "annual Salary": 75958.28349,
+  "credit card debt": 10562.90377,
+  "net worth": 635512.3606
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fff2"
+  },
+  "customer name": "Martina Fuentes",
+  "customer e-mail": "elit@nequeIn.com",
+  "country": "Senegal",
+  "gender": "male",
+  "age": 53.22984863,
+  "annual Salary": 70896.72853,
+  "credit card debt": 11794.73914,
+  "net worth": 398746.8458
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fff3"
+  },
+  "customer name": "Ariana Nash",
+  "customer e-mail": "vel.turpis.Aliquam@consequatpurus.edu",
+  "country": "Central African Republic",
+  "gender": "male",
+  "age": 46.69611835,
+  "annual Salary": 56009.73073,
+  "credit card debt": 11030.2654,
+  "net worth": 391848.6041
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fff4"
+  },
+  "customer name": "Glenna Graham",
+  "customer e-mail": "sodales@maurisSuspendisse.com",
+  "country": "Bolivia",
+  "gender": "female",
+  "age": 46.24573524,
+  "annual Salary": 90556.62686,
+  "credit card debt": 13872.5667,
+  "net worth": 479586.9387
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fff5"
+  },
+  "customer name": "Holmes Lane",
+  "customer e-mail": "ac.orci@accumsaninterdum.co.uk",
+  "country": "Laos",
+  "gender": "male",
+  "age": 43.38998458,
+  "annual Salary": 71716.45662,
+  "credit card debt": 8870.714301,
+  "net worth": 165866.2
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fff6"
+  },
+  "customer name": "Emerald Hamilton",
+  "customer e-mail": "sit.amet.orci@facilisis.edu",
+  "country": "Egypt",
+  "gender": "female",
+  "age": 48.92140102,
+  "annual Salary": 68502.10943,
+  "credit card debt": 5831.118245,
+  "net worth": 515084.1891
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fff7"
+  },
+  "customer name": "Gage Marquez",
+  "customer e-mail": "malesuada.vel@dictum.co.uk",
+  "country": "Guam",
+  "gender": "female",
+  "age": 43.14281871,
+  "annual Salary": 46261.42666,
+  "credit card debt": 16767.2636,
+  "net worth": 759479.4596
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fff8"
+  },
+  "customer name": "Travis Burks",
+  "customer e-mail": "dictum@liberolacusvarius.ca",
+  "country": "Namibia",
+  "gender": "male",
+  "age": 52.65668022,
+  "annual Salary": 61858.19077,
+  "credit card debt": 5189.083564,
+  "net worth": 706977.053
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fff9"
+  },
+  "customer name": "Otto Oneill",
+  "customer e-mail": "arcu.Morbi.sit@elementum.ca",
+  "country": "Mozambique",
+  "gender": "male",
+  "age": 35.62487152,
+  "annual Salary": 49483.83262,
+  "credit card debt": 11811.25253,
+  "net worth": 242292.92
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fffa"
+  },
+  "customer name": "Brian Mathews",
+  "customer e-mail": "vulputate.mauris.sagittis@orciluctus.com",
+  "country": "Bhutan",
+  "gender": "male",
+  "age": 30.49235339,
+  "annual Salary": 68289.18229,
+  "credit card debt": 7357.787011,
+  "net worth": 404457.3099
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fffb"
+  },
+  "customer name": "Ralph Rich",
+  "customer e-mail": "et@tellus.edu",
+  "country": "Tuvalu",
+  "gender": "female",
+  "age": 37.37157248,
+  "annual Salary": 47399.22827,
+  "credit card debt": 14562.64194,
+  "net worth": 537744.1324
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fffc"
+  },
+  "customer name": "Yasir Tyler",
+  "customer e-mail": "pharetra.sed.hendrerit@adipiscinglobortisrisus.edu",
+  "country": "Qatar",
+  "gender": "female",
+  "age": 48.47639595,
+  "annual Salary": 63975.0609,
+  "credit card debt": 10614.85449,
+  "net worth": 891439.8761
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fffd"
+  },
+  "customer name": "Dominic Mcintosh",
+  "customer e-mail": "Cras.vehicula@nibhPhasellusnulla.net",
+  "country": "Venezuela",
+  "gender": "female",
+  "age": 43.77824898,
+  "annual Salary": 75460.52362,
+  "credit card debt": 6280.929547,
+  "net worth": 296972.4085
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602fffe"
+  },
+  "customer name": "Tanner Ward",
+  "customer e-mail": "diam@orciUt.ca",
+  "country": "Togo",
+  "gender": "female",
+  "age": 41.7960136,
+  "annual Salary": 51075.46118,
+  "credit card debt": 12416.84845,
+  "net worth": 450402.2932
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271602ffff"
+  },
+  "customer name": "Wing Gray",
+  "customer e-mail": "urna.nec@tempusscelerisquelorem.org",
+  "country": "Nepal",
+  "gender": "male",
+  "age": 49.59716524,
+  "annual Salary": 42433.54619,
+  "credit card debt": 7335.524826,
+  "net worth": 386057.421
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030000"
+  },
+  "customer name": "Lionel Mcclure",
+  "customer e-mail": "odio.auctor.vitae@placeratorcilacus.edu",
+  "country": "Saudi Arabia",
+  "gender": "male",
+  "age": 30.34945876,
+  "annual Salary": 61922.8971,
+  "credit card debt": 10366.50326,
+  "net worth": 323453.2022
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030001"
+  },
+  "customer name": "Wing Parks",
+  "customer e-mail": "sagittis@magnased.ca",
+  "country": "San Marino",
+  "gender": "male",
+  "age": 41.85495363,
+  "annual Salary": 69946.93924,
+  "credit card debt": 9010.648633,
+  "net worth": 778537.2095
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030002"
+  },
+  "customer name": "Oleg Gordon",
+  "customer e-mail": "Nunc.sollicitudin.commodo@blanditat.co.uk",
+  "country": "Saint Lucia",
+  "gender": "male",
+  "age": 46.07172662,
+  "annual Salary": 73476.42249,
+  "credit card debt": 9656.806156,
+  "net worth": 386287.0208
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030003"
+  },
+  "customer name": "Jamal Stephenson",
+  "customer e-mail": "lorem.lorem@in.edu",
+  "country": "Vanuatu",
+  "gender": "male",
+  "age": 55.15697275,
+  "annual Salary": 75571.20188,
+  "credit card debt": 12887.54899,
+  "net worth": 416540.299
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030004"
+  },
+  "customer name": "Kadeem Larsen",
+  "customer e-mail": "ornare.lectus.ante@lectusNullam.net",
+  "country": "United Arab Emirates",
+  "gender": "female",
+  "age": 43.62606334,
+  "annual Salary": 82573.01132,
+  "credit card debt": 1696.989764,
+  "net worth": 562605.0655
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030005"
+  },
+  "customer name": "Todd Maldonado",
+  "customer e-mail": "dui.semper.et@aultricies.net",
+  "country": "Solomon Islands",
+  "gender": "female",
+  "age": 58.46660793,
+  "annual Salary": 50649.64492,
+  "credit card debt": 11211.72016,
+  "net worth": 565932.1861
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030006"
+  },
+  "customer name": "Victor Yang",
+  "customer e-mail": "arcu.Vivamus.sit@egestasSed.com",
+  "country": "Andorra",
+  "gender": "male",
+  "age": 42.10214563,
+  "annual Salary": 53427.46192,
+  "credit card debt": 7903.103591,
+  "net worth": 238529.6336
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030007"
+  },
+  "customer name": "Quamar Cummings",
+  "customer e-mail": "mauris@convallisconvallisdolor.co.uk",
+  "country": "Falkland Islands",
+  "gender": "male",
+  "age": 56.85236475,
+  "annual Salary": 75247.18061,
+  "credit card debt": 13258.46631,
+  "net worth": 659279.2011
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030008"
+  },
+  "customer name": "Dominic Hughes",
+  "customer e-mail": "cursus.vestibulum.Mauris@pedenonummy.com",
+  "country": "Nepal",
+  "gender": "male",
+  "age": 43.03106903,
+  "annual Salary": 69175.19403,
+  "credit card debt": 6039.594519,
+  "net worth": 325701.4083
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030009"
+  },
+  "customer name": "Lamar Hensley",
+  "customer e-mail": "erat@pedeac.co.uk",
+  "country": "Japan",
+  "gender": "female",
+  "age": 34.68196128,
+  "annual Salary": 84171.16719,
+  "credit card debt": 12719.64415,
+  "net worth": 244310.5736
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603000a"
+  },
+  "customer name": "Solomon Atkinson",
+  "customer e-mail": "Aliquam@laoreet.net",
+  "country": "Israel",
+  "gender": "female",
+  "age": 42.91579507,
+  "annual Salary": 45721.66835,
+  "credit card debt": 14250.52398,
+  "net worth": 790526.5507
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603000b"
+  },
+  "customer name": "Dean Snider",
+  "customer e-mail": "tempus@sit.ca",
+  "country": "Christmas Island",
+  "gender": "female",
+  "age": 35.04323865,
+  "annual Salary": 54355.7595,
+  "credit card debt": 10008.76797,
+  "net worth": 573052.0119
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603000c"
+  },
+  "customer name": "Vernon Kidd",
+  "customer e-mail": "sapien.imperdiet.ornare@vitaeerat.edu",
+  "country": "Macedonia",
+  "gender": "male",
+  "age": 34.49805732,
+  "annual Salary": 77206.48386,
+  "credit card debt": 8493.098575,
+  "net worth": 411070.4828
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603000d"
+  },
+  "customer name": "Dolan Clayton",
+  "customer e-mail": "justo@est.ca",
+  "country": "Liechtenstein",
+  "gender": "female",
+  "age": 47.74046488,
+  "annual Salary": 57005.18595,
+  "credit card debt": 12416.79083,
+  "net worth": 408147.0405
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603000e"
+  },
+  "customer name": "Marvin Deleon",
+  "customer e-mail": "lectus.Nullam@congueelitsed.ca",
+  "country": "Mayotte",
+  "gender": "male",
+  "age": 52.86426773,
+  "annual Salary": 65809.10782,
+  "credit card debt": 4820.839445,
+  "net worth": 692401.4668
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603000f"
+  },
+  "customer name": "Merrill Bailey",
+  "customer e-mail": "natoque.penatibus@nislsem.net",
+  "country": "Ecuador",
+  "gender": "female",
+  "age": 47.14546675,
+  "annual Salary": 65468.1442,
+  "credit card debt": 7248.54142,
+  "net worth": 588570.8903
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030010"
+  },
+  "customer name": "Adrian Brock",
+  "customer e-mail": "Cras.lorem@nonvestibulumnec.net",
+  "country": "Benin",
+  "gender": "female",
+  "age": 54.19945546,
+  "annual Salary": 60991.82443,
+  "credit card debt": 7329.22851,
+  "net worth": 586368.9293
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030011"
+  },
+  "customer name": "Rigel Craft",
+  "customer e-mail": "diam.eu.dolor@Proin.com",
+  "country": "Liechtenstein",
+  "gender": "female",
+  "age": 50.75725473,
+  "annual Salary": 61809.07451,
+  "credit card debt": 2620.079459,
+  "net worth": 407733.5229
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030012"
+  },
+  "customer name": "Chaim Lewis",
+  "customer e-mail": "luctus@ut.org",
+  "country": "Liberia",
+  "gender": "female",
+  "age": 59.46215292,
+  "annual Salary": 66905.47644,
+  "credit card debt": 10077.49592,
+  "net worth": 651215.6435
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030013"
+  },
+  "customer name": "Kyle Evans",
+  "customer e-mail": "magnis@vitaenibh.org",
+  "country": "Saint Kitts and Nevis",
+  "gender": "female",
+  "age": 48.98804889,
+  "annual Salary": 65131.25015,
+  "credit card debt": 6206.922109,
+  "net worth": 53366.13861
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030014"
+  },
+  "customer name": "Ulysses Craig",
+  "customer e-mail": "sit.amet@orci.ca",
+  "country": "Laos",
+  "gender": "male",
+  "age": 51.03125632,
+  "annual Salary": 83626.30783,
+  "credit card debt": 8458.749819,
+  "net worth": 167031.5554
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030015"
+  },
+  "customer name": "Nolan Nixon",
+  "customer e-mail": "arcu@etultricesposuere.co.uk",
+  "country": "Iraq",
+  "gender": "female",
+  "age": 39.84482154,
+  "annual Salary": 64328.27892,
+  "credit card debt": 13860.43821,
+  "net worth": 567357.0264
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030016"
+  },
+  "customer name": "Oren Rosario",
+  "customer e-mail": "ultrices.Vivamus.rhoncus@lacusMauris.net",
+  "country": "Slovenia",
+  "gender": "male",
+  "age": 53.38095524,
+  "annual Salary": 69255.98753,
+  "credit card debt": 18361.24915,
+  "net worth": 339207.2774
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030017"
+  },
+  "customer name": "Hector Bowers",
+  "customer e-mail": "eget@Morbiquisurna.co.uk",
+  "country": "Maldives",
+  "gender": "male",
+  "age": 45.01374936,
+  "annual Salary": 60575.12604,
+  "credit card debt": 8088.344365,
+  "net worth": 291360.0291
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030018"
+  },
+  "customer name": "Tate Molina",
+  "customer e-mail": "erat@sitamet.ca",
+  "country": "Qatar",
+  "gender": "female",
+  "age": 45.40244083,
+  "annual Salary": 63729.12568,
+  "credit card debt": 12507.19736,
+  "net worth": 271430.0543
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030019"
+  },
+  "customer name": "Julian Alexander",
+  "customer e-mail": "Integer.id.magna@consequatenimdiam.co.uk",
+  "country": "Guinea",
+  "gender": "female",
+  "age": 37.40628431,
+  "annual Salary": 64315.73671,
+  "credit card debt": 14871.36126,
+  "net worth": 502946.8819
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603001a"
+  },
+  "customer name": "Lucian Medina",
+  "customer e-mail": "rutrum@temporbibendum.com",
+  "country": "Aruba",
+  "gender": "female",
+  "age": 42.60482241,
+  "annual Salary": 51419.01644,
+  "credit card debt": 9026.061543,
+  "net worth": 362564.346
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603001b"
+  },
+  "customer name": "Todd Bass",
+  "customer e-mail": "Lorem.ipsum.dolor@et.edu",
+  "country": "Lebanon",
+  "gender": "female",
+  "age": 47.69031054,
+  "annual Salary": 53870.48483,
+  "credit card debt": 14720.53399,
+  "net worth": 701782.528
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603001c"
+  },
+  "customer name": "Mannix Snow",
+  "customer e-mail": "elit@euismodenim.net",
+  "country": "Monaco",
+  "gender": "female",
+  "age": 48.7314504,
+  "annual Salary": 56895.23153,
+  "credit card debt": 9851.578109,
+  "net worth": 580950.3967
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603001d"
+  },
+  "customer name": "Benedict Serrano",
+  "customer e-mail": "blandit.viverra@mollisDuis.co.uk",
+  "country": "Falkland Islands",
+  "gender": "male",
+  "age": 47.96813163,
+  "annual Salary": 52534.20778,
+  "credit card debt": 7583.753853,
+  "net worth": 401955.501
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603001e"
+  },
+  "customer name": "Yoshio Potter",
+  "customer e-mail": "fringilla.cursus.purus@dolorvitae.ca",
+  "country": "Martinique",
+  "gender": "male",
+  "age": 44.50599147,
+  "annual Salary": 52632.97124,
+  "credit card debt": 12348.67783,
+  "net worth": 293999.9427
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603001f"
+  },
+  "customer name": "Stone Koch",
+  "customer e-mail": "facilisis.Suspendisse@Duissit.ca",
+  "country": "Guadeloupe",
+  "gender": "male",
+  "age": 43.05947066,
+  "annual Salary": 42375.21424,
+  "credit card debt": 6062.60136,
+  "net worth": 510039.1484
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030020"
+  },
+  "customer name": "Elliott Horne",
+  "customer e-mail": "sollicitudin.adipiscing.ligula@Sedeu.co.uk",
+  "country": "San Marino",
+  "gender": "female",
+  "age": 61.6304836,
+  "annual Salary": 65617.29175,
+  "credit card debt": 14392.28833,
+  "net worth": 560593.416
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030021"
+  },
+  "customer name": "Tanner Johnson",
+  "customer e-mail": "blandit.at@vulputateullamcorpermagna.org",
+  "country": "Kiribati",
+  "gender": "male",
+  "age": 46.02807589,
+  "annual Salary": 49398.74439,
+  "credit card debt": 6994.617316,
+  "net worth": 174525.8426
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030022"
+  },
+  "customer name": "Gabriel Carson",
+  "customer e-mail": "et@venenatis.co.uk",
+  "country": "Equatorial Guinea",
+  "gender": "female",
+  "age": 51.22247207,
+  "annual Salary": 63869.64928,
+  "credit card debt": 12860.65824,
+  "net worth": 260269.0963
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030023"
+  },
+  "customer name": "Cain Love",
+  "customer e-mail": "est.mollis.non@placerat.com",
+  "country": "South Africa",
+  "gender": "male",
+  "age": 43.89487464,
+  "annual Salary": 60871.18248,
+  "credit card debt": 4397.947571,
+  "net worth": 262959.2506
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030024"
+  },
+  "customer name": "Barry Larsen",
+  "customer e-mail": "Praesent.eu.dui@bibendumsed.com",
+  "country": "Wallis and Futuna",
+  "gender": "female",
+  "age": 57.45859813,
+  "annual Salary": 68090.5087,
+  "credit card debt": 6181.970908,
+  "net worth": 316064.0338
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030025"
+  },
+  "customer name": "Lawrence Ryan",
+  "customer e-mail": "condimentum@duilectus.co.uk",
+  "country": "Tunisia",
+  "gender": "female",
+  "age": 59.77886094,
+  "annual Salary": 54122.87827,
+  "credit card debt": 15164.87506,
+  "net worth": 254617.2609
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030026"
+  },
+  "customer name": "Allen Burke",
+  "customer e-mail": "eu.ultrices@In.edu",
+  "country": "Pakistan",
+  "gender": "male",
+  "age": 38.60885156,
+  "annual Salary": 59316.93704,
+  "credit card debt": 12296.34158,
+  "net worth": 510811.3695
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030027"
+  },
+  "customer name": "Nero Morgan",
+  "customer e-mail": "non.sapien@seddictumeleifend.edu",
+  "country": "Bahrain",
+  "gender": "female",
+  "age": 61.10319817,
+  "annual Salary": 38779.18396,
+  "credit card debt": 12758.89583,
+  "net worth": 581497.8874
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030028"
+  },
+  "customer name": "Reuben Holden",
+  "customer e-mail": "pede.nonummy@Vivamusnonlorem.co.uk",
+  "country": "Macedonia",
+  "gender": "male",
+  "age": 49.61576865,
+  "annual Salary": 88292.73205,
+  "credit card debt": 10799.1381,
+  "net worth": 378357.9385
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030029"
+  },
+  "customer name": "Orson Hyde",
+  "customer e-mail": "gravida.sit@eget.net",
+  "country": "Djibouti",
+  "gender": "male",
+  "age": 37.49764004,
+  "annual Salary": 68688.40199,
+  "credit card debt": 15796.31838,
+  "net worth": 375889.6381
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603002a"
+  },
+  "customer name": "Nolan Conner",
+  "customer e-mail": "feugiat@felisNulla.org",
+  "country": "Bolivia",
+  "gender": "male",
+  "age": 45.49732494,
+  "annual Salary": 51906.85022,
+  "credit card debt": 13686.96935,
+  "net worth": 85520.85055
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603002b"
+  },
+  "customer name": "Stuart Reed",
+  "customer e-mail": "elementum@SeddictumProin.net",
+  "country": "Serbia",
+  "gender": "male",
+  "age": 49.83912893,
+  "annual Salary": 52373.79446,
+  "credit card debt": 11347.62967,
+  "net worth": 633383.4925
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603002c"
+  },
+  "customer name": "Rashad Harper",
+  "customer e-mail": "auctor@arcuimperdiet.ca",
+  "country": "Timor-Leste",
+  "gender": "female",
+  "age": 31.74162964,
+  "annual Salary": 73768.12453,
+  "credit card debt": 8132.073716,
+  "net worth": 562663.8116
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603002d"
+  },
+  "customer name": "Dieter Delaney",
+  "customer e-mail": "sit.amet.risus@ipsum.ca",
+  "country": "Peru",
+  "gender": "female",
+  "age": 33.77526933,
+  "annual Salary": 55576.84068,
+  "credit card debt": 9396.008371,
+  "net worth": 475126.1252
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603002e"
+  },
+  "customer name": "Hop Farley",
+  "customer e-mail": "in@et.co.uk",
+  "country": "Austria",
+  "gender": "male",
+  "age": 45.05203632,
+  "annual Salary": 59689.81438,
+  "credit card debt": 14862.84011,
+  "net worth": 449895.3046
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603002f"
+  },
+  "customer name": "Darius Herring",
+  "customer e-mail": "imperdiet@sem.edu",
+  "country": "Palestine, State of",
+  "gender": "female",
+  "age": 50.21957282,
+  "annual Salary": 55381.53225,
+  "credit card debt": 5088.239017,
+  "net worth": 20000
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030030"
+  },
+  "customer name": "Baker Saunders",
+  "customer e-mail": "Aliquam.nisl@hendreritidante.org",
+  "country": "Lithuania",
+  "gender": "female",
+  "age": 51.3001589,
+  "annual Salary": 34154.77654,
+  "credit card debt": 5316.010491,
+  "net worth": 216355.3406
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030031"
+  },
+  "customer name": "Kermit Fuentes",
+  "customer e-mail": "ac@sedpedeCum.org",
+  "country": "Curaçao",
+  "gender": "female",
+  "age": 52.51683609,
+  "annual Salary": 54382.7481,
+  "credit card debt": 6940.056371,
+  "net worth": 191168.4476
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030032"
+  },
+  "customer name": "Marvin Garner",
+  "customer e-mail": "in@sed.org",
+  "country": "Djibouti",
+  "gender": "female",
+  "age": 34.16409192,
+  "annual Salary": 65919.59731,
+  "credit card debt": 7594.363993,
+  "net worth": 543789.7212
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030033"
+  },
+  "customer name": "Sebastian Marks",
+  "customer e-mail": "et.eros@feugiatmetussit.net",
+  "country": "Zimbabwe",
+  "gender": "female",
+  "age": 55.98961549,
+  "annual Salary": 39488.45582,
+  "credit card debt": 10992.33383,
+  "net worth": 363561.1972
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030034"
+  },
+  "customer name": "Hector Price",
+  "customer e-mail": "Aliquam.nisl@semegetmassa.co.uk",
+  "country": "Martinique",
+  "gender": "male",
+  "age": 57.28482392,
+  "annual Salary": 72637.84482,
+  "credit card debt": 14938.50613,
+  "net worth": 352507.9012
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030035"
+  },
+  "customer name": "Holmes Irwin",
+  "customer e-mail": "Nunc.sed.orci@Namligulaelit.net",
+  "country": "Mauritius",
+  "gender": "male",
+  "age": 47.65948559,
+  "annual Salary": 67247.07698,
+  "credit card debt": 9851.689538,
+  "net worth": 368344.0637
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030036"
+  },
+  "customer name": "Trevor Faulkner",
+  "customer e-mail": "ut@vitaesodales.net",
+  "country": "Uganda",
+  "gender": "female",
+  "age": 40.41469076,
+  "annual Salary": 71271.84407,
+  "credit card debt": 13122.45694,
+  "net worth": 411045.8332
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030037"
+  },
+  "customer name": "Gannon Nguyen",
+  "customer e-mail": "et.rutrum.eu@congue.net",
+  "country": "Kenya",
+  "gender": "female",
+  "age": 50.41432737,
+  "annual Salary": 71693.44742,
+  "credit card debt": 14421.48298,
+  "net worth": 517480.0937
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030038"
+  },
+  "customer name": "Quentin Randall",
+  "customer e-mail": "Fusce.aliquet@egetmassa.co.uk",
+  "country": "Macao",
+  "gender": "female",
+  "age": 46.54726629,
+  "annual Salary": 57860.53103,
+  "credit card debt": 7146.192574,
+  "net worth": 445745.5544
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030039"
+  },
+  "customer name": "Baker Norton",
+  "customer e-mail": "convallis@purus.net",
+  "country": "Jersey",
+  "gender": "male",
+  "age": 38.7080482,
+  "annual Salary": 69142.08412,
+  "credit card debt": 8707.511532,
+  "net worth": 399124.4489
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603003a"
+  },
+  "customer name": "Hakeem Mendoza",
+  "customer e-mail": "Maecenas@scelerisquelorem.ca",
+  "country": "Kuwait",
+  "gender": "male",
+  "age": 36.195148,
+  "annual Salary": 52477.66494,
+  "credit card debt": 12071.41684,
+  "net worth": 97706.89181
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603003b"
+  },
+  "customer name": "Peter Maynard",
+  "customer e-mail": "vel.est.tempor@egetvenenatisa.com",
+  "country": "Guinea",
+  "gender": "male",
+  "age": 44.10061144,
+  "annual Salary": 47592.04749,
+  "credit card debt": 13167.65763,
+  "net worth": 473101.0273
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603003c"
+  },
+  "customer name": "Devin Humphrey",
+  "customer e-mail": "sodales.Mauris@ametornare.ca",
+  "country": "Greece",
+  "gender": "female",
+  "age": 46.86775698,
+  "annual Salary": 48123.36983,
+  "credit card debt": 921.5340234,
+  "net worth": 405550.1689
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603003d"
+  },
+  "customer name": "Isaiah Harding",
+  "customer e-mail": "pede.blandit@disparturient.net",
+  "country": "Bouvet Island",
+  "gender": "male",
+  "age": 33.20331461,
+  "annual Salary": 76916.41515,
+  "credit card debt": 13923.96207,
+  "net worth": 315183.5688
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603003e"
+  },
+  "customer name": "Graiden Powell",
+  "customer e-mail": "pellentesque.tellus@faucibusidlibero.com",
+  "country": "Thailand",
+  "gender": "male",
+  "age": 42.43201208,
+  "annual Salary": 65714.46469,
+  "credit card debt": 12557.08133,
+  "net worth": 362707.0273
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603003f"
+  },
+  "customer name": "Chancellor Padilla",
+  "customer e-mail": "pharetra@nuncsedlibero.edu",
+  "country": "Bahamas",
+  "gender": "male",
+  "age": 47.44707409,
+  "annual Salary": 40346.06491,
+  "credit card debt": 11505.89906,
+  "net worth": 255922.473
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030040"
+  },
+  "customer name": "Philip Barnes",
+  "customer e-mail": "senectus.et.netus@nibhDonecest.net",
+  "country": "Latvia",
+  "gender": "female",
+  "age": 40.14234782,
+  "annual Salary": 71148.20248,
+  "credit card debt": 7917.65097,
+  "net worth": 416817.4673
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030041"
+  },
+  "customer name": "Cameron Cash",
+  "customer e-mail": "auctor@ipsum.org",
+  "country": "Hong Kong",
+  "gender": "male",
+  "age": 54.11381978,
+  "annual Salary": 81757.66856,
+  "credit card debt": 7500.778414,
+  "net worth": 278181.8354
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030042"
+  },
+  "customer name": "Eric Green",
+  "customer e-mail": "arcu.vel.quam@magnaPraesentinterdum.co.uk",
+  "country": "French Polynesia",
+  "gender": "female",
+  "age": 38.41372649,
+  "annual Salary": 64867.14911,
+  "credit card debt": 13962.95284,
+  "net worth": 498441.5687
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030043"
+  },
+  "customer name": "Tanek Koch",
+  "customer e-mail": "blandit@nunc.org",
+  "country": "Sierra Leone",
+  "gender": "female",
+  "age": 40.42154558,
+  "annual Salary": 70051.94033,
+  "credit card debt": 4701.316175,
+  "net worth": 613706.5421
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030044"
+  },
+  "customer name": "Alan Browning",
+  "customer e-mail": "purus@Sed.ca",
+  "country": "Åland Islands",
+  "gender": "male",
+  "age": 45.34128933,
+  "annual Salary": 62043.16623,
+  "credit card debt": 4980.668295,
+  "net worth": 357639.0334
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030045"
+  },
+  "customer name": "Phelan Montoya",
+  "customer e-mail": "magna.tellus.faucibus@etmalesuadafames.co.uk",
+  "country": "Yemen",
+  "gender": "female",
+  "age": 51.03137709,
+  "annual Salary": 85186.48921,
+  "credit card debt": 12413.0319,
+  "net worth": 546630.5284
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030046"
+  },
+  "customer name": "Chancellor Patel",
+  "customer e-mail": "metus.eu.erat@suscipitnonummy.com",
+  "country": "Heard Island and Mcdonald Islands",
+  "gender": "male",
+  "age": 38.40326499,
+  "annual Salary": 47127.41632,
+  "credit card debt": 10221.15388,
+  "net worth": 427011.4954
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030047"
+  },
+  "customer name": "Palmer Cohen",
+  "customer e-mail": "non.leo@mollis.net",
+  "country": "Virgin Islands, British",
+  "gender": "male",
+  "age": 33.97602872,
+  "annual Salary": 61177.08698,
+  "credit card debt": 9837.222432,
+  "net worth": 340663.3261
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030048"
+  },
+  "customer name": "Ahmed Wright",
+  "customer e-mail": "consectetuer@auctorodio.com",
+  "country": "Singapore",
+  "gender": "male",
+  "age": 50.24618129,
+  "annual Salary": 57770.36488,
+  "credit card debt": 8628.434025,
+  "net worth": 211765.2494
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030049"
+  },
+  "customer name": "Burton Carroll",
+  "customer e-mail": "rhoncus.id.mollis@Maurisvel.org",
+  "country": "Algeria",
+  "gender": "female",
+  "age": 42.144445,
+  "annual Salary": 60432.40367,
+  "credit card debt": 11417.46257,
+  "net worth": 415005.3584
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603004a"
+  },
+  "customer name": "Nero Miranda",
+  "customer e-mail": "semper@vulputateposuere.net",
+  "country": "Bhutan",
+  "gender": "male",
+  "age": 32.92895606,
+  "annual Salary": 58999.88858,
+  "credit card debt": 6904.420412,
+  "net worth": 478422.7973
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603004b"
+  },
+  "customer name": "Ali Strong",
+  "customer e-mail": "dis.parturient.montes@eratvel.com",
+  "country": "Wallis and Futuna",
+  "gender": "male",
+  "age": 56.07496279,
+  "annual Salary": 62645.95516,
+  "credit card debt": 11431.22966,
+  "net worth": 613242.1668
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603004c"
+  },
+  "customer name": "Nasim Ryan",
+  "customer e-mail": "est.congue.a@convalliserat.net",
+  "country": "Cocos (Keeling) Islands",
+  "gender": "female",
+  "age": 56.68908614,
+  "annual Salary": 68782.15718,
+  "credit card debt": 9810.75269,
+  "net worth": 350157.8394
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603004d"
+  },
+  "customer name": "August Duncan",
+  "customer e-mail": "tempor.bibendum@Nuncpulvinar.co.uk",
+  "country": "Saint Martin",
+  "gender": "male",
+  "age": 37.36322599,
+  "annual Salary": 67545.96382,
+  "credit card debt": 7171.466112,
+  "net worth": 322905.4592
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603004e"
+  },
+  "customer name": "Kieran Gilliam",
+  "customer e-mail": "ac.nulla@consectetueripsumnunc.co.uk",
+  "country": "Bolivia",
+  "gender": "female",
+  "age": 50.75886005,
+  "annual Salary": 42415.48867,
+  "credit card debt": 5205.008323,
+  "net worth": 520997.2385
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603004f"
+  },
+  "customer name": "Stone Hunt",
+  "customer e-mail": "convallis.erat@eratvel.org",
+  "country": "Northern Mariana Islands",
+  "gender": "female",
+  "age": 62.667962,
+  "annual Salary": 44617.98314,
+  "credit card debt": 9683.735879,
+  "net worth": 251702.1158
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030050"
+  },
+  "customer name": "Malachi Henson",
+  "customer e-mail": "adipiscing.elit@Nunc.com",
+  "country": "Croatia",
+  "gender": "male",
+  "age": 52.68904044,
+  "annual Salary": 72226.5603,
+  "credit card debt": 5817.153854,
+  "net worth": 623033.482
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030051"
+  },
+  "customer name": "Seth Massey",
+  "customer e-mail": "in.aliquet@fermentumvel.com",
+  "country": "Jordan",
+  "gender": "male",
+  "age": 51.27542204,
+  "annual Salary": 48958.90535,
+  "credit card debt": 2418.86434,
+  "net worth": 615672.4681
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030052"
+  },
+  "customer name": "Ulric Robles",
+  "customer e-mail": "fringilla@ornare.edu",
+  "country": "Malta",
+  "gender": "male",
+  "age": 48.24884664,
+  "annual Salary": 86067.83527,
+  "credit card debt": 9181.06743,
+  "net worth": 335652.6234
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030053"
+  },
+  "customer name": "Gannon Marquez",
+  "customer e-mail": "Aliquam@porttitor.net",
+  "country": "Mauritania",
+  "gender": "male",
+  "age": 41.17366372,
+  "annual Salary": 65554.4018,
+  "credit card debt": 12026.57975,
+  "net worth": 462613.8587
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030054"
+  },
+  "customer name": "Marshall Armstrong",
+  "customer e-mail": "ipsum.cursus.vestibulum@a.com",
+  "country": "Guyana",
+  "gender": "female",
+  "age": 38.55101952,
+  "annual Salary": 69248.4953,
+  "credit card debt": 6445.784981,
+  "net worth": 298246.0609
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030055"
+  },
+  "customer name": "Christian Huffman",
+  "customer e-mail": "dignissim.Maecenas@tinciduntnuncac.co.uk",
+  "country": "Laos",
+  "gender": "female",
+  "age": 45.44389242,
+  "annual Salary": 59331.23555,
+  "credit card debt": 10027.53449,
+  "net worth": 543313.3454
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030056"
+  },
+  "customer name": "Gil Sanders",
+  "customer e-mail": "eu.ultrices@cursuset.net",
+  "country": "Haiti",
+  "gender": "female",
+  "age": 70,
+  "annual Salary": 52323.2448,
+  "credit card debt": 12438.85648,
+  "net worth": 346555.1716
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030057"
+  },
+  "customer name": "Otto Thomas",
+  "customer e-mail": "orci.tincidunt.adipiscing@erat.edu",
+  "country": "Cocos (Keeling) Islands",
+  "gender": "female",
+  "age": 51.22046152,
+  "annual Salary": 63552.85175,
+  "credit card debt": 9347.50353,
+  "net worth": 474763.4696
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030058"
+  },
+  "customer name": "Moses Blackburn",
+  "customer e-mail": "et.malesuada.fames@musProin.edu",
+  "country": "Madagascar",
+  "gender": "female",
+  "age": 50.96113207,
+  "annual Salary": 75116.10613,
+  "credit card debt": 5969.666602,
+  "net worth": 232607.3907
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030059"
+  },
+  "customer name": "Drake Chen",
+  "customer e-mail": "enim.commodo@consequatenimdiam.com",
+  "country": "Faroe Islands",
+  "gender": "female",
+  "age": 41.94840202,
+  "annual Salary": 38284.02013,
+  "credit card debt": 15467.78745,
+  "net worth": 587010.5521
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603005a"
+  },
+  "customer name": "Christian Hernandez",
+  "customer e-mail": "dolor@vehiculaPellentesque.co.uk",
+  "country": "Kyrgyzstan",
+  "gender": "male",
+  "age": 49.93151869,
+  "annual Salary": 55293.50777,
+  "credit card debt": 9465.090098,
+  "net worth": 629764.2743
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603005b"
+  },
+  "customer name": "Jelani F. Pace",
+  "customer e-mail": "Morbi@atarcuVestibulum.co.uk",
+  "country": "Saint Barthélemy",
+  "gender": "male",
+  "age": 39.84583613,
+  "annual Salary": 63210.76235,
+  "credit card debt": 3657.863218,
+  "net worth": 664431.3966
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603005c"
+  },
+  "customer name": "Tiger I. Melton",
+  "customer e-mail": "rhoncus@nisl.net",
+  "country": "Israel",
+  "gender": "male",
+  "age": 44.31436254,
+  "annual Salary": 54918.38749,
+  "credit card debt": 8920.385015,
+  "net worth": 347017.8331
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603005d"
+  },
+  "customer name": "Quail D. Horne",
+  "customer e-mail": "sit.amet@FuscemollisDuis.org",
+  "country": "Uganda",
+  "gender": "female",
+  "age": 52.13426592,
+  "annual Salary": 57262.79581,
+  "credit card debt": 7793.073201,
+  "net worth": 322150.3542
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603005e"
+  },
+  "customer name": "Hammett A. Manning",
+  "customer e-mail": "sapien.cursus.in@netus.edu",
+  "country": "Samoa",
+  "gender": "male",
+  "age": 40.60178125,
+  "annual Salary": 72299.9501,
+  "credit card debt": 11544.93385,
+  "net worth": 275389.0701
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603005f"
+  },
+  "customer name": "Lamar V. Guthrie",
+  "customer e-mail": "vel@arcuVestibulumante.com",
+  "country": "Heard Island and Mcdonald Islands",
+  "gender": "female",
+  "age": 57.00689841,
+  "annual Salary": 50241.48985,
+  "credit card debt": 14817.70896,
+  "net worth": 607395.0183
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030060"
+  },
+  "customer name": "Abra D. Golden",
+  "customer e-mail": "odio@Duis.com",
+  "country": "Poland",
+  "gender": "female",
+  "age": 53.76273185,
+  "annual Salary": 65834.56889,
+  "credit card debt": 15353.25774,
+  "net worth": 152012.353
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030061"
+  },
+  "customer name": "Vaughan L. Mathis",
+  "customer e-mail": "eu@iaculis.org",
+  "country": "Bhutan",
+  "gender": "male",
+  "age": 50.49435621,
+  "annual Salary": 60382.17885,
+  "credit card debt": 11302.88277,
+  "net worth": 490444.4111
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030062"
+  },
+  "customer name": "Alfreda V. Harrell",
+  "customer e-mail": "molestie@mi.net",
+  "country": "Algeria",
+  "gender": "male",
+  "age": 37.26933248,
+  "annual Salary": 68691.17086,
+  "credit card debt": 16305.78907,
+  "net worth": 619707.4203
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030063"
+  },
+  "customer name": "Nora X. Decker",
+  "customer e-mail": "non.enim@diam.org",
+  "country": "Congo (Brazzaville)",
+  "gender": "female",
+  "age": 51.84166929,
+  "annual Salary": 65446.65687,
+  "credit card debt": 8491.586154,
+  "net worth": 571564.7901
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030064"
+  },
+  "customer name": "Jeanette Q. Leach",
+  "customer e-mail": "vitae@nisl.net",
+  "country": "Liechtenstein",
+  "gender": "female",
+  "age": 43.04031367,
+  "annual Salary": 42978.34284,
+  "credit card debt": 8884.11069,
+  "net worth": 491193.3773
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030065"
+  },
+  "customer name": "Keiko O. Whitaker",
+  "customer e-mail": "est@porttitortellus.com",
+  "country": "Timor-Leste",
+  "gender": "female",
+  "age": 52.39396613,
+  "annual Salary": 58143.06285,
+  "credit card debt": 9686.119304,
+  "net worth": 261152.8211
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030066"
+  },
+  "customer name": "Hector F. Leblanc",
+  "customer e-mail": "Curabitur@maurisaliquameu.net",
+  "country": "Guernsey",
+  "gender": "female",
+  "age": 64.05419444,
+  "annual Salary": 61666.2852,
+  "credit card debt": 11672.72382,
+  "net worth": 299854.2186
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030067"
+  },
+  "customer name": "Emerald R. Cohen",
+  "customer e-mail": "in.consequat.enim@consectetuer.edu",
+  "country": "Sao Tome and Principe",
+  "gender": "female",
+  "age": 50.98384935,
+  "annual Salary": 64854.33966,
+  "credit card debt": 3247.887523,
+  "net worth": 371240.2413
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030068"
+  },
+  "customer name": "Cathleen E. Ortega",
+  "customer e-mail": "lectus@aliquamenim.org",
+  "country": "Ghana",
+  "gender": "female",
+  "age": 55.04901266,
+  "annual Salary": 45757.15568,
+  "credit card debt": 11207.01556,
+  "net worth": 465709.8937
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030069"
+  },
+  "customer name": "Velma K. Moses",
+  "customer e-mail": "augue.scelerisque@luctuslobortis.com",
+  "country": "Guam",
+  "gender": "male",
+  "age": 47.44390371,
+  "annual Salary": 73096.50927,
+  "credit card debt": 10743.793,
+  "net worth": 196421.7402
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603006a"
+  },
+  "customer name": "Lael W. Sheppard",
+  "customer e-mail": "eu.metus@sodalespurusin.net",
+  "country": "Armenia",
+  "gender": "male",
+  "age": 36.3286175,
+  "annual Salary": 67249.05932,
+  "credit card debt": 12998.47232,
+  "net worth": 396793.4734
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603006b"
+  },
+  "customer name": "Indigo P. Dejesus",
+  "customer e-mail": "quam.Pellentesque.habitant@felis.com",
+  "country": "Cocos (Keeling) Islands",
+  "gender": "female",
+  "age": 38.83483235,
+  "annual Salary": 77165.81297,
+  "credit card debt": 8737.20319,
+  "net worth": 478853.3217
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603006c"
+  },
+  "customer name": "Quinlan S. Cantu",
+  "customer e-mail": "pede.Praesent.eu@Aliquam.net",
+  "country": "French Polynesia",
+  "gender": "male",
+  "age": 45.42714869,
+  "annual Salary": 72316.18286,
+  "credit card debt": 8728.916803,
+  "net worth": 279393.491
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603006d"
+  },
+  "customer name": "Mariam I. Montgomery",
+  "customer e-mail": "vel.mauris@accumsanneque.co.uk",
+  "country": "Grenada",
+  "gender": "male",
+  "age": 46.56694116,
+  "annual Salary": 68431.27055,
+  "credit card debt": 14088.90642,
+  "net worth": 383693.2041
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603006e"
+  },
+  "customer name": "Pamela M. Cantu",
+  "customer e-mail": "posuere.enim.nisl@lectusNullam.ca",
+  "country": "China",
+  "gender": "female",
+  "age": 47.05691571,
+  "annual Salary": 62311.11641,
+  "credit card debt": 9832.05731,
+  "net worth": 830430.3692
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603006f"
+  },
+  "customer name": "Hanna C. Martinez",
+  "customer e-mail": "Maecenas.mi.felis@amet.co.uk",
+  "country": "Saint Kitts and Nevis",
+  "gender": "female",
+  "age": 60.17319938,
+  "annual Salary": 53229.14547,
+  "credit card debt": 10756.60888,
+  "net worth": 112127.2567
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030070"
+  },
+  "customer name": "Lynn S. Avery",
+  "customer e-mail": "dui.Suspendisse.ac@Sedegetlacus.net",
+  "country": "Venezuela",
+  "gender": "male",
+  "age": 59.39902491,
+  "annual Salary": 77662.1109,
+  "credit card debt": 13444.89631,
+  "net worth": 331460.4727
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030071"
+  },
+  "customer name": "Laurel H. Snow",
+  "customer e-mail": "dui.Suspendisse.ac@tacitisociosqu.org",
+  "country": "Andorra",
+  "gender": "male",
+  "age": 36.40803286,
+  "annual Salary": 69494.69783,
+  "credit card debt": 20000,
+  "net worth": 335809.6171
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030072"
+  },
+  "customer name": "Keegan Q. Ramirez",
+  "customer e-mail": "aliquet@volutpatNulla.edu",
+  "country": "Yemen",
+  "gender": "female",
+  "age": 47.4509492,
+  "annual Salary": 61063.35631,
+  "credit card debt": 12066.26571,
+  "net worth": 509543.0859
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030073"
+  },
+  "customer name": "Shad K. Hancock",
+  "customer e-mail": "sit.amet@Proin.org",
+  "country": "United States",
+  "gender": "male",
+  "age": 37.8936486,
+  "annual Salary": 79368.91741,
+  "credit card debt": 13501.92659,
+  "net worth": 761935.5177
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030074"
+  },
+  "customer name": "Harding E. York",
+  "customer e-mail": "quis.lectus.Nullam@egestas.org",
+  "country": "French Polynesia",
+  "gender": "male",
+  "age": 41.56343675,
+  "annual Salary": 61693.44352,
+  "credit card debt": 10835.25736,
+  "net worth": 620522.3842
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030075"
+  },
+  "customer name": "Indira A. Aguilar",
+  "customer e-mail": "erat.Sed.nunc@aneque.ca",
+  "country": "Virgin Islands, United States",
+  "gender": "male",
+  "age": 32.78689927,
+  "annual Salary": 47211.66812,
+  "credit card debt": 4295.225339,
+  "net worth": 539365.9366
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030076"
+  },
+  "customer name": "Bell K. Romero",
+  "customer e-mail": "non.sapien.molestie@rhoncus.edu",
+  "country": "Saint Pierre and Miquelon",
+  "gender": "male",
+  "age": 39.01360284,
+  "annual Salary": 69897.75291,
+  "credit card debt": 9624.908869,
+  "net worth": 565814.725
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030077"
+  },
+  "customer name": "Cassady L. Foreman",
+  "customer e-mail": "magna.Suspendisse@tincidunt.edu",
+  "country": "Marshall Islands",
+  "gender": "female",
+  "age": 39.43529081,
+  "annual Salary": 63675.93263,
+  "credit card debt": 9631.974905,
+  "net worth": 74257.82785
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030078"
+  },
+  "customer name": "Samson N. Wagner",
+  "customer e-mail": "magna@sagittisaugueeu.org",
+  "country": "Saint Barthélemy",
+  "gender": "male",
+  "age": 54.73045672,
+  "annual Salary": 72302.03223,
+  "credit card debt": 10813.75655,
+  "net worth": 234159.0793
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030079"
+  },
+  "customer name": "Wade O. Diaz",
+  "customer e-mail": "vel.sapien.imperdiet@dolorsit.co.uk",
+  "country": "Greece",
+  "gender": "female",
+  "age": 45.09515473,
+  "annual Salary": 63687.4988,
+  "credit card debt": 13421.36821,
+  "net worth": 358615.9327
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603007a"
+  },
+  "customer name": "Len B. Finley",
+  "customer e-mail": "dis@dis.edu",
+  "country": "Greenland",
+  "gender": "male",
+  "age": 50.69496793,
+  "annual Salary": 63678.15468,
+  "credit card debt": 5011.615145,
+  "net worth": 563498.6636
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603007b"
+  },
+  "customer name": "Emerald U. Hanson",
+  "customer e-mail": "dui.quis.accumsan@pedeCrasvulputate.co.uk",
+  "country": "United Arab Emirates",
+  "gender": "female",
+  "age": 49.46168599,
+  "annual Salary": 77435.46545,
+  "credit card debt": 6922.152838,
+  "net worth": 48620.32123
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603007c"
+  },
+  "customer name": "Cody G. Gill",
+  "customer e-mail": "sagittis.Nullam@acrisus.com",
+  "country": "Puerto Rico",
+  "gender": "male",
+  "age": 45.85016782,
+  "annual Salary": 62721.40514,
+  "credit card debt": 16127.56619,
+  "net worth": 494985.5363
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603007d"
+  },
+  "customer name": "Kyle R. Kaufman",
+  "customer e-mail": "Morbi.vehicula@mattis.org",
+  "country": "Israel",
+  "gender": "male",
+  "age": 53.14119207,
+  "annual Salary": 70842.83518,
+  "credit card debt": 9536.899689,
+  "net worth": 545946.9996
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603007e"
+  },
+  "customer name": "Drake D. Gray",
+  "customer e-mail": "orci.consectetuer@porttitor.com",
+  "country": "Mauritania",
+  "gender": "male",
+  "age": 38.93027639,
+  "annual Salary": 55285.98625,
+  "credit card debt": 17462.07506,
+  "net worth": 734443.6969
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603007f"
+  },
+  "customer name": "Honorato M. Butler",
+  "customer e-mail": "Cum.sociis.natoque@purus.ca",
+  "country": "Sao Tome and Principe",
+  "gender": "male",
+  "age": 42.62791487,
+  "annual Salary": 72002.0552,
+  "credit card debt": 14709.65824,
+  "net worth": 568947.7487
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030080"
+  },
+  "customer name": "Tate C. Foster",
+  "customer e-mail": "dignissim.magna@Maurisvel.edu",
+  "country": "Viet Nam",
+  "gender": "male",
+  "age": 69.56930586,
+  "annual Salary": 41434.51258,
+  "credit card debt": 6810.555606,
+  "net worth": 252220.2937
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030081"
+  },
+  "customer name": "Zelenia L. Lowe",
+  "customer e-mail": "Nunc.mauris.elit@Curabiturvel.edu",
+  "country": "Bermuda",
+  "gender": "female",
+  "age": 50.71732637,
+  "annual Salary": 60404.38394,
+  "credit card debt": 4198.839128,
+  "net worth": 513974.6812
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030082"
+  },
+  "customer name": "Callum U. Sweet",
+  "customer e-mail": "sem.ut@odio.edu",
+  "country": "Equatorial Guinea",
+  "gender": "female",
+  "age": 51.77261249,
+  "annual Salary": 65239.06468,
+  "credit card debt": 7437.211028,
+  "net worth": 168703.3385
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030083"
+  },
+  "customer name": "Zane I. Boone",
+  "customer e-mail": "blandit@Cum.edu",
+  "country": "Bahrain",
+  "gender": "male",
+  "age": 45.13851753,
+  "annual Salary": 62939.12851,
+  "credit card debt": 632.0528524,
+  "net worth": 455589.7973
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030084"
+  },
+  "customer name": "Timothy J. Terrell",
+  "customer e-mail": "orci@lobortis.com",
+  "country": "Laos",
+  "gender": "female",
+  "age": 47.68088058,
+  "annual Salary": 60608.40313,
+  "credit card debt": 8233.280719,
+  "net worth": 492113.0067
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030085"
+  },
+  "customer name": "Zahir A. Estes",
+  "customer e-mail": "eleifend.vitae@Pellentesquehabitantmorbi.ca",
+  "country": "Norfolk Island",
+  "gender": "male",
+  "age": 48.04509497,
+  "annual Salary": 56118.39601,
+  "credit card debt": 9242.775995,
+  "net worth": 586717.4715
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030086"
+  },
+  "customer name": "Michelle W. Ryan",
+  "customer e-mail": "ante.lectus@duiCum.net",
+  "country": "Italy",
+  "gender": "female",
+  "age": 47.79216388,
+  "annual Salary": 86706.33333,
+  "credit card debt": 9653.26498,
+  "net worth": 333543.693
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030087"
+  },
+  "customer name": "Serena B. Moody",
+  "customer e-mail": "vitae.risus.Duis@hymenaeos.edu",
+  "country": "French Guiana",
+  "gender": "male",
+  "age": 57.27478648,
+  "annual Salary": 41236.36497,
+  "credit card debt": 9399.342975,
+  "net worth": 466988.2602
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030088"
+  },
+  "customer name": "Mark V. Vaughn",
+  "customer e-mail": "Morbi.vehicula@ac.net",
+  "country": "Israel",
+  "gender": "male",
+  "age": 46.27084405,
+  "annual Salary": 77146.27598,
+  "credit card debt": 7903.33495,
+  "net worth": 418764.5061
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030089"
+  },
+  "customer name": "Anjolie A. Galloway",
+  "customer e-mail": "consequat.nec.mollis@nec.ca",
+  "country": "Marshall Islands",
+  "gender": "female",
+  "age": 44.35361663,
+  "annual Salary": 56437.30404,
+  "credit card debt": 10461.98276,
+  "net worth": 249182.7848
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603008a"
+  },
+  "customer name": "Kylee O. Warner",
+  "customer e-mail": "cursus.in@neque.co.uk",
+  "country": "China",
+  "gender": "male",
+  "age": 65.22488117,
+  "annual Salary": 70703.85013,
+  "credit card debt": 5025.365518,
+  "net worth": 284991.7415
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603008b"
+  },
+  "customer name": "MacKenzie O. Fowler",
+  "customer e-mail": "Aliquam.nec.enim@nec.co.uk",
+  "country": "Saint Barthélemy",
+  "gender": "female",
+  "age": 57.24274098,
+  "annual Salary": 69810.46265,
+  "credit card debt": 4684.556433,
+  "net worth": 720423.8157
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603008c"
+  },
+  "customer name": "Lana S. Pace",
+  "customer e-mail": "augue@orci.com",
+  "country": "Cape Verde",
+  "gender": "male",
+  "age": 46.60008704,
+  "annual Salary": 54279.39597,
+  "credit card debt": 5699.184814,
+  "net worth": 124979.0501
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603008d"
+  },
+  "customer name": "Wilma L. Stevenson",
+  "customer e-mail": "non.vestibulum@consectetuer.ca",
+  "country": "Sao Tome and Principe",
+  "gender": "female",
+  "age": 36.11724689,
+  "annual Salary": 70334.42787,
+  "credit card debt": 9823.218967,
+  "net worth": 632600.4718
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603008e"
+  },
+  "customer name": "Sandra J. Huber",
+  "customer e-mail": "enim@famesac.org",
+  "country": "Benin",
+  "gender": "female",
+  "age": 56.77294754,
+  "annual Salary": 59168.00751,
+  "credit card debt": 10474.44187,
+  "net worth": 623487.5952
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603008f"
+  },
+  "customer name": "Octavius C. Spencer",
+  "customer e-mail": "Curabitur.consequat@miDuisrisus.com",
+  "country": "Bangladesh",
+  "gender": "female",
+  "age": 32.87492543,
+  "annual Salary": 61889.61618,
+  "credit card debt": 12024.48457,
+  "net worth": 133226.0617
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030090"
+  },
+  "customer name": "Brendan G. Kelley",
+  "customer e-mail": "vel@lorem.org",
+  "country": "Venezuela",
+  "gender": "male",
+  "age": 43.25105758,
+  "annual Salary": 66013.95174,
+  "credit card debt": 7039.540023,
+  "net worth": 610942.1408
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030091"
+  },
+  "customer name": "Shaeleigh M. Mckenzie",
+  "customer e-mail": "diam.lorem.auctor@estmollisnon.net",
+  "country": "Christmas Island",
+  "gender": "male",
+  "age": 46.20524085,
+  "annual Salary": 55434.04046,
+  "credit card debt": 18693.14652,
+  "net worth": 316906.6441
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030092"
+  },
+  "customer name": "Rooney R. Padilla",
+  "customer e-mail": "eu.turpis@accumsansed.co.uk",
+  "country": "Philippines",
+  "gender": "female",
+  "age": 45.26036406,
+  "annual Salary": 68499.69447,
+  "credit card debt": 15436.79968,
+  "net worth": 308445.8598
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030093"
+  },
+  "customer name": "Damon K. Boone",
+  "customer e-mail": "nec@ad.net",
+  "country": "French Southern Territories",
+  "gender": "male",
+  "age": 42.80386517,
+  "annual Salary": 54749.88645,
+  "credit card debt": 7631.687821,
+  "net worth": 152883.3519
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030094"
+  },
+  "customer name": "Taylor A. Patel",
+  "customer e-mail": "erat.vitae.risus@temporarcu.edu",
+  "country": "Jamaica",
+  "gender": "male",
+  "age": 37.94194499,
+  "annual Salary": 74590.25495,
+  "credit card debt": 5614.004976,
+  "net worth": 573441.9724
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030095"
+  },
+  "customer name": "Lillith H. Larsen",
+  "customer e-mail": "dignissim.lacus.Aliquam@maurissapien.com",
+  "country": "Thailand",
+  "gender": "male",
+  "age": 39.69651573,
+  "annual Salary": 67772.66646,
+  "credit card debt": 6887.248301,
+  "net worth": 134188.4492
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030096"
+  },
+  "customer name": "Tobias L. Sullivan",
+  "customer e-mail": "tempus.non@nasceturridiculus.ca",
+  "country": "Poland",
+  "gender": "male",
+  "age": 42.69544169,
+  "annual Salary": 62563.57825,
+  "credit card debt": 6130.305181,
+  "net worth": 426488.7459
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030097"
+  },
+  "customer name": "Quincy Q. Ayers",
+  "customer e-mail": "nisl.Nulla@Donecelementumlorem.net",
+  "country": "Belarus",
+  "gender": "female",
+  "age": 41.87168381,
+  "annual Salary": 70361.01504,
+  "credit card debt": 12024.72511,
+  "net worth": 575500.7687
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030098"
+  },
+  "customer name": "Ulysses X. Burch",
+  "customer e-mail": "Sed.nunc.est@arcuMorbi.edu",
+  "country": "Kyrgyzstan",
+  "gender": "female",
+  "age": 51.29771627,
+  "annual Salary": 74810.89471,
+  "credit card debt": 13658.34201,
+  "net worth": 286849.7875
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030099"
+  },
+  "customer name": "Jorden I. Whitley",
+  "customer e-mail": "turpis@orci.com",
+  "country": "Italy",
+  "gender": "female",
+  "age": 37.72282353,
+  "annual Salary": 49346.405,
+  "credit card debt": 5827.820346,
+  "net worth": 479685.9824
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603009a"
+  },
+  "customer name": "Heather G. Goodwin",
+  "customer e-mail": "semper.egestas@maurissapien.co.uk",
+  "country": "Uganda",
+  "gender": "male",
+  "age": 41.22493528,
+  "annual Salary": 73426.08521,
+  "credit card debt": 14822.79645,
+  "net worth": 336867.7147
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603009b"
+  },
+  "customer name": "Yardley W. Jacobson",
+  "customer e-mail": "enim.non.nisi@Ut.net",
+  "country": "Saint Pierre and Miquelon",
+  "gender": "male",
+  "age": 54.49187591,
+  "annual Salary": 47684.46306,
+  "credit card debt": 10128.76114,
+  "net worth": 613372.8917
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603009c"
+  },
+  "customer name": "Gray F. Walker",
+  "customer e-mail": "lobortis.Class.aptent@iaculis.com",
+  "country": "Turkmenistan",
+  "gender": "female",
+  "age": 45.21937869,
+  "annual Salary": 72939.83195,
+  "credit card debt": 7787.204492,
+  "net worth": 589669.6573
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603009d"
+  },
+  "customer name": "Piper S. Houston",
+  "customer e-mail": "risus@enimconsequat.org",
+  "country": "Pakistan",
+  "gender": "female",
+  "age": 40.76074066,
+  "annual Salary": 72277.82609,
+  "credit card debt": 13580.87747,
+  "net worth": 202710.1294
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603009e"
+  },
+  "customer name": "Chester X. Carrillo",
+  "customer e-mail": "tempor.erat.neque@ac.com",
+  "country": "French Polynesia",
+  "gender": "male",
+  "age": 40.36205839,
+  "annual Salary": 53921.33351,
+  "credit card debt": 9046.18109,
+  "net worth": 515305.4841
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603009f"
+  },
+  "customer name": "Nathaniel P. Stephens",
+  "customer e-mail": "Cras.dictum.ultricies@conubia.ca",
+  "country": "Guatemala",
+  "gender": "female",
+  "age": 31.8336316,
+  "annual Salary": 65312.96755,
+  "credit card debt": 11398.82486,
+  "net worth": 572037.8859
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300a0"
+  },
+  "customer name": "Jennifer C. Williamson",
+  "customer e-mail": "rutrum@fermentumconvallisligula.ca",
+  "country": "Paraguay",
+  "gender": "female",
+  "age": 54.12700263,
+  "annual Salary": 55619.34152,
+  "credit card debt": 11212.43791,
+  "net worth": 229070.5491
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300a1"
+  },
+  "customer name": "Rae C. Hodge",
+  "customer e-mail": "lacus@massaSuspendisse.ca",
+  "country": "Kiribati",
+  "gender": "female",
+  "age": 55.34658335,
+  "annual Salary": 70914.59993,
+  "credit card debt": 9644.41026,
+  "net worth": 779143.6005
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300a2"
+  },
+  "customer name": "Urielle M. Contreras",
+  "customer e-mail": "elit.Aliquam.auctor@dolor.org",
+  "country": "Bolivia",
+  "gender": "female",
+  "age": 35.37515645,
+  "annual Salary": 33422.99683,
+  "credit card debt": 8570.611562,
+  "net worth": 211168.6293
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300a3"
+  },
+  "customer name": "Mechelle W. Stanton",
+  "customer e-mail": "Pellentesque.habitant@auctorquistristique.org",
+  "country": "Saint Barthélemy",
+  "gender": "female",
+  "age": 46.30647788,
+  "annual Salary": 53382.42693,
+  "credit card debt": 5055.43571,
+  "net worth": 438491.876
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300a4"
+  },
+  "customer name": "Leila F. Hubbard",
+  "customer e-mail": "ultrices.posuere.cubilia@magnisdis.com",
+  "country": "Samoa",
+  "gender": "male",
+  "age": 45.19479436,
+  "annual Salary": 74173.39239,
+  "credit card debt": 11315.59626,
+  "net worth": 521404.2386
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300a5"
+  },
+  "customer name": "Tanisha H. Foster",
+  "customer e-mail": "sem.vitae@malesuadafringillaest.net",
+  "country": "Andorra",
+  "gender": "female",
+  "age": 49.89768983,
+  "annual Salary": 53587.12801,
+  "credit card debt": 8501.49728,
+  "net worth": 811594.0392
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300a6"
+  },
+  "customer name": "Hammett F. Marsh",
+  "customer e-mail": "tempus.scelerisque@maurisaliquam.ca",
+  "country": "Iraq",
+  "gender": "male",
+  "age": 54.22262982,
+  "annual Salary": 58011.6339,
+  "credit card debt": 9822.426192,
+  "net worth": 552454.0263
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300a7"
+  },
+  "customer name": "Calvin A. Lancaster",
+  "customer e-mail": "ante.bibendum.ullamcorper@fringilla.net",
+  "country": "South Africa",
+  "gender": "male",
+  "age": 28.74024358,
+  "annual Salary": 69171.95281,
+  "credit card debt": 6354.833826,
+  "net worth": 613104.784
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300a8"
+  },
+  "customer name": "Rachel H. Ballard",
+  "customer e-mail": "ipsum.leo.elementum@amet.org",
+  "country": "Saint Vincent and The Grenadines",
+  "gender": "male",
+  "age": 55.54961038,
+  "annual Salary": 66779.91374,
+  "credit card debt": 14300.12614,
+  "net worth": 202576.6196
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300a9"
+  },
+  "customer name": "Solomon P. Randolph",
+  "customer e-mail": "orci.luctus.et@lacus.com",
+  "country": "Argentina",
+  "gender": "female",
+  "age": 54.16455309,
+  "annual Salary": 79173.0767,
+  "credit card debt": 6913.05683,
+  "net worth": 397700.1404
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300aa"
+  },
+  "customer name": "Kasimir Q. Cherry",
+  "customer e-mail": "risus@in.net",
+  "country": "Andorra",
+  "gender": "female",
+  "age": 33.19434796,
+  "annual Salary": 63065.12164,
+  "credit card debt": 8907.661779,
+  "net worth": 505897.3041
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ab"
+  },
+  "customer name": "Dominic I. Faulkner",
+  "customer e-mail": "pharetra.Nam@sociisnatoque.org",
+  "country": "Tonga",
+  "gender": "female",
+  "age": 47.79777532,
+  "annual Salary": 65530.36401,
+  "credit card debt": 8774.069514,
+  "net worth": 210573.7042
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ac"
+  },
+  "customer name": "Pascale I. Key",
+  "customer e-mail": "urna.suscipit@enim.ca",
+  "country": "Equatorial Guinea",
+  "gender": "female",
+  "age": 48.93654638,
+  "annual Salary": 63732.3931,
+  "credit card debt": 12848.20061,
+  "net worth": 581620.4824
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ad"
+  },
+  "customer name": "Nola L. Sweeney",
+  "customer e-mail": "eu@necmaurisblandit.co.uk",
+  "country": "Solomon Islands",
+  "gender": "female",
+  "age": 54.61385876,
+  "annual Salary": 62689.53964,
+  "credit card debt": 8732.143355,
+  "net worth": 481513.5074
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ae"
+  },
+  "customer name": "Clementine X. Powell",
+  "customer e-mail": "quis.pede@Aliquamfringilla.ca",
+  "country": "Papua New Guinea",
+  "gender": "female",
+  "age": 41.86361457,
+  "annual Salary": 51539.93045,
+  "credit card debt": 6932.950306,
+  "net worth": 371355.6935
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300af"
+  },
+  "customer name": "Quinlan U. Sears",
+  "customer e-mail": "magna@velarcueu.ca",
+  "country": "Canada",
+  "gender": "male",
+  "age": 40.8753749,
+  "annual Salary": 59060.08664,
+  "credit card debt": 5841.612044,
+  "net worth": 136346.3069
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300b0"
+  },
+  "customer name": "Odette Q. Sherman",
+  "customer e-mail": "Mauris.molestie@Intincidunt.co.uk",
+  "country": "Sierra Leone",
+  "gender": "male",
+  "age": 53.05501309,
+  "annual Salary": 62713.78149,
+  "credit card debt": 11498.03993,
+  "net worth": 679435.1745
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300b1"
+  },
+  "customer name": "Kirestin F. Yang",
+  "customer e-mail": "eleifend.egestas.Sed@tempus.net",
+  "country": "South Africa",
+  "gender": "male",
+  "age": 52.77569606,
+  "annual Salary": 44747.66132,
+  "credit card debt": 4975.144559,
+  "net worth": 793986.6155
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300b2"
+  },
+  "customer name": "Colleen S. Mcguire",
+  "customer e-mail": "tincidunt@Proinsedturpis.edu",
+  "country": "Grenada",
+  "gender": "female",
+  "age": 43.50671123,
+  "annual Salary": 65529.70333,
+  "credit card debt": 3932.838165,
+  "net worth": 353929.5495
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300b3"
+  },
+  "customer name": "Dennis N. Thompson",
+  "customer e-mail": "vitae.erat@urnaNullamlobortis.ca",
+  "country": "Guatemala",
+  "gender": "female",
+  "age": 41.80848339,
+  "annual Salary": 62426.52379,
+  "credit card debt": 6619.929677,
+  "net worth": 630411.2698
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300b4"
+  },
+  "customer name": "Lester J. Burch",
+  "customer e-mail": "Nunc.mauris@commodo.com",
+  "country": "Turkmenistan",
+  "gender": "female",
+  "age": 40.60183491,
+  "annual Salary": 73498.30715,
+  "credit card debt": 3066.939924,
+  "net worth": 491904.1899
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300b5"
+  },
+  "customer name": "Madeson R. Salinas",
+  "customer e-mail": "Cum.sociis.natoque@acnullaIn.edu",
+  "country": "Bonaire, Sint Eustatius and Saba",
+  "gender": "female",
+  "age": 48.25655639,
+  "annual Salary": 86565.15641,
+  "credit card debt": 13701.79986,
+  "net worth": 819002.1748
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300b6"
+  },
+  "customer name": "Abigail X. Lindsey",
+  "customer e-mail": "dui@nondui.ca",
+  "country": "Croatia",
+  "gender": "female",
+  "age": 63.41453115,
+  "annual Salary": 46549.16329,
+  "credit card debt": 640.045378,
+  "net worth": 626163.832
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300b7"
+  },
+  "customer name": "Rachel E. Suarez",
+  "customer e-mail": "non.vestibulum.nec@euturpis.co.uk",
+  "country": "Guam",
+  "gender": "male",
+  "age": 58.9815941,
+  "annual Salary": 70111.5398,
+  "credit card debt": 7949.463649,
+  "net worth": 239217.6732
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300b8"
+  },
+  "customer name": "Derek X. Richards",
+  "customer e-mail": "tincidunt@porttitor.com",
+  "country": "Croatia",
+  "gender": "male",
+  "age": 45.27895873,
+  "annual Salary": 66747.66857,
+  "credit card debt": 9691.23462,
+  "net worth": 221290.9818
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300b9"
+  },
+  "customer name": "Evangeline G. Cooper",
+  "customer e-mail": "Integer.id.magna@Sedidrisus.org",
+  "country": "Saint Barthélemy",
+  "gender": "male",
+  "age": 47.45421163,
+  "annual Salary": 72025.6768,
+  "credit card debt": 6988.652757,
+  "net worth": 222341.0342
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ba"
+  },
+  "customer name": "Kieran G. Justice",
+  "customer e-mail": "in@Sed.co.uk",
+  "country": "Samoa",
+  "gender": "male",
+  "age": 49.4022674,
+  "annual Salary": 70737.29383,
+  "credit card debt": 13851.11162,
+  "net worth": 266765.477
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300bb"
+  },
+  "customer name": "Zenia H. Patel",
+  "customer e-mail": "dis@tortor.com",
+  "country": "Puerto Rico",
+  "gender": "male",
+  "age": 39.98349575,
+  "annual Salary": 57455.7609,
+  "credit card debt": 12186.02793,
+  "net worth": 159727.8753
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300bc"
+  },
+  "customer name": "Michelle R. Burke",
+  "customer e-mail": "dui@justo.ca",
+  "country": "Mauritania",
+  "gender": "male",
+  "age": 41.37223373,
+  "annual Salary": 60657.59355,
+  "credit card debt": 3331.304747,
+  "net worth": 392177.789
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300bd"
+  },
+  "customer name": "Florence U. Hunter",
+  "customer e-mail": "diam@tellus.org",
+  "country": "Ethiopia",
+  "gender": "female",
+  "age": 46.75803824,
+  "annual Salary": 50694.42707,
+  "credit card debt": 10881.90102,
+  "net worth": 587858.6295
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300be"
+  },
+  "customer name": "Jelani A. Wall",
+  "customer e-mail": "aliquet@Duisa.co.uk",
+  "country": "Brazil",
+  "gender": "female",
+  "age": 27.44024624,
+  "annual Salary": 55369.72784,
+  "credit card debt": 10888.93494,
+  "net worth": 606851.1696
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300bf"
+  },
+  "customer name": "England, Abel D.",
+  "customer e-mail": "enim.commodo@parturientmontesnascetur.org",
+  "country": "Åland Islands",
+  "gender": "male",
+  "age": 46.34274109,
+  "annual Salary": 82425.64679,
+  "credit card debt": 7525.252104,
+  "net worth": 684273.5913
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300c0"
+  },
+  "customer name": "Oconnor, Linus Q.",
+  "customer e-mail": "Donec.elementum@Fuscemilorem.co.uk",
+  "country": "Mayotte",
+  "gender": "female",
+  "age": 50.50648739,
+  "annual Salary": 82094.10712,
+  "credit card debt": 1065.607589,
+  "net worth": 577272.6805
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300c1"
+  },
+  "customer name": "Herman, Griffith P.",
+  "customer e-mail": "ligula.Nullam.enim@nibhlacinia.edu",
+  "country": "Liechtenstein",
+  "gender": "female",
+  "age": 43.09147264,
+  "annual Salary": 74090.51299,
+  "credit card debt": 10877.69223,
+  "net worth": 225670.1288
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300c2"
+  },
+  "customer name": "Knapp, Quamar P.",
+  "customer e-mail": "Maecenas.libero.est@miacmattis.com",
+  "country": "El Salvador",
+  "gender": "female",
+  "age": 31.97176907,
+  "annual Salary": 73935.74201,
+  "credit card debt": 8253.583457,
+  "net worth": 625484.0917
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300c3"
+  },
+  "customer name": "Chambers, Avram C.",
+  "customer e-mail": "Nunc.pulvinar.arcu@ultricesaauctor.ca",
+  "country": "Isle of Man",
+  "gender": "male",
+  "age": 62.86886081,
+  "annual Salary": 75719.22986,
+  "credit card debt": 10515.28135,
+  "net worth": 474485.6659
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300c4"
+  },
+  "customer name": "Cervantes, Rylee Q.",
+  "customer e-mail": "luctus.lobortis.Class@sitametdapibus.co.uk",
+  "country": "Gambia",
+  "gender": "male",
+  "age": 35.39291819,
+  "annual Salary": 47054.14246,
+  "credit card debt": 7234.672092,
+  "net worth": 275762.4836
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300c5"
+  },
+  "customer name": "Ashley, Macon Z.",
+  "customer e-mail": "metus.Vivamus.euismod@arcuVivamus.co.uk",
+  "country": "Bosnia and Herzegovina",
+  "gender": "male",
+  "age": 49.62207396,
+  "annual Salary": 42003.01617,
+  "credit card debt": 6052.844775,
+  "net worth": 579220.0393
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300c6"
+  },
+  "customer name": "Jimenez, Joel G.",
+  "customer e-mail": "faucibus.lectus.a@ut.net",
+  "country": "Iraq",
+  "gender": "female",
+  "age": 50.69628655,
+  "annual Salary": 74418.55717,
+  "credit card debt": 8632.699007,
+  "net worth": 472761.6208
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300c7"
+  },
+  "customer name": "Bond, Caryn Y.",
+  "customer e-mail": "libero.Proin@acnulla.net",
+  "country": "Guinea-Bissau",
+  "gender": "male",
+  "age": 54.40906192,
+  "annual Salary": 52786.1971,
+  "credit card debt": 9246.813159,
+  "net worth": 556014.9704
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300c8"
+  },
+  "customer name": "Gross, Cedric D.",
+  "customer e-mail": "aliquam.adipiscing@maurissapien.edu",
+  "country": "Bhutan",
+  "gender": "female",
+  "age": 37.07521505,
+  "annual Salary": 78804.99824,
+  "credit card debt": 12710.00309,
+  "net worth": 315058.7167
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300c9"
+  },
+  "customer name": "Dyer, Aline L.",
+  "customer e-mail": "convallis@scelerisque.net",
+  "country": "Maldives",
+  "gender": "female",
+  "age": 44.2639884,
+  "annual Salary": 66932.47176,
+  "credit card debt": 11033.16277,
+  "net worth": 149761.1281
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ca"
+  },
+  "customer name": "Rivers, Sonya A.",
+  "customer e-mail": "vel.lectus@Praesent.net",
+  "country": "India",
+  "gender": "male",
+  "age": 57.10507937,
+  "annual Salary": 56066.07685,
+  "credit card debt": 5235.7599,
+  "net worth": 497876.2478
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300cb"
+  },
+  "customer name": "Frazier, Kai O.",
+  "customer e-mail": "Cras@quamelementum.com",
+  "country": "Liechtenstein",
+  "gender": "female",
+  "age": 47.48853379,
+  "annual Salary": 48591.57177,
+  "credit card debt": 14309.21115,
+  "net worth": 364858.7148
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300cc"
+  },
+  "customer name": "Bond, Nyssa S.",
+  "customer e-mail": "fringilla.euismod.enim@aauctornon.net",
+  "country": "Bolivia",
+  "gender": "female",
+  "age": 52.00403731,
+  "annual Salary": 38213.88844,
+  "credit card debt": 11492.74174,
+  "net worth": 579059.3132
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300cd"
+  },
+  "customer name": "Rush, Jarrod T.",
+  "customer e-mail": "vestibulum.nec.euismod@netusetmalesuada.ca",
+  "country": "Mongolia",
+  "gender": "male",
+  "age": 52.47484301,
+  "annual Salary": 56444.76848,
+  "credit card debt": 11932.73881,
+  "net worth": 69821.6376
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ce"
+  },
+  "customer name": "Stephens, Tanner E.",
+  "customer e-mail": "egestas@turpisnecmauris.com",
+  "country": "Mozambique",
+  "gender": "female",
+  "age": 47.78541236,
+  "annual Salary": 67080.6142,
+  "credit card debt": 7880.423663,
+  "net worth": 244188.0008
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300cf"
+  },
+  "customer name": "Cameron, Kimberley P.",
+  "customer e-mail": "nec.tellus@lacinia.co.uk",
+  "country": "Namibia",
+  "gender": "male",
+  "age": 55.01756589,
+  "annual Salary": 83333.81054,
+  "credit card debt": 9874.075327,
+  "net worth": 1000000
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300d0"
+  },
+  "customer name": "Mcdowell, Victoria J.",
+  "customer e-mail": "risus.Duis@ornareFuscemollis.net",
+  "country": "Trinidad and Tobago",
+  "gender": "female",
+  "age": 46.52064185,
+  "annual Salary": 73502.12458,
+  "credit card debt": 11132.39299,
+  "net worth": 765711.6025
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300d1"
+  },
+  "customer name": "Dalton, Grant D.",
+  "customer e-mail": "velit@doloregestas.net",
+  "country": "Moldova",
+  "gender": "male",
+  "age": 44.74440761,
+  "annual Salary": 88816.02695,
+  "credit card debt": 9317.22195,
+  "net worth": 493592.1764
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300d2"
+  },
+  "customer name": "Gregory, Reuben Z.",
+  "customer e-mail": "fermentum@blanditviverra.ca",
+  "country": "Martinique",
+  "gender": "male",
+  "age": 39.6048097,
+  "annual Salary": 70381.37499,
+  "credit card debt": 6718.857016,
+  "net worth": 305253.2658
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300d3"
+  },
+  "customer name": "Schultz, Lee I.",
+  "customer e-mail": "velit.eget.laoreet@quis.ca",
+  "country": "Algeria",
+  "gender": "male",
+  "age": 47.42452905,
+  "annual Salary": 67647.74764,
+  "credit card debt": 8767.783547,
+  "net worth": 787984.2882
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300d4"
+  },
+  "customer name": "Wise, Mechelle E.",
+  "customer e-mail": "est.mollis@dui.ca",
+  "country": "Mauritius",
+  "gender": "female",
+  "age": 45.01562039,
+  "annual Salary": 79781.90126,
+  "credit card debt": 11148.10325,
+  "net worth": 427287.6277
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300d5"
+  },
+  "customer name": "Mcclure, Avye L.",
+  "customer e-mail": "dictum@lorem.org",
+  "country": "Israel",
+  "gender": "male",
+  "age": 49.10443956,
+  "annual Salary": 64665.39122,
+  "credit card debt": 7404.080751,
+  "net worth": 521815.7353
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300d6"
+  },
+  "customer name": "Livingston, Blaze Y.",
+  "customer e-mail": "montes.nascetur@liberoet.co.uk",
+  "country": "Serbia",
+  "gender": "female",
+  "age": 60.18011891,
+  "annual Salary": 58837.97088,
+  "credit card debt": 12788.81573,
+  "net worth": 622324.7499
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300d7"
+  },
+  "customer name": "Fuentes, Dora E.",
+  "customer e-mail": "nonummy@ornareelitelit.org",
+  "country": "Sierra Leone",
+  "gender": "female",
+  "age": 33.81125185,
+  "annual Salary": 49607.23466,
+  "credit card debt": 9344.32377,
+  "net worth": 290711.867
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300d8"
+  },
+  "customer name": "Thompson, Alvin R.",
+  "customer e-mail": "interdum.ligula@Phasellus.edu",
+  "country": "Iraq",
+  "gender": "female",
+  "age": 36.3750977,
+  "annual Salary": 67032.16445,
+  "credit card debt": 7666.5303,
+  "net worth": 516738.1724
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300d9"
+  },
+  "customer name": "Armstrong, Hedda N.",
+  "customer e-mail": "magnis.dis@aliquam.org",
+  "country": "Equatorial Guinea",
+  "gender": "female",
+  "age": 51.3613807,
+  "annual Salary": 65245.57379,
+  "credit card debt": 11554.2723,
+  "net worth": 542777.4892
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300da"
+  },
+  "customer name": "Casey, Sylvia E.",
+  "customer e-mail": "Integer.vitae.nibh@a.org",
+  "country": "Tanzania",
+  "gender": "female",
+  "age": 42.2652013,
+  "annual Salary": 56174.3433,
+  "credit card debt": 10394.57246,
+  "net worth": 398011.5804
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300db"
+  },
+  "customer name": "Shaw, Rooney Q.",
+  "customer e-mail": "Curabitur.vel@Nullam.net",
+  "country": "Mayotte",
+  "gender": "female",
+  "age": 48.09742994,
+  "annual Salary": 47227.01542,
+  "credit card debt": 11312.51035,
+  "net worth": 642335.1021
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300dc"
+  },
+  "customer name": "Sexton, Shaeleigh H.",
+  "customer e-mail": "Cras.convallis.convallis@Fuscealiquam.net",
+  "country": "Niue",
+  "gender": "male",
+  "age": 35.37227549,
+  "annual Salary": 40300.49467,
+  "credit card debt": 8828.164449,
+  "net worth": 719846.9824
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300dd"
+  },
+  "customer name": "Langley, Skyler J.",
+  "customer e-mail": "mi.eleifend.egestas@cursuset.net",
+  "country": "Austria",
+  "gender": "male",
+  "age": 44.23255578,
+  "annual Salary": 45504.74866,
+  "credit card debt": 9245.466786,
+  "net worth": 374777.6929
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300de"
+  },
+  "customer name": "Caldwell, Yolanda F.",
+  "customer e-mail": "ac.facilisis.facilisis@necmalesuada.com",
+  "country": "Czech Republic",
+  "gender": "female",
+  "age": 48.07331843,
+  "annual Salary": 50017.38154,
+  "credit card debt": 7514.393035,
+  "net worth": 160487.0006
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300df"
+  },
+  "customer name": "Olson, Riley O.",
+  "customer e-mail": "ornare.sagittis@hendrerit.ca",
+  "country": "Bouvet Island",
+  "gender": "male",
+  "age": 47.47086936,
+  "annual Salary": 66226.72902,
+  "credit card debt": 8511.814921,
+  "net worth": 356213.0776
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300e0"
+  },
+  "customer name": "Irwin, Dillon J.",
+  "customer e-mail": "arcu@dictummiac.edu",
+  "country": "Tokelau",
+  "gender": "female",
+  "age": 31.24483833,
+  "annual Salary": 41361.95045,
+  "credit card debt": 10755.50842,
+  "net worth": 615720.0425
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300e1"
+  },
+  "customer name": "Terry, Mollie K.",
+  "customer e-mail": "quam.dignissim.pharetra@aauctornon.ca",
+  "country": "Greenland",
+  "gender": "male",
+  "age": 45.34659851,
+  "annual Salary": 56687.41273,
+  "credit card debt": 9050.284083,
+  "net worth": 414034.6096
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300e2"
+  },
+  "customer name": "Hudson, Maxwell F.",
+  "customer e-mail": "metus.eu.erat@non.org",
+  "country": "Guernsey",
+  "gender": "female",
+  "age": 48.70123214,
+  "annual Salary": 68114.60169,
+  "credit card debt": 11633.95265,
+  "net worth": 521061.1115
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300e3"
+  },
+  "customer name": "Levy, Irma P.",
+  "customer e-mail": "lacus.varius@sitamet.ca",
+  "country": "Saint Kitts and Nevis",
+  "gender": "female",
+  "age": 61.31742411,
+  "annual Salary": 51086.88482,
+  "credit card debt": 12254.53943,
+  "net worth": 59630.07789
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300e4"
+  },
+  "customer name": "Brady, Oscar Y.",
+  "customer e-mail": "erat@urnaUttincidunt.com",
+  "country": "Rwanda",
+  "gender": "female",
+  "age": 50.67226399,
+  "annual Salary": 71921.45038,
+  "credit card debt": 6354.372629,
+  "net worth": 169714.2655
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300e5"
+  },
+  "customer name": "Dudley, Ryder M.",
+  "customer e-mail": "sed@sedtortor.co.uk",
+  "country": "Falkland Islands",
+  "gender": "male",
+  "age": 35.48520024,
+  "annual Salary": 56807.01728,
+  "credit card debt": 8851.564939,
+  "net worth": 385250.7163
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300e6"
+  },
+  "customer name": "Morales, Halla M.",
+  "customer e-mail": "elit.elit.fermentum@erosturpisnon.org",
+  "country": "United States Minor Outlying Islands",
+  "gender": "female",
+  "age": 52.51971144,
+  "annual Salary": 43019.8475,
+  "credit card debt": 8527.034281,
+  "net worth": 454791.7251
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300e7"
+  },
+  "customer name": "Holloway, Brennan Q.",
+  "customer e-mail": "fringilla.purus.mauris@risusatfringilla.ca",
+  "country": "Morocco",
+  "gender": "male",
+  "age": 42.12055603,
+  "annual Salary": 63875.20999,
+  "credit card debt": 11397.68601,
+  "net worth": 188327.5831
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300e8"
+  },
+  "customer name": "Powers, Naomi B.",
+  "customer e-mail": "Cras.eu@vitaevelitegestas.net",
+  "country": "Samoa",
+  "gender": "male",
+  "age": 39.12031813,
+  "annual Salary": 41587.39238,
+  "credit card debt": 5397.031602,
+  "net worth": 322891.7787
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300e9"
+  },
+  "customer name": "Armstrong, Naomi D.",
+  "customer e-mail": "nunc.sed.pede@Quisqueporttitor.net",
+  "country": "Colombia",
+  "gender": "male",
+  "age": 38.10594756,
+  "annual Salary": 49661.96712,
+  "credit card debt": 4679.441732,
+  "net worth": 375654.1472
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ea"
+  },
+  "customer name": "Flores, Caldwell U.",
+  "customer e-mail": "ut@Etiamvestibulum.ca",
+  "country": "Western Sahara",
+  "gender": "female",
+  "age": 40.75219483,
+  "annual Salary": 92471.17612,
+  "credit card debt": 5404.397644,
+  "net worth": 515717.7476
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300eb"
+  },
+  "customer name": "Russo, Fleur N.",
+  "customer e-mail": "erat@at.edu",
+  "country": "Kuwait",
+  "gender": "female",
+  "age": 43.70539661,
+  "annual Salary": 70136.82862,
+  "credit card debt": 7765.975483,
+  "net worth": 555993.1081
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ec"
+  },
+  "customer name": "Reese, Sylvia H.",
+  "customer e-mail": "Proin.nisl.sem@Maecenasmalesuada.co.uk",
+  "country": "Turks and Caicos Islands",
+  "gender": "male",
+  "age": 43.07820399,
+  "annual Salary": 52664.71719,
+  "credit card debt": 14435.74305,
+  "net worth": 411932.8191
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ed"
+  },
+  "customer name": "Burke, Simon H.",
+  "customer e-mail": "lacinia@Nullam.com",
+  "country": "Morocco",
+  "gender": "male",
+  "age": 38.63314682,
+  "annual Salary": 55618.06942,
+  "credit card debt": 7557.657205,
+  "net worth": 854283.5574
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ee"
+  },
+  "customer name": "Mayer, Paki D.",
+  "customer e-mail": "Nunc.lectus.pede@egestasrhoncus.com",
+  "country": "Somalia",
+  "gender": "female",
+  "age": 33.24696771,
+  "annual Salary": 54912.44043,
+  "credit card debt": 8203.56263,
+  "net worth": 537572.1338
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ef"
+  },
+  "customer name": "Bush, Jessica C.",
+  "customer e-mail": "dolor.sit.amet@iaculisneceleifend.ca",
+  "country": "Micronesia",
+  "gender": "female",
+  "age": 46.91189053,
+  "annual Salary": 56692.78044,
+  "credit card debt": 7946.435929,
+  "net worth": 685541.6501
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300f0"
+  },
+  "customer name": "West, April J.",
+  "customer e-mail": "ante@nisi.org",
+  "country": "Marshall Islands",
+  "gender": "female",
+  "age": 45.30594136,
+  "annual Salary": 63561.04525,
+  "credit card debt": 3730.11972,
+  "net worth": 608019.6308
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300f1"
+  },
+  "customer name": "Levy, Wesley S.",
+  "customer e-mail": "facilisis.vitae.orci@sociosquad.co.uk",
+  "country": "Dominican Republic",
+  "gender": "male",
+  "age": 50.72631901,
+  "annual Salary": 62788.93529,
+  "credit card debt": 13224.45167,
+  "net worth": 192514.6431
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300f2"
+  },
+  "customer name": "Nieves, Bertha O.",
+  "customer e-mail": "dolor@velitegestas.org",
+  "country": "American Samoa",
+  "gender": "female",
+  "age": 42.1200795,
+  "annual Salary": 38453.86033,
+  "credit card debt": 15283.41752,
+  "net worth": 320834.0102
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300f3"
+  },
+  "customer name": "Patrick, Merritt L.",
+  "customer e-mail": "ut@nonummyut.net",
+  "country": "United Kingdom (Great Britain)",
+  "gender": "female",
+  "age": 55.25607797,
+  "annual Salary": 59486.27073,
+  "credit card debt": 6515.336778,
+  "net worth": 228434.0508
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300f4"
+  },
+  "customer name": "Mcdaniel, Marcia Z.",
+  "customer e-mail": "non.nisi.Aenean@etmagnis.co.uk",
+  "country": "Armenia",
+  "gender": "male",
+  "age": 62.46308509,
+  "annual Salary": 68149.63056,
+  "credit card debt": 9560.448204,
+  "net worth": 401916.0981
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300f5"
+  },
+  "customer name": "Ortiz, Drew P.",
+  "customer e-mail": "tincidunt@vel.edu",
+  "country": "Seychelles",
+  "gender": "female",
+  "age": 51.56054437,
+  "annual Salary": 49393.46784,
+  "credit card debt": 11521.6189,
+  "net worth": 475263.2759
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300f6"
+  },
+  "customer name": "Oneill, Tiger A.",
+  "customer e-mail": "orci.Phasellus@ut.org",
+  "country": "Maldives",
+  "gender": "female",
+  "age": 51.10053283,
+  "annual Salary": 72262.20245,
+  "credit card debt": 12124.82386,
+  "net worth": 187821.0958
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300f7"
+  },
+  "customer name": "Sims, Tashya J.",
+  "customer e-mail": "aliquam@anteNuncmauris.ca",
+  "country": "Latvia",
+  "gender": "male",
+  "age": 62.62575416,
+  "annual Salary": 64494.39535,
+  "credit card debt": 8765.624109,
+  "net worth": 408679.8596
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300f8"
+  },
+  "customer name": "Lawrence, Hope Z.",
+  "customer e-mail": "metus.vitae@Morbisitamet.ca",
+  "country": "Switzerland",
+  "gender": "male",
+  "age": 45.56856449,
+  "annual Salary": 54362.70307,
+  "credit card debt": 15647.35449,
+  "net worth": 388898.069
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300f9"
+  },
+  "customer name": "Jenkins, Hasad P.",
+  "customer e-mail": "adipiscing.elit.Aliquam@Utsagittislobortis.co.uk",
+  "country": "Saint Martin",
+  "gender": "male",
+  "age": 46.55637266,
+  "annual Salary": 55657.65681,
+  "credit card debt": 9625.399586,
+  "net worth": 377424.6157
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300fa"
+  },
+  "customer name": "Rodriguez, Basia D.",
+  "customer e-mail": "Vestibulum@lobortis.org",
+  "country": "Senegal",
+  "gender": "female",
+  "age": 57.70495365,
+  "annual Salary": 73512.41269,
+  "credit card debt": 11054.27478,
+  "net worth": 236420.9695
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300fb"
+  },
+  "customer name": "Blair, Abra U.",
+  "customer e-mail": "montes@Loremipsum.edu",
+  "country": "Belize",
+  "gender": "male",
+  "age": 36.71815503,
+  "annual Salary": 70621.52393,
+  "credit card debt": 9384.067625,
+  "net worth": 366327.7432
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300fc"
+  },
+  "customer name": "Rosario, Elijah N.",
+  "customer e-mail": "In@non.com",
+  "country": "Grenada",
+  "gender": "male",
+  "age": 51.42349784,
+  "annual Salary": 70275.68706,
+  "credit card debt": 10359.17579,
+  "net worth": 253181.9789
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300fd"
+  },
+  "customer name": "Beach, Victor S.",
+  "customer e-mail": "consequat.auctor@lacuspede.co.uk",
+  "country": "Chile",
+  "gender": "female",
+  "age": 36.12691774,
+  "annual Salary": 74420.10254,
+  "credit card debt": 10274.13558,
+  "net worth": 551344.3365
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300fe"
+  },
+  "customer name": "Ruiz, Rafael L.",
+  "customer e-mail": "sed.pede@volutpatNulladignissim.net",
+  "country": "Uruguay",
+  "gender": "male",
+  "age": 31.61348869,
+  "annual Salary": 54395.05356,
+  "credit card debt": 10693.88704,
+  "net worth": 549212.4268
+},{
+  "_id": {
+    "$oid": "6516864420f2b027160300ff"
+  },
+  "customer name": "Macdonald, Rahim B.",
+  "customer e-mail": "augue.eu@nisi.edu",
+  "country": "South Georgia and The South Sandwich Islands",
+  "gender": "male",
+  "age": 31.89622257,
+  "annual Salary": 60384.34541,
+  "credit card debt": 11518.29175,
+  "net worth": 589180.4485
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030100"
+  },
+  "customer name": "Valdez, Joy U.",
+  "customer e-mail": "lobortis.quam@velarcueu.org",
+  "country": "Guinea",
+  "gender": "male",
+  "age": 43.05089188,
+  "annual Salary": 66813.664,
+  "credit card debt": 15458.68867,
+  "net worth": 600685.1915
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030101"
+  },
+  "customer name": "Watson, Moana M.",
+  "customer e-mail": "ipsum.Suspendisse@diamDuismi.org",
+  "country": "Afghanistan",
+  "gender": "female",
+  "age": 51.08481106,
+  "annual Salary": 84120.95497,
+  "credit card debt": 9596.513091,
+  "net worth": 27888.74525
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030102"
+  },
+  "customer name": "Cote, Evangeline F.",
+  "customer e-mail": "lorem.tristique.aliquet@estNunclaoreet.net",
+  "country": "Belgium",
+  "gender": "male",
+  "age": 43.12954854,
+  "annual Salary": 54236.62092,
+  "credit card debt": 7275.314728,
+  "net worth": 432447.5324
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030103"
+  },
+  "customer name": "Delgado, Jasper U.",
+  "customer e-mail": "lacinia@posuere.ca",
+  "country": "Isle of Man",
+  "gender": "male",
+  "age": 57.80193013,
+  "annual Salary": 64426.59613,
+  "credit card debt": 9514.645028,
+  "net worth": 137601.844
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030104"
+  },
+  "customer name": "Hardy, Hilary R.",
+  "customer e-mail": "egestas.Fusce@orciDonecnibh.com",
+  "country": "Micronesia",
+  "gender": "male",
+  "age": 48.83752201,
+  "annual Salary": 71150.19894,
+  "credit card debt": 9848.997857,
+  "net worth": 480468.247
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030105"
+  },
+  "customer name": "Stafford, Berk Y.",
+  "customer e-mail": "Quisque@ultriciessem.net",
+  "country": "Dominican Republic",
+  "gender": "female",
+  "age": 42.99229711,
+  "annual Salary": 60325.20676,
+  "credit card debt": 10128.1151,
+  "net worth": 62149.94034
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030106"
+  },
+  "customer name": "Daugherty, Veda M.",
+  "customer e-mail": "venenatis.vel.faucibus@iaculisnec.net",
+  "country": "Guinea",
+  "gender": "male",
+  "age": 48.30867264,
+  "annual Salary": 91083.73918,
+  "credit card debt": 13148.85597,
+  "net worth": 387538.2487
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030107"
+  },
+  "customer name": "Harmon, David N.",
+  "customer e-mail": "aliquet.diam.Sed@posuere.org",
+  "country": "Curaçao",
+  "gender": "female",
+  "age": 39.71130983,
+  "annual Salary": 60380.22868,
+  "credit card debt": 2799.719601,
+  "net worth": 508962.4874
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030108"
+  },
+  "customer name": "Houston, Grant O.",
+  "customer e-mail": "ut.aliquam@egetlacusMauris.ca",
+  "country": "Bermuda",
+  "gender": "male",
+  "age": 34.72822141,
+  "annual Salary": 72948.11812,
+  "credit card debt": 12664.32052,
+  "net worth": 360457.0496
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030109"
+  },
+  "customer name": "Collier, Xerxes Q.",
+  "customer e-mail": "eu@magnaLorem.org",
+  "country": "Lithuania",
+  "gender": "female",
+  "age": 43.00071798,
+  "annual Salary": 74834.57117,
+  "credit card debt": 9366.027561,
+  "net worth": 712233.8241
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603010a"
+  },
+  "customer name": "Lewis, Jackson U.",
+  "customer e-mail": "pellentesque.a.facilisis@nonlacinia.co.uk",
+  "country": "Afghanistan",
+  "gender": "male",
+  "age": 57.13457591,
+  "annual Salary": 67752.38329,
+  "credit card debt": 13851.92122,
+  "net worth": 657178.4135
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603010b"
+  },
+  "customer name": "Smith, Nola H.",
+  "customer e-mail": "orci.lacus.vestibulum@gravidasit.co.uk",
+  "country": "Saint Vincent and The Grenadines",
+  "gender": "male",
+  "age": 47.21795133,
+  "annual Salary": 59205.89035,
+  "credit card debt": 2689.317953,
+  "net worth": 856287.1522
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603010c"
+  },
+  "customer name": "Jensen, Ebony Y.",
+  "customer e-mail": "ac@sagittisNullam.net",
+  "country": "Portugal",
+  "gender": "female",
+  "age": 31.75957954,
+  "annual Salary": 64874.03368,
+  "credit card debt": 8511.835275,
+  "net worth": 528087.5277
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603010d"
+  },
+  "customer name": "Kim, Claudia W.",
+  "customer e-mail": "sit.amet@dignissimmagnaa.edu",
+  "country": "Macao",
+  "gender": "female",
+  "age": 44.34525343,
+  "annual Salary": 63305.84963,
+  "credit card debt": 16146.77016,
+  "net worth": 749016.565
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603010e"
+  },
+  "customer name": "Livingston, Lucas K.",
+  "customer e-mail": "porttitor.scelerisque@Aliquam.ca",
+  "country": "Uruguay",
+  "gender": "female",
+  "age": 50.27457289,
+  "annual Salary": 74176.2079,
+  "credit card debt": 11894.4244,
+  "net worth": 290608.3977
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603010f"
+  },
+  "customer name": "Bradford, Daquan F.",
+  "customer e-mail": "Nunc@euarcuMorbi.ca",
+  "country": "United States",
+  "gender": "male",
+  "age": 43.57649526,
+  "annual Salary": 47230.92278,
+  "credit card debt": 4421.153379,
+  "net worth": 558001.0241
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030110"
+  },
+  "customer name": "Park, Quincy A.",
+  "customer e-mail": "amet.consectetuer@orciinconsequat.ca",
+  "country": "Antarctica",
+  "gender": "female",
+  "age": 56.72544675,
+  "annual Salary": 65980.95617,
+  "credit card debt": 7009.186038,
+  "net worth": 173272.8954
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030111"
+  },
+  "customer name": "Dillon, Lynn W.",
+  "customer e-mail": "ornare.egestas.ligula@urnaVivamusmolestie.com",
+  "country": "Western Sahara",
+  "gender": "female",
+  "age": 35.07555289,
+  "annual Salary": 51428.66337,
+  "credit card debt": 9221.265417,
+  "net worth": 457116.1945
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030112"
+  },
+  "customer name": "Blackburn, Joel Y.",
+  "customer e-mail": "semper@tristique.co.uk",
+  "country": "Korea, South",
+  "gender": "male",
+  "age": 52.90793462,
+  "annual Salary": 75381.07571,
+  "credit card debt": 7925.059589,
+  "net worth": 545125.9592
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030113"
+  },
+  "customer name": "Sanders, Selma F.",
+  "customer e-mail": "velit.Pellentesque@Nullam.org",
+  "country": "Syria",
+  "gender": "male",
+  "age": 41.02339176,
+  "annual Salary": 54742.3946,
+  "credit card debt": 10342.60917,
+  "net worth": 447393.4883
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030114"
+  },
+  "customer name": "Solis, Melissa T.",
+  "customer e-mail": "placerat.eget@placeratorcilacus.com",
+  "country": "Saint Vincent and The Grenadines",
+  "gender": "female",
+  "age": 44.00603343,
+  "annual Salary": 76245.2434,
+  "credit card debt": 6139.387823,
+  "net worth": 674190.6949
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030115"
+  },
+  "customer name": "Holmes, Ross Y.",
+  "customer e-mail": "velit@Pellentesquetincidunttempus.net",
+  "country": "Bulgaria",
+  "gender": "male",
+  "age": 62.62213572,
+  "annual Salary": 60409.75787,
+  "credit card debt": 9611.317626,
+  "net worth": 255285.4063
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030116"
+  },
+  "customer name": "Sutton, Michelle D.",
+  "customer e-mail": "enim.Mauris@Namac.net",
+  "country": "Madagascar",
+  "gender": "female",
+  "age": 49.7733395,
+  "annual Salary": 57600.59673,
+  "credit card debt": 10340.30041,
+  "net worth": 128387.9293
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030117"
+  },
+  "customer name": "Munoz, Kennedy K.",
+  "customer e-mail": "dolor@nislelementumpurus.edu",
+  "country": "Bouvet Island",
+  "gender": "male",
+  "age": 42.06422454,
+  "annual Salary": 71371.92544,
+  "credit card debt": 7094.827,
+  "net worth": 321431.279
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030118"
+  },
+  "customer name": "Little, Hayley R.",
+  "customer e-mail": "nunc.est@purusmaurisa.co.uk",
+  "country": "Cayman Islands",
+  "gender": "male",
+  "age": 40.961674,
+  "annual Salary": 79444.01301,
+  "credit card debt": 11620.1079,
+  "net worth": 627086.6563
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030119"
+  },
+  "customer name": "Church, Lareina E.",
+  "customer e-mail": "lectus.rutrum.urna@nisinibh.co.uk",
+  "country": "Honduras",
+  "gender": "female",
+  "age": 40.2012564,
+  "annual Salary": 47569.44212,
+  "credit card debt": 7840.293189,
+  "net worth": 281690.8431
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603011a"
+  },
+  "customer name": "Wolf, Tashya X.",
+  "customer e-mail": "nulla.Integer.vulputate@eutelluseu.edu",
+  "country": "Anguilla",
+  "gender": "male",
+  "age": 40.39729481,
+  "annual Salary": 71193.72803,
+  "credit card debt": 3854.733177,
+  "net worth": 762832.2606
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603011b"
+  },
+  "customer name": "Barr, Hyatt D.",
+  "customer e-mail": "sem@odiovel.edu",
+  "country": "Mexico",
+  "gender": "male",
+  "age": 55.57696873,
+  "annual Salary": 46412.82136,
+  "credit card debt": 11652.2729,
+  "net worth": 595028.8431
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603011c"
+  },
+  "customer name": "Hopper, Orson W.",
+  "customer e-mail": "luctus@magnaseddui.net",
+  "country": "Tunisia",
+  "gender": "male",
+  "age": 47.55430896,
+  "annual Salary": 57368.05622,
+  "credit card debt": 10175.74457,
+  "net worth": 466128.9118
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603011d"
+  },
+  "customer name": "Decker, Jolie T.",
+  "customer e-mail": "pellentesque.massa.lobortis@facilisis.net",
+  "country": "Kyrgyzstan",
+  "gender": "male",
+  "age": 41.27000968,
+  "annual Salary": 65826.12291,
+  "credit card debt": 11715.3714,
+  "net worth": 416748.7309
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603011e"
+  },
+  "customer name": "Chaney, Reuben I.",
+  "customer e-mail": "Integer@vulputate.net",
+  "country": "Saint Pierre and Miquelon",
+  "gender": "female",
+  "age": 61.03424503,
+  "annual Salary": 61824.8798,
+  "credit card debt": 11211.99502,
+  "net worth": 660897.0146
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603011f"
+  },
+  "customer name": "Ross, Kermit D.",
+  "customer e-mail": "Donec@lacusQuisquepurus.net",
+  "country": "Australia",
+  "gender": "male",
+  "age": 35.33787621,
+  "annual Salary": 61723.00613,
+  "credit card debt": 9913.194941,
+  "net worth": 291897.4057
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030120"
+  },
+  "customer name": "Hampton, Venus Q.",
+  "customer e-mail": "elit@faucibusMorbivehicula.net",
+  "country": "Guadeloupe",
+  "gender": "female",
+  "age": 54.77232025,
+  "annual Salary": 72310.39623,
+  "credit card debt": 3093.707686,
+  "net worth": 724025.4097
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030121"
+  },
+  "customer name": "Chavez, Ralph U.",
+  "customer e-mail": "Aenean@interdum.edu",
+  "country": "Tuvalu",
+  "gender": "female",
+  "age": 36.57271347,
+  "annual Salary": 67548.77415,
+  "credit card debt": 10462.35581,
+  "net worth": 388284.2974
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030122"
+  },
+  "customer name": "Whitaker, Adena B.",
+  "customer e-mail": "pharetra.sed.hendrerit@accumsanneque.com",
+  "country": "Equatorial Guinea",
+  "gender": "female",
+  "age": 47.71401166,
+  "annual Salary": 62175.68945,
+  "credit card debt": 12967.284,
+  "net worth": 343290.677
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030123"
+  },
+  "customer name": "Nola",
+  "customer e-mail": "elit@Fuscealiquamenim.ca",
+  "country": "Montenegro",
+  "gender": "female",
+  "age": 31.98877902,
+  "annual Salary": 60584.85458,
+  "credit card debt": 8133.45931,
+  "net worth": 129635.6343
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030124"
+  },
+  "customer name": "Melodie",
+  "customer e-mail": "facilisi.Sed@tortordictum.com",
+  "country": "Korea, South",
+  "gender": "male",
+  "age": 61.70429878,
+  "annual Salary": 66655.4142,
+  "credit card debt": 8001.644302,
+  "net worth": 805075.5197
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030125"
+  },
+  "customer name": "Seth",
+  "customer e-mail": "dignissim@nibhPhasellus.com",
+  "country": "Turks and Caicos Islands",
+  "gender": "female",
+  "age": 48.59322101,
+  "annual Salary": 63718.8812,
+  "credit card debt": 11863.06428,
+  "net worth": 298920.0067
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030126"
+  },
+  "customer name": "Kyra",
+  "customer e-mail": "Etiam@diamluctus.org",
+  "country": "Portugal",
+  "gender": "female",
+  "age": 42.88453632,
+  "annual Salary": 60862.97749,
+  "credit card debt": 8033.550461,
+  "net worth": 344060.1754
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030127"
+  },
+  "customer name": "Caldwell",
+  "customer e-mail": "amet@congue.edu",
+  "country": "Iceland",
+  "gender": "male",
+  "age": 36.2452565,
+  "annual Salary": 67508.12293,
+  "credit card debt": 10188.68685,
+  "net worth": 141587.6498
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030128"
+  },
+  "customer name": "Benjamin",
+  "customer e-mail": "nisi.Mauris.nulla@vitaeodiosagittis.ca",
+  "country": "Faroe Islands",
+  "gender": "female",
+  "age": 61.22472501,
+  "annual Salary": 61639.76386,
+  "credit card debt": 17870.63765,
+  "net worth": 684209.551
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030129"
+  },
+  "customer name": "Florence",
+  "customer e-mail": "eros@faucibus.com",
+  "country": "Virgin Islands, British",
+  "gender": "female",
+  "age": 45.75422949,
+  "annual Salary": 63172.95729,
+  "credit card debt": 6332.2019,
+  "net worth": 456524.7944
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603012a"
+  },
+  "customer name": "Oleg",
+  "customer e-mail": "Aenean.gravida@mifelis.com",
+  "country": "Tuvalu",
+  "gender": "female",
+  "age": 56.67256191,
+  "annual Salary": 58653.6591,
+  "credit card debt": 17142.41332,
+  "net worth": 201228.0206
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603012b"
+  },
+  "customer name": "Donovan",
+  "customer e-mail": "iaculis.odio.Nam@sedfacilisis.org",
+  "country": "Saint Vincent and The Grenadines",
+  "gender": "male",
+  "age": 36.42694852,
+  "annual Salary": 40558.75456,
+  "credit card debt": 4981.269146,
+  "net worth": 283241.2769
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603012c"
+  },
+  "customer name": "Blaze",
+  "customer e-mail": "vitae.semper.egestas@montesnascetur.co.uk",
+  "country": "Costa Rica",
+  "gender": "female",
+  "age": 48.94126712,
+  "annual Salary": 76870.00765,
+  "credit card debt": 5575.323416,
+  "net worth": 266531.2969
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603012d"
+  },
+  "customer name": "Illana",
+  "customer e-mail": "mi.pede.nonummy@euismodetcommodo.org",
+  "country": "Bahamas",
+  "gender": "male",
+  "age": 62.75948863,
+  "annual Salary": 71948.80529,
+  "credit card debt": 8061.968487,
+  "net worth": 365862.7818
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603012e"
+  },
+  "customer name": "Yvette",
+  "customer e-mail": "justo@pedeCras.ca",
+  "country": "Brazil",
+  "gender": "female",
+  "age": 49.28968587,
+  "annual Salary": 67629.84819,
+  "credit card debt": 10916.85532,
+  "net worth": 151946.3089
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603012f"
+  },
+  "customer name": "Walter",
+  "customer e-mail": "metus.vitae.velit@CuraePhasellus.co.uk",
+  "country": "Antarctica",
+  "gender": "male",
+  "age": 44.09922748,
+  "annual Salary": 67121.32166,
+  "credit card debt": 12087.38116,
+  "net worth": 472403.1231
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030130"
+  },
+  "customer name": "Dexter",
+  "customer e-mail": "est.arcu@in.org",
+  "country": "Senegal",
+  "gender": "male",
+  "age": 43.17653402,
+  "annual Salary": 57376.4803,
+  "credit card debt": 12878.54582,
+  "net worth": 376886.359
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030131"
+  },
+  "customer name": "Cameran",
+  "customer e-mail": "tristique@ligulaAliquam.net",
+  "country": "Mauritania",
+  "gender": "female",
+  "age": 48.14257112,
+  "annual Salary": 56944.87077,
+  "credit card debt": 16449.0665,
+  "net worth": 116407.5289
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030132"
+  },
+  "customer name": "Penelope",
+  "customer e-mail": "vestibulum@metus.org",
+  "country": "Luxembourg",
+  "gender": "female",
+  "age": 36.96953352,
+  "annual Salary": 60174.05765,
+  "credit card debt": 15666.43155,
+  "net worth": 271414.7592
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030133"
+  },
+  "customer name": "Hyatt",
+  "customer e-mail": "erat.Vivamus@ligula.co.uk",
+  "country": "Algeria",
+  "gender": "male",
+  "age": 48.98030739,
+  "annual Salary": 81997.33071,
+  "credit card debt": 12616.45622,
+  "net worth": 237185.1714
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030134"
+  },
+  "customer name": "Stone",
+  "customer e-mail": "neque.non@iaculisaliquet.edu",
+  "country": "Colombia",
+  "gender": "male",
+  "age": 40.20456044,
+  "annual Salary": 36960.76994,
+  "credit card debt": 1768.874438,
+  "net worth": 630120.001
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030135"
+  },
+  "customer name": "Irma",
+  "customer e-mail": "placerat.eget.venenatis@elitpharetraut.edu",
+  "country": "Jersey",
+  "gender": "female",
+  "age": 41.67121696,
+  "annual Salary": 64412.43101,
+  "credit card debt": 10449.61818,
+  "net worth": 355175.3677
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030136"
+  },
+  "customer name": "Josiah",
+  "customer e-mail": "Phasellus@Aliquamadipiscing.co.uk",
+  "country": "Bolivia",
+  "gender": "male",
+  "age": 29.59907959,
+  "annual Salary": 70076.22764,
+  "credit card debt": 1726.809885,
+  "net worth": 552267.6361
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030137"
+  },
+  "customer name": "Nathan",
+  "customer e-mail": "Nam.interdum.enim@et.com",
+  "country": "Isle of Man",
+  "gender": "male",
+  "age": 43.13272875,
+  "annual Salary": 72016.92459,
+  "credit card debt": 11602.74297,
+  "net worth": 205006.2161
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030138"
+  },
+  "customer name": "Stacy",
+  "customer e-mail": "aliquet.odio@fermentumvel.edu",
+  "country": "Belarus",
+  "gender": "female",
+  "age": 55.30394679,
+  "annual Salary": 63186.12783,
+  "credit card debt": 7122.163863,
+  "net worth": 762601.0836
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030139"
+  },
+  "customer name": "Kane",
+  "customer e-mail": "iaculis.quis.pede@adipiscingenim.net",
+  "country": "Slovakia",
+  "gender": "female",
+  "age": 40.20042717,
+  "annual Salary": 76086.84122,
+  "credit card debt": 9258.181529,
+  "net worth": 482866.5457
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603013a"
+  },
+  "customer name": "Reed",
+  "customer e-mail": "diam.nunc@lectusconvallisest.org",
+  "country": "Kuwait",
+  "gender": "male",
+  "age": 37.71663125,
+  "annual Salary": 74445.72702,
+  "credit card debt": 7515.152476,
+  "net worth": 297964.2638
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603013b"
+  },
+  "customer name": "Lani",
+  "customer e-mail": "odio.Phasellus@fringilla.co.uk",
+  "country": "Congo (Brazzaville)",
+  "gender": "female",
+  "age": 42.65479064,
+  "annual Salary": 85475.64202,
+  "credit card debt": 13786.14942,
+  "net worth": 267555.1178
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603013c"
+  },
+  "customer name": "Curran",
+  "customer e-mail": "risus@Sedmalesuada.net",
+  "country": "Tokelau",
+  "gender": "male",
+  "age": 37.36362599,
+  "annual Salary": 51111.76605,
+  "credit card debt": 9057.600508,
+  "net worth": 461366.7829
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603013d"
+  },
+  "customer name": "Rhonda",
+  "customer e-mail": "Sed.congue.elit@faucibusleo.ca",
+  "country": "Hungary",
+  "gender": "female",
+  "age": 41.35450195,
+  "annual Salary": 79064.9559,
+  "credit card debt": 7221.667169,
+  "net worth": 365871.4992
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603013e"
+  },
+  "customer name": "Leroy",
+  "customer e-mail": "arcu.et.pede@Morbinequetellus.org",
+  "country": "Mauritania",
+  "gender": "male",
+  "age": 41.93116782,
+  "annual Salary": 55514.9934,
+  "credit card debt": 8009.719809,
+  "net worth": 394229.8972
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603013f"
+  },
+  "customer name": "Adrienne",
+  "customer e-mail": "mauris.Morbi@ligulatortordictum.net",
+  "country": "Kyrgyzstan",
+  "gender": "female",
+  "age": 38.03912192,
+  "annual Salary": 75901.81829,
+  "credit card debt": 6512.71102,
+  "net worth": 357468.1866
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030140"
+  },
+  "customer name": "Aileen",
+  "customer e-mail": "venenatis.lacus@nuncQuisque.edu",
+  "country": "Chile",
+  "gender": "female",
+  "age": 42.64066561,
+  "annual Salary": 56687.93949,
+  "credit card debt": 10827.1614,
+  "net worth": 790116.4252
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030141"
+  },
+  "customer name": "Rafael",
+  "customer e-mail": "nonummy.Fusce@sem.net",
+  "country": "Angola",
+  "gender": "female",
+  "age": 43.57614914,
+  "annual Salary": 59801.06311,
+  "credit card debt": 8042.386734,
+  "net worth": 601744.9607
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030142"
+  },
+  "customer name": "Olivia",
+  "customer e-mail": "lacus.vestibulum.lorem@gravidaAliquamtincidunt.ca",
+  "country": "Grenada",
+  "gender": "female",
+  "age": 40.99660693,
+  "annual Salary": 57303.83325,
+  "credit card debt": 10836.41709,
+  "net worth": 258194.8443
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030143"
+  },
+  "customer name": "Hiram",
+  "customer e-mail": "ipsum.non.arcu@placeratorci.com",
+  "country": "Belize",
+  "gender": "female",
+  "age": 45.84421027,
+  "annual Salary": 43412.86301,
+  "credit card debt": 7843.402994,
+  "net worth": 392003.2864
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030144"
+  },
+  "customer name": "Jelani",
+  "customer e-mail": "consectetuer.adipiscing.elit@vestibulumneceuismod.net",
+  "country": "Bangladesh",
+  "gender": "male",
+  "age": 45.76882266,
+  "annual Salary": 58948.93261,
+  "credit card debt": 8282.075073,
+  "net worth": 205439.3663
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030145"
+  },
+  "customer name": "Madeson",
+  "customer e-mail": "libero.et@Crasdictum.ca",
+  "country": "Christmas Island",
+  "gender": "male",
+  "age": 39.814817,
+  "annual Salary": 56086.45033,
+  "credit card debt": 6588.606462,
+  "net worth": 228388.5491
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030146"
+  },
+  "customer name": "Uriah",
+  "customer e-mail": "molestie@commodoauctorvelit.co.uk",
+  "country": "Niger",
+  "gender": "male",
+  "age": 44.95472657,
+  "annual Salary": 80015.83115,
+  "credit card debt": 9064.618618,
+  "net worth": 508555.1592
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030147"
+  },
+  "customer name": "Brady",
+  "customer e-mail": "massa@nec.co.uk",
+  "country": "Malta",
+  "gender": "male",
+  "age": 57.97429301,
+  "annual Salary": 41409.2939,
+  "credit card debt": 8211.34092,
+  "net worth": 421318.9764
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030148"
+  },
+  "customer name": "Denise",
+  "customer e-mail": "montes@inconsectetuer.edu",
+  "country": "Niue",
+  "gender": "female",
+  "age": 61.70872559,
+  "annual Salary": 40387.9207,
+  "credit card debt": 5761.401538,
+  "net worth": 622569.5959
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030149"
+  },
+  "customer name": "Lyle",
+  "customer e-mail": "nascetur@amet.org",
+  "country": "New Caledonia",
+  "gender": "female",
+  "age": 51.52532667,
+  "annual Salary": 48746.71666,
+  "credit card debt": 3923.407178,
+  "net worth": 217188.4056
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603014a"
+  },
+  "customer name": "Victor",
+  "customer e-mail": "lectus.a@nonhendreritid.org",
+  "country": "Armenia",
+  "gender": "female",
+  "age": 44.27741911,
+  "annual Salary": 70230.15498,
+  "credit card debt": 8542.019129,
+  "net worth": 320525.7282
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603014b"
+  },
+  "customer name": "Demetria",
+  "customer e-mail": "Donec.at@sedlibero.net",
+  "country": "Slovakia",
+  "gender": "female",
+  "age": 44.02366242,
+  "annual Salary": 64961.39305,
+  "credit card debt": 6885.723977,
+  "net worth": 265717.2542
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603014c"
+  },
+  "customer name": "Ora",
+  "customer e-mail": "bibendum.Donec.felis@liberoestcongue.org",
+  "country": "Uruguay",
+  "gender": "male",
+  "age": 39.66565685,
+  "annual Salary": 57777.15558,
+  "credit card debt": 19692.91262,
+  "net worth": 601210.2803
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603014d"
+  },
+  "customer name": "Trevor",
+  "customer e-mail": "Sed@Pellentesquetincidunttempus.edu",
+  "country": "Chile",
+  "gender": "female",
+  "age": 32.59143047,
+  "annual Salary": 54447.15275,
+  "credit card debt": 13141.31969,
+  "net worth": 284155.4155
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603014e"
+  },
+  "customer name": "Kristen",
+  "customer e-mail": "urna@vitaeodiosagittis.ca",
+  "country": "Egypt",
+  "gender": "male",
+  "age": 44.13391466,
+  "annual Salary": 59712.31101,
+  "credit card debt": 7135.98755,
+  "net worth": 487564.5541
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603014f"
+  },
+  "customer name": "Aristotle",
+  "customer e-mail": "ac@non.com",
+  "country": "Namibia",
+  "gender": "female",
+  "age": 42.22095552,
+  "annual Salary": 65605.41798,
+  "credit card debt": 13629.1104,
+  "net worth": 297540.8814
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030150"
+  },
+  "customer name": "Camden",
+  "customer e-mail": "Aliquam.adipiscing.lobortis@loremut.net",
+  "country": "Congo (Brazzaville)",
+  "gender": "male",
+  "age": 20,
+  "annual Salary": 70467.29492,
+  "credit card debt": 100,
+  "net worth": 494606.6334
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030151"
+  },
+  "customer name": "Urielle",
+  "customer e-mail": "est.congue@Nunc.edu",
+  "country": "Canada",
+  "gender": "female",
+  "age": 52.61004535,
+  "annual Salary": 76318.87883,
+  "credit card debt": 6392.211408,
+  "net worth": 245216.1691
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030152"
+  },
+  "customer name": "Jolene",
+  "customer e-mail": "erat.neque.non@elit.com",
+  "country": "Viet Nam",
+  "gender": "male",
+  "age": 55.9330891,
+  "annual Salary": 77657.56243,
+  "credit card debt": 14438.24233,
+  "net worth": 622831.922
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030153"
+  },
+  "customer name": "Holly",
+  "customer e-mail": "accumsan@parturientmontes.net",
+  "country": "Micronesia",
+  "gender": "male",
+  "age": 44.17501053,
+  "annual Salary": 60487.90116,
+  "credit card debt": 9911.037592,
+  "net worth": 478428.7174
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030154"
+  },
+  "customer name": "Wayne",
+  "customer e-mail": "molestie.orci@condimentum.com",
+  "country": "Cape Verde",
+  "gender": "male",
+  "age": 52.49932303,
+  "annual Salary": 67729.9725,
+  "credit card debt": 10279.91264,
+  "net worth": 314885.1345
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030155"
+  },
+  "customer name": "Judith",
+  "customer e-mail": "vel.nisl.Quisque@mollisPhasellus.co.uk",
+  "country": "Poland",
+  "gender": "female",
+  "age": 42.5273855,
+  "annual Salary": 49463.0635,
+  "credit card debt": 6478.156506,
+  "net worth": 201636.866
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030156"
+  },
+  "customer name": "Dennis",
+  "customer e-mail": "nunc.nulla.vulputate@dignissimmagnaa.edu",
+  "country": "Haiti",
+  "gender": "male",
+  "age": 48.51272138,
+  "annual Salary": 65850.47688,
+  "credit card debt": 3912.385616,
+  "net worth": 419556.6198
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030157"
+  },
+  "customer name": "Kaitlin",
+  "customer e-mail": "parturient@Nuncsollicitudincommodo.co.uk",
+  "country": "French Southern Territories",
+  "gender": "male",
+  "age": 55.52192516,
+  "annual Salary": 66505.38124,
+  "credit card debt": 3942.76762,
+  "net worth": 621309.5863
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030158"
+  },
+  "customer name": "Harriet",
+  "customer e-mail": "amet.orci@tellus.net",
+  "country": "Mali",
+  "gender": "female",
+  "age": 47.46701603,
+  "annual Salary": 58260.57232,
+  "credit card debt": 4658.41454,
+  "net worth": 507572.635
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030159"
+  },
+  "customer name": "Tatyana",
+  "customer e-mail": "sem@parturientmontesnascetur.net",
+  "country": "Norfolk Island",
+  "gender": "female",
+  "age": 25.17989327,
+  "annual Salary": 45092.74073,
+  "credit card debt": 11380.09288,
+  "net worth": 158758.3577
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603015a"
+  },
+  "customer name": "Paula",
+  "customer e-mail": "Nam@enimmitempor.com",
+  "country": "Northern Mariana Islands",
+  "gender": "male",
+  "age": 44.70222518,
+  "annual Salary": 63845.77186,
+  "credit card debt": 7761.848528,
+  "net worth": 505048.7599
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603015b"
+  },
+  "customer name": "Tamekah",
+  "customer e-mail": "ut.pharetra@ametultricies.net",
+  "country": "Costa Rica",
+  "gender": "male",
+  "age": 46.47392714,
+  "annual Salary": 55293.575,
+  "credit card debt": 8276.644566,
+  "net worth": 169475.9968
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603015c"
+  },
+  "customer name": "Brandon",
+  "customer e-mail": "non@purusaccumsaninterdum.com",
+  "country": "Suriname",
+  "gender": "female",
+  "age": 32.79649861,
+  "annual Salary": 87598.01501,
+  "credit card debt": 10814.57915,
+  "net worth": 485563.7363
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603015d"
+  },
+  "customer name": "Veda",
+  "customer e-mail": "et.euismod@Duis.co.uk",
+  "country": "Luxembourg",
+  "gender": "male",
+  "age": 42.78726724,
+  "annual Salary": 71753.30877,
+  "credit card debt": 9119.791422,
+  "net worth": 400703.2655
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603015e"
+  },
+  "customer name": "Seth",
+  "customer e-mail": "Nulla.aliquet@sedturpisnec.co.uk",
+  "country": "Bosnia and Herzegovina",
+  "gender": "male",
+  "age": 47.5469052,
+  "annual Salary": 45368.15561,
+  "credit card debt": 12203.48778,
+  "net worth": 577058.1773
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603015f"
+  },
+  "customer name": "Kai",
+  "customer e-mail": "velit@molestie.com",
+  "country": "Greenland",
+  "gender": "female",
+  "age": 48.14631737,
+  "annual Salary": 45362.66982,
+  "credit card debt": 2524.992105,
+  "net worth": 399437.5235
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030160"
+  },
+  "customer name": "Piper",
+  "customer e-mail": "erat.neque@mattisvelitjusto.org",
+  "country": "Malawi",
+  "gender": "female",
+  "age": 40.47710314,
+  "annual Salary": 40727.39196,
+  "credit card debt": 9725.549901,
+  "net worth": 508528.9957
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030161"
+  },
+  "customer name": "Hillary",
+  "customer e-mail": "ut.mi.Duis@quisarcu.com",
+  "country": "South Sudan",
+  "gender": "male",
+  "age": 38.54583374,
+  "annual Salary": 58632.58875,
+  "credit card debt": 12035.37079,
+  "net worth": 516817.3173
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030162"
+  },
+  "customer name": "Francis",
+  "customer e-mail": "Phasellus@estcongue.ca",
+  "country": "Solomon Islands",
+  "gender": "female",
+  "age": 39.14103529,
+  "annual Salary": 66680.2741,
+  "credit card debt": 10263.14899,
+  "net worth": 556945.8742
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030163"
+  },
+  "customer name": "Rogan",
+  "customer e-mail": "pulvinar@porttitortellus.ca",
+  "country": "Jamaica",
+  "gender": "male",
+  "age": 53.9049485,
+  "annual Salary": 75892.3053,
+  "credit card debt": 8110.946984,
+  "net worth": 177878.1758
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030164"
+  },
+  "customer name": "Kyle",
+  "customer e-mail": "a.feugiat@enimnisl.com",
+  "country": "Papua New Guinea",
+  "gender": "female",
+  "age": 53.37171727,
+  "annual Salary": 59297.41631,
+  "credit card debt": 9592.433147,
+  "net worth": 567842.1267
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030165"
+  },
+  "customer name": "Vaughan",
+  "customer e-mail": "Aliquam@aaliquet.com",
+  "country": "Ukraine",
+  "gender": "female",
+  "age": 51.44198125,
+  "annual Salary": 92455.72807,
+  "credit card debt": 9877.169366,
+  "net worth": 285326.3544
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030166"
+  },
+  "customer name": "India",
+  "customer e-mail": "risus.at.fringilla@feugiat.ca",
+  "country": "Nigeria",
+  "gender": "female",
+  "age": 54.52160505,
+  "annual Salary": 32697.98161,
+  "credit card debt": 10858.02526,
+  "net worth": 218808.7553
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030167"
+  },
+  "customer name": "Edward",
+  "customer e-mail": "rutrum.urna@faucibusidlibero.co.uk",
+  "country": "Greenland",
+  "gender": "male",
+  "age": 35.05685897,
+  "annual Salary": 55418.75606,
+  "credit card debt": 8837.654857,
+  "net worth": 312927.9187
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030168"
+  },
+  "customer name": "Laurel",
+  "customer e-mail": "felis@orciconsectetuereuismod.ca",
+  "country": "India",
+  "gender": "female",
+  "age": 43.30468502,
+  "annual Salary": 68921.40213,
+  "credit card debt": 8120.204455,
+  "net worth": 515012.2804
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030169"
+  },
+  "customer name": "Igor",
+  "customer e-mail": "Proin.eget@aliquetnecimperdiet.org",
+  "country": "Grenada",
+  "gender": "female",
+  "age": 36.51447117,
+  "annual Salary": 43739.97829,
+  "credit card debt": 5933.177726,
+  "net worth": 517110.9454
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603016a"
+  },
+  "customer name": "Diana",
+  "customer e-mail": "purus.ac.tellus@parturientmontesnascetur.org",
+  "country": "Guadeloupe",
+  "gender": "female",
+  "age": 59.61961534,
+  "annual Salary": 81565.95967,
+  "credit card debt": 9072.063059,
+  "net worth": 544291.9504
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603016b"
+  },
+  "customer name": "Todd",
+  "customer e-mail": "egestas.a@vel.ca",
+  "country": "New Zealand",
+  "gender": "female",
+  "age": 43.54252824,
+  "annual Salary": 65364.06334,
+  "credit card debt": 7839.414396,
+  "net worth": 579640.7982
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603016c"
+  },
+  "customer name": "Zephania",
+  "customer e-mail": "montes@sedsem.ca",
+  "country": "Malawi",
+  "gender": "male",
+  "age": 39.2812453,
+  "annual Salary": 65019.15701,
+  "credit card debt": 4931.56016,
+  "net worth": 341330.7344
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603016d"
+  },
+  "customer name": "Brock",
+  "customer e-mail": "Vivamus.nisi@elitpharetraut.ca",
+  "country": "United States Minor Outlying Islands",
+  "gender": "male",
+  "age": 41.6796235,
+  "annual Salary": 58243.17992,
+  "credit card debt": 15149.03426,
+  "net worth": 649323.7878
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603016e"
+  },
+  "customer name": "Avye",
+  "customer e-mail": "Cras@eros.net",
+  "country": "Armenia",
+  "gender": "female",
+  "age": 32.30887578,
+  "annual Salary": 73558.87334,
+  "credit card debt": 11164.52652,
+  "net worth": 301245.7708
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603016f"
+  },
+  "customer name": "Serena",
+  "customer e-mail": "odio.Nam@estac.ca",
+  "country": "Northern Mariana Islands",
+  "gender": "male",
+  "age": 52.28979935,
+  "annual Salary": 66088.02369,
+  "credit card debt": 6769.181833,
+  "net worth": 557098.9636
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030170"
+  },
+  "customer name": "Barclay",
+  "customer e-mail": "diam.Proin@ut.edu",
+  "country": "Saint Helena, Ascension and Tristan da Cunha",
+  "gender": "female",
+  "age": 56.28750886,
+  "annual Salary": 54441.72437,
+  "credit card debt": 4362.720324,
+  "net worth": 432850.4157
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030171"
+  },
+  "customer name": "Isabella",
+  "customer e-mail": "et.magnis@necmetus.ca",
+  "country": "Turkey",
+  "gender": "male",
+  "age": 40.75405169,
+  "annual Salary": 60101.79725,
+  "credit card debt": 12989.36784,
+  "net worth": 340720.5185
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030172"
+  },
+  "customer name": "Mia",
+  "customer e-mail": "sed.est@afelisullamcorper.edu",
+  "country": "Turkmenistan",
+  "gender": "male",
+  "age": 50.76936195,
+  "annual Salary": 50153.43545,
+  "credit card debt": 6596.01369,
+  "net worth": 266939.1746
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030173"
+  },
+  "customer name": "Chester",
+  "customer e-mail": "Integer@odioauctor.co.uk",
+  "country": "Jamaica",
+  "gender": "female",
+  "age": 57.61545628,
+  "annual Salary": 61430.93415,
+  "credit card debt": 11561.07365,
+  "net worth": 421891.846
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030174"
+  },
+  "customer name": "Isaac",
+  "customer e-mail": "pretium.aliquet.metus@pretiumneque.com",
+  "country": "Saint Kitts and Nevis",
+  "gender": "female",
+  "age": 50.80193441,
+  "annual Salary": 65846.5096,
+  "credit card debt": 9141.668545,
+  "net worth": 531840.3342
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030175"
+  },
+  "customer name": "Heather",
+  "customer e-mail": "erat.Etiam@elementum.org",
+  "country": "Madagascar",
+  "gender": "male",
+  "age": 29.03452095,
+  "annual Salary": 55433.61187,
+  "credit card debt": 10769.75059,
+  "net worth": 276466.6203
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030176"
+  },
+  "customer name": "Justine",
+  "customer e-mail": "orci.adipiscing@penatibuset.com",
+  "country": "Venezuela",
+  "gender": "male",
+  "age": 52.96776171,
+  "annual Salary": 62979.60196,
+  "credit card debt": 14297.25366,
+  "net worth": 247421.9185
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030177"
+  },
+  "customer name": "Bert",
+  "customer e-mail": "sem.Pellentesque@quis.net",
+  "country": "Israel",
+  "gender": "female",
+  "age": 43.3868909,
+  "annual Salary": 76523.33258,
+  "credit card debt": 10373.00856,
+  "net worth": 620355.2658
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030178"
+  },
+  "customer name": "Gil",
+  "customer e-mail": "Phasellus.fermentum@dictumplacerataugue.net",
+  "country": "France",
+  "gender": "female",
+  "age": 62.07084214,
+  "annual Salary": 63956.1618,
+  "credit card debt": 16978.52745,
+  "net worth": 360787.6401
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030179"
+  },
+  "customer name": "Dolan",
+  "customer e-mail": "ipsum.Phasellus@egestasblanditNam.edu",
+  "country": "Yemen",
+  "gender": "male",
+  "age": 60.41643332,
+  "annual Salary": 39460.00348,
+  "credit card debt": 8769.290288,
+  "net worth": 571245.3714
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603017a"
+  },
+  "customer name": "Cheryl",
+  "customer e-mail": "iaculis.enim@nislelementum.edu",
+  "country": "Indonesia",
+  "gender": "male",
+  "age": 36.65996988,
+  "annual Salary": 66923.43536,
+  "credit card debt": 8611.468093,
+  "net worth": 522814.817
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603017b"
+  },
+  "customer name": "Courtney",
+  "customer e-mail": "porttitor.tellus@elitelit.org",
+  "country": "Malaysia",
+  "gender": "female",
+  "age": 43.3654703,
+  "annual Salary": 50051.14039,
+  "credit card debt": 893.2353408,
+  "net worth": 347177.8367
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603017c"
+  },
+  "customer name": "Neville",
+  "customer e-mail": "felis.Nulla@mi.ca",
+  "country": "Mauritania",
+  "gender": "female",
+  "age": 41.7050595,
+  "annual Salary": 61575.9502,
+  "credit card debt": 594.8049491,
+  "net worth": 497197.264
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603017d"
+  },
+  "customer name": "Gloria",
+  "customer e-mail": "Curabitur.egestas.nunc@fermentumfermentum.ca",
+  "country": "Gambia",
+  "gender": "female",
+  "age": 54.87954467,
+  "annual Salary": 64430.07398,
+  "credit card debt": 6924.106833,
+  "net worth": 664862.0102
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603017e"
+  },
+  "customer name": "Jonah",
+  "customer e-mail": "augue@risusNuncac.co.uk",
+  "country": "Myanmar",
+  "gender": "male",
+  "age": 45.75269752,
+  "annual Salary": 63722.00164,
+  "credit card debt": 10711.44472,
+  "net worth": 316128.4002
+},{
+  "_id": {
+    "$oid": "6516864420f2b0271603017f"
+  },
+  "customer name": "Merrill",
+  "customer e-mail": "dolor.sit@turpisIn.com",
+  "country": "Egypt",
+  "gender": "male",
+  "age": 50.19720522,
+  "annual Salary": 78518.21527,
+  "credit card debt": 10072.48298,
+  "net worth": 294506.0844
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030180"
+  },
+  "customer name": "Nolan",
+  "customer e-mail": "Donec.at@neccursus.co.uk",
+  "country": "Latvia",
+  "gender": "female",
+  "age": 55.08772031,
+  "annual Salary": 72424.80112,
+  "credit card debt": 9831.184792,
+  "net worth": 523680.7699
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030181"
+  },
+  "customer name": "Winter",
+  "customer e-mail": "egestas.urna.justo@maurissagittis.edu",
+  "country": "Wallis and Futuna",
+  "gender": "female",
+  "age": 42.90018665,
+  "annual Salary": 77665.17195,
+  "credit card debt": 13308.87932,
+  "net worth": 349588.5608
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030182"
+  },
+  "customer name": "Rigel",
+  "customer e-mail": "egestas.blandit.Nam@semvitaealiquam.com",
+  "country": "Sao Tome and Principe",
+  "gender": "female",
+  "age": 51.76741827,
+  "annual Salary": 77345.61633,
+  "credit card debt": 6736.75168,
+  "net worth": 665099.139
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030183"
+  },
+  "customer name": "Walter",
+  "customer e-mail": "ligula@Cumsociis.ca",
+  "country": "Nepal",
+  "gender": "female",
+  "age": 41.46251483,
+  "annual Salary": 71942.40291,
+  "credit card debt": 6995.902524,
+  "net worth": 541670.1016
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030184"
+  },
+  "customer name": "Vanna",
+  "customer e-mail": "Cum.sociis.natoque@Sedmolestie.edu",
+  "country": "Zimbabwe",
+  "gender": "male",
+  "age": 37.64199977,
+  "annual Salary": 56039.49793,
+  "credit card debt": 12301.45679,
+  "net worth": 360419.0988
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030185"
+  },
+  "customer name": "Pearl",
+  "customer e-mail": "penatibus.et@massanonante.com",
+  "country": "Philippines",
+  "gender": "male",
+  "age": 53.94349722,
+  "annual Salary": 68888.77805,
+  "credit card debt": 10611.60686,
+  "net worth": 764531.3203
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030186"
+  },
+  "customer name": "Nell",
+  "customer e-mail": "Quisque.varius@arcuVivamussit.net",
+  "country": "Botswana",
+  "gender": "male",
+  "age": 59.16050864,
+  "annual Salary": 49811.99062,
+  "credit card debt": 14013.03451,
+  "net worth": 337826.6382
+},{
+  "_id": {
+    "$oid": "6516864420f2b02716030187"
+  },
+  "customer name": "Marla",
+  "customer e-mail": "Camaron.marla@hotmail.com",
+  "country": "marlal",
+  "gender": "male",
+  "age": 46.73115245,
+  "annual Salary": 61370.67766,
+  "credit card debt": 9391.341628,
+  "net worth": 462946.4924
+}]
