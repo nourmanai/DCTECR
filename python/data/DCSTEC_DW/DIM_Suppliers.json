@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "653ace0988bdd3091bde671e"
+  },
+  "name": "ABC Electronics",
+  "type": "Electronics",
+  "adress": "234 Calle Serrano, 28006 Madrid, Spain",
+  "city": "28006 Madrid",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "653ace0988bdd3091bde671f"
+  },
+  "name": "XYZ Supplies",
+  "type": "Industrial",
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "city": "1010 Auckland",
+  "country": "New Zealand"
+},{
+  "_id": {
+    "$oid": "653ace0988bdd3091bde6720"
+  },
+  "name": "Global Imports",
+  "type": "Import/Export",
+  "adress": "258 Gran Vía, 28013 Madrid, Spain",
+  "city": "28013 Madrid",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "653ace0988bdd3091bde6721"
+  },
+  "name": "Tech Solutions",
+  "type": "Technology",
+  "adress": "102 Hauptstraße, 10115 Berlin, Germany",
+  "city": "10115 Berlin",
+  "country": "Germany"
+},{
+  "_id": {
+    "$oid": "653ace0988bdd3091bde6722"
+  },
+  "name": "Office Essentials",
+  "type": "Office Supplies",
+  "adress": "210 Orchard Road, 238858 Singapore",
+  "city": "210 Orchard Road",
+  "country": "238858 Singapore"
+},{
+  "_id": {
+    "$oid": "653ace0988bdd3091bde6723"
+  },
+  "name": "Home Goods",
+  "type": "Home Goods",
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "city": "28013 Madrid",
+  "country": "Spain"
+},{
+  "_id": {
+    "$oid": "653ace0988bdd3091bde6724"
+  },
+  "name": "Auto Parts",
+  "type": "Automotive",
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "city": "1010 Auckland",
+  "country": "New Zealand"
+}]

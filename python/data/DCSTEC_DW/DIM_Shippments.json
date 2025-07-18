@@ -1,0 +1,3801 @@
+[{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd4c"
+  },
+  "adress": "102 Hauptstraße, 10115 Berlin, Germany",
+  "type": "Two-Day Shipping",
+  "status": "Damaged",
+  "city": "10115 Berlin",
+  "country": "Germany",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-05-27T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-01T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd4d"
+  },
+  "adress": "234 Calle Serrano, 28006 Madrid, Spain",
+  "type": "Priority Shipping",
+  "status": "Delivered",
+  "city": "28006 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-03-06T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-10T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd4e"
+  },
+  "adress": "162 Rua Augusta, 1100-048 Lisbon, Portugal",
+  "type": "Curbside Pickup",
+  "status": "Picked",
+  "city": "048 Lisbon",
+  "country": "Portugal",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-06-26T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-26T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd4f"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "International Shipping",
+  "status": "Damaged",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": true,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-02-05T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-08T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd50"
+  },
+  "adress": "222 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+  "type": "International Shipping",
+  "status": "Refunded",
+  "city": "55100 Kuala Lumpur",
+  "country": "Malaysia",
+  "currency": "MYR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-08-17T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-23T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd51"
+  },
+  "adress": "198 Prinsengracht, 1016 HA Amsterdam, Netherlands",
+  "type": "Standard Shipping",
+  "status": "Lost",
+  "city": "1016 HA Amsterdam",
+  "country": "Netherlands",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-04-14T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-15T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd52"
+  },
+  "adress": "162 Rua Augusta, 1100-048 Lisbon, Portugal",
+  "type": "Same-Day Shipping",
+  "status": "Refunded",
+  "city": "048 Lisbon",
+  "country": "Portugal",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-01-12T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-12T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd53"
+  },
+  "adress": "114 Queen Street, 1010 Auckland, New Zealand",
+  "type": "Freight Shipping",
+  "status": "Picked",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": true,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-09-10T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-10T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd54"
+  },
+  "adress": "78 High Street, SW19 5EG London, United Kingdom",
+  "type": "Next-Day Shipping",
+  "status": "Picked",
+  "city": "SW19 5EG London",
+  "country": "United Kingdom",
+  "currency": "GBP",
+  "isSupplier": false,
+  "shipment_price": 15,
+  "shipmentDate_planned": {
+    "$date": "2023-12-03T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-10T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd55"
+  },
+  "adress": "258 Gran Vía, 28013 Madrid, Spain",
+  "type": "Same-Day Shipping",
+  "status": "Out for Delivery",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-02-26T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-28T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd56"
+  },
+  "adress": "12 Rue de la République, 75001 Paris, France",
+  "type": "International Shipping",
+  "status": "Shipped",
+  "city": "75001 Paris",
+  "country": "France",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-02-03T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-08T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd57"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "Expedited Shipping",
+  "status": "Pending",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-02-04T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-10T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd58"
+  },
+  "adress": "270 Causeway Bay Road, Hong Kong,Japan",
+  "type": "Next-Day Shipping",
+  "status": "Picked",
+  "city": "Hong Kong",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-11-26T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-02T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd59"
+  },
+  "adress": "210 Orchard Road, 238858 Singapore",
+  "type": "Standard Shipping",
+  "status": "Return to Sender",
+  "city": "210 Orchard Road",
+  "country": "Singapore",
+  "currency": "SGD",
+  "isSupplier": false,
+  "shipment_price": 11,
+  "shipmentDate_planned": {
+    "$date": "2023-02-22T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-25T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd5a"
+  },
+  "adress": "210 Orchard Road, 238858 Singapore",
+  "type": "Next-Day Shipping",
+  "status": "In Transit",
+  "city": "210 Orchard Road",
+  "country": "Singapore",
+  "currency": "SGD",
+  "isSupplier": false,
+  "shipment_price": 11,
+  "shipmentDate_planned": {
+    "$date": "2023-09-04T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-05T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd5b"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "Next-Day Shipping",
+  "status": "Damaged",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-08-16T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-16T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd5c"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "Priority Shipping",
+  "status": "Pending",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-08-07T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-12T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd5d"
+  },
+  "adress": "222 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+  "type": "Expedited Shipping",
+  "status": "Pending",
+  "city": "55100 Kuala Lumpur",
+  "country": "Malaysia",
+  "currency": "MYR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-09-20T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-23T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd5e"
+  },
+  "adress": "234 Calle Serrano, 28006 Madrid, Spain",
+  "type": "Curbside Pickup",
+  "status": "Pending",
+  "city": "28006 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-06-16T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-18T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd5f"
+  },
+  "adress": "114 Queen Street, 1010 Auckland, New Zealand",
+  "type": "Next-Day Shipping",
+  "status": "Refunded",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": true,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-11-06T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-11-06T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd60"
+  },
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "type": "Curbside Pickup",
+  "status": "Shipped",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-06-14T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-20T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd61"
+  },
+  "adress": "222 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+  "type": "Next-Day Shipping",
+  "status": "Delivered",
+  "city": "55100 Kuala Lumpur",
+  "country": "Malaysia",
+  "currency": "MYR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-01-02T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-06T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd62"
+  },
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "type": "Two-Day Shipping",
+  "status": "Delivered",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-12-01T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-01T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd63"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Curbside Pickup",
+  "status": "Pending",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-04-02T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-05T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd64"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "Freight Shipping",
+  "status": "Refunded",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-02-10T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-10T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd65"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "Next-Day Shipping",
+  "status": "Lost",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-04-15T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-20T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd66"
+  },
+  "adress": "174 Via del Corso, 00187 Rome, Italy",
+  "type": "Free Shipping",
+  "status": "Return to Sender",
+  "city": "00187 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-08-14T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-14T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd67"
+  },
+  "adress": "12 Rue de la République, 75001 Paris, France",
+  "type": "Same-Day Shipping",
+  "status": "Delivered",
+  "city": "75001 Paris",
+  "country": "France",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-01-15T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-18T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd68"
+  },
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "type": "Two-Day Shipping",
+  "status": "Shipped",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-04-08T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-13T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd69"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "Free Shipping",
+  "status": "Pending",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": true,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-05-30T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-30T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd6a"
+  },
+  "adress": "234 Calle Serrano, 28006 Madrid, Spain",
+  "type": "Priority Shipping",
+  "status": "In Transit",
+  "city": "28006 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-12-31T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2024-01-02T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd6b"
+  },
+  "adress": "174 Via del Corso, 00187 Rome, Italy",
+  "type": "Next-Day Shipping",
+  "status": "Failed Attempt",
+  "city": "00187 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-04-02T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-05T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd6c"
+  },
+  "adress": "258 Gran Vía, 28013 Madrid, Spain",
+  "type": "Two-Day Shipping",
+  "status": "Damaged",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-10-02T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-03T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd6d"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "Free Shipping",
+  "status": "Out for Delivery",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-06-07T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-11T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd6e"
+  },
+  "adress": "174 Via del Corso, 00187 Rome, Italy",
+  "type": "Same-Day Shipping",
+  "status": "Out for Delivery",
+  "city": "00187 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-09-04T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-04T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd6f"
+  },
+  "adress": "162 Rua Augusta, 1100-048 Lisbon, Portugal",
+  "type": "Two-Day Shipping",
+  "status": "Pending",
+  "city": "048 Lisbon",
+  "country": "Portugal",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-08-30T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-02T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd70"
+  },
+  "adress": "78 High Street, SW19 5EG London, United Kingdom",
+  "type": "Same-Day Shipping",
+  "status": "Failed Attempt",
+  "city": "SW19 5EG London",
+  "country": "United Kingdom",
+  "currency": "GBP",
+  "isSupplier": false,
+  "shipment_price": 15,
+  "shipmentDate_planned": {
+    "$date": "2023-11-08T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-11-13T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd71"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "Expedited Shipping",
+  "status": "Refunded",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": false,
+  "shipment_price": 13,
+  "shipmentDate_planned": {
+    "$date": "2023-09-12T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-12T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd72"
+  },
+  "adress": "12 Rue de la République, 75001 Paris, France",
+  "type": "Same-Day Shipping",
+  "status": "Delivered",
+  "city": "75001 Paris",
+  "country": "France",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-07-26T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-26T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd73"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Drop Shipping",
+  "status": "Failed Attempt",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": true,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-02-11T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-14T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd74"
+  },
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "type": "Two-Day Shipping",
+  "status": "Cancelled",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-06-26T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-26T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd75"
+  },
+  "adress": "222 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+  "type": "Next-Day Shipping",
+  "status": "Pending",
+  "city": "55100 Kuala Lumpur",
+  "country": "Malaysia",
+  "currency": "MYR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-01-15T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-18T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd76"
+  },
+  "adress": "174 Via del Corso, 00187 Rome, Italy",
+  "type": "Free Shipping",
+  "status": "Pending",
+  "city": "00187 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-01-10T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-13T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd77"
+  },
+  "adress": "102 Hauptstraße, 10115 Berlin, Germany",
+  "type": "Same-Day Shipping",
+  "status": "Out for Delivery",
+  "city": "10115 Berlin",
+  "country": "Germany",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-04-14T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-16T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd78"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "Curbside Pickup",
+  "status": "Lost",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": true,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-04-14T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-21T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd79"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "Curbside Pickup",
+  "status": "Failed Attempt",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": true,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-09-25T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-02T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd7a"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "Same-Day Shipping",
+  "status": "Processing",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-09-15T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-20T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd7b"
+  },
+  "adress": "210 Orchard Road, 238858 Singapore",
+  "type": "Priority Shipping",
+  "status": "Lost",
+  "city": "210 Orchard Road",
+  "country": "Singapore",
+  "currency": "SGD",
+  "isSupplier": true,
+  "shipment_price": 11,
+  "shipmentDate_planned": {
+    "$date": "2023-06-07T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-07T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd7c"
+  },
+  "adress": "162 Rua Augusta, 1100-048 Lisbon, Portugal",
+  "type": "Priority Shipping",
+  "status": "Shipped",
+  "city": "048 Lisbon",
+  "country": "Portugal",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-12-29T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-30T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd7d"
+  },
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "type": "Freight Shipping",
+  "status": "Picked",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-10-09T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-16T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd7e"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "Standard Shipping",
+  "status": "Out for Delivery",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": false,
+  "shipment_price": 13,
+  "shipmentDate_planned": {
+    "$date": "2023-02-19T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-22T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd7f"
+  },
+  "adress": "34 Via Roma, 00185 Rome, Italy",
+  "type": "Free Shipping",
+  "status": "In Transit",
+  "city": "00185 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-11-28T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-04T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd80"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "International Shipping",
+  "status": "Refunded",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-05-19T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-22T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd81"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "Standard Shipping",
+  "status": "Shipped",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-04-22T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-24T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd82"
+  },
+  "adress": "162 Rua Augusta, 1100-048 Lisbon, Portugal",
+  "type": "Expedited Shipping",
+  "status": "Refunded",
+  "city": "048 Lisbon",
+  "country": "Portugal",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-02-11T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-13T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd83"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Standard Shipping",
+  "status": "Delivered",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-03-02T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-05T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd84"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "Priority Shipping",
+  "status": "Pending",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-11-25T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-02T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd85"
+  },
+  "adress": "78 High Street, SW19 5EG London, United Kingdom",
+  "type": "Free Shipping",
+  "status": "Lost",
+  "city": "SW19 5EG London",
+  "country": "United Kingdom",
+  "currency": "GBP",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-05-30T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-30T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd86"
+  },
+  "adress": "78 High Street, SW19 5EG London, United Kingdom",
+  "type": "Same-Day Shipping",
+  "status": "Failed Attempt",
+  "city": "SW19 5EG London",
+  "country": "United Kingdom",
+  "currency": "GBP",
+  "isSupplier": false,
+  "shipment_price": 15,
+  "shipmentDate_planned": {
+    "$date": "2023-12-07T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-07T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd87"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Standard Shipping",
+  "status": "Processing",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-08-08T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-13T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd88"
+  },
+  "adress": "34 Via Roma, 00185 Rome, Italy",
+  "type": "Expedited Shipping",
+  "status": "Refunded",
+  "city": "00185 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-02-11T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-13T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd89"
+  },
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "type": "International Shipping",
+  "status": "Cancelled",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-07-11T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-11T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd8a"
+  },
+  "adress": "174 Via del Corso, 00187 Rome, Italy",
+  "type": "Two-Day Shipping",
+  "status": "Shipped",
+  "city": "00187 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-12-07T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-14T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd8b"
+  },
+  "adress": "162 Rua Augusta, 1100-048 Lisbon, Portugal",
+  "type": "Free Shipping",
+  "status": "Delivered",
+  "city": "048 Lisbon",
+  "country": "Portugal",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-07-12T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-18T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd8c"
+  },
+  "adress": "258 Gran Vía, 28013 Madrid, Spain",
+  "type": "Curbside Pickup",
+  "status": "Shipped",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-06-24T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-28T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd8d"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Same-Day Shipping",
+  "status": "Return to Sender",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-01-04T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-11T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd8e"
+  },
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "type": "Two-Day Shipping",
+  "status": "Failed Attempt",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-03-23T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-30T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd8f"
+  },
+  "adress": "234 Calle Serrano, 28006 Madrid, Spain",
+  "type": "Curbside Pickup",
+  "status": "Shipped",
+  "city": "28006 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-05-24T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-25T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd90"
+  },
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "type": "Next-Day Shipping",
+  "status": "Lost",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-08-30T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-01T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd91"
+  },
+  "adress": "198 Prinsengracht, 1016 HA Amsterdam, Netherlands",
+  "type": "Expedited Shipping",
+  "status": "Pending",
+  "city": "1016 HA Amsterdam",
+  "country": "Netherlands",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-06-01T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-07T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd92"
+  },
+  "adress": "258 Gran Vía, 28013 Madrid, Spain",
+  "type": "Same-Day Shipping",
+  "status": "Processing",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-05-09T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-12T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd93"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "Two-Day Shipping",
+  "status": "Return to Sender",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-09-02T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-05T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd94"
+  },
+  "adress": "258 Gran Vía, 28013 Madrid, Spain",
+  "type": "Two-Day Shipping",
+  "status": "Shipped",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-07-13T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-14T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd95"
+  },
+  "adress": "12 Rue de la République, 75001 Paris, France",
+  "type": "Drop Shipping",
+  "status": "In Transit",
+  "city": "75001 Paris",
+  "country": "France",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-09-16T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-19T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd96"
+  },
+  "adress": "114 Queen Street, 1010 Auckland, New Zealand",
+  "type": "Curbside Pickup",
+  "status": "Processing",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-07-09T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-10T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd97"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "Freight Shipping",
+  "status": "Processing",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-06-30T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-01T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd98"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "Priority Shipping",
+  "status": "Lost",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": false,
+  "shipment_price": 13,
+  "shipmentDate_planned": {
+    "$date": "2023-09-24T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-28T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd99"
+  },
+  "adress": "174 Via del Corso, 00187 Rome, Italy",
+  "type": "Freight Shipping",
+  "status": "Delivered",
+  "city": "00187 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-01-27T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-29T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd9a"
+  },
+  "adress": "114 Queen Street, 1010 Auckland, New Zealand",
+  "type": "Two-Day Shipping",
+  "status": "Refunded",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-09-08T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-14T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd9b"
+  },
+  "adress": "34 Via Roma, 00185 Rome, Italy",
+  "type": "International Shipping",
+  "status": "Lost",
+  "city": "00185 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-07-02T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-04T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd9c"
+  },
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "type": "International Shipping",
+  "status": "Return to Sender",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-01-14T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-15T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd9d"
+  },
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "type": "Standard Shipping",
+  "status": "Cancelled",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-04-30T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-30T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd9e"
+  },
+  "adress": "258 Gran Vía, 28013 Madrid, Spain",
+  "type": "Two-Day Shipping",
+  "status": "In Transit",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-06-21T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-24T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bd9f"
+  },
+  "adress": "78 High Street, SW19 5EG London, United Kingdom",
+  "type": "Priority Shipping",
+  "status": "Damaged",
+  "city": "SW19 5EG London",
+  "country": "United Kingdom",
+  "currency": "GBP",
+  "isSupplier": false,
+  "shipment_price": 15,
+  "shipmentDate_planned": {
+    "$date": "2023-08-16T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-23T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bda0"
+  },
+  "adress": "12 Rue de la République, 75001 Paris, France",
+  "type": "Curbside Pickup",
+  "status": "Lost",
+  "city": "75001 Paris",
+  "country": "France",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-03-24T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-25T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bda1"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "International Shipping",
+  "status": "Delivered",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-05-25T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-01T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bda2"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Freight Shipping",
+  "status": "Lost",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-06-15T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-18T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bda3"
+  },
+  "adress": "210 Orchard Road, 238858 Singapore",
+  "type": "Standard Shipping",
+  "status": "Out for Delivery",
+  "city": "210 Orchard Road",
+  "country": "Singapore",
+  "currency": "SGD",
+  "isSupplier": false,
+  "shipment_price": 11,
+  "shipmentDate_planned": {
+    "$date": "2023-01-09T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-15T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bda4"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "Curbside Pickup",
+  "status": "Shipped",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": false,
+  "shipment_price": 13,
+  "shipmentDate_planned": {
+    "$date": "2023-12-02T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-03T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bda5"
+  },
+  "adress": "12 Rue de la République, 75001 Paris, France",
+  "type": "Free Shipping",
+  "status": "Pending",
+  "city": "75001 Paris",
+  "country": "France",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-06-21T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-25T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bda6"
+  },
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "type": "Expedited Shipping",
+  "status": "Shipped",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-08-24T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-24T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bda7"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "International Shipping",
+  "status": "Cancelled",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-06-25T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-30T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bda8"
+  },
+  "adress": "12 Rue de la République, 75001 Paris, France",
+  "type": "Free Shipping",
+  "status": "Damaged",
+  "city": "75001 Paris",
+  "country": "France",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-04-14T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-21T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bda9"
+  },
+  "adress": "12 Rue de la République, 75001 Paris, France",
+  "type": "Curbside Pickup",
+  "status": "In Transit",
+  "city": "75001 Paris",
+  "country": "France",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-02-07T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-11T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdaa"
+  },
+  "adress": "210 Orchard Road, 238858 Singapore",
+  "type": "Freight Shipping",
+  "status": "Cancelled",
+  "city": "210 Orchard Road",
+  "country": "Singapore",
+  "currency": "SGD",
+  "isSupplier": false,
+  "shipment_price": 11,
+  "shipmentDate_planned": {
+    "$date": "2023-02-12T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-17T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdab"
+  },
+  "adress": "222 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+  "type": "Two-Day Shipping",
+  "status": "In Transit",
+  "city": "55100 Kuala Lumpur",
+  "country": "Malaysia",
+  "currency": "MYR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-11-10T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-11-15T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdac"
+  },
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "type": "Expedited Shipping",
+  "status": "Delivered",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-09-15T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-19T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdad"
+  },
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "type": "Drop Shipping",
+  "status": "Out for Delivery",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-02-04T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-05T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdae"
+  },
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "type": "Standard Shipping",
+  "status": "Out for Delivery",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-04-23T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-28T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdaf"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "Expedited Shipping",
+  "status": "Damaged",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": true,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-11-15T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-11-19T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdb0"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "Standard Shipping",
+  "status": "Failed Attempt",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": false,
+  "shipment_price": 13,
+  "shipmentDate_planned": {
+    "$date": "2023-10-03T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-06T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdb1"
+  },
+  "adress": "234 Calle Serrano, 28006 Madrid, Spain",
+  "type": "Priority Shipping",
+  "status": "Refunded",
+  "city": "28006 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-08-17T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-24T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdb2"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "Expedited Shipping",
+  "status": "Refunded",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-09-17T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-19T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdb3"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Curbside Pickup",
+  "status": "Shipped",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-10-21T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-27T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdb4"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "Expedited Shipping",
+  "status": "Return to Sender",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-02-16T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-18T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdb5"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "Standard Shipping",
+  "status": "Processing",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": true,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-03-13T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-13T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdb6"
+  },
+  "adress": "102 Hauptstraße, 10115 Berlin, Germany",
+  "type": "International Shipping",
+  "status": "Processing",
+  "city": "10115 Berlin",
+  "country": "Germany",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-04-12T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-16T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdb7"
+  },
+  "adress": "258 Gran Vía, 28013 Madrid, Spain",
+  "type": "Freight Shipping",
+  "status": "Shipped",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-01-26T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-31T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdb8"
+  },
+  "adress": "210 Orchard Road, 238858 Singapore",
+  "type": "Expedited Shipping",
+  "status": "In Transit",
+  "city": "210 Orchard Road",
+  "country": "Singapore",
+  "currency": "SGD",
+  "isSupplier": false,
+  "shipment_price": 11,
+  "shipmentDate_planned": {
+    "$date": "2023-09-22T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-29T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdb9"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "Standard Shipping",
+  "status": "Picked",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-01-04T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-04T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdba"
+  },
+  "adress": "234 Calle Serrano, 28006 Madrid, Spain",
+  "type": "Expedited Shipping",
+  "status": "In Transit",
+  "city": "28006 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-02-22T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-26T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdbb"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "Two-Day Shipping",
+  "status": "In Transit",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-03-23T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-30T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdbc"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "International Shipping",
+  "status": "Out for Delivery",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-09-29T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-29T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdbd"
+  },
+  "adress": "270 Causeway Bay Road, Hong Kong,Japan",
+  "type": "Same-Day Shipping",
+  "status": "Delivered",
+  "city": "Hong Kong",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-10-15T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-17T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdbe"
+  },
+  "adress": "198 Prinsengracht, 1016 HA Amsterdam, Netherlands",
+  "type": "Curbside Pickup",
+  "status": "Shipped",
+  "city": "1016 HA Amsterdam",
+  "country": "Netherlands",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-06-12T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-17T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdbf"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "Freight Shipping",
+  "status": "Cancelled",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-03-21T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-22T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdc0"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "Standard Shipping",
+  "status": "Pending",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": true,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-10-04T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-07T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdc1"
+  },
+  "adress": "34 Via Roma, 00185 Rome, Italy",
+  "type": "Free Shipping",
+  "status": "Return to Sender",
+  "city": "00185 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-05-22T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-27T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdc2"
+  },
+  "adress": "162 Rua Augusta, 1100-048 Lisbon, Portugal",
+  "type": "Two-Day Shipping",
+  "status": "Return to Sender",
+  "city": "048 Lisbon",
+  "country": "Portugal",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-07-30T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-05T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdc3"
+  },
+  "adress": "258 Gran Vía, 28013 Madrid, Spain",
+  "type": "Drop Shipping",
+  "status": "Damaged",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-08-20T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-22T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdc4"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "Priority Shipping",
+  "status": "Cancelled",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-03-26T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-30T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdc5"
+  },
+  "adress": "78 High Street, SW19 5EG London, United Kingdom",
+  "type": "International Shipping",
+  "status": "Shipped",
+  "city": "SW19 5EG London",
+  "country": "United Kingdom",
+  "currency": "GBP",
+  "isSupplier": true,
+  "shipment_price": 15,
+  "shipmentDate_planned": {
+    "$date": "2023-05-30T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-02T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdc6"
+  },
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "type": "Free Shipping",
+  "status": "Cancelled",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-04-05T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-05T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdc7"
+  },
+  "adress": "210 Orchard Road, 238858 Singapore",
+  "type": "Next-Day Shipping",
+  "status": "In Transit",
+  "city": "210 Orchard Road",
+  "country": "Singapore",
+  "currency": "SGD",
+  "isSupplier": false,
+  "shipment_price": 11,
+  "shipmentDate_planned": {
+    "$date": "2023-10-06T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-07T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdc8"
+  },
+  "adress": "34 Via Roma, 00185 Rome, Italy",
+  "type": "Curbside Pickup",
+  "status": "In Transit",
+  "city": "00185 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-07-23T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-23T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdc9"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "Free Shipping",
+  "status": "Out for Delivery",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-03-20T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-22T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdca"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "Freight Shipping",
+  "status": "Delivered",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-06-15T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-20T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdcb"
+  },
+  "adress": "34 Via Roma, 00185 Rome, Italy",
+  "type": "Curbside Pickup",
+  "status": "Picked",
+  "city": "00185 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-03-25T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-26T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdcc"
+  },
+  "adress": "222 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+  "type": "Next-Day Shipping",
+  "status": "Failed Attempt",
+  "city": "55100 Kuala Lumpur",
+  "country": "Malaysia",
+  "currency": "MYR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-10-04T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-08T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdcd"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "Next-Day Shipping",
+  "status": "Return to Sender",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-05-12T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-19T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdce"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "Drop Shipping",
+  "status": "Damaged",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-10-29T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-29T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdcf"
+  },
+  "adress": "78 High Street, SW19 5EG London, United Kingdom",
+  "type": "Drop Shipping",
+  "status": "In Transit",
+  "city": "SW19 5EG London",
+  "country": "United Kingdom",
+  "currency": "GBP",
+  "isSupplier": false,
+  "shipment_price": 15,
+  "shipmentDate_planned": {
+    "$date": "2023-07-20T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-27T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdd0"
+  },
+  "adress": "12 Rue de la République, 75001 Paris, France",
+  "type": "Standard Shipping",
+  "status": "Cancelled",
+  "city": "75001 Paris",
+  "country": "France",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-10-26T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-30T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdd1"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "International Shipping",
+  "status": "Refunded",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-05-28T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-01T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdd2"
+  },
+  "adress": "102 Hauptstraße, 10115 Berlin, Germany",
+  "type": "Same-Day Shipping",
+  "status": "Damaged",
+  "city": "10115 Berlin",
+  "country": "Germany",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-09-14T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-17T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdd3"
+  },
+  "adress": "198 Prinsengracht, 1016 HA Amsterdam, Netherlands",
+  "type": "Expedited Shipping",
+  "status": "Processing",
+  "city": "1016 HA Amsterdam",
+  "country": "Netherlands",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-03-13T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-17T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdd4"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "Standard Shipping",
+  "status": "Processing",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-03-11T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-12T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdd5"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "Same-Day Shipping",
+  "status": "Picked",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": false,
+  "shipment_price": 13,
+  "shipmentDate_planned": {
+    "$date": "2023-05-22T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-28T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdd6"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Priority Shipping",
+  "status": "Picked",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-10-22T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-29T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdd7"
+  },
+  "adress": "78 High Street, SW19 5EG London, United Kingdom",
+  "type": "Same-Day Shipping",
+  "status": "Pending",
+  "city": "SW19 5EG London",
+  "country": "United Kingdom",
+  "currency": "GBP",
+  "isSupplier": false,
+  "shipment_price": 15,
+  "shipmentDate_planned": {
+    "$date": "2023-02-06T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-09T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdd8"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "Two-Day Shipping",
+  "status": "Refunded",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": false,
+  "shipment_price": 13,
+  "shipmentDate_planned": {
+    "$date": "2023-12-20T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-25T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdd9"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "International Shipping",
+  "status": "Lost",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-03-28T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-29T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdda"
+  },
+  "adress": "222 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+  "type": "Free Shipping",
+  "status": "Picked",
+  "city": "55100 Kuala Lumpur",
+  "country": "Malaysia",
+  "currency": "MYR",
+  "isSupplier": true,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-08-10T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-15T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bddb"
+  },
+  "adress": "114 Queen Street, 1010 Auckland, New Zealand",
+  "type": "Expedited Shipping",
+  "status": "Pending",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-06-06T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-12T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bddc"
+  },
+  "adress": "102 Hauptstraße, 10115 Berlin, Germany",
+  "type": "Free Shipping",
+  "status": "Out for Delivery",
+  "city": "10115 Berlin",
+  "country": "Germany",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-08-18T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-24T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bddd"
+  },
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "type": "Free Shipping",
+  "status": "Shipped",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-04-21T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-25T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdde"
+  },
+  "adress": "78 High Street, SW19 5EG London, United Kingdom",
+  "type": "Drop Shipping",
+  "status": "Return to Sender",
+  "city": "SW19 5EG London",
+  "country": "United Kingdom",
+  "currency": "GBP",
+  "isSupplier": false,
+  "shipment_price": 15,
+  "shipmentDate_planned": {
+    "$date": "2023-02-02T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-03T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bddf"
+  },
+  "adress": "222 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+  "type": "Two-Day Shipping",
+  "status": "Return to Sender",
+  "city": "55100 Kuala Lumpur",
+  "country": "Malaysia",
+  "currency": "MYR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-01-29T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-01T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bde0"
+  },
+  "adress": "270 Causeway Bay Road, Hong Kong,Japan",
+  "type": "Next-Day Shipping",
+  "status": "Processing",
+  "city": "Hong Kong",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-04-03T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-03T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bde1"
+  },
+  "adress": "102 Hauptstraße, 10115 Berlin, Germany",
+  "type": "Two-Day Shipping",
+  "status": "Damaged",
+  "city": "10115 Berlin",
+  "country": "Germany",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-02-19T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-19T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bde2"
+  },
+  "adress": "198 Prinsengracht, 1016 HA Amsterdam, Netherlands",
+  "type": "Free Shipping",
+  "status": "Cancelled",
+  "city": "1016 HA Amsterdam",
+  "country": "Netherlands",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-05-02T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-05T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bde3"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Expedited Shipping",
+  "status": "Lost",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-02-18T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-18T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bde4"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "Freight Shipping",
+  "status": "Refunded",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-07-11T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-12T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bde5"
+  },
+  "adress": "114 Queen Street, 1010 Auckland, New Zealand",
+  "type": "Free Shipping",
+  "status": "Processing",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-11-12T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-11-15T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bde6"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Two-Day Shipping",
+  "status": "Return to Sender",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-08-11T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-11T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bde7"
+  },
+  "adress": "78 High Street, SW19 5EG London, United Kingdom",
+  "type": "Two-Day Shipping",
+  "status": "Picked",
+  "city": "SW19 5EG London",
+  "country": "United Kingdom",
+  "currency": "GBP",
+  "isSupplier": false,
+  "shipment_price": 15,
+  "shipmentDate_planned": {
+    "$date": "2023-12-10T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-14T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bde8"
+  },
+  "adress": "198 Prinsengracht, 1016 HA Amsterdam, Netherlands",
+  "type": "Free Shipping",
+  "status": "Damaged",
+  "city": "1016 HA Amsterdam",
+  "country": "Netherlands",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-05-25T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-25T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bde9"
+  },
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "type": "Expedited Shipping",
+  "status": "Delivered",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-06-23T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-23T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdea"
+  },
+  "adress": "270 Causeway Bay Road, Hong Kong,Japan",
+  "type": "Same-Day Shipping",
+  "status": "Picked",
+  "city": "Hong Kong",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": true,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-05-30T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-30T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdeb"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "International Shipping",
+  "status": "Picked",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": false,
+  "shipment_price": 13,
+  "shipmentDate_planned": {
+    "$date": "2023-11-07T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-11-10T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdec"
+  },
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "type": "Same-Day Shipping",
+  "status": "Refunded",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 14,
+  "shipmentDate_planned": {
+    "$date": "2023-07-04T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-06T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bded"
+  },
+  "adress": "174 Via del Corso, 00187 Rome, Italy",
+  "type": "Next-Day Shipping",
+  "status": "Delivered",
+  "city": "00187 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-12-17T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-23T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdee"
+  },
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "type": "Standard Shipping",
+  "status": "Picked",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-04-12T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-14T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdef"
+  },
+  "adress": "34 Via Roma, 00185 Rome, Italy",
+  "type": "Free Shipping",
+  "status": "Refunded",
+  "city": "00185 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-07-22T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-23T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdf0"
+  },
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "type": "Freight Shipping",
+  "status": "In Transit",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-12-14T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-18T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdf1"
+  },
+  "adress": "222 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+  "type": "Next-Day Shipping",
+  "status": "In Transit",
+  "city": "55100 Kuala Lumpur",
+  "country": "Malaysia",
+  "currency": "MYR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-10-05T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-05T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdf2"
+  },
+  "adress": "162 Rua Augusta, 1100-048 Lisbon, Portugal",
+  "type": "Standard Shipping",
+  "status": "Lost",
+  "city": "048 Lisbon",
+  "country": "Portugal",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-07-11T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-16T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdf3"
+  },
+  "adress": "102 Hauptstraße, 10115 Berlin, Germany",
+  "type": "Drop Shipping",
+  "status": "Processing",
+  "city": "10115 Berlin",
+  "country": "Germany",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-08-01T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-05T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdf4"
+  },
+  "adress": "90 Calle Gran Vía, 28013 Madrid, Spain",
+  "type": "Same-Day Shipping",
+  "status": "Shipped",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-07-25T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-25T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdf5"
+  },
+  "adress": "162 Rua Augusta, 1100-048 Lisbon, Portugal",
+  "type": "Free Shipping",
+  "status": "Shipped",
+  "city": "048 Lisbon",
+  "country": "Portugal",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-02-27T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-04T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdf6"
+  },
+  "adress": "174 Via del Corso, 00187 Rome, Italy",
+  "type": "Curbside Pickup",
+  "status": "Failed Attempt",
+  "city": "00187 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-09-24T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-25T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdf7"
+  },
+  "adress": "198 Prinsengracht, 1016 HA Amsterdam, Netherlands",
+  "type": "Curbside Pickup",
+  "status": "Out for Delivery",
+  "city": "1016 HA Amsterdam",
+  "country": "Netherlands",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-04-17T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-20T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdf8"
+  },
+  "adress": "234 Calle Serrano, 28006 Madrid, Spain",
+  "type": "Curbside Pickup",
+  "status": "Shipped",
+  "city": "28006 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-11-19T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-11-26T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdf9"
+  },
+  "adress": "12 Rue de la République, 75001 Paris, France",
+  "type": "International Shipping",
+  "status": "Cancelled",
+  "city": "75001 Paris",
+  "country": "France",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-04-21T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-22T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdfa"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "Same-Day Shipping",
+  "status": "Out for Delivery",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": false,
+  "shipment_price": 13,
+  "shipmentDate_planned": {
+    "$date": "2023-06-27T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-06-29T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdfb"
+  },
+  "adress": "174 Via del Corso, 00187 Rome, Italy",
+  "type": "Freight Shipping",
+  "status": "Return to Sender",
+  "city": "00187 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-08-18T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-24T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdfc"
+  },
+  "adress": "222 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+  "type": "Standard Shipping",
+  "status": "In Transit",
+  "city": "55100 Kuala Lumpur",
+  "country": "Malaysia",
+  "currency": "MYR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-03-06T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-06T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdfd"
+  },
+  "adress": "222 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+  "type": "Two-Day Shipping",
+  "status": "Refunded",
+  "city": "55100 Kuala Lumpur",
+  "country": "Malaysia",
+  "currency": "MYR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-01-30T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-03T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdfe"
+  },
+  "adress": "102 Hauptstraße, 10115 Berlin, Germany",
+  "type": "Two-Day Shipping",
+  "status": "In Transit",
+  "city": "10115 Berlin",
+  "country": "Germany",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-09-22T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-26T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8bdff"
+  },
+  "adress": "174 Via del Corso, 00187 Rome, Italy",
+  "type": "Drop Shipping",
+  "status": "Return to Sender",
+  "city": "00187 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-05-04T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-09T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be00"
+  },
+  "adress": "12 Rue de la République, 75001 Paris, France",
+  "type": "Two-Day Shipping",
+  "status": "Delivered",
+  "city": "75001 Paris",
+  "country": "France",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-01-03T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-01-07T00:00:00Z"
+  },
+  "late_days": 4
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be01"
+  },
+  "adress": "56 The Crescent, V6K 1T1 Vancouver, BC, Canada",
+  "type": "Standard Shipping",
+  "status": "Picked",
+  "city": "BC",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": false,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-04-07T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-08T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be02"
+  },
+  "adress": "258 Gran Vía, 28013 Madrid, Spain",
+  "type": "Standard Shipping",
+  "status": "Pending",
+  "city": "28013 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-04-08T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-14T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be03"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Curbside Pickup",
+  "status": "Out for Delivery",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-09-19T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-20T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be04"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Expedited Shipping",
+  "status": "Shipped",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-05-24T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-26T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be05"
+  },
+  "adress": "234 Calle Serrano, 28006 Madrid, Spain",
+  "type": "Priority Shipping",
+  "status": "Picked",
+  "city": "28006 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-04-22T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-04-24T00:00:00Z"
+  },
+  "late_days": 2
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be06"
+  },
+  "adress": "246 Ginza, Chuo City, Tokyo , Japan",
+  "type": "Next-Day Shipping",
+  "status": "Delivered",
+  "city": "Tokyo",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-08-30T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-09-06T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be07"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "Freight Shipping",
+  "status": "Failed Attempt",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": true,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-07-18T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-18T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be08"
+  },
+  "adress": "126 Collins Street, VIC 3000 Melbourne, Australia",
+  "type": "Drop Shipping",
+  "status": "Processing",
+  "city": "VIC 3000 Melbourne",
+  "country": "Australia",
+  "currency": "AUD",
+  "isSupplier": false,
+  "shipment_price": 13,
+  "shipmentDate_planned": {
+    "$date": "2023-07-29T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-29T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be09"
+  },
+  "adress": "234 Calle Serrano, 28006 Madrid, Spain",
+  "type": "Free Shipping",
+  "status": "Refunded",
+  "city": "28006 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-11-17T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-11-22T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be0a"
+  },
+  "adress": "162 Rua Augusta, 1100-048 Lisbon, Portugal",
+  "type": "Free Shipping",
+  "status": "Pending",
+  "city": "048 Lisbon",
+  "country": "Portugal",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-05-03T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-04T00:00:00Z"
+  },
+  "late_days": 1
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be0b"
+  },
+  "adress": "186 Avenida Paulista, 01310-200 São Paulo, Brazil",
+  "type": "Drop Shipping",
+  "status": "Cancelled",
+  "city": "200 São Paulo",
+  "country": "Brazil",
+  "currency": "BRL",
+  "isSupplier": false,
+  "shipment_price": 16,
+  "shipmentDate_planned": {
+    "$date": "2023-03-01T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-03-06T00:00:00Z"
+  },
+  "late_days": 5
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be0c"
+  },
+  "adress": "198 Prinsengracht, 1016 HA Amsterdam, Netherlands",
+  "type": "Standard Shipping",
+  "status": "Refunded",
+  "city": "1016 HA Amsterdam",
+  "country": "Netherlands",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-07-16T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-07-23T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be0d"
+  },
+  "adress": "270 Causeway Bay Road, Hong Kong,Japan",
+  "type": "International Shipping",
+  "status": "In Transit",
+  "city": "Hong Kong",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-05-13T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-19T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be0e"
+  },
+  "adress": "138 Karangahape Road, 1010 Auckland, New Zealand",
+  "type": "Free Shipping",
+  "status": "Failed Attempt",
+  "city": "1010 Auckland",
+  "country": "New Zealand",
+  "currency": "NZD",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-12-12T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-12-12T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be0f"
+  },
+  "adress": "198 Prinsengracht, 1016 HA Amsterdam, Netherlands",
+  "type": "Priority Shipping",
+  "status": "Lost",
+  "city": "1016 HA Amsterdam",
+  "country": "Netherlands",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-02-18T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-02-25T00:00:00Z"
+  },
+  "late_days": 7
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be10"
+  },
+  "adress": "150 Bloor Street West, M5S 1T8 Toronto, Canada",
+  "type": "Standard Shipping",
+  "status": "Refunded",
+  "city": "M5S 1T8 Toronto",
+  "country": "Canada",
+  "currency": "CAD",
+  "isSupplier": true,
+  "shipment_price": 12,
+  "shipmentDate_planned": {
+    "$date": "2023-10-09T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-10-15T00:00:00Z"
+  },
+  "late_days": 6
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be11"
+  },
+  "adress": "234 Calle Serrano, 28006 Madrid, Spain",
+  "type": "Drop Shipping",
+  "status": "Delivered",
+  "city": "28006 Madrid",
+  "country": "Spain",
+  "currency": "EUR",
+  "isSupplier": true,
+  "shipment_price": 10,
+  "shipmentDate_planned": {
+    "$date": "2023-05-18T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-21T00:00:00Z"
+  },
+  "late_days": 3
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be12"
+  },
+  "adress": "270 Causeway Bay Road, Hong Kong,Japan",
+  "type": "Expedited Shipping",
+  "status": "Shipped",
+  "city": "Hong Kong",
+  "country": "Japan",
+  "currency": "JPY",
+  "isSupplier": false,
+  "shipment_price": 1200,
+  "shipmentDate_planned": {
+    "$date": "2023-05-24T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-05-24T00:00:00Z"
+  },
+  "late_days": 0
+},{
+  "_id": {
+    "$oid": "6538f8e888bdd3091bd8be13"
+  },
+  "adress": "174 Via del Corso, 00187 Rome, Italy",
+  "type": "Free Shipping",
+  "status": "Out for Delivery",
+  "city": "00187 Rome",
+  "country": "Italy",
+  "currency": "EUR",
+  "isSupplier": false,
+  "shipment_price": 0,
+  "shipmentDate_planned": {
+    "$date": "2023-07-31T00:00:00Z"
+  },
+  "actual_shipmentDate": {
+    "$date": "2023-08-02T00:00:00Z"
+  },
+  "late_days": 2
+}]

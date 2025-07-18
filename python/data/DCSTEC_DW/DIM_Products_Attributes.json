@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6536a2db88bdd3091bd8a815"
+  },
+  "title": "Athletic Style"
+},{
+  "_id": {
+    "$oid": "6536a2db88bdd3091bd8a817"
+  },
+  "title": "Toe Style"
+},{
+  "_id": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "title": "Color"
+},{
+  "_id": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "title": "Size"
+},{
+  "_id": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "title": "Material"
+},{
+  "_id": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "title": "Features"
+},{
+  "_id": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "title": "Closure Style"
+},{
+  "_id": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "title": "Style"
+}]

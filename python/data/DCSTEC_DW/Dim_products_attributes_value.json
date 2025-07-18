@@ -1,0 +1,1706 @@
+[{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a99b"
+  },
+  "value": "7",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd7"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a99c"
+  },
+  "value": "Fur, Genuine Leather, Genuine Suede, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd7"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a99d"
+  },
+  "value": "Slip Resistant, Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd7"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a99e"
+  },
+  "value": "White",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd7"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a99f"
+  },
+  "value": "4½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd8"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9a0"
+  },
+  "value": "Genuine Leather, Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd8"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9a1"
+  },
+  "value": "Slip Resistant, Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd8"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9a2"
+  },
+  "value": "Black / White / University Red",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd8"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9a3"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd8"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9a4"
+  },
+  "value": "12",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd9"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9a5"
+  },
+  "value": "Faux Leather, Genuine Leather, Polyester, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd9"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9a6"
+  },
+  "value": "Black",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd9"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9a7"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd9"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9a8"
+  },
+  "value": "Basketball",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a815"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bd9"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9a9"
+  },
+  "value": "8",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bda"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9aa"
+  },
+  "value": "Denim, Genuine Leather, Genuine Suede, Mesh, Nylon, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bda"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ab"
+  },
+  "value": "Black/White",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bda"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ac"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bda"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ad"
+  },
+  "value": "6½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdb"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ae"
+  },
+  "value": "Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdb"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9af"
+  },
+  "value": "For Athletics",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdb"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9b0"
+  },
+  "value": "Lace-up, Hook and Loop",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdb"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9b1"
+  },
+  "value": "Running",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a815"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdb"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9b2"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdb"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9b3"
+  },
+  "value": "5",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdc"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9b4"
+  },
+  "value": "Genuine Leather, Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdc"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9b5"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdc"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9b6"
+  },
+  "value": "Black",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdc"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9b7"
+  },
+  "value": "Slip-on",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdc"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9b8"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdc"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9b9"
+  },
+  "value": "7",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdd"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ba"
+  },
+  "value": "Denim, Genuine Leather, Nylon, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdd"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9bb"
+  },
+  "value": "Black",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdd"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9bc"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdd"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9bd"
+  },
+  "value": "Round Toe",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a817"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdd"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9be"
+  },
+  "value": "7",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bde"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9bf"
+  },
+  "value": "Genuine Leather, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bde"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9c0"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bde"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9c1"
+  },
+  "value": "White",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bde"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9c2"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bde"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9c3"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bde"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9c4"
+  },
+  "value": "13½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdf"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9c5"
+  },
+  "value": "Genuine Leather, Mesh, Nylon, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdf"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9c6"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdf"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9c7"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bdf"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9c8"
+  },
+  "value": "6½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be0"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9c9"
+  },
+  "value": "Genuine Leather, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be0"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ca"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be0"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9cb"
+  },
+  "value": "White",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be0"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9cc"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be0"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9cd"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be0"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ce"
+  },
+  "value": "5",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9cf"
+  },
+  "value": "Genuine Leather, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9d0"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9d1"
+  },
+  "value": "White",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9d2"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9d3"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9d4"
+  },
+  "value": "11½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be2"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9d5"
+  },
+  "value": "Genuine Leather, Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be2"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9d6"
+  },
+  "value": "Recycled Materials, Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be2"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9d7"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be2"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9d8"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be2"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9d9"
+  },
+  "value": "10½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9da"
+  },
+  "value": "Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9db"
+  },
+  "value": "Slip Resistant",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9dc"
+  },
+  "value": "Black",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9dd"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9de"
+  },
+  "value": "Basketball",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a815"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9df"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9e0"
+  },
+  "value": "6½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be4"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9e1"
+  },
+  "value": "Genuine Leather, Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be4"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9e2"
+  },
+  "value": "High-top",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be4"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9e3"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be4"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9e4"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be4"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9e5"
+  },
+  "value": "9½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be5"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9e6"
+  },
+  "value": "Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be5"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9e7"
+  },
+  "value": "For Athletics",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be5"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9e8"
+  },
+  "value": "Black",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be5"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9e9"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be5"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ea"
+  },
+  "value": "Cross Training",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a815"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be5"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9eb"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be5"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ec"
+  },
+  "value": "15",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be6"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ed"
+  },
+  "value": "Genuine Leather, Genuine Suede, Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be6"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ee"
+  },
+  "value": "High-top",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be6"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ef"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be6"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9f0"
+  },
+  "value": "1½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be7"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9f1"
+  },
+  "value": "Genuine Leather, Mesh, Nylon, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be7"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9f2"
+  },
+  "value": "Fashion Sneaker, High-top",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be7"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9f3"
+  },
+  "value": "White/White/Black",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be7"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9f4"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be7"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9f5"
+  },
+  "value": "13",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be8"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9f6"
+  },
+  "value": "Genuine Leather, Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be8"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9f7"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be8"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9f8"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be8"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9f9"
+  },
+  "value": "Round Toe",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a817"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be8"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9fa"
+  },
+  "value": "14",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be9"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9fb"
+  },
+  "value": "Genuine Leather, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be9"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9fc"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be9"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9fd"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be9"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9fe"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563be9"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8a9ff"
+  },
+  "value": "12",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bea"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa00"
+  },
+  "value": "Genuine Leather, Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bea"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa01"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bea"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa02"
+  },
+  "value": "White/Black/Pure Platinum",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bea"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa03"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bea"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa04"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bea"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa05"
+  },
+  "value": "6",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563beb"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa06"
+  },
+  "value": "Denim, Genuine Leather, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563beb"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa07"
+  },
+  "value": "High-top",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563beb"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa08"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563beb"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa09"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563beb"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa0a"
+  },
+  "value": "14",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bec"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa0b"
+  },
+  "value": "Genuine Leather, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bec"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa0c"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bec"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa0d"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bec"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa0e"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bec"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa0f"
+  },
+  "value": "9½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bed"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa10"
+  },
+  "value": "Genuine Leather, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bed"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa11"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bed"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa12"
+  },
+  "value": "Grey",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bed"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa13"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bed"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa14"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bed"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa15"
+  },
+  "value": "13",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bee"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa16"
+  },
+  "value": "Genuine Leather, Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bee"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa17"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bee"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa18"
+  },
+  "value": "Black",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bee"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa19"
+  },
+  "value": "Slip-on",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bee"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa1a"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bee"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa1b"
+  },
+  "value": "7½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bef"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa1c"
+  },
+  "value": "Canvas",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bef"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa1d"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bef"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa1e"
+  },
+  "value": "6",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf0"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa1f"
+  },
+  "value": "Genuine Leather, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf0"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa20"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf0"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa21"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf0"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa22"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf0"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa23"
+  },
+  "value": "9",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa24"
+  },
+  "value": "Genuine Leather, Genuine Suede, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa25"
+  },
+  "value": "High-top",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa26"
+  },
+  "value": "Brown",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a813"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa27"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa28"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf1"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa29"
+  },
+  "value": "9",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf2"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa2a"
+  },
+  "value": "Genuine Leather, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf2"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa2b"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf2"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa2c"
+  },
+  "value": "10½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa2d"
+  },
+  "value": "Genuine Leather, Mesh, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa2e"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa2f"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa30"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf3"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa31"
+  },
+  "value": "9½",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a810"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf4"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa32"
+  },
+  "value": "Genuine Leather, Rubber",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a811"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf4"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa33"
+  },
+  "value": "Fashion Sneaker",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a812"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf4"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa34"
+  },
+  "value": "Lace-up",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a814"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf4"
+  }
+},{
+  "_id": {
+    "$oid": "6537926288bdd3091bd8aa35"
+  },
+  "value": "Casual",
+  "attribute_key": {
+    "$oid": "6536a2db88bdd3091bd8a816"
+  },
+  "product_key": {
+    "$oid": "64d39877fa21f9d98d563bf4"
+  }
+}]

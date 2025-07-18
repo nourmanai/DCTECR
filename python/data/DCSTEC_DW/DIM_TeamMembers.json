@@ -1,0 +1,1601 @@
+[{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89610"
+  },
+  "Name": "Adam Carter",
+  "Role": "SEM Manager",
+  "Execution_Period": "8 months",
+  "Performance_Rate": 4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89611"
+  },
+  "Name": "James Russell",
+  "Role": "SEO Coordinator",
+  "Execution_Period": "11 days",
+  "Performance_Rate": 4.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89612"
+  },
+  "Name": "Cynthia Vargas",
+  "Role": "Affiliate Manager",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 8.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89613"
+  },
+  "Name": "Cheryl Herman",
+  "Role": "SEO Manager",
+  "Execution_Period": "4 months",
+  "Performance_Rate": 4.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89614"
+  },
+  "Name": "Andrea Fox",
+  "Role": "SEM Manager",
+  "Execution_Period": "8 days",
+  "Performance_Rate": 5.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89615"
+  },
+  "Name": "Wesley Warren",
+  "Role": "Brand Manager",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 5.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89616"
+  },
+  "Name": "Ryan Munoz",
+  "Role": "Social Media Consultant",
+  "Execution_Period": "6 days",
+  "Performance_Rate": 4.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89617"
+  },
+  "Name": "Daniel Graham",
+  "Role": "Digital Analyst",
+  "Execution_Period": "5 months",
+  "Performance_Rate": 3.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89618"
+  },
+  "Name": "Joshua Rodriguez",
+  "Role": "Social Media Coordinator",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 1.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89619"
+  },
+  "Name": "Michele Clark",
+  "Role": "Content Executive",
+  "Execution_Period": "10 months",
+  "Performance_Rate": 4.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8961a"
+  },
+  "Name": "Grace Farmer",
+  "Role": "Email Manager",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 1.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8961b"
+  },
+  "Name": "Jonathan Kennedy",
+  "Role": "SEO Specialist",
+  "Execution_Period": "9 months",
+  "Performance_Rate": 7.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8961c"
+  },
+  "Name": "Nicholas Williams",
+  "Role": "Social Media Manager",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 6.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8961d"
+  },
+  "Name": "Shannon Rivera",
+  "Role": "Content Analyst",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 0.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8961e"
+  },
+  "Name": "James Singh",
+  "Role": "SEM Analyst",
+  "Execution_Period": "3 months",
+  "Performance_Rate": 6.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8961f"
+  },
+  "Name": "David Stewart",
+  "Role": "SEO Manager",
+  "Execution_Period": "12 days",
+  "Performance_Rate": 1.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89620"
+  },
+  "Name": "Mitchell Alexander",
+  "Role": "Product Executive",
+  "Execution_Period": "7 days",
+  "Performance_Rate": 9.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89621"
+  },
+  "Name": "Michelle Burke",
+  "Role": "Affiliate Manager",
+  "Execution_Period": "5 months",
+  "Performance_Rate": 4.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89622"
+  },
+  "Name": "Thomas Hall",
+  "Role": "Email Analyst",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 6.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89623"
+  },
+  "Name": "Christian Vasquez",
+  "Role": "Email Analyst",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 6.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89624"
+  },
+  "Name": "Dennis Ware",
+  "Role": "Content Specialist",
+  "Execution_Period": "6 months",
+  "Performance_Rate": 4.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89625"
+  },
+  "Name": "Sarah Silva",
+  "Role": "SEO Consultant",
+  "Execution_Period": "28 days",
+  "Performance_Rate": 1.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89626"
+  },
+  "Name": "Tricia Mosley",
+  "Role": "Influencer Analyst",
+  "Execution_Period": "22 days",
+  "Performance_Rate": 3.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89627"
+  },
+  "Name": "Elizabeth Wallace",
+  "Role": "Affiliate Specialist",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89628"
+  },
+  "Name": "Charles Miller",
+  "Role": "Content Analyst",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 3.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89629"
+  },
+  "Name": "Jessica Morales",
+  "Role": "Digital Specialist",
+  "Execution_Period": "1 months",
+  "Performance_Rate": 4.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8962a"
+  },
+  "Name": "Ronald Grimes",
+  "Role": "Brand Coordinator",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 2.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8962b"
+  },
+  "Name": "Maria Gordon",
+  "Role": "Digital Analyst",
+  "Execution_Period": "8 months",
+  "Performance_Rate": 9.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8962c"
+  },
+  "Name": "Natalie Vang",
+  "Role": "SEM Manager",
+  "Execution_Period": "9 months",
+  "Performance_Rate": 3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8962d"
+  },
+  "Name": "Paul Taylor",
+  "Role": "Product Specialist",
+  "Execution_Period": "6 days",
+  "Performance_Rate": 1.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8962e"
+  },
+  "Name": "Cindy Kidd",
+  "Role": "Digital Executive",
+  "Execution_Period": "29 days",
+  "Performance_Rate": 9.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8962f"
+  },
+  "Name": "Julie Henderson",
+  "Role": "Email Manager",
+  "Execution_Period": "4 months",
+  "Performance_Rate": 3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89630"
+  },
+  "Name": "Jeffrey Rodriguez",
+  "Role": "Influencer Specialist",
+  "Execution_Period": "17 days",
+  "Performance_Rate": 3.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89631"
+  },
+  "Name": "Erika Weber",
+  "Role": "SEM Consultant",
+  "Execution_Period": "26 days",
+  "Performance_Rate": 8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89632"
+  },
+  "Name": "Anna Miller",
+  "Role": "Affiliate Manager",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 7.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89633"
+  },
+  "Name": "David Stewart",
+  "Role": "Email Manager",
+  "Execution_Period": "9 days",
+  "Performance_Rate": 4.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89634"
+  },
+  "Name": "Dawn Burke",
+  "Role": "Email Coordinator",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 2.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89635"
+  },
+  "Name": "Denise Hopkins",
+  "Role": "Affiliate Consultant",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 2.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89636"
+  },
+  "Name": "Michelle Berger",
+  "Role": "Affiliate Analyst",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89637"
+  },
+  "Name": "Sherry Lynch DDS",
+  "Role": "Social Media Analyst",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 1.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89638"
+  },
+  "Name": "William Mckinney",
+  "Role": "Brand Consultant",
+  "Execution_Period": "6 months",
+  "Performance_Rate": 9.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89639"
+  },
+  "Name": "Shannon Cook",
+  "Role": "SEM Executive",
+  "Execution_Period": "8 months",
+  "Performance_Rate": 2.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8963a"
+  },
+  "Name": "John Velasquez",
+  "Role": "Social Media Analyst",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 2.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8963b"
+  },
+  "Name": "Amanda Murray",
+  "Role": "SEO Manager",
+  "Execution_Period": "16 days",
+  "Performance_Rate": 7.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8963c"
+  },
+  "Name": "Virginia Stevenson",
+  "Role": "Affiliate Specialist",
+  "Execution_Period": "8 months",
+  "Performance_Rate": 0.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8963d"
+  },
+  "Name": "Carolyn Mcknight",
+  "Role": "Product Coordinator",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 9.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8963e"
+  },
+  "Name": "Rachel Hickman",
+  "Role": "Email Coordinator",
+  "Execution_Period": "1 months",
+  "Performance_Rate": 4.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8963f"
+  },
+  "Name": "Christian Rodriguez",
+  "Role": "Affiliate Analyst",
+  "Execution_Period": "10 months",
+  "Performance_Rate": 3.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89640"
+  },
+  "Name": "Sherry Payne",
+  "Role": "Social Media Manager",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 0.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89641"
+  },
+  "Name": "Melissa Hatfield",
+  "Role": "Digital Manager",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 4.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89642"
+  },
+  "Name": "Tiffany Moss",
+  "Role": "Content Coordinator",
+  "Execution_Period": "13 days",
+  "Performance_Rate": 0.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89643"
+  },
+  "Name": "Anthony Santos",
+  "Role": "Affiliate Consultant",
+  "Execution_Period": "6 months",
+  "Performance_Rate": 1.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89644"
+  },
+  "Name": "Jacqueline Harrison",
+  "Role": "Content Executive",
+  "Execution_Period": "15 days",
+  "Performance_Rate": 6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89645"
+  },
+  "Name": "Jamie Cunningham",
+  "Role": "SEO Manager",
+  "Execution_Period": "13 days",
+  "Performance_Rate": 5.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89646"
+  },
+  "Name": "Jason Bailey",
+  "Role": "Email Executive",
+  "Execution_Period": "6 months",
+  "Performance_Rate": 9.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89647"
+  },
+  "Name": "Ryan Hamilton",
+  "Role": "Influencer Coordinator",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 7.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89648"
+  },
+  "Name": "Denise Fuller",
+  "Role": "SEM Analyst",
+  "Execution_Period": "7 months",
+  "Performance_Rate": 4.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89649"
+  },
+  "Name": "Cheryl Potter",
+  "Role": "Digital Coordinator",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8964a"
+  },
+  "Name": "Gregory Bowers",
+  "Role": "Email Analyst",
+  "Execution_Period": "10 days",
+  "Performance_Rate": 9.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8964b"
+  },
+  "Name": "Douglas Gutierrez",
+  "Role": "Social Media Executive",
+  "Execution_Period": "6 days",
+  "Performance_Rate": 1.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8964c"
+  },
+  "Name": "James Wang",
+  "Role": "Product Executive",
+  "Execution_Period": "10 days",
+  "Performance_Rate": 5.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8964d"
+  },
+  "Name": "Jacqueline Wiley",
+  "Role": "SEO Analyst",
+  "Execution_Period": "2 months",
+  "Performance_Rate": 2.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8964e"
+  },
+  "Name": "Zoe Johnson",
+  "Role": "Social Media Specialist",
+  "Execution_Period": "23 days",
+  "Performance_Rate": 1.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8964f"
+  },
+  "Name": "Julia Wagner",
+  "Role": "Brand Analyst",
+  "Execution_Period": "1 months",
+  "Performance_Rate": 1.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89650"
+  },
+  "Name": "Kirsten Harrell",
+  "Role": "Product Coordinator",
+  "Execution_Period": "29 days",
+  "Performance_Rate": 9.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89651"
+  },
+  "Name": "Tracy Collier",
+  "Role": "Social Media Manager",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 4.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89652"
+  },
+  "Name": "Jonathan Kelley",
+  "Role": "SEO Manager",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 9.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89653"
+  },
+  "Name": "Kristi Moreno",
+  "Role": "Email Analyst",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 6.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89654"
+  },
+  "Name": "Barbara Summers",
+  "Role": "Social Media Manager",
+  "Execution_Period": "8 months",
+  "Performance_Rate": 9.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89655"
+  },
+  "Name": "Judy Cardenas",
+  "Role": "Influencer Specialist",
+  "Execution_Period": "28 days",
+  "Performance_Rate": 6.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89656"
+  },
+  "Name": "Jeffrey Phillips",
+  "Role": "SEM Specialist",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 8.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89657"
+  },
+  "Name": "Leslie Gilbert",
+  "Role": "Product Analyst",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 3.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89658"
+  },
+  "Name": "Joseph Cunningham",
+  "Role": "Affiliate Analyst",
+  "Execution_Period": "4 months",
+  "Performance_Rate": 8.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89659"
+  },
+  "Name": "Christina Smith",
+  "Role": "Social Media Analyst",
+  "Execution_Period": "1 days",
+  "Performance_Rate": 6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8965a"
+  },
+  "Name": "Kelsey Martinez",
+  "Role": "Social Media Manager",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 7.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8965b"
+  },
+  "Name": "Jeffrey Miles",
+  "Role": "Digital Specialist",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 9.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8965c"
+  },
+  "Name": "Charles Ryan",
+  "Role": "Product Coordinator",
+  "Execution_Period": "1 months",
+  "Performance_Rate": 1.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8965d"
+  },
+  "Name": "Mary Reed",
+  "Role": "SEM Consultant",
+  "Execution_Period": "2 months",
+  "Performance_Rate": 8.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8965e"
+  },
+  "Name": "Wesley Brown",
+  "Role": "SEM Specialist",
+  "Execution_Period": "3 months",
+  "Performance_Rate": 9.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8965f"
+  },
+  "Name": "Christopher Reese",
+  "Role": "Email Consultant",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 7.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89660"
+  },
+  "Name": "John Frost",
+  "Role": "Brand Consultant",
+  "Execution_Period": "6 months",
+  "Performance_Rate": 5.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89661"
+  },
+  "Name": "Cristina Tucker",
+  "Role": "Digital Executive",
+  "Execution_Period": "2 months",
+  "Performance_Rate": 2.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89662"
+  },
+  "Name": "Christopher Mullins",
+  "Role": "SEO Specialist",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 1.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89663"
+  },
+  "Name": "Laura Hudson",
+  "Role": "Email Manager",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 1.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89664"
+  },
+  "Name": "Austin Ramirez",
+  "Role": "Brand Consultant",
+  "Execution_Period": "30 days",
+  "Performance_Rate": 5.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89665"
+  },
+  "Name": "Michael Rose",
+  "Role": "Product Consultant",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 2.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89666"
+  },
+  "Name": "Juan Vazquez",
+  "Role": "Content Specialist",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 6.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89667"
+  },
+  "Name": "Matthew Wood",
+  "Role": "Brand Coordinator",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 7.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89668"
+  },
+  "Name": "James Kane",
+  "Role": "Content Analyst",
+  "Execution_Period": "1 days",
+  "Performance_Rate": 8.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89669"
+  },
+  "Name": "Veronica Thomas",
+  "Role": "SEO Executive",
+  "Execution_Period": "5 months",
+  "Performance_Rate": 6.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8966a"
+  },
+  "Name": "Angela Walker",
+  "Role": "Content Executive",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 7.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8966b"
+  },
+  "Name": "Robert Cox",
+  "Role": "Content Specialist",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 3.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8966c"
+  },
+  "Name": "Brenda White",
+  "Role": "Digital Coordinator",
+  "Execution_Period": "2 months",
+  "Performance_Rate": 9.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8966d"
+  },
+  "Name": "Danny Burgess",
+  "Role": "SEO Consultant",
+  "Execution_Period": "7 days",
+  "Performance_Rate": 1.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8966e"
+  },
+  "Name": "Donald Allen",
+  "Role": "Product Manager",
+  "Execution_Period": "3 months",
+  "Performance_Rate": 0.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8966f"
+  },
+  "Name": "Janet Williams",
+  "Role": "SEO Specialist",
+  "Execution_Period": "5 days",
+  "Performance_Rate": 2.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89670"
+  },
+  "Name": "Jake Colon",
+  "Role": "Content Analyst",
+  "Execution_Period": "1 days",
+  "Performance_Rate": 3.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89671"
+  },
+  "Name": "David Hart",
+  "Role": "Email Specialist",
+  "Execution_Period": "4 months",
+  "Performance_Rate": 2.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89672"
+  },
+  "Name": "Lisa Green",
+  "Role": "SEM Coordinator",
+  "Execution_Period": "29 days",
+  "Performance_Rate": 7.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89673"
+  },
+  "Name": "Jacob Joseph",
+  "Role": "Affiliate Coordinator",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 4.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89674"
+  },
+  "Name": "Martha Gonzalez",
+  "Role": "Email Coordinator",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 2.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89675"
+  },
+  "Name": "Rhonda Moore",
+  "Role": "SEM Analyst",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 4.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89676"
+  },
+  "Name": "Aaron Neal",
+  "Role": "Product Specialist",
+  "Execution_Period": "3 months",
+  "Performance_Rate": 3.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89677"
+  },
+  "Name": "John Gonzalez",
+  "Role": "SEM Executive",
+  "Execution_Period": "27 days",
+  "Performance_Rate": 2.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89678"
+  },
+  "Name": "Adam Hammond",
+  "Role": "Email Executive",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 1.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89679"
+  },
+  "Name": "Steven Bailey",
+  "Role": "SEM Coordinator",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 1.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8967a"
+  },
+  "Name": "Shannon Freeman",
+  "Role": "Product Manager",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 0.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8967b"
+  },
+  "Name": "Samantha Marks",
+  "Role": "SEM Coordinator",
+  "Execution_Period": "5 months",
+  "Performance_Rate": 3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8967c"
+  },
+  "Name": "Kenneth Pearson",
+  "Role": "Social Media Coordinator",
+  "Execution_Period": "26 days",
+  "Performance_Rate": 9.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8967d"
+  },
+  "Name": "Christy Yang",
+  "Role": "Influencer Analyst",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 7.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8967e"
+  },
+  "Name": "Timothy Sharp",
+  "Role": "Email Consultant",
+  "Execution_Period": "10 months",
+  "Performance_Rate": 4.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8967f"
+  },
+  "Name": "Marie Padilla",
+  "Role": "Affiliate Specialist",
+  "Execution_Period": "9 days",
+  "Performance_Rate": 5.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89680"
+  },
+  "Name": "Sherry Washington",
+  "Role": "Digital Coordinator",
+  "Execution_Period": "9 days",
+  "Performance_Rate": 1.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89681"
+  },
+  "Name": "Elizabeth Johnson",
+  "Role": "SEO Consultant",
+  "Execution_Period": "18 days",
+  "Performance_Rate": 8.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89682"
+  },
+  "Name": "Michael Cummings",
+  "Role": "Digital Specialist",
+  "Execution_Period": "3 days",
+  "Performance_Rate": 4.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89683"
+  },
+  "Name": "Mrs. Rebecca Brown PhD",
+  "Role": "Social Media Analyst",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 1.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89684"
+  },
+  "Name": "Cheryl Alvarado",
+  "Role": "SEO Specialist",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 5.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89685"
+  },
+  "Name": "Holly Atkinson",
+  "Role": "Affiliate Executive",
+  "Execution_Period": "3 months",
+  "Performance_Rate": 0.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89686"
+  },
+  "Name": "Juan Pace",
+  "Role": "SEO Analyst",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 7.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89687"
+  },
+  "Name": "Michael Howard",
+  "Role": "Product Manager",
+  "Execution_Period": "22 days",
+  "Performance_Rate": 9.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89688"
+  },
+  "Name": "Rachel King",
+  "Role": "Influencer Consultant",
+  "Execution_Period": "1 months",
+  "Performance_Rate": 8.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89689"
+  },
+  "Name": "Dennis Wade",
+  "Role": "Brand Executive",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8968a"
+  },
+  "Name": "Mark Woods",
+  "Role": "Social Media Coordinator",
+  "Execution_Period": "9 days",
+  "Performance_Rate": 7.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8968b"
+  },
+  "Name": "Carrie Ramirez",
+  "Role": "Affiliate Specialist",
+  "Execution_Period": "22 days",
+  "Performance_Rate": 0.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8968c"
+  },
+  "Name": "Emily Dean",
+  "Role": "Content Manager",
+  "Execution_Period": "2 months",
+  "Performance_Rate": 9.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8968d"
+  },
+  "Name": "Janet Shaw",
+  "Role": "Product Executive",
+  "Execution_Period": "3 months",
+  "Performance_Rate": 9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8968e"
+  },
+  "Name": "Sean Hughes",
+  "Role": "Influencer Executive",
+  "Execution_Period": "19 days",
+  "Performance_Rate": 6.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8968f"
+  },
+  "Name": "Robert Reid",
+  "Role": "Influencer Specialist",
+  "Execution_Period": "1 months",
+  "Performance_Rate": 1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89690"
+  },
+  "Name": "Dawn Ford",
+  "Role": "Content Coordinator",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 5.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89691"
+  },
+  "Name": "Shannon Williams",
+  "Role": "Email Executive",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 9.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89692"
+  },
+  "Name": "Kathleen Hill",
+  "Role": "Social Media Coordinator",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 8.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89693"
+  },
+  "Name": "Brian Ellison",
+  "Role": "Affiliate Executive",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 1.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89694"
+  },
+  "Name": "Shane Smith",
+  "Role": "SEO Specialist",
+  "Execution_Period": "15 days",
+  "Performance_Rate": 6.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89695"
+  },
+  "Name": "John Diaz",
+  "Role": "SEO Coordinator",
+  "Execution_Period": "10 months",
+  "Performance_Rate": 6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89696"
+  },
+  "Name": "Justin Mason",
+  "Role": "Social Media Executive",
+  "Execution_Period": "23 days",
+  "Performance_Rate": 8.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89697"
+  },
+  "Name": "Jasmine White",
+  "Role": "Affiliate Consultant",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 3.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89698"
+  },
+  "Name": "Katherine Delgado",
+  "Role": "Social Media Coordinator",
+  "Execution_Period": "5 days",
+  "Performance_Rate": 6.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd89699"
+  },
+  "Name": "Jon Armstrong",
+  "Role": "Brand Coordinator",
+  "Execution_Period": "4 months",
+  "Performance_Rate": 1.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8969a"
+  },
+  "Name": "Carrie Norton",
+  "Role": "Digital Specialist",
+  "Execution_Period": "1 days",
+  "Performance_Rate": 6.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8969b"
+  },
+  "Name": "Jacqueline Lewis",
+  "Role": "SEO Specialist",
+  "Execution_Period": "3 months",
+  "Performance_Rate": 1.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8969c"
+  },
+  "Name": "Emily Wilson",
+  "Role": "Affiliate Consultant",
+  "Execution_Period": "4 months",
+  "Performance_Rate": 3.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8969d"
+  },
+  "Name": "Elizabeth Harris",
+  "Role": "Email Consultant",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 7.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8969e"
+  },
+  "Name": "Lauren Fischer",
+  "Role": "Brand Consultant",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 6.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd8969f"
+  },
+  "Name": "Jacob Smith",
+  "Role": "Email Analyst",
+  "Execution_Period": "8 days",
+  "Performance_Rate": 4.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896a0"
+  },
+  "Name": "Lee Juarez",
+  "Role": "Social Media Analyst",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 1.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896a1"
+  },
+  "Name": "Debra Adams",
+  "Role": "SEM Consultant",
+  "Execution_Period": "10 months",
+  "Performance_Rate": 5.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896a2"
+  },
+  "Name": "Timothy Pugh",
+  "Role": "Social Media Executive",
+  "Execution_Period": "10 days",
+  "Performance_Rate": 7.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896a3"
+  },
+  "Name": "Joy Thomas",
+  "Role": "Influencer Consultant",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 7.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896a4"
+  },
+  "Name": "Rebecca Evans",
+  "Role": "Social Media Executive",
+  "Execution_Period": "8 months",
+  "Performance_Rate": 3.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896a5"
+  },
+  "Name": "Manuel Moore",
+  "Role": "Influencer Specialist",
+  "Execution_Period": "11 days",
+  "Performance_Rate": 6.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896a6"
+  },
+  "Name": "Edward Thomas",
+  "Role": "Email Manager",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 6.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896a7"
+  },
+  "Name": "Steven Thompson",
+  "Role": "Affiliate Manager",
+  "Execution_Period": "7 months",
+  "Performance_Rate": 3.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896a8"
+  },
+  "Name": "Nicole Walker",
+  "Role": "Social Media Specialist",
+  "Execution_Period": "7 months",
+  "Performance_Rate": 6.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896a9"
+  },
+  "Name": "Elizabeth Gomez",
+  "Role": "Brand Consultant",
+  "Execution_Period": "2 months",
+  "Performance_Rate": 4.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896aa"
+  },
+  "Name": "Christina Edwards",
+  "Role": "SEM Consultant",
+  "Execution_Period": "13 days",
+  "Performance_Rate": 9.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896ab"
+  },
+  "Name": "Janet Perez",
+  "Role": "Digital Analyst",
+  "Execution_Period": "4 days",
+  "Performance_Rate": 2.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896ac"
+  },
+  "Name": "William Williams",
+  "Role": "Digital Analyst",
+  "Execution_Period": "2 months",
+  "Performance_Rate": 4.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896ad"
+  },
+  "Name": "Amber Keller",
+  "Role": "Product Specialist",
+  "Execution_Period": "10 months",
+  "Performance_Rate": 8.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896ae"
+  },
+  "Name": "David Case",
+  "Role": "Digital Analyst",
+  "Execution_Period": "4 months",
+  "Performance_Rate": 0.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896af"
+  },
+  "Name": "Jerry Anderson",
+  "Role": "Brand Specialist",
+  "Execution_Period": "7 months",
+  "Performance_Rate": 1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896b0"
+  },
+  "Name": "Kristen Russell",
+  "Role": "Social Media Analyst",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 5.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896b1"
+  },
+  "Name": "Adrian Burnett",
+  "Role": "SEO Consultant",
+  "Execution_Period": "9 months",
+  "Performance_Rate": 5.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896b2"
+  },
+  "Name": "Stephanie Mooney",
+  "Role": "Digital Executive",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 7.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896b3"
+  },
+  "Name": "Jill Martin",
+  "Role": "Affiliate Specialist",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 6.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896b4"
+  },
+  "Name": "Samantha Harris",
+  "Role": "Product Analyst",
+  "Execution_Period": "2 months",
+  "Performance_Rate": 7.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896b5"
+  },
+  "Name": "Andrea Smith",
+  "Role": "SEO Analyst",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896b6"
+  },
+  "Name": "Jesse Vasquez",
+  "Role": "Content Executive",
+  "Execution_Period": "9 months",
+  "Performance_Rate": 9.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896b7"
+  },
+  "Name": "Randy Cooper",
+  "Role": "Email Manager",
+  "Execution_Period": "4 months",
+  "Performance_Rate": 7.8
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896b8"
+  },
+  "Name": "Katherine Vega",
+  "Role": "Email Executive",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 8.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896b9"
+  },
+  "Name": "David Reed",
+  "Role": "Product Executive",
+  "Execution_Period": "20 days",
+  "Performance_Rate": 6.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896ba"
+  },
+  "Name": "Stephen Brennan",
+  "Role": "Affiliate Analyst",
+  "Execution_Period": "15 days",
+  "Performance_Rate": 3.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896bb"
+  },
+  "Name": "Elizabeth Clark",
+  "Role": "Brand Specialist",
+  "Execution_Period": "6 months",
+  "Performance_Rate": 6.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896bc"
+  },
+  "Name": "Earl Nelson",
+  "Role": "Email Consultant",
+  "Execution_Period": "6 days",
+  "Performance_Rate": 9.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896bd"
+  },
+  "Name": "Jacqueline Smith",
+  "Role": "Social Media Specialist",
+  "Execution_Period": "2 months",
+  "Performance_Rate": 8.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896be"
+  },
+  "Name": "Rodney Perez",
+  "Role": "Influencer Specialist",
+  "Execution_Period": "5 months",
+  "Performance_Rate": 8.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896bf"
+  },
+  "Name": "Judith Phillips",
+  "Role": "SEO Coordinator",
+  "Execution_Period": "26 days",
+  "Performance_Rate": 8.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896c0"
+  },
+  "Name": "Ricardo Little",
+  "Role": "Influencer Coordinator",
+  "Execution_Period": "1 days",
+  "Performance_Rate": 1.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896c1"
+  },
+  "Name": "Harold Bowman",
+  "Role": "Product Analyst",
+  "Execution_Period": "2 months",
+  "Performance_Rate": 5.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896c2"
+  },
+  "Name": "Karen Scott",
+  "Role": "Brand Specialist",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 1.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896c3"
+  },
+  "Name": "Michael Flores",
+  "Role": "Influencer Specialist",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 8.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896c4"
+  },
+  "Name": "Kimberly Thomas",
+  "Role": "Social Media Analyst",
+  "Execution_Period": "1 months",
+  "Performance_Rate": 2.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896c5"
+  },
+  "Name": "Douglas Krueger",
+  "Role": "Social Media Specialist",
+  "Execution_Period": "4 weeks",
+  "Performance_Rate": 3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896c6"
+  },
+  "Name": "Briana Walker",
+  "Role": "SEO Analyst",
+  "Execution_Period": "11 months",
+  "Performance_Rate": 0.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896c7"
+  },
+  "Name": "Christopher Jordan",
+  "Role": "Brand Manager",
+  "Execution_Period": "24 days",
+  "Performance_Rate": 1.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896c8"
+  },
+  "Name": "Adam Huynh",
+  "Role": "Brand Coordinator",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 7.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896c9"
+  },
+  "Name": "Tonya Alvarado MD",
+  "Role": "Affiliate Specialist",
+  "Execution_Period": "2 weeks",
+  "Performance_Rate": 4.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896ca"
+  },
+  "Name": "Mario Mills",
+  "Role": "SEM Specialist",
+  "Execution_Period": "16 days",
+  "Performance_Rate": 7.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896cb"
+  },
+  "Name": "Jonathan Gonzalez",
+  "Role": "Digital Analyst",
+  "Execution_Period": "9 months",
+  "Performance_Rate": 2.9
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896cc"
+  },
+  "Name": "Cindy Casey",
+  "Role": "Digital Coordinator",
+  "Execution_Period": "2 months",
+  "Performance_Rate": 2.1
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896cd"
+  },
+  "Name": "Timothy Kirby",
+  "Role": "Product Specialist",
+  "Execution_Period": "1 months",
+  "Performance_Rate": 6.6
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896ce"
+  },
+  "Name": "John Nunez",
+  "Role": "Product Specialist",
+  "Execution_Period": "3 months",
+  "Performance_Rate": 2.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896cf"
+  },
+  "Name": "Jennifer Rose",
+  "Role": "Email Consultant",
+  "Execution_Period": "24 days",
+  "Performance_Rate": 9.5
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896d0"
+  },
+  "Name": "Amy Buckley",
+  "Role": "Influencer Specialist",
+  "Execution_Period": "26 days",
+  "Performance_Rate": 3.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896d1"
+  },
+  "Name": "Patrick Dudley",
+  "Role": "Digital Analyst",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 8.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896d2"
+  },
+  "Name": "Morgan Anderson",
+  "Role": "Product Executive",
+  "Execution_Period": "28 days",
+  "Performance_Rate": 6.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896d3"
+  },
+  "Name": "Caleb Odonnell",
+  "Role": "Product Specialist",
+  "Execution_Period": "3 weeks",
+  "Performance_Rate": 2.3
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896d4"
+  },
+  "Name": "Ashley Horn",
+  "Role": "Product Specialist",
+  "Execution_Period": "26 days",
+  "Performance_Rate": 9.2
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896d5"
+  },
+  "Name": "Valerie Wright",
+  "Role": "Product Manager",
+  "Execution_Period": "8 days",
+  "Performance_Rate": 7.4
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896d6"
+  },
+  "Name": "Jon Anderson",
+  "Role": "Product Coordinator",
+  "Execution_Period": "1 weeks",
+  "Performance_Rate": 9.7
+},{
+  "_id": {
+    "$oid": "652e9c7e88bdd3091bd896d7"
+  },
+  "Name": "Alan Moore",
+  "Role": "Affiliate Executive",
+  "Execution_Period": "1 months",
+  "Performance_Rate": 5.9
+}]
